@@ -1,0 +1,233 @@
+{
+  "report_date": "2026-03-24",
+  "report_title": "3DGS & 4D Generation Daily Report",
+  "summary": {
+    "total_papers": 7,
+    "total_industry_news": 5,
+    "total_community_posts": 6,
+    "key_trend": "3DGSの標準化・産業統合が加速。OpenUSD・glTFへのネイティブ対応、UE5統合、モバイル対応が進み、研究から実用フェーズへの移行が顕著。CVPR 2026採択論文も複数公開。"
+  },
+  "papers": [
+    {
+      "id": "p1",
+      "title": "F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting",
+      "authors": "Minseong Bae, Injae Kim, Chaehyeon Kim, Minseok Joo, Hyunwoo J. Kim",
+      "arxiv_id": "2603.21304",
+      "url": "https://arxiv.org/abs/2603.21304",
+      "date": "2026-03-22",
+      "category": "3DGS最適化",
+      "importance": "high",
+      "summary_ja": "フィードフォワード型3DGSの弱点を克服する「予測的密度化」手法。空間の複雑さやマルチビューの重なり具合に応じて、ガウシアンの数を自動的に最適配分します。これにより、単純な領域では冗長なガウシアンを減らし、複雑な領域に集中配置することで、少ないガウシアン数でも高品質な3D再構成が可能になりました。開発者にとっては、3Dスキャンやビュー合成のメモリ効率と速度が大幅に改善されることを意味します。",
+      "keywords": ["feed-forward", "densification", "efficiency", "novel-view synthesis"]
+    },
+    {
+      "id": "p2",
+      "title": "Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence",
+      "authors": "Peter Fasogbon, Ugurcan Budak, Patrice Rondao Alface, Hamed Rezazadegan Tavakoli",
+      "arxiv_id": "2603.21933",
+      "url": "https://arxiv.org/abs/2603.21933",
+      "date": "2026-03-23",
+      "category": "3DGS圧縮・最適化",
+      "importance": "high",
+      "summary_ja": "カメラ情報なしで3DGSモデルを軽量化できる画期的な手法。従来の枝刈り（プルーニング）はカメラパラメータが必要でしたが、本手法は.plyファイルの属性情報だけで不要なガウシアンを統計的に判定・除去します。ISO/IEC MPEG標準テスト条件で検証済み。3DGSデータの保存・転送・共有が大幅に効率化され、Webやモバイルでの配信が容易になります。",
+      "keywords": ["pruning", "compression", "camera-agnostic", "MPEG", "standardization"]
+    },
+    {
+      "id": "p3",
+      "title": "GSA: Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment",
+      "authors": "Roy Amoyal, Oren Freifeld, Chaim Baskin",
+      "arxiv_id": "2603.21936",
+      "url": "https://arxiv.org/abs/2603.21936",
+      "date": "2026-03-23",
+      "category": "3DGS位置合わせ",
+      "importance": "high",
+      "summary_ja": "異なるオブジェクト同士の3DGSモデルを自動的に位置合わせできる世界初の手法（CVPR 2026採択）。例えば、別々にスキャンした2台の異なる車のモデルを、回転・移動・スケールを自動推定して正確に重ね合わせることができます。180度の向き違いや10倍のスケール差にも対応。3Dアセット管理やデジタルツインの構築が格段に楽になります。",
+      "keywords": ["registration", "alignment", "cross-instance", "CVPR 2026"]
+    },
+    {
+      "id": "p4",
+      "title": "FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario",
+      "authors": "Hang Dai, Hongwei Fan, Han Zhang, Duojin Wu, Jiyao Zhang, Hao Dong",
+      "arxiv_id": "2603.22102",
+      "url": "https://arxiv.org/abs/2603.22102",
+      "date": "2026-03-23",
+      "category": "関節物体の3D再構成",
+      "importance": "high",
+      "summary_ja": "ドアやハサミなど関節で動く物体を、スマホの動画1本から高精度に3D再構成できる手法（CVPR 2026採択）。従来は物体を特定の角度に固定して撮影する必要がありましたが、自由に動かしながら撮影するだけでOK。AR（拡張現実）やロボティクスで、現実の物体をデジタル化する作業が劇的に簡単になります。",
+      "keywords": ["articulated objects", "monocular RGB-D", "CVPR 2026", "AR", "robotics"]
+    },
+    {
+      "id": "p5",
+      "title": "GTSR: Subsurface Scattering Awared 3D Gaussians for Translucent Surface Reconstruction",
+      "authors": "Youwen Yuan, Xi Zhao",
+      "arxiv_id": "2603.22036",
+      "url": "https://arxiv.org/abs/2603.22036",
+      "date": "2026-03-23",
+      "category": "半透明物体の3D再構成",
+      "importance": "medium",
+      "summary_ja": "ガラスやろうそく、肌のような半透明な物体を3DGSで正確に再現できる新手法。従来の3DGSは不透明な物体しかうまく扱えませんでしたが、表面と内部の2種類のガウシアンを使い分け、光の散乱をシミュレーションすることで、半透明素材のリアルタイムレンダリングを実現。ゲームやVR、製品ビジュアライゼーションの品質向上に貢献します。",
+      "keywords": ["translucent", "subsurface scattering", "Fresnel", "Disney BSDF"]
+    },
+    {
+      "id": "p6",
+      "title": "GaussianSSC: Triplane-Guided Directional Gaussian Fields for 3D Semantic Completion",
+      "authors": "Ruiqi Xian, Jing Liang, He Yin, Xuewei Qi, Dinesh Manocha",
+      "arxiv_id": "2603.21487",
+      "url": "https://arxiv.org/abs/2603.21487",
+      "date": "2026-03-23",
+      "category": "自動運転・セマンティック理解",
+      "importance": "medium",
+      "summary_ja": "自動運転車が周囲の3D空間を「意味的に」理解するための新技術。カメラ画像からガウシアンの特性を活用して、見えていない部分も含めた3D空間全体の物体配置を推定します。SemanticKITTIベンチマークで従来手法を上回る精度を達成。自動運転の安全性向上やロボットの空間認識に直結する技術です。",
+      "keywords": ["semantic scene completion", "autonomous driving", "triplane", "SemanticKITTI"]
+    },
+    {
+      "id": "p7",
+      "title": "End-to-end High-Fidelity Avatar Reconstruction using 3D Gaussian Splatting",
+      "authors": "Various (Springer)",
+      "arxiv_id": "",
+      "url": "https://link.springer.com/article/10.1007/s40747-026-02231-5",
+      "date": "2026-03-24",
+      "category": "アバター生成",
+      "importance": "medium",
+      "summary_ja": "人間のアバターを高品質に3D再構成するための新しいタイルベースラスタライゼーション手法。3DGSフレームワークを拡張し、人体の細かいディテール（髪の毛、衣服のしわなど）まで忠実に再現できます。VRミーティングやゲームのキャラクター作成、バーチャル試着などへの応用が期待されます。",
+      "keywords": ["avatar", "tile-based rasterization", "high-fidelity"]
+    }
+  ],
+  "industry_news": [
+    {
+      "id": "n1",
+      "title": "OpenUSD v26.03 が3D Gaussian Splatsスキーマを正式サポート",
+      "source": "Alliance for OpenUSD (AOUSD)",
+      "url": "https://aousd.org/blog/",
+      "date": "2026-03-23",
+      "importance": "high",
+      "summary_ja": "3D業界の標準フォーマットOpenUSDが、最新バージョンv26.03でGaussian Splatsの専用スキーマ（UsdVolParticleField3DGaussianSplat）を導入しました。PLYファイルからUSDへの変換スクリプトも提供され、既存のCG/VFXパイプラインにGaussian Splatsを統合しやすくなります。WebAssemblyビルドサポートも追加され、ブラウザでの表示も視野に。映画・ゲーム・建築など幅広い業界でGaussian Splatsの採用が加速する転換点です。",
+      "keywords": ["OpenUSD", "standardization", "pipeline integration"]
+    },
+    {
+      "id": "n2",
+      "title": "glTF 2.0にKHR_gaussian_splatting拡張が登場（NVIDIA・Google・Adobe支援）",
+      "source": "Khronos Group / LinkedIn",
+      "url": "https://www.linkedin.com/posts/sressler_gaussiansplatting-3dgs-computervision-activity-7441907500427386882-3gvo",
+      "date": "2026-03-23",
+      "importance": "high",
+      "summary_ja": "Web3Dの標準フォーマットglTFに、Gaussian Splatting専用の拡張仕様が提案されました。NVIDIA、Google、Adobeが支援しており、重複データを最大90%削減できます。これにより、WebブラウザやARアプリでGaussian Splatsを直接表示する標準的な方法が確立されつつあります。Web開発者にとって大きなインパクトです。",
+      "keywords": ["glTF", "Khronos", "NVIDIA", "Google", "Adobe", "web standard"]
+    },
+    {
+      "id": "n3",
+      "title": "NanoGS: Unreal Engine 5でNaniteスタイルのGaussian Splats LODを実現",
+      "source": "Digital Production / Moonshine Studio",
+      "url": "https://digitalproduction.com/2026/03/24/nanogaussiansplats-for-ue5/",
+      "date": "2026-03-24",
+      "importance": "high",
+      "summary_ja": "NanoGSは、Unreal Engine 5のNaniteシステムと同様のLOD（Level of Detail）、カリング、GPUソートをGaussian Splatsに適用するプラグインです。RTX 20シリーズのGPUでも数百万のスプラットをリアルタイムレンダリング可能。ゲーム開発者やバーチャルプロダクション制作者が、大規模なGaussian Splatsシーンを実用的に扱えるようになります。",
+      "keywords": ["Unreal Engine 5", "Nanite", "LOD", "real-time rendering"]
+    },
+    {
+      "id": "n4",
+      "title": "51Vision（五一視覚）が3DGS/4DGSベースのEmbodied AIシステム「51Claw」を発表",
+      "source": "Gelonghui Finance / Futunn",
+      "url": "https://news.futunn.com/en/post/70490715/wuyi-vision-has-developed-and-deployed-the-embodied-ai-base",
+      "date": "2026-03-24",
+      "importance": "high",
+      "summary_ja": "中国の51Vision社が、3DGS/4DGSを活用したEmbodied AI基盤システム「51Claw」を発表。マルチモーダル空間データから3DGS/4DGSでシーンを再構成し、物理世界のデジタルツインを生成。強化学習でロボットの動作を訓練し、ロボット犬やヒューマノイドロボットに展開済み。Real2Sim2Realの完全なループを実現し、株価は約6%上昇しました。",
+      "keywords": ["embodied AI", "robotics", "4DGS", "digital twin", "Real2Sim2Real"]
+    },
+    {
+      "id": "n5",
+      "title": "NAB Show: Gaussian Splatting in Production Pipelines パネル",
+      "source": "NAB Show",
+      "url": "https://www.nabshow.com/session/gaussian-splatting-in-production-pipelines-discovering-real-productions-using-3dgs-today/",
+      "date": "2026-03-24",
+      "importance": "medium",
+      "summary_ja": "NAB Showで、Gaussian Splattingを実際の映像制作パイプラインで活用している先駆者たちによるパネルディスカッションが開催。Volinga Suiteやそのunreal Engineプラグインを使った実例が紹介されています。映像制作業界でのGaussian Splatting採用が本格化していることを示す重要なイベントです。",
+      "keywords": ["NAB Show", "production pipeline", "Volinga"]
+    }
+  ],
+  "community": [
+    {
+      "id": "c1",
+      "title": "Reddit: MLSLabsRenderer 3DGS UE5プラグインのアップデート",
+      "source": "Reddit r/GaussianSplatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1s293hx/mlslabsrenderer_3d_gaussian_splatting_ue5_plugin/",
+      "date": "2026-03-24",
+      "importance": "medium",
+      "summary_ja": "UE5向け3DGSプラグイン「MLSLabsRenderer」がアップデート。初心者向けの3DGS・フォトグラメトリのTipsも話題に。"
+    },
+    {
+      "id": "c2",
+      "title": "Reddit: AIでペットを3Dモデル化する話題",
+      "source": "Reddit r/GaussianSplatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1s22241/just_turned_my_pet_into_a_3d_model_using_ai/",
+      "date": "2026-03-24",
+      "importance": "medium",
+      "summary_ja": "オープンソースの3DGSツールが大幅に改善され、ペットの動画から手軽に3Dモデルを作成できるようになったという報告。ツールの民主化が進んでいます。"
+    },
+    {
+      "id": "c3",
+      "title": "Facebook: 不動産のGaussian Splatting ツアーが1時間で完成",
+      "source": "Facebook / 3DMakerpro",
+      "url": "https://www.facebook.com/3DMakerProCares/photos/d41d8cd9/933302439484742/",
+      "date": "2026-03-24",
+      "importance": "medium",
+      "summary_ja": "3DMakerproが、物件訪問から没入型Gaussian Splattingツアーの送信まで1時間で完了できることを紹介。不動産業界での実用化が進んでいます。"
+    },
+    {
+      "id": "c4",
+      "title": "Facebook: 「What The Splat!」Gaussian Splatting構造化コース開講",
+      "source": "Facebook 3D Gaussian Splatting Group",
+      "url": "https://www.facebook.com/groups/3dgaussiansplatting/posts/2018271342059788/",
+      "date": "2026-03-24",
+      "importance": "medium",
+      "summary_ja": "Gaussian Splattingの体系的な学習コース「What The Splat!」が開講。初心者版がリリースされ、3DGS技術の学習環境が整備されつつあります。"
+    },
+    {
+      "id": "c5",
+      "title": "GASP: Gaussian SplattingとGenesisフィジックスエンジンの統合",
+      "source": "LinkedIn / CVIU",
+      "url": "https://www.linkedin.com/posts/sressler_gaussiansplatting-3dgs-computervision-activity-7441907500427386882-3gvo",
+      "date": "2026-03-23",
+      "importance": "high",
+      "summary_ja": "GASPがComputer Vision and Image Understanding誌に掲載。パラメトリック化されたフラットガウシアンを使い、Genesis、Blender、Taichiの物理エンジンと連携する初の3DGS手法。物理シミュレーション付きのGaussian Splatsが実現しつつあります。"
+    },
+    {
+      "id": "c6",
+      "title": "Mobile-GS: モバイルで116FPSを達成する3DGS",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/posts/sressler_gaussiansplatting-3dgs-computervision-activity-7441907500427386882-3gvo",
+      "date": "2026-03-23",
+      "importance": "high",
+      "summary_ja": "Mobile-GSがHD解像度でモバイル端末上116FPSを達成。モデルサイズはわずか4.8MB。完全にモバイル向けのパイプラインで、スマートフォンでのリアルタイム3DGSレンダリングが実用レベルに到達しました。"
+    }
+  ],
+  "categories_stats": {
+    "3DGS最適化・圧縮": 2,
+    "3DGS位置合わせ・登録": 1,
+    "動的物体・関節物体": 1,
+    "マテリアル・レンダリング": 1,
+    "自動運転・ロボティクス": 2,
+    "アバター・人体": 1,
+    "標準化・パイプライン統合": 3,
+    "Embodied AI・4DGS": 1,
+    "モバイル・Web": 2,
+    "教育・コミュニティ": 2,
+    "不動産・実用化": 1,
+    "物理シミュレーション": 1
+  },
+  "timeline": [
+    {"time": "2026-03-22", "event": "F4Splat論文公開（予測的密度化）"},
+    {"time": "2026-03-23", "event": "CVPR 2026採択: GSA（3DGS位置合わせ）、FreeArtGS（関節物体再構成）"},
+    {"time": "2026-03-23", "event": "Camera-Agnostic Pruning論文公開（カメラ不要の枝刈り）"},
+    {"time": "2026-03-23", "event": "GTSR論文公開（半透明物体の3D再構成）"},
+    {"time": "2026-03-23", "event": "GaussianSSC論文公開（自動運転向けセマンティック補完）"},
+    {"time": "2026-03-23", "event": "OpenUSD v26.03リリース（Gaussian Splatsスキーマ対応）"},
+    {"time": "2026-03-23", "event": "glTF KHR_gaussian_splatting拡張候補が公開"},
+    {"time": "2026-03-23", "event": "GASP: 物理エンジン統合3DGSがCVIU掲載"},
+    {"time": "2026-03-23", "event": "Mobile-GS: モバイル116FPS達成の報告"},
+    {"time": "2026-03-24", "event": "NanoGS for UE5発表（Naniteスタイル LOD）"},
+    {"time": "2026-03-24", "event": "51Vision「51Claw」3DGS/4DGS Embodied AIシステム発表"},
+    {"time": "2026-03-24", "event": "NAB Show: Gaussian Splatting in Production パネル"},
+    {"time": "2026-03-24", "event": "アバター再構成論文（Springer）公開"}
+  ]
+}

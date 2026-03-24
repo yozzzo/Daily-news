@@ -228,6 +228,114 @@
       "type": "コミュニティ",
       "first_posted": "2026-03-23",
       "field": "日本語解説"
+    },
+    {
+      "name": "F4Splat",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "3DGS最適化"
+    },
+    {
+      "name": "Camera-Agnostic Pruning",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "3DGS圧縮・最適化"
+    },
+    {
+      "name": "GSA (Cross-Instance Registration)",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "3DGS位置合わせ"
+    },
+    {
+      "name": "FreeArtGS",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "関節物体の3D再構成"
+    },
+    {
+      "name": "GTSR (Translucent Surface Reconstruction)",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "半透明物体の3D再構成"
+    },
+    {
+      "name": "GaussianSSC",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "自動運転・セマンティック理解"
+    },
+    {
+      "name": "高忠実度アバター再構成 (Springer)",
+      "type": "論文",
+      "first_posted": "2026-03-24",
+      "field": "アバター生成"
+    },
+    {
+      "name": "OpenUSD v26.03 Gaussian Splatsスキーマ",
+      "type": "ニュース",
+      "first_posted": "2026-03-24",
+      "field": "標準化"
+    },
+    {
+      "name": "glTF KHR_gaussian_splatting拡張",
+      "type": "ニュース",
+      "first_posted": "2026-03-24",
+      "field": "標準化"
+    },
+    {
+      "name": "NanoGS UE5 NaniteスタイルLOD",
+      "type": "ニュース",
+      "first_posted": "2026-03-24",
+      "field": "ゲームエンジン"
+    },
+    {
+      "name": "51Vision 51Claw Embodied AI",
+      "type": "ニュース",
+      "first_posted": "2026-03-24",
+      "field": "Embodied AI"
+    },
+    {
+      "name": "NAB Show GS in Production パネル",
+      "type": "ニュース",
+      "first_posted": "2026-03-24",
+      "field": "映像制作"
+    },
+    {
+      "name": "GASP (GS + Genesis物理エンジン)",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-24",
+      "field": "物理シミュレーション"
+    },
+    {
+      "name": "Mobile-GS (モバイル116FPS)",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-24",
+      "field": "モバイル"
+    },
+    {
+      "name": "MLSLabsRenderer UE5プラグイン更新",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-24",
+      "field": "ゲームエンジン"
+    },
+    {
+      "name": "3DMakerpro 不動産GSツアー",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-24",
+      "field": "不動産"
+    },
+    {
+      "name": "What The Splat! 学習コース",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-24",
+      "field": "教育"
+    },
+    {
+      "name": "Sandy Ressler 5つのGS発表まとめ",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-24",
+      "field": "まとめ"
     }
   ]
 }

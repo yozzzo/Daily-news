@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>3DGS & 4D Generation Daily Report - 2026/03/24</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d2e;
+    --border: #2a2d3e;
+    --accent: #6c5ce7;
+    --accent2: #00cec9;
+    --accent3: #fd79a8;
+    --accent4: #fdcb6e;
+    --text: #e0e0e0;
+    --text-dim: #8892b0;
+    --high: #ff6b6b;
+    --medium: #ffd93d;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family: 'Segoe UI', -apple-system, 'Noto Sans JP', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .header {
+    background: linear-gradient(135deg, #1a1d2e 0%, #2d1b69 50%, #1a1d2e 100%);
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 2px solid var(--accent);
+    position: relative;
+    overflow: hidden;
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(circle at 30% 50%, rgba(108,92,231,0.15) 0%, transparent 50%),
+                radial-gradient(circle at 70% 50%, rgba(0,206,201,0.1) 0%, transparent 50%);
+  }
+  .header h1 { font-size: 1.8rem; position: relative; z-index: 1; }
+  .header h1 span { color: var(--accent); }
+  .header .date { color: var(--text-dim); margin-top: 0.5rem; position: relative; z-index: 1; }
+  .header .trend-badge {
+    display: inline-block;
+    background: rgba(108,92,231,0.2);
+    border: 1px solid var(--accent);
+    border-radius: 20px;
+    padding: 0.5rem 1.5rem;
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+    text-align: left;
+  }
+
+  .nav {
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 0.5rem 1rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .nav button {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.3s;
+  }
+  .nav button:hover, .nav button.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+
+  .container { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.2rem;
+    text-align: center;
+    transition: transform 0.2s;
+  }
+  .stat-card:hover { transform: translateY(-3px); }
+  .stat-card .number { font-size: 2rem; font-weight: 700; }
+  .stat-card .label { color: var(--text-dim); font-size: 0.85rem; margin-top: 0.3rem; }
+  .stat-card:nth-child(1) .number { color: var(--accent); }
+  .stat-card:nth-child(2) .number { color: var(--accent2); }
+  .stat-card:nth-child(3) .number { color: var(--accent3); }
+  .stat-card:nth-child(4) .number { color: var(--accent4); }
+
+  .section { margin-bottom: 2rem; }
+  .section-title {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .section-title .icon { font-size: 1.5rem; }
+
+  .charts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .chart-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.2rem;
+  }
+  .chart-card h3 { margin-bottom: 1rem; font-size: 1rem; color: var(--text-dim); }
+  .chart-container { position: relative; height: 280px; }
+
+  .search-bar {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+  .search-bar input {
+    flex: 1;
+    min-width: 200px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+  }
+  .search-bar input:focus { outline: none; border-color: var(--accent); }
+  .filter-btn {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    padding: 0.4rem 0.8rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: all 0.2s;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+
+  .paper-card, .news-card, .community-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.2rem;
+    margin-bottom: 1rem;
+    transition: all 0.3s;
+    cursor: default;
+  }
+  .paper-card:hover, .news-card:hover, .community-card:hover {
+    border-color: var(--accent);
+    transform: translateX(3px);
+  }
+  .paper-card .paper-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .paper-card h3 { font-size: 1rem; color: var(--accent2); flex: 1; }
+  .paper-card h3 a { color: var(--accent2); text-decoration: none; }
+  .paper-card h3 a:hover { text-decoration: underline; }
+  .importance-badge {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 10px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .importance-high { background: rgba(255,107,107,0.2); color: var(--high); border: 1px solid var(--high); }
+  .importance-medium { background: rgba(255,217,61,0.2); color: var(--medium); border: 1px solid var(--medium); }
+  .paper-card .meta { color: var(--text-dim); font-size: 0.8rem; margin-bottom: 0.5rem; }
+  .paper-card .category {
+    display: inline-block;
+    background: rgba(108,92,231,0.15);
+    color: var(--accent);
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    margin-right: 0.5rem;
+  }
+  .paper-card .summary, .news-card .summary, .community-card .summary {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text);
+  }
+  .paper-card .keywords { margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .paper-card .keyword {
+    background: rgba(0,206,201,0.1);
+    color: var(--accent2);
+    padding: 0.1rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.7rem;
+  }
+
+  .news-card h3 { font-size: 1rem; color: var(--accent4); margin-bottom: 0.3rem; }
+  .news-card h3 a { color: var(--accent4); text-decoration: none; }
+  .news-card h3 a:hover { text-decoration: underline; }
+  .news-card .source { color: var(--text-dim); font-size: 0.8rem; margin-bottom: 0.5rem; }
+
+  .community-card h3 { font-size: 0.95rem; color: var(--accent3); margin-bottom: 0.3rem; }
+  .community-card h3 a { color: var(--accent3); text-decoration: none; }
+  .community-card h3 a:hover { text-decoration: underline; }
+  .community-card .source { color: var(--text-dim); font-size: 0.8rem; margin-bottom: 0.5rem; }
+
+  .timeline-container {
+    position: relative;
+    padding-left: 2rem;
+  }
+  .timeline-container::before {
+    content: '';
+    position: absolute;
+    left: 0.5rem;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--accent), var(--accent2));
+  }
+  .timeline-item {
+    position: relative;
+    padding: 0.8rem 0 0.8rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -1.55rem;
+    top: 1.1rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 2px solid var(--bg);
+  }
+  .timeline-item .time { color: var(--accent); font-size: 0.8rem; font-weight: 600; }
+  .timeline-item .event { font-size: 0.9rem; margin-top: 0.2rem; }
+
+  .keyword-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    padding: 1rem;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+  }
+  .keyword-cloud span {
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    cursor: default;
+    transition: transform 0.2s;
+  }
+  .keyword-cloud span:hover { transform: scale(1.1); }
+
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  @media (max-width: 768px) {
+    .header h1 { font-size: 1.3rem; }
+    .charts-grid { grid-template-columns: 1fr; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  .fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1><span>3DGS</span> & <span>4D Generation</span> Daily Intelligence Report</h1>
+  <div class="date">2026年3月24日（月） | 過去24時間の最新動向</div>
+  <div class="trend-badge">
+    <strong>本日のトレンド:</strong> 3DGSの標準化・産業統合が加速。OpenUSD・glTFへのネイティブ対応、UE5統合、モバイル対応が進み、研究から実用フェーズへの移行が顕著。CVPR 2026採択論文も複数公開。
+  </div>
+</div>
+
+<nav class="nav">
+  <button class="active" onclick="showTab('overview')">概要・トレンド</button>
+  <button onclick="showTab('papers')">論文一覧</button>
+  <button onclick="showTab('industry')">企業・業界ニュース</button>
+  <button onclick="showTab('community')">コミュニティ・SNS</button>
+  <button onclick="showTab('timeline')">タイムライン</button>
+</nav>
+
+<div class="container">
+
+  <!-- Overview Tab -->
+  <div id="overview" class="tab-content active fade-in">
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="number">7</div>
+        <div class="label">新規論文</div>
+      </div>
+      <div class="stat-card">
+        <div class="number">5</div>
+        <div class="label">業界ニュース</div>
+      </div>
+      <div class="stat-card">
+        <div class="number">6</div>
+        <div class="label">コミュニティ投稿</div>
+      </div>
+      <div class="stat-card">
+        <div class="number">2</div>
+        <div class="label">CVPR 2026採択</div>
+      </div>
+    </div>
+
+    <div class="charts-grid">
+      <div class="chart-card">
+        <h3>カテゴリ別分布</h3>
+        <div class="chart-container"><canvas id="categoryChart"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>重要度分布</h3>
+        <div class="chart-container"><canvas id="importanceChart"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>情報ソース別</h3>
+        <div class="chart-container"><canvas id="sourceChart"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3>注目トピック（キーワード頻度）</h3>
+        <div class="chart-container"><canvas id="keywordChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title"><span class="icon">&#x2601;</span> キーワードクラウド</div>
+      <div class="keyword-cloud" id="keywordCloud"></div>
+    </div>
+  </div>
+
+  <!-- Papers Tab -->
+  <div id="papers" class="tab-content">
+    <div class="search-bar">
+      <input type="text" id="paperSearch" placeholder="論文を検索（タイトル・概要・キーワード）..." oninput="filterPapers()">
+      <button class="filter-btn active" onclick="filterImportance('all', this)">すべて</button>
+      <button class="filter-btn" onclick="filterImportance('high', this)">重要度: High</button>
+      <button class="filter-btn" onclick="filterImportance('medium', this)">重要度: Medium</button>
+    </div>
+    <div id="papersList"></div>
+  </div>
+
+  <!-- Industry Tab -->
+  <div id="industry" class="tab-content">
+    <div id="newsList"></div>
+  </div>
+
+  <!-- Community Tab -->
+  <div id="community" class="tab-content">
+    <div id="communityList"></div>
+  </div>
+
+  <!-- Timeline Tab -->
+  <div id="timeline" class="tab-content">
+    <div class="section">
+      <div class="section-title"><span class="icon">&#x23F0;</span> タイムライン（3月22日〜24日）</div>
+      <div class="timeline-container" id="timelineList"></div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const reportData = {
+  papers: [
+    {
+      id:"p1", title:"F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting",
+      authors:"Minseong Bae, Injae Kim, Chaehyeon Kim, Minseok Joo, Hyunwoo J. Kim",
+      arxiv_id:"2603.21304", url:"https://arxiv.org/abs/2603.21304", date:"2026-03-22",
+      category:"3DGS最適化", importance:"high",
+      summary_ja:"フィードフォワード型3DGSの弱点を克服する「予測的密度化」手法。空間の複雑さやマルチビューの重なり具合に応じて、ガウシアンの数を自動的に最適配分します。これにより、単純な領域では冗長なガウシアンを減らし、複雑な領域に集中配置することで、少ないガウシアン数でも高品質な3D再構成が可能になりました。開発者にとっては、3Dスキャンやビュー合成のメモリ効率と速度が大幅に改善されることを意味します。",
+      keywords:["feed-forward","densification","efficiency","novel-view synthesis"]
+    },
+    {
+      id:"p2", title:"Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence",
+      authors:"Peter Fasogbon, Ugurcan Budak, Patrice Rondao Alface, Hamed Rezazadegan Tavakoli",
+      arxiv_id:"2603.21933", url:"https://arxiv.org/abs/2603.21933", date:"2026-03-23",
+      category:"3DGS圧縮・最適化", importance:"high",
+      summary_ja:"カメラ情報なしで3DGSモデルを軽量化できる画期的な手法。従来の枝刈り（プルーニング）はカメラパラメータが必要でしたが、本手法は.plyファイルの属性情報だけで不要なガウシアンを統計的に判定・除去します。ISO/IEC MPEG標準テスト条件で検証済み。3DGSデータの保存・転送・共有が大幅に効率化され、Webやモバイルでの配信が容易になります。",
+      keywords:["pruning","compression","camera-agnostic","MPEG","standardization"]
+    },
+    {
+      id:"p3", title:"GSA: Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment",
+      authors:"Roy Amoyal, Oren Freifeld, Chaim Baskin",
+      arxiv_id:"2603.21936", url:"https://arxiv.org/abs/2603.21936", date:"2026-03-23",
+      category:"3DGS位置合わせ", importance:"high",
+      summary_ja:"異なるオブジェクト同士の3DGSモデルを自動的に位置合わせできる世界初の手法（CVPR 2026採択）。例えば、別々にスキャンした2台の異なる車のモデルを、回転・移動・スケールを自動推定して正確に重ね合わせることができます。180度の向き違いや10倍のスケール差にも対応。3Dアセット管理やデジタルツインの構築が格段に楽になります。",
+      keywords:["registration","alignment","cross-instance","CVPR 2026"]
+    },
+    {
+      id:"p4", title:"FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario",
+      authors:"Hang Dai, Hongwei Fan, Han Zhang, Duojin Wu, Jiyao Zhang, Hao Dong",
+      arxiv_id:"2603.22102", url:"https://arxiv.org/abs/2603.22102", date:"2026-03-23",
+      category:"関節物体の3D再構成", importance:"high",
+      summary_ja:"ドアやハサミなど関節で動く物体を、スマホの動画1本から高精度に3D再構成できる手法（CVPR 2026採択）。従来は物体を特定の角度に固定して撮影する必要がありましたが、自由に動かしながら撮影するだけでOK。AR（拡張現実）やロボティクスで、現実の物体をデジタル化する作業が劇的に簡単になります。",
+      keywords:["articulated objects","monocular RGB-D","CVPR 2026","AR","robotics"]
+    },
+    {
+      id:"p5", title:"GTSR: Subsurface Scattering Awared 3D Gaussians for Translucent Surface Reconstruction",
+      authors:"Youwen Yuan, Xi Zhao",
+      arxiv_id:"2603.22036", url:"https://arxiv.org/abs/2603.22036", date:"2026-03-23",
+      category:"半透明物体の3D再構成", importance:"medium",
+      summary_ja:"ガラスやろうそく、肌のような半透明な物体を3DGSで正確に再現できる新手法。従来の3DGSは不透明な物体しかうまく扱えませんでしたが、表面と内部の2種類のガウシアンを使い分け、光の散乱をシミュレーションすることで、半透明素材のリアルタイムレンダリングを実現。ゲームやVR、製品ビジュアライゼーションの品質向上に貢献します。",
+      keywords:["translucent","subsurface scattering","Fresnel","Disney BSDF"]
+    },
+    {
+      id:"p6", title:"GaussianSSC: Triplane-Guided Directional Gaussian Fields for 3D Semantic Completion",
+      authors:"Ruiqi Xian, Jing Liang, He Yin, Xuewei Qi, Dinesh Manocha",
+      arxiv_id:"2603.21487", url:"https://arxiv.org/abs/2603.21487", date:"2026-03-23",
+      category:"自動運転・セマンティック理解", importance:"medium",
+      summary_ja:"自動運転車が周囲の3D空間を「意味的に」理解するための新技術。カメラ画像からガウシアンの特性を活用して、見えていない部分も含めた3D空間全体の物体配置を推定します。SemanticKITTIベンチマークで従来手法を上回る精度を達成。自動運転の安全性向上やロボットの空間認識に直結する技術です。",
+      keywords:["semantic scene completion","autonomous driving","triplane","SemanticKITTI"]
+    },
+    {
+      id:"p7", title:"End-to-end High-Fidelity Avatar Reconstruction using 3D Gaussian Splatting",
+      authors:"Various (Springer)",
+      arxiv_id:"", url:"https://link.springer.com/article/10.1007/s40747-026-02231-5", date:"2026-03-24",
+      category:"アバター生成", importance:"medium",
+      summary_ja:"人間のアバターを高品質に3D再構成するための新しいタイルベースラスタライゼーション手法。3DGSフレームワークを拡張し、人体の細かいディテール（髪の毛、衣服のしわなど）まで忠実に再現できます。VRミーティングやゲームのキャラクター作成、バーチャル試着などへの応用が期待されます。",
+      keywords:["avatar","tile-based rasterization","high-fidelity"]
+    }
+  ],
+  industry: [
+    {
+      id:"n1", title:"OpenUSD v26.03 が3D Gaussian Splatsスキーマを正式サポート",
+      source:"Alliance for OpenUSD (AOUSD)", url:"https://aousd.org/blog/", date:"2026-03-23", importance:"high",
+      summary_ja:"3D業界の標準フォーマットOpenUSDが、最新バージョンv26.03でGaussian Splatsの専用スキーマ（UsdVolParticleField3DGaussianSplat）を導入しました。PLYファイルからUSDへの変換スクリプトも提供され、既存のCG/VFXパイプラインにGaussian Splatsを統合しやすくなります。WebAssemblyビルドサポートも追加され、ブラウザでの表示も視野に。映画・ゲーム・建築など幅広い業界でGaussian Splatsの採用が加速する転換点です。"
+    },
+    {
+      id:"n2", title:"glTF 2.0にKHR_gaussian_splatting拡張が登場（NVIDIA・Google・Adobe支援）",
+      source:"Khronos Group", url:"https://www.linkedin.com/posts/sressler_gaussiansplatting-3dgs-computervision-activity-7441907500427386882-3gvo", date:"2026-03-23", importance:"high",
+      summary_ja:"Web3Dの標準フォーマットglTFに、Gaussian Splatting専用の拡張仕様が提案されました。NVIDIA、Google、Adobeが支援しており、重複データを最大90%削減できます。これにより、WebブラウザやARアプリでGaussian Splatsを直接表示する標準的な方法が確立されつつあります。Web開発者にとって大きなインパクトです。"
+    },
+    {
+      id:"n3", title:"NanoGS: Unreal Engine 5でNaniteスタイルのGaussian Splats LODを実現",
+      source:"Digital Production / Moonshine Studio", url:"https://digitalproduction.com/2026/03/24/nanogaussiansplats-for-ue5/", date:"2026-03-24", importance:"high",
+      summary_ja:"NanoGSは、Unreal Engine 5のNaniteシステムと同様のLOD（Level of Detail）、カリング、GPUソートをGaussian Splatsに適用するプラグインです。RTX 20シリーズのGPUでも数百万のスプラットをリアルタイムレンダリング可能。ゲーム開発者やバーチャルプロダクション制作者が、大規模なGaussian Splatsシーンを実用的に扱えるようになります。"
+    },
+    {
+      id:"n4", title:"51Vision（五一視覚）が3DGS/4DGSベースのEmbodied AIシステム「51Claw」を発表",
+      source:"Gelonghui Finance", url:"https://news.futunn.com/en/post/70490715/wuyi-vision-has-developed-and-deployed-the-embodied-ai-base", date:"2026-03-24", importance:"high",
+      summary_ja:"中国の51Vision社が、3DGS/4DGSを活用したEmbodied AI基盤システム「51Claw」を発表。マルチモーダル空間データから3DGS/4DGSでシーンを再構成し、物理世界のデジタルツインを生成。強化学習でロボットの動作を訓練し、ロボット犬やヒューマノイドロボットに展開済み。Real2Sim2Realの完全なループを実現し、株価は約6%上昇しました。"
+    },
+    {
+      id:"n5", title:"NAB Show: Gaussian Splatting in Production Pipelines パネル",
+      source:"NAB Show", url:"https://www.nabshow.com/session/gaussian-splatting-in-production-pipelines-discovering-real-productions-using-3dgs-today/", date:"2026-03-24", importance:"medium",
+      summary_ja:"NAB Showで、Gaussian Splattingを実際の映像制作パイプラインで活用している先駆者たちによるパネルディスカッションが開催。Volinga Suiteやそのunreal Engineプラグインを使った実例が紹介されています。映像制作業界でのGaussian Splatting採用が本格化していることを示す重要なイベントです。"
+    }
+  ],
+  community: [
+    {
+      id:"c1", title:"Reddit: MLSLabsRenderer 3DGS UE5プラグインのアップデート",
+      source:"Reddit r/GaussianSplatting", url:"https://www.reddit.com/r/GaussianSplatting/comments/1s293hx/mlslabsrenderer_3d_gaussian_splatting_ue5_plugin/", date:"2026-03-24", importance:"medium",
+      summary_ja:"UE5向け3DGSプラグイン「MLSLabsRenderer」がアップデート。初心者向けの3DGS・フォトグラメトリのTipsも話題に。"
+    },
+    {
+      id:"c2", title:"Reddit: AIでペットを3Dモデル化する話題",
+      source:"Reddit r/GaussianSplatting", url:"https://www.reddit.com/r/GaussianSplatting/comments/1s22241/just_turned_my_pet_into_a_3d_model_using_ai/", date:"2026-03-24", importance:"medium",
+      summary_ja:"オープンソースの3DGSツールが大幅に改善され、ペットの動画から手軽に3Dモデルを作成できるようになったという報告。ツールの民主化が進んでいます。"
+    },
+    {
+      id:"c3", title:"Facebook: 不動産のGaussian Splatting ツアーが1時間で完成",
+      source:"Facebook / 3DMakerpro", url:"https://www.facebook.com/3DMakerProCares/photos/d41d8cd9/933302439484742/", date:"2026-03-24", importance:"medium",
+      summary_ja:"3DMakerproが、物件訪問から没入型Gaussian Splattingツアーの送信まで1時間で完了できることを紹介。不動産業界での実用化が進んでいます。"
+    },
+    {
+      id:"c4", title:"Facebook: 「What The Splat!」Gaussian Splatting構造化コース開講",
+      source:"Facebook 3D Gaussian Splatting Group", url:"https://www.facebook.com/groups/3dgaussiansplatting/posts/2018271342059788/", date:"2026-03-24", importance:"medium",
+      summary_ja:"Gaussian Splattingの体系的な学習コース「What The Splat!」が開講。初心者版がリリースされ、3DGS技術の学習環境が整備されつつあります。"
+    },
+    {
+      id:"c5", title:"GASP: Gaussian SplattingとGenesisフィジックスエンジンの統合",
+      source:"LinkedIn / CVIU", url:"https://www.sciencedirect.com/science/article/pii/S1077314226000664", date:"2026-03-23", importance:"high",
+      summary_ja:"GASPがComputer Vision and Image Understanding誌に掲載。パラメトリック化されたフラットガウシアンを使い、Genesis、Blender、Taichiの物理エンジンと連携する初の3DGS手法。物理シミュレーション付きのGaussian Splatsが実現しつつあります。"
+    },
+    {
+      id:"c6", title:"Mobile-GS: モバイルで116FPSを達成する3DGS",
+      source:"LinkedIn", url:"https://www.linkedin.com/posts/sressler_gaussiansplatting-3dgs-computervision-activity-7441907500427386882-3gvo", date:"2026-03-23", importance:"high",
+      summary_ja:"Mobile-GSがHD解像度でモバイル端末上116FPSを達成。モデルサイズはわずか4.8MB。完全にモバイル向けのパイプラインで、スマートフォンでのリアルタイム3DGSレンダリングが実用レベルに到達しました。"
+    }
+  ],
+  timeline: [
+    {time:"2026-03-22", event:"F4Splat論文公開（予測的密度化でフィードフォワード3DGSを効率化）"},
+    {time:"2026-03-23", event:"CVPR 2026採択: GSA（異なるオブジェクト間の3DGS位置合わせ）"},
+    {time:"2026-03-23", event:"CVPR 2026採択: FreeArtGS（関節物体の自由移動再構成）"},
+    {time:"2026-03-23", event:"Camera-Agnostic Pruning論文公開（カメラ不要の3DGS枝刈り）"},
+    {time:"2026-03-23", event:"GTSR論文公開（半透明物体の3DGS再構成）"},
+    {time:"2026-03-23", event:"GaussianSSC論文公開（自動運転向けセマンティック補完）"},
+    {time:"2026-03-23", event:"OpenUSD v26.03リリース - Gaussian Splatsスキーマ正式対応"},
+    {time:"2026-03-23", event:"glTF KHR_gaussian_splatting拡張候補が公開（NVIDIA/Google/Adobe支援）"},
+    {time:"2026-03-23", event:"GASP: 物理エンジン統合3DGSがCVIU誌に掲載"},
+    {time:"2026-03-23", event:"Mobile-GS: モバイルHD 116FPS達成の報告"},
+    {time:"2026-03-24", event:"NanoGS for UE5発表（NaniteスタイルLODでGaussian Splats）"},
+    {time:"2026-03-24", event:"51Vision「51Claw」3DGS/4DGS Embodied AIシステム発表（株価+6%）"},
+    {time:"2026-03-24", event:"NAB Show: Gaussian Splatting in Production パネル開催"},
+    {time:"2026-03-24", event:"高忠実度アバター再構成論文（Springer）公開"}
+  ]
+};
+
+// Tab navigation
+let currentFilter = 'all';
+function showTab(tabId) {
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
+  document.getElementById(tabId).classList.add('active');
+  document.getElementById(tabId).classList.add('fade-in');
+  event.target.classList.add('active');
+}
+
+// Render papers
+function renderPapers(filter, search) {
+  const list = document.getElementById('papersList');
+  let papers = reportData.papers;
+  if (filter !== 'all') papers = papers.filter(p => p.importance === filter);
+  if (search) {
+    const s = search.toLowerCase();
+    papers = papers.filter(p =>
+      p.title.toLowerCase().includes(s) ||
+      p.summary_ja.includes(s) ||
+      p.keywords.some(k => k.toLowerCase().includes(s)) ||
+      p.category.includes(s)
+    );
+  }
+  list.innerHTML = papers.map(p => `
+    <div class="paper-card fade-in">
+      <div class="paper-header">
+        <h3><a href="${p.url}" target="_blank">${p.title}</a></h3>
+        <span class="importance-badge importance-${p.importance}">${p.importance.toUpperCase()}</span>
+      </div>
+      <div class="meta">
+        <span class="category">${p.category}</span>
+        ${p.authors} | ${p.date}${p.arxiv_id ? ' | arXiv:'+p.arxiv_id : ''}
+      </div>
+      <div class="summary">${p.summary_ja}</div>
+      <div class="keywords">${p.keywords.map(k => '<span class="keyword">'+k+'</span>').join('')}</div>
+    </div>
+  `).join('');
+}
+
+function filterPapers() {
+  renderPapers(currentFilter, document.getElementById('paperSearch').value);
+}
+function filterImportance(level, btn) {
+  currentFilter = level;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  filterPapers();
+}
+
+// Render news
+function renderNews() {
+  document.getElementById('newsList').innerHTML = reportData.industry.map(n => `
+    <div class="news-card fade-in">
+      <div class="paper-header">
+        <h3><a href="${n.url}" target="_blank">${n.title}</a></h3>
+        <span class="importance-badge importance-${n.importance}">${n.importance.toUpperCase()}</span>
+      </div>
+      <div class="source">${n.source} | ${n.date}</div>
+      <div class="summary">${n.summary_ja}</div>
+    </div>
+  `).join('');
+}
+
+// Render community
+function renderCommunity() {
+  document.getElementById('communityList').innerHTML = reportData.community.map(c => `
+    <div class="community-card fade-in">
+      <div class="paper-header">
+        <h3><a href="${c.url}" target="_blank">${c.title}</a></h3>
+        <span class="importance-badge importance-${c.importance}">${c.importance.toUpperCase()}</span>
+      </div>
+      <div class="source">${c.source} | ${c.date}</div>
+      <div class="summary">${c.summary_ja}</div>
+    </div>
+  `).join('');
+}
+
+// Render timeline
+function renderTimeline() {
+  document.getElementById('timelineList').innerHTML = reportData.timeline.map(t => `
+    <div class="timeline-item">
+      <div class="time">${t.time}</div>
+      <div class="event">${t.event}</div>
+    </div>
+  `).join('');
+}
+
+// Keyword cloud
+function renderKeywordCloud() {
+  const keywords = [
+    {text:"3D Gaussian Splatting", size:1.6, color:"#6c5ce7"},
+    {text:"CVPR 2026", size:1.4, color:"#ff6b6b"},
+    {text:"OpenUSD", size:1.3, color:"#00cec9"},
+    {text:"glTF", size:1.2, color:"#fdcb6e"},
+    {text:"Pruning", size:1.1, color:"#fd79a8"},
+    {text:"Feed-Forward", size:1.1, color:"#a29bfe"},
+    {text:"Unreal Engine 5", size:1.2, color:"#55efc4"},
+    {text:"4DGS", size:1.3, color:"#ff6b6b"},
+    {text:"Embodied AI", size:1.2, color:"#ffeaa7"},
+    {text:"Mobile", size:1.1, color:"#74b9ff"},
+    {text:"Registration", size:1.0, color:"#dfe6e9"},
+    {text:"Translucent", size:0.9, color:"#b2bec3"},
+    {text:"Avatar", size:1.0, color:"#fd79a8"},
+    {text:"Articulated", size:1.0, color:"#00cec9"},
+    {text:"Autonomous Driving", size:1.0, color:"#ffeaa7"},
+    {text:"Physics Simulation", size:1.1, color:"#a29bfe"},
+    {text:"Real2Sim2Real", size:1.0, color:"#55efc4"},
+    {text:"Standardization", size:1.2, color:"#fdcb6e"},
+    {text:"LOD", size:0.9, color:"#74b9ff"},
+    {text:"Digital Twin", size:1.1, color:"#00cec9"},
+    {text:"Robotics", size:1.0, color:"#ff6b6b"},
+    {text:"Nanite", size:0.9, color:"#55efc4"},
+    {text:"Compression", size:1.0, color:"#dfe6e9"},
+    {text:"WebAssembly", size:0.9, color:"#74b9ff"}
+  ];
+  const cloud = document.getElementById('keywordCloud');
+  cloud.innerHTML = keywords.map(k =>
+    `<span style="font-size:${k.size}rem;color:${k.color};background:${k.color}15;border:1px solid ${k.color}40">${k.text}</span>`
+  ).join('');
+}
+
+// Charts
+function initCharts() {
+  // Category chart
+  new Chart(document.getElementById('categoryChart'), {
+    type: 'doughnut',
+    data: {
+      labels: ['3DGS最適化・圧縮','3DGS位置合わせ','動的物体・関節物体','マテリアル','自動運転・ロボ','アバター','標準化・統合','Embodied AI','モバイル・Web','教育・コミュニティ'],
+      datasets: [{
+        data: [2,1,1,1,2,1,3,1,2,2],
+        backgroundColor: ['#6c5ce7','#00cec9','#fd79a8','#fdcb6e','#ff6b6b','#a29bfe','#55efc4','#ffeaa7','#74b9ff','#dfe6e9'],
+        borderWidth: 0
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { position:'right', labels: { color:'#8892b0', font:{size:10}, padding:8 } } }
+    }
+  });
+
+  // Importance chart
+  new Chart(document.getElementById('importanceChart'), {
+    type: 'bar',
+    data: {
+      labels: ['論文','業界ニュース','コミュニティ'],
+      datasets: [
+        { label:'High', data:[4,4,2], backgroundColor:'#ff6b6b' },
+        { label:'Medium', data:[3,1,4], backgroundColor:'#ffd93d' }
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: {
+        x: { stacked:true, ticks:{color:'#8892b0'}, grid:{color:'#2a2d3e'} },
+        y: { stacked:true, ticks:{color:'#8892b0'}, grid:{color:'#2a2d3e'} }
+      },
+      plugins: { legend: { labels: { color:'#8892b0' } } }
+    }
+  });
+
+  // Source chart
+  new Chart(document.getElementById('sourceChart'), {
+    type: 'polarArea',
+    data: {
+      labels: ['arXiv','Springer','OpenUSD/Khronos','企業発表','Reddit','Facebook','LinkedIn'],
+      datasets: [{
+        data: [6,1,2,2,2,2,2],
+        backgroundColor: ['#6c5ce740','#00cec940','#fd79a840','#fdcb6e40','#ff6b6b40','#a29bfe40','#74b9ff40'],
+        borderColor: ['#6c5ce7','#00cec9','#fd79a8','#fdcb6e','#ff6b6b','#a29bfe','#74b9ff'],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: { r: { ticks:{color:'#8892b0'}, grid:{color:'#2a2d3e'} } },
+      plugins: { legend: { position:'right', labels: { color:'#8892b0', font:{size:10} } } }
+    }
+  });
+
+  // Keyword frequency chart
+  new Chart(document.getElementById('keywordChart'), {
+    type: 'bar',
+    data: {
+      labels: ['3DGS','標準化','CVPR 2026','モバイル','UE5','4DGS','圧縮','物理Sim','ロボティクス','アバター'],
+      datasets: [{
+        label: '言及回数',
+        data: [18,5,4,3,3,3,3,2,2,2],
+        backgroundColor: '#6c5ce780',
+        borderColor: '#6c5ce7',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true, maintainAspectRatio: false,
+      scales: {
+        x: { ticks:{color:'#8892b0'}, grid:{color:'#2a2d3e'} },
+        y: { ticks:{color:'#8892b0'}, grid:{color:'#2a2d3e'} }
+      },
+      plugins: { legend: { display:false } }
+    }
+  });
+}
+
+// Initialize
+renderPapers('all', '');
+renderNews();
+renderCommunity();
+renderTimeline();
+renderKeywordCloud();
+initCharts();
+</script>
+</body>
+</html>
