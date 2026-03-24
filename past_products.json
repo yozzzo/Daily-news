@@ -1,0 +1,65 @@
+{
+  "description": "過去に配信済みのプロダクト一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
+  "products": [
+    {
+      "name": "Synchron Stentrode",
+      "company": "Synchron",
+      "first_posted": "2026-03-24",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "Anthrobots",
+      "company": "Tufts大学 / Harvard Wyss Institute",
+      "first_posted": "2026-03-24",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Organoid Intelligence",
+      "company": "Johns Hopkins大学 / Cortical Labs",
+      "first_posted": "2026-03-24",
+      "field": "バイオコンピューティング"
+    },
+    {
+      "name": "Axoft Fleuron",
+      "company": "Axoft",
+      "first_posted": "2026-03-24",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "Smellicopter",
+      "company": "米空軍 / ワシントン大学",
+      "first_posted": "2026-03-24",
+      "field": "ドローン×バイオ"
+    },
+    {
+      "name": "AQEMIA",
+      "company": "AQEMIA",
+      "first_posted": "2026-03-24",
+      "field": "AI創薬"
+    },
+    {
+      "name": "Iridia",
+      "company": "Iridia",
+      "first_posted": "2026-03-24",
+      "field": "DNAストレージ"
+    },
+    {
+      "name": "InBrain Neuroelectronics",
+      "company": "InBrain Neuroelectronics",
+      "first_posted": "2026-03-24",
+      "field": "脳インプラント"
+    },
+    {
+      "name": "SkyDrive SD-05",
+      "company": "SkyDrive",
+      "first_posted": "2026-03-24",
+      "field": "eVTOL・ドローン"
+    },
+    {
+      "name": "Bluepha",
+      "company": "Bluepha",
+      "first_posted": "2026-03-24",
+      "field": "合成生物学"
+    }
+  ]
+}
