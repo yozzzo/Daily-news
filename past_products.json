@@ -60,6 +60,66 @@
       "company": "Bluepha",
       "first_posted": "2026-03-24",
       "field": "合成生物学"
+    },
+    {
+      "name": "NEO（侵襲型BCI）",
+      "company": "Neuracle Medical Technology",
+      "first_posted": "2026-03-25",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "Magnetically Controlled Liquid Metal Robots",
+      "company": "Sun Yat-sen University",
+      "first_posted": "2026-03-25",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "SpliceBio Gene Therapy Platform",
+      "company": "SpliceBio",
+      "first_posted": "2026-03-25",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Revolutionary Artificial Muscle",
+      "company": "UNIST（蔚山科学技術院）",
+      "first_posted": "2026-03-25",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Pain Perception Sharing Technology",
+      "company": "NTTドコモ & PaMeLa Inc.",
+      "first_posted": "2026-03-25",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "Non-invasive Blood Glucose Sensor",
+      "company": "Light Touch Technology (LTT) Inc.",
+      "first_posted": "2026-03-25",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Zipline Autonomous Medical Delivery",
+      "company": "Zipline",
+      "first_posted": "2026-03-25",
+      "field": "ドローン"
+    },
+    {
+      "name": "Xsensio Lab-on-Skin Wearable Chip",
+      "company": "Xsensio",
+      "first_posted": "2026-03-25",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Allozymes Next-gen Enzyme Engineering Platform",
+      "company": "Allozymes",
+      "first_posted": "2026-03-25",
+      "field": "合成生物学"
+    },
+    {
+      "name": "MetriDx™ Endometriosis Diagnostic Test",
+      "company": "Hera Biotech",
+      "first_posted": "2026-03-25",
+      "field": "生物×IT"
     }
   ]
 }
