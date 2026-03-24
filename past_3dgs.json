@@ -1,0 +1,233 @@
+{
+  "description": "過去に配信済みの3DGS/4DGS関連項目一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
+  "items": [
+    {
+      "name": "Matryoshka Gaussian Splatting (MGS)",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "3DGS最適化"
+    },
+    {
+      "name": "GSPrior",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "表面復元"
+    },
+    {
+      "name": "OnlinePG",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "空間認識"
+    },
+    {
+      "name": "CrowdGaussian",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "人物復元"
+    },
+    {
+      "name": "ReLaGS",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "言語+3D"
+    },
+    {
+      "name": "Fourier Splatting",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "新表現手法"
+    },
+    {
+      "name": "HUGE-Bench",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "ドローン"
+    },
+    {
+      "name": "StreetForward",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "自動運転"
+    },
+    {
+      "name": "GSMem",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "ロボットAI"
+    },
+    {
+      "name": "GHOST",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "手と物体"
+    },
+    {
+      "name": "AHOY!",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "人物アニメーション"
+    },
+    {
+      "name": "Splat2BEV",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "自動運転"
+    },
+    {
+      "name": "月面マッピング with 3DGS",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "宇宙"
+    },
+    {
+      "name": "Polynomial Kernels for GS",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "最適化"
+    },
+    {
+      "name": "SRGS",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "超解像"
+    },
+    {
+      "name": "RetimeGS",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "4DGS"
+    },
+    {
+      "name": "SpatioGS",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "4DGS"
+    },
+    {
+      "name": "WorldSplat",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "4DGS/自動運転"
+    },
+    {
+      "name": "ReconDrive",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "4DGS/自動運転"
+    },
+    {
+      "name": "UniSem",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "意味理解"
+    },
+    {
+      "name": "SMAL-pets",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "動物3D化"
+    },
+    {
+      "name": "3D-REGEN",
+      "type": "論文",
+      "first_posted": "2026-03-23",
+      "field": "3D生成"
+    },
+    {
+      "name": "Voxelmaps サンノゼ都市デジタルツイン",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "デジタルツイン"
+    },
+    {
+      "name": "Khronos glTF 3DGS標準化",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "標準化"
+    },
+    {
+      "name": "NanoGS UE5プラグイン",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "ゲームエンジン"
+    },
+    {
+      "name": "NVIDIA Omniverse NuRec",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "シミュレーション"
+    },
+    {
+      "name": "LichtFeld-Studio",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "開発ツール"
+    },
+    {
+      "name": "VentureBeat AIが物理世界を理解する3つの方法",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "メディア報道"
+    },
+    {
+      "name": "France TV 映画制作を変革するリアルタイム3D",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "映画"
+    },
+    {
+      "name": "Connect Tech エッジAIデジタルツイン",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "デジタルツイン"
+    },
+    {
+      "name": "欧州投資家 GS関連スタートアップ投資",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "投資"
+    },
+    {
+      "name": "峰瑞資本 3DGSハードウェア出資",
+      "type": "ニュース",
+      "first_posted": "2026-03-23",
+      "field": "投資"
+    },
+    {
+      "name": "KIRI Engine 3DGS→メッシュ変換",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-23",
+      "field": "スマホアプリ"
+    },
+    {
+      "name": "SXSW 2026 4Dボリュメトリック映像",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-23",
+      "field": "4DGS"
+    },
+    {
+      "name": "DeoVR 3DGS対応予告",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-23",
+      "field": "VR"
+    },
+    {
+      "name": "fast-gaussian-rasterization",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-23",
+      "field": "高速化"
+    },
+    {
+      "name": "TikTok 3DGSデジタルツイン動画",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-23",
+      "field": "デジタルツイン"
+    },
+    {
+      "name": "Note.com 3D-REGEN/RetimeGS日本語解説",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-23",
+      "field": "日本語解説"
+    }
+  ]
+}
