@@ -1,4 +1,75 @@
 {
   "description": "過去に配信済みのAI関連アップデート・リリース一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
-  "items": []
+  "items": [
+    {
+      "id": "anthropic-claude-computer-use-2026-03-24",
+      "title": "AnthropicのClaude、PCを操作してタスクを完了する新機能を追加",
+      "company": "Anthropic",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "nvidia-groq-vera-rubin-2026-03-24",
+      "title": "NVIDIA、AI推論チップ新興Groqを約3.2兆円で買収——「Vera Rubin」に統合",
+      "company": "NVIDIA",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "microsoft-azure-skills-plugin-2026-03-25",
+      "title": "Microsoft、「Azure Skills Plugin」公開——AIがデプロイ指示だけで最適インフラを自律構築",
+      "company": "Microsoft",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "google-deepmind-agile-robots-2026-03-24",
+      "title": "Google DeepMind、Agile Robotsと提携——Gemini Roboticsを産業用ロボットに統合",
+      "company": "Google DeepMind",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "meta-arm-datacenter-chip-2026-03-24",
+      "title": "Meta、Armと提携しデータセンター向けAIチップを共同開発",
+      "company": "Meta AI",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "bytedance-seedance-2-global-2026-03-24",
+      "title": "ByteDance、AI動画生成「Seedance 2.0」をグローバル再ローンチ——実顔アップロード禁止で規制対応",
+      "company": "ByteDance",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "sbc-s-devin-japan-2026-03-24",
+      "title": "SB C&S、AIソフトウェアエンジニア「Devin」の国内提供を開始",
+      "company": "Cognition AI",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "xai-grok-420-multi-agent-2026-03-24",
+      "title": "Grok 4.20：4つのAIエージェントが議論して回答——幻覚を65%削減",
+      "company": "xAI",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "cursor-composer2-controversy-2026-03-24",
+      "title": "CursorのComposer 2が中国製AIモデルとの関連で論争——透明性と信頼性が問われる",
+      "company": "Cursor",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "qommonsai-gpt54-japan-2026-03-25",
+      "title": "QommonsAI、OpenAI最新モデル「GPT-5.4」を国内リージョンで搭載——自治体向けに月間3億トークン無償提供",
+      "company": "OpenAI / QommonsAI",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
+    }
+  ]
 }
