@@ -70,6 +70,76 @@
       "company": "OpenAI / QommonsAI",
       "date": "2026-03-25",
       "delivered": "2026-03-25"
+    },
+    {
+      "id": "arm-agi-cpu-first-chip-2026-03-24",
+      "title": "Arm、35年の歴史で初の自社チップ「AGI CPU」発表——Metaが初顧客に",
+      "company": "Arm Holdings",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "openai-sora-shutdown-2026-03-24",
+      "title": "OpenAI、動画生成「Sora」を突然終了——ディズニー提携も解消、リソースをエージェントAIへ集中",
+      "company": "OpenAI",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "anthropic-claude-code-auto-mode-2026-03-24",
+      "title": "Anthropic「Claude Code」に自律モード追加——AIが権限判断を自動化、コーディング作業を完全自律化",
+      "company": "Anthropic",
+      "date": "2026-03-24",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "apple-google-gemini-distill-2026-03-25",
+      "title": "Apple、GoogleのGeminiモデルを「蒸留」してオンデバイスAIを強化——Siriの大幅改善へ",
+      "company": "Apple / Google",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "openai-fundraise-120b-2026-03-25",
+      "title": "OpenAI、追加調達で資金調達総額が1200億ドル（約18兆円）に到達——史上最大のスタートアップ調達",
+      "company": "OpenAI",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "aws-nvidia-1m-gpu-deal-2026-03-19",
+      "title": "AWS、NVIDIAから100万枚のGPUを購入——5兆円超の史上最大GPU調達契約",
+      "company": "AWS / NVIDIA",
+      "date": "2026-03-19",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "openai-chatgpt-library-2026-03-23",
+      "title": "OpenAI「ChatGPT Library」リリース——ファイル・画像・AI生成物を一元管理するクラウドストレージ機能",
+      "company": "OpenAI",
+      "date": "2026-03-23",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "google-lyria-3-pro-2026-03-25",
+      "title": "Google「Lyria 3 Pro」リリース——最大3分間のAI音楽生成、Geminiアプリで利用可能に",
+      "company": "Google",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "manus-china-exit-ban-meta-2026-03-25",
+      "title": "中国がManusのAI創業者2名に出国禁止令——MetaによるManusの20億ドル買収を規制審査",
+      "company": "Manus AI / Meta",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
+    },
+    {
+      "id": "meta-ai-shopping-shoptalk-2026-03-25",
+      "title": "Meta、AI活用のショッピング機能をFacebook・Instagramに展開——Shoptalk 2026で大型発表",
+      "company": "Meta AI",
+      "date": "2026-03-25",
+      "delivered": "2026-03-25"
     }
   ]
 }
