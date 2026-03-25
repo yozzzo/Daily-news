@@ -120,6 +120,66 @@
       "company": "Hera Biotech",
       "first_posted": "2026-03-25",
       "field": "生物×IT"
+    },
+    {
+      "name": "Wearable Ultrasound Imaging System",
+      "company": "MIT / Nanyang Technological University / National University of Singapore",
+      "first_posted": "2026-03-25",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Festo BionicBee",
+      "company": "Festo",
+      "first_posted": "2026-03-25",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "HAL BCI外骨格",
+      "company": "Cyberdyne Corporation",
+      "first_posted": "2026-03-25",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "Spiber Brewed Protein",
+      "company": "Spiber, Inc.",
+      "first_posted": "2026-03-25",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Microneedle Wearable Platform",
+      "company": "Technion-Israel Institute of Technology",
+      "first_posted": "2026-03-25",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "String Bio Methane-to-Protein",
+      "company": "String Bio",
+      "first_posted": "2026-03-25",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Neural Drone Swarms (BCI制御)",
+      "company": "Israel Defense Ministry (DDR&D)",
+      "first_posted": "2026-03-25",
+      "field": "ドローン×BCI"
+    },
+    {
+      "name": "GrowHR Shape-Shifting Humanoid Robot",
+      "company": "Southern University of Science and Technology",
+      "first_posted": "2026-03-25",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Mammoth Biosciences CRISPR Diagnostics",
+      "company": "Mammoth Biosciences",
+      "first_posted": "2026-03-25",
+      "field": "生物×IT"
+    },
+    {
+      "name": "SPYDER Ship-Climbing Robot",
+      "company": "ST Engineering / HTX / Singapore Police Coast Guard",
+      "first_posted": "2026-03-25",
+      "field": "ロボティクス×バイオ"
     }
   ]
 }
