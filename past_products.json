@@ -180,6 +180,66 @@
       "company": "ST Engineering / HTX / Singapore Police Coast Guard",
       "first_posted": "2026-03-25",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Living Pancreas Implant（生きた人工膵臓）",
+      "company": "Technion – Israel Institute of Technology",
+      "first_posted": "2026-03-26",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "X-Cell Virtual Cell Model",
+      "company": "Xaira Therapeutics",
+      "first_posted": "2026-03-26",
+      "field": "生物×IT"
+    },
+    {
+      "name": "LIFESCAPES 治療用BMI",
+      "company": "株式会社LIFESCAPES",
+      "first_posted": "2026-03-26",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Gestala 非侵襲型超音波BCI",
+      "company": "Gestala",
+      "first_posted": "2026-03-26",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "OstraBot 自己訓練筋肉駆動水泳ロボット",
+      "company": "National University of Singapore",
+      "first_posted": "2026-03-26",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "多関節バイオハイブリッドロボット",
+      "company": "東京大学大学院情報理工学系研究科",
+      "first_posted": "2026-03-26",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "AVATAAR 空中・水中両用ドローン",
+      "company": "AquaAirX Autonomous Systems",
+      "first_posted": "2026-03-26",
+      "field": "ドローン"
+    },
+    {
+      "name": "Melt&Marble デザイナー脂肪",
+      "company": "Melt&Marble",
+      "first_posted": "2026-03-26",
+      "field": "合成生物学"
+    },
+    {
+      "name": "SSi Mantra 手術ロボット",
+      "company": "SS Innovations International",
+      "first_posted": "2026-03-26",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Sniffbot バッタ触角搭載バイオハイブリッドロボット",
+      "company": "Tel Aviv University",
+      "first_posted": "2026-03-26",
+      "field": "ロボティクス×バイオ"
     }
   ]
 }
