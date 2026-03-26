@@ -140,6 +140,76 @@
       "company": "Meta AI",
       "date": "2026-03-25",
       "delivered": "2026-03-25"
+    },
+    {
+      "id": "apple-siri-open-third-party-ai-ios27-2026-03-26",
+      "title": "Apple、iOS 27でSiriをサードパーティAIに全面開放——ChatGPT独占を廃止しGemini・Claude対応へ",
+      "company": "Apple",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "google-turboquant-llm-memory-6x-2026-03-25",
+      "title": "Google「TurboQuant」発表——LLMのメモリ使用量を6分の1に削減、推論速度8倍を達成",
+      "company": "Google Research",
+      "date": "2026-03-25",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "github-copilot-data-training-optout-2026-03-26",
+      "title": "GitHub Copilot、4月24日からユーザーデータをAI学習に使用——オプトアウトは期日までに",
+      "company": "GitHub / Microsoft",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "google-gemini-31-flash-live-2026-03-26",
+      "title": "Google「Gemini 3.1 Flash Live」リリース——リアルタイム音声・映像エージェント構築が可能に",
+      "company": "Google DeepMind",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "anthropic-claude-code-scheduled-cloud-tasks-2026-03-26",
+      "title": "Anthropic「Claude Code」クラウド定期実行タスク機能を追加——PCオフでも自律コーディングが継続",
+      "company": "Anthropic",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "mistral-voxtral-tts-open-source-2026-03-26",
+      "title": "Mistral AI、オープンソース音声合成モデル「Voxtral TTS」リリース——ElevenLabsを超える品質でスマートウォッチ動作",
+      "company": "Mistral AI",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "xiaomi-mimo-v2-pro-hunter-alpha-2026-03-26",
+      "title": "Xiaomi「MiMo-V2-Pro」正体判明——匿名モデル「Hunter Alpha」が世界3位のAIエージェント基盤に",
+      "company": "Xiaomi",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "aws-bedrock-agentcore-session-storage-2026-03-25",
+      "title": "AWS「Amazon Bedrock AgentCore Runtime」にマネージドセッションストレージ追加——AIエージェントの作業状態を永続化",
+      "company": "AWS",
+      "date": "2026-03-25",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "mitsubishi-electric-sakana-ai-investment-2026-03-25",
+      "title": "三菱電機、Sakana AIに出資——製造業向けAI基盤モデルで協業、フィジカルAI元年を宣言",
+      "company": "三菱電機 / Sakana AI",
+      "date": "2026-03-25",
+      "delivered": "2026-03-26"
+    },
+    {
+      "id": "meta-llama45-avocado-delay-2026-03-26",
+      "title": "Meta、次世代AIモデル「Avocado（Llama 4.5）」のリリースを5月以降に延期——内部テストで競合に劣後",
+      "company": "Meta",
+      "date": "2026-03-26",
+      "delivered": "2026-03-26"
     }
   ]
 }
