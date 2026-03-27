@@ -336,6 +336,234 @@
       "type": "コミュニティ",
       "first_posted": "2026-03-24",
       "field": "まとめ"
+    },
+    {
+      "name": "SpectralSplats",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "3DGS追跡・最適化"
+    },
+    {
+      "name": "FilterGS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "大規模シーン・LoD"
+    },
+    {
+      "name": "AdvSplat",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "セキュリティ・敵対的攻撃"
+    },
+    {
+      "name": "Stochastic Ray Tracing for 3DGS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "レンダリング品質向上"
+    },
+    {
+      "name": "Pose-Free Omnidirectional GS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "360度映像・VR"
+    },
+    {
+      "name": "Drop-In Perceptual Optimization for 3DGS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "画質最適化"
+    },
+    {
+      "name": "GTLR-GS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "LiDAR融合・シーン再構成"
+    },
+    {
+      "name": "RefracGS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "水面・屈折光学"
+    },
+    {
+      "name": "EmoTaG",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "感情認識・トーキングヘッド"
+    },
+    {
+      "name": "Fast and Robust Deformable 3DGS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "動的シーン・変形"
+    },
+    {
+      "name": "Leveling3D",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "3D再構成・生成"
+    },
+    {
+      "name": "GaussianPile",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "医療・ボリューム再構成"
+    },
+    {
+      "name": "TRGS-SLAM",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "SLAM・熱画像"
+    },
+    {
+      "name": "4DGS360",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "4DGS・動的物体"
+    },
+    {
+      "name": "Inst4DGS",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "4DGS・インスタンス分解"
+    },
+    {
+      "name": "EmbodiedSplat",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "Embodied AI・意味理解"
+    },
+    {
+      "name": "Let it Snow!",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "動的天気エフェクト・シーン編集"
+    },
+    {
+      "name": "Training-Free Instance-Aware 3D Scene Reconstruction",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "インスタンス認識・シーン再構成"
+    },
+    {
+      "name": "Feed-forward Gaussian Registration for Head Avatar",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "アバター・ヘッド"
+    },
+    {
+      "name": "Dual Diffusion Models for Multi-modal 3D Avatar Generation",
+      "type": "論文",
+      "first_posted": "2026-03-27",
+      "field": "アバター生成"
+    },
+    {
+      "name": "Gaussian Splat Studio for Cinema 4D",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "C4Dプラグイン・映像制作"
+    },
+    {
+      "name": "SplatRenderer Plugin for Unreal Engine",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "UE5プラグイン・4DGS"
+    },
+    {
+      "name": "NVIDIA Omniverse NuRec GA（一般提供開始）",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "シミュレーション・自動運転"
+    },
+    {
+      "name": "Miris 公開ベータ - 高忠実度3Dストリーミング",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "3Dストリーミング"
+    },
+    {
+      "name": "Khronos Group glTF Gaussian Splatting ウェビナー（4月7日）",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "標準化・ウェビナー"
+    },
+    {
+      "name": "SP-6M 世界最大の人間頭部スキャンデータセット",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "データセット・アバター"
+    },
+    {
+      "name": "World Labs Gaussian Splatsで物理世界を理解するAI",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "空間AI・World Models"
+    },
+    {
+      "name": "OpenUSD v26.03 正式リリース CG Channel報道",
+      "type": "ニュース",
+      "first_posted": "2026-03-27",
+      "field": "標準化・業界報道"
+    },
+    {
+      "name": "SuperSplat Walk Mode",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "不動産・ブラウザビューア"
+    },
+    {
+      "name": "RadianceKit Apple Silicon Mac向けネイティブ3DGSアプリ",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "Macアプリ・ローカル処理"
+    },
+    {
+      "name": "4DGS360 Reddit話題",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "4DGS・コミュニティ"
+    },
+    {
+      "name": "NanoGS GUI Tool",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "開発ツール・最適化"
+    },
+    {
+      "name": "ColmapLiDAR App Update 1.2",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "iOSアプリ・LiDAR"
+    },
+    {
+      "name": "gsplat-unity",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "Unity・ゲームエンジン"
+    },
+    {
+      "name": "SplatKing iPhone向け無料GSキャプチャアプリ",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "iPhoneアプリ・キャプチャ"
+    },
+    {
+      "name": "Awesome-4D-Spatial-Intelligence",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "論文まとめ・リソース"
+    },
+    {
+      "name": "FastGS (CVPR 2026)",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "高速化・CVPR"
+    },
+    {
+      "name": "Gaussian Splat viewer on Rokid Glasses",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-27",
+      "field": "ARグラス・VR"
     }
   ]
 }
