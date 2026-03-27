@@ -210,6 +210,76 @@
       "company": "Meta",
       "date": "2026-03-26",
       "delivered": "2026-03-26"
+    },
+    {
+      "id": "openai-aws-stateful-runtime-frontier-2026-03-27",
+      "title": "OpenAI × AWS、AIエージェント向け「ステートフルランタイム環境」を共同構築——AWSがFrontierの独占クラウドに",
+      "company": "OpenAI / AWS",
+      "date": "2026-03-27",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "anthropic-claude-mythos-capybara-leak-2026-03-26",
+      "title": "Anthropic、次世代モデル「Claude Mythos（Capybara）」をデータ漏洩で存在が判明——Opusを超える「段階的変化」",
+      "company": "Anthropic",
+      "date": "2026-03-26",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "nvidia-nemoclaw-agent-platform-2026-03-27",
+      "title": "NVIDIA、オープンソースAIエージェント基盤「NemoClaw」発表——OpenClawにセキュリティ・プライバシー制御を追加",
+      "company": "NVIDIA",
+      "date": "2026-03-27",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "google-gemini-31-flash-live-search-live-global-2026-03-26",
+      "title": "Google「Gemini 3.1 Flash Live」リリース・Search Live 200カ国展開——リアルタイム音声・映像AIエージェント構築が可能に",
+      "company": "Google DeepMind",
+      "date": "2026-03-26",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "openai-chatgpt-ads-100m-arr-international-2026-03-26",
+      "title": "OpenAI、ChatGPT広告パイロットが6週間で年換算1億ドル突破——カナダ・豪州・NZへ国際展開へ",
+      "company": "OpenAI",
+      "date": "2026-03-26",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "openai-spud-pretraining-complete-2026-03-25",
+      "title": "OpenAI、次世代モデル「Spud」の事前学習完了——「経済を加速させる」とAltmanが社内メモで宣言",
+      "company": "OpenAI",
+      "date": "2026-03-25",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "mistral-voxtral-tts-2026-03-26",
+      "title": "Mistral AI「Voxtral TTS」リリース——ElevenLabsを超えるオープンウェイト音声合成、スマートウォッチでも動作",
+      "company": "Mistral AI",
+      "date": "2026-03-26",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "google-turboquant-memory-chip-stocks-2026-03-26",
+      "title": "Google「TurboQuant」がLLMメモリを6分の1に削減——メモリチップ株に衝撃",
+      "company": "Google Research",
+      "date": "2026-03-26",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "xai-grok-x-algorithm-integration-2026-03-26",
+      "title": "xAI、GrokをXの推薦アルゴリズムに完全統合——「Xの歴史上最も重要な変更」が来週ローンチ",
+      "company": "xAI",
+      "date": "2026-03-26",
+      "delivered": "2026-03-27"
+    },
+    {
+      "id": "meta-datacenter-135b-texas-louisiana-2026-03-27",
+      "title": "Meta、AIデータセンターへ1350億ドル投資継続——テキサス100億ドル増額・ルイジアナに7基のガス発電所建設へ",
+      "company": "Meta",
+      "date": "2026-03-27",
+      "delivered": "2026-03-27"
     }
   ]
 }
