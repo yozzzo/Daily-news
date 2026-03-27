@@ -240,6 +240,66 @@
       "company": "Tel Aviv University",
       "first_posted": "2026-03-26",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "NEO 侵襲型BCI（商業承認）",
+      "company": "Neuracle Medical Technology（博睿康医疗科技）",
+      "first_posted": "2026-03-27",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Kairo-CONAN",
+      "company": "東京大学医科学研究所",
+      "first_posted": "2026-03-27",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Everdrone E3",
+      "company": "Everdrone",
+      "first_posted": "2026-03-27",
+      "field": "ドローン"
+    },
+    {
+      "name": "Precision Neuroscience Layer 7",
+      "company": "Precision Neuroscience",
+      "first_posted": "2026-03-27",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "ETH Zurich Magnetic Microrobots",
+      "company": "ETH Zurich",
+      "first_posted": "2026-03-27",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "NHS Liquid Biopsy（ctDNA）",
+      "company": "NHS England",
+      "first_posted": "2026-03-27",
+      "field": "生物×IT"
+    },
+    {
+      "name": "XAG P150 Max",
+      "company": "XAG（極飞科技）",
+      "first_posted": "2026-03-27",
+      "field": "ドローン"
+    },
+    {
+      "name": "JiMED wiBMI",
+      "company": "JiMED Inc.",
+      "first_posted": "2026-03-27",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "InkSight",
+      "company": "TUM-LMU Munich",
+      "first_posted": "2026-03-27",
+      "field": "合成生物学"
+    },
+    {
+      "name": "MicroPort MedBot Toumai",
+      "company": "MicroPort MedBot（微创机器人）",
+      "first_posted": "2026-03-27",
+      "field": "ロボティクス×バイオ"
     }
   ]
 }
