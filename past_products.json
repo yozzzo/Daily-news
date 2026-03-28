@@ -300,6 +300,66 @@
       "company": "MicroPort MedBot（微创机器人）",
       "first_posted": "2026-03-27",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Matricelf バイオエンジニアリング脊髄インプラント",
+      "company": "Matricelf / Tel Aviv University",
+      "first_posted": "2026-03-28",
+      "field": "ロボティクス×バイオ / 技術×バイオ"
+    },
+    {
+      "name": "Merge Labs 超音波非侵襲型BCI",
+      "company": "Merge Labs",
+      "first_posted": "2026-03-28",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "BISC（Biological Interface System to Cortex）",
+      "company": "Kampto Neurotech / Columbia University / Stanford University",
+      "first_posted": "2026-03-28",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Earendil Labs AI生物製剤設計プラットフォーム",
+      "company": "Earendil Labs",
+      "first_posted": "2026-03-28",
+      "field": "生物×IT"
+    },
+    {
+      "name": "東京大学×早稲田大学 バイオハイブリッドハンド",
+      "company": "東京大学・早稲田大学",
+      "first_posted": "2026-03-28",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Iambic Therapeutics AI低分子創薬プラットフォーム",
+      "company": "Iambic Therapeutics",
+      "first_posted": "2026-03-28",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Biomemory × Catalog Technologies DNAデータストレージ",
+      "company": "Biomemory / Catalog Technologies",
+      "first_posted": "2026-03-28",
+      "field": "合成生物学"
+    },
+    {
+      "name": "JOUAV CW-25H 水素燃料電池VTOLドローン",
+      "company": "JOUAV",
+      "first_posted": "2026-03-28",
+      "field": "ドローン"
+    },
+    {
+      "name": "iLiNP® 脂質ナノ粒子製造システム",
+      "company": "信越化学工業 × 北海道大学",
+      "first_posted": "2026-03-28",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "GBrain Phin Stim 完全埋め込み型神経刺激システム",
+      "company": "GBrain",
+      "first_posted": "2026-03-28",
+      "field": "技術×バイオ / 脳波/BCI"
     }
   ]
 }
