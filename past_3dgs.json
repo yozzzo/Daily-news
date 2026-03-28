@@ -564,6 +564,174 @@
       "type": "コミュニティ",
       "first_posted": "2026-03-27",
       "field": "ARグラス・VR"
+    },
+    {
+      "name": "LGTM (Less Gaussians, Texture More)",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "4K/フィードフォワード"
+    },
+    {
+      "name": "GaussFusion",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "アーティファクト除去"
+    },
+    {
+      "name": "MoRGS",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "4DGS/ストリーミング"
+    },
+    {
+      "name": "Learning Explicit Continuous Motion",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "4DGS"
+    },
+    {
+      "name": "HyperGaussians",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "アバター"
+    },
+    {
+      "name": "Confidence-Based Mesh Extraction (CoMe)",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "メッシュ抽出"
+    },
+    {
+      "name": "AirSplat",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "NVS"
+    },
+    {
+      "name": "PhotoAgent",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "ロボット"
+    },
+    {
+      "name": "Instrument-Splatting++",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "医療/ロボット"
+    },
+    {
+      "name": "Fast undersampled dynamic MRI with GS",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "医療"
+    },
+    {
+      "name": "World Labs Marble 1億Splats",
+      "type": "ニュース",
+      "first_posted": "2026-03-28",
+      "field": "生成AI"
+    },
+    {
+      "name": "Vine FX After the Flood S2",
+      "type": "ニュース",
+      "first_posted": "2026-03-28",
+      "field": "映像制作"
+    },
+    {
+      "name": "Tencent HY3D Studio",
+      "type": "ニュース",
+      "first_posted": "2026-03-28",
+      "field": "3D生成"
+    },
+    {
+      "name": "3Dasset.io 無料公開",
+      "type": "ニュース",
+      "first_posted": "2026-03-28",
+      "field": "アセット"
+    },
+    {
+      "name": "SEI CMU 3DGS教育ブログ",
+      "type": "ニュース",
+      "first_posted": "2026-03-28",
+      "field": "教育"
+    },
+    {
+      "name": "Core11 LichtFeld Studio 支援延長",
+      "type": "ニュース",
+      "first_posted": "2026-03-28",
+      "field": "投資"
+    },
+    {
+      "name": "SplatViewer VR",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-28",
+      "field": "VRビューア"
+    },
+    {
+      "name": "Slice and Dice Tool",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-28",
+      "field": "開発ツール"
+    },
+    {
+      "name": "World Labs Marble × Meta AIグラス",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-28",
+      "field": "AR"
+    },
+    {
+      "name": "Note.com LFS MCMCハイブリッド解説",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-28",
+      "field": "日本語解説"
+    },
+    {
+      "name": "Apple ml-perceptual-3dgs コード公開",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-28",
+      "field": "オープンソース"
+    },
+    {
+      "name": "CVPR 2026 3DGS論文まとめ",
+      "type": "コミュニティ",
+      "first_posted": "2026-03-28",
+      "field": "まとめ"
+    },
+    {
+      "name": "ViewSplat",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "フィードフォワード"
+    },
+    {
+      "name": "2Xplat",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "フィードフォワード"
+    },
+    {
+      "name": "SGAD-SLAM",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "SLAM"
+    },
+    {
+      "name": "Predictive Photometric Uncertainty",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "不確実性推定"
+    },
+    {
+      "name": "Relaxed Rigidity with Ray-based Grouping",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "4DGS"
+    },
+    {
+      "name": "Accurate Point Measurement in 3DGS",
+      "type": "論文",
+      "first_posted": "2026-03-28",
+      "field": "測量"
     }
   ]
 }
