@@ -280,6 +280,76 @@
       "company": "Meta",
       "date": "2026-03-27",
       "delivered": "2026-03-27"
+    },
+    {
+      "id": "openai-codex-plugin-system-enterprise-2026-03-27",
+      "title": "OpenAI Codex、エンタープライズ向けプラグインシステムを正式導入——AIコーディングエージェントのガバナンスを強化",
+      "company": "OpenAI",
+      "date": "2026-03-27",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "anthropic-claude-mythos-official-confirmed-2026-03-28",
+      "title": "Anthropic、次世代モデル「Claude Mythos（Capybara）」の存在を公式認定——「段階的変化」を超えるサイバーセキュリティリスクで公開保留",
+      "company": "Anthropic",
+      "date": "2026-03-28",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "nvidia-vera-rubin-physical-ai-gtc2026-2026-03-28",
+      "title": "NVIDIA GTC 2026、「Vera Rubin」AIファクトリープラットフォーム発表——物理AI向け新フロンティアモデル群も公開",
+      "company": "NVIDIA",
+      "date": "2026-03-28",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "china-ai-openrouter-top6-xiaomi-deepseek-2026-03-28",
+      "title": "中国AIモデルがOpenRouterランキング上位6位を独占——Xiaomi MiMo-V2-ProがAnthropicを超えてトップに",
+      "company": "Xiaomi / DeepSeek / Stepfun",
+      "date": "2026-03-28",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "physical-intelligence-1b-raise-11b-valuation-2026-03-28",
+      "title": "Physical Intelligence（pi.ai）、評価額110億ドルで10億ドルの資金調達を協議中——4ヶ月で評価額が2倍に",
+      "company": "Physical Intelligence",
+      "date": "2026-03-28",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "figma-ai-agent-canvas-write-beta-2026-03-24",
+      "title": "Figma、AIエージェントによるキャンバス直接編集をオープンベータ公開——読み取り専用から「書き込み」へ",
+      "company": "Figma",
+      "date": "2026-03-24",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "cursor-marketplace-30-plugins-2026-03-27",
+      "title": "Cursor Marketplace、30以上の新プラグイン追加——Atlassian・Datadog・GitLab等と連携し開発ライフサイクルを一元化",
+      "company": "Cursor",
+      "date": "2026-03-27",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "huawei-ascend-950pr-bytedance-alibaba-order-2026-03-27",
+      "title": "Huawei「Ascend 950PR」AIチップ、ByteDance・Alibabaが大量発注へ——CUDAを模倣しNVIDIAの中国市場を侵食",
+      "company": "Huawei / ByteDance / Alibaba",
+      "date": "2026-03-27",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "openai-spud-pretraining-release-weeks-2026-03-28",
+      "title": "OpenAI「Spud」モデルの事前学習完了、数週間以内にリリースへ——GPT-6またはGPT-5.5として登場か",
+      "company": "OpenAI",
+      "date": "2026-03-28",
+      "delivered": "2026-03-28"
+    },
+    {
+      "id": "openai-model-spec-approach-published-2026-03-26",
+      "title": "OpenAI、Model Specの詳細アプローチを公開——AIの行動規範を透明化し安全性・自由度・説明責任のバランスを定義",
+      "company": "OpenAI",
+      "date": "2026-03-26",
+      "delivered": "2026-03-28"
     }
   ]
 }
