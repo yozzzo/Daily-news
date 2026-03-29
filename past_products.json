@@ -360,6 +360,66 @@
       "company": "GBrain",
       "first_posted": "2026-03-28",
       "field": "技術×バイオ / 脳波/BCI"
+    },
+    {
+      "name": "Insilico Medicine × Eli Lilly AI創薬ディール",
+      "company": "Insilico Medicine / Eli Lilly",
+      "first_posted": "2026-03-29",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Science Corp. PRIMA 網膜インプラント",
+      "company": "Science Corporation",
+      "first_posted": "2026-03-29",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Cortical Labs CL1 脳細胞データセンター",
+      "company": "Cortical Labs",
+      "first_posted": "2026-03-29",
+      "field": "合成生物学 / バイオコンピューティング"
+    },
+    {
+      "name": "HOBIT 体内生きた薬局インプラント",
+      "company": "Rice大学 / Carnegie Mellon大学 / Northwestern大学",
+      "first_posted": "2026-03-29",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "NUS AI遺伝子編集ツール（SsdAtox強化版）",
+      "company": "NUS Medicine",
+      "first_posted": "2026-03-29",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Versius Plus 手術ロボット",
+      "company": "CMR Surgical",
+      "first_posted": "2026-03-29",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Senti Biosciences SENTI-202 遺伝子回路",
+      "company": "Senti Biosciences",
+      "first_posted": "2026-03-29",
+      "field": "合成生物学"
+    },
+    {
+      "name": "東京理科大 汗発電ウェアラブルパッチ",
+      "company": "東京理科大学",
+      "first_posted": "2026-03-29",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "DrN-600 eVTOLドローン",
+      "company": "AIR × ST Engineering",
+      "first_posted": "2026-03-29",
+      "field": "ドローン"
+    },
+    {
+      "name": "インド 人間搭乗型ドローン救急車",
+      "company": "アンドラ・プラデーシュ州政府 × アンナ大学",
+      "first_posted": "2026-03-29",
+      "field": "ドローン"
     }
   ]
 }
