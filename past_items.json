@@ -350,6 +350,76 @@
       "company": "OpenAI",
       "date": "2026-03-26",
       "delivered": "2026-03-28"
+    },
+    {
+      "id": "eli-lilly-insilico-ai-drug-discovery-275b-2026-03-29",
+      "title": "Eli Lilly × Insilico Medicine — AI創薬で最大27.5億ドルの商業化契約締結",
+      "company": "Eli Lilly / Insilico Medicine",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "nvidia-vera-rubin-space-1-orbital-datacenter-2026-03-29",
+      "title": "NVIDIA「Vera Rubin Space-1」— 宇宙軌道上データセンター向けAIコンピューティングモジュール発表",
+      "company": "NVIDIA",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "microsoft-agent-365-m365-e7-governance-2026-03-29",
+      "title": "Microsoft「Agent 365」＋「Microsoft 365 E7」— AIエージェントのガバナンス基盤と最上位プランを発表",
+      "company": "Microsoft",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "google-agent-smith-internal-tool-restrict-2026-03-28",
+      "title": "Google「Agent Smith」— 社内AIコーディングエージェントが人気殺到でアクセス制限",
+      "company": "Google",
+      "date": "2026-03-28",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "ai-price-war-llm-cost-collapse-2026-03-29",
+      "title": "AI価格戦争2026 — LLMコスト90〜97%削減、Anthropicが67%値下げ・Gartner「2030年に100倍効率化」予測",
+      "company": "業界全体",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "nvidia-groq3-lpu-35x-inference-gtc2026-2026-03-29",
+      "title": "NVIDIA × Groq 3 LPU — GTC 2026でGPU比35倍高速推論を実証、異種AIコンピューティングへ移行",
+      "company": "NVIDIA",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "openai-spud-ipo-prep-sora-reality-check-2026-03-29",
+      "title": "OpenAI「Spud」— IPO準備と全リソース集中、数週間以内に次世代モデルをリリースへ",
+      "company": "OpenAI",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "microsoft-azure-copilot-migration-agent-2026-03-29",
+      "title": "Microsoft「Azure Copilot Migration Agent」— VMware移行をAIが自律実行",
+      "company": "Microsoft",
+      "date": "2026-03-29",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "github-copilot-cli-v1013-timeline-picker-2026-03-27",
+      "title": "GitHub Copilot CLI v1.0.13-1 — 会話履歴タイムラインピッカー・MCP信頼性向上・高速起動",
+      "company": "GitHub / Microsoft",
+      "date": "2026-03-27",
+      "delivered": "2026-03-29"
+    },
+    {
+      "id": "anthropic-economic-index-learning-curves-2026-03-25",
+      "title": "Anthropic 経済インデックス「Learning Curves」— AI熟練者と初心者の格差10%、930万人の雇用リスク",
+      "company": "Anthropic",
+      "date": "2026-03-25",
+      "delivered": "2026-03-29"
     }
   ]
 }
