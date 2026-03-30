@@ -420,6 +420,66 @@
       "company": "アンドラ・プラデーシュ州政府 × アンナ大学",
       "first_posted": "2026-03-29",
       "field": "ドローン"
+    },
+    {
+      "name": "Element Biosciences VITARI",
+      "company": "Element Biosciences",
+      "first_posted": "2026-03-30",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Generate Biomedicines",
+      "company": "Generate Biomedicines",
+      "first_posted": "2026-03-30",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Rubi Laboratories",
+      "company": "Rubi Laboratories",
+      "first_posted": "2026-03-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Strand Therapeutics STX-001",
+      "company": "Strand Therapeutics",
+      "first_posted": "2026-03-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Tune Therapeutics TUNE-401",
+      "company": "Tune Therapeutics",
+      "first_posted": "2026-03-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "EHang EH216-S",
+      "company": "EHang",
+      "first_posted": "2026-03-30",
+      "field": "ドローン"
+    },
+    {
+      "name": "bit.bio",
+      "company": "bit.bio",
+      "first_posted": "2026-03-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "inne Minilab",
+      "company": "inne",
+      "first_posted": "2026-03-30",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "LumiMind",
+      "company": "LumiMind",
+      "first_posted": "2026-03-30",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "MOLCURE",
+      "company": "MOLCURE Inc.",
+      "first_posted": "2026-03-30",
+      "field": "生物×IT"
     }
   ]
 }
