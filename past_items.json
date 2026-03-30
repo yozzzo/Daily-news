@@ -420,6 +420,76 @@
       "company": "Anthropic",
       "date": "2026-03-25",
       "delivered": "2026-03-29"
+    },
+    {
+      "id": "microsoft-copilot-gpt-claude-critique-cowork-2026-03-30",
+      "title": "Microsoft Copilot、GPTとClaudeを組み合わせた「Critique」機能を搭載——Copilot Coworkも正式提供開始",
+      "company": "Microsoft",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "xai-all-cofounders-departed-2026-03-30",
+      "title": "xAI、共同創設者11名全員が退社——イーロン・マスク氏のみが残る",
+      "company": "xAI",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "rebellions-400m-pre-ipo-ai-chip-2026-03-30",
+      "title": "韓国AIチップ企業Rebellions、IPO前調達で4億ドル——評価額23億ドルでNVIDIA対抗へ",
+      "company": "Rebellions",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "google-adk-java-100-ai-agents-2026-03-30",
+      "title": "Google、AIエージェント開発キット「ADK for Java 1.0.0」を正式リリース",
+      "company": "Google DeepMind",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "sycamore-labs-65m-agent-os-2026-03-30",
+      "title": "Sycamore Labs、エンタープライズAIエージェント向け「Agent OS」構築で6500万ドル調達",
+      "company": "Sycamore Labs",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "nvidia-vera-rubin-inference-chips-production-2026-03-30",
+      "title": "NVIDIA、次世代推論チップ群を正式発表——Vera Rubinプラットフォームへ生産移行",
+      "company": "NVIDIA",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "deepseek-7hour-outage-2026-03-30",
+      "title": "DeepSeek、7時間超の大規模障害——中国AI代表格の信頼性に疑問符",
+      "company": "DeepSeek",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "starcloud-170m-orbital-datacenter-2026-03-30",
+      "title": "Starcloud、宇宙軌道上データセンターで1.7億ドル調達——ユニコーン企業に",
+      "company": "Starcloud",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "openai-chatgpt-dns-security-patch-2026-03-30",
+      "title": "OpenAI、ChatGPTのDNSデータ流出脆弱性を修正——エンタープライズAIのセキュリティリスクが浮き彫りに",
+      "company": "OpenAI",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
+    },
+    {
+      "id": "apple-ios265-no-siri-ai-ios27-2026-03-30",
+      "title": "Apple、iOS 26.5ベータにSiri AI新機能なし——本格的なAI強化はiOS 27へ先送り",
+      "company": "Apple",
+      "date": "2026-03-30",
+      "delivered": "2026-03-30"
     }
   ]
 }
