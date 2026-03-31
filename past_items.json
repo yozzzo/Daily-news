@@ -490,6 +490,76 @@
       "company": "Apple",
       "date": "2026-03-30",
       "delivered": "2026-03-30"
+    },
+    {
+      "id": "openai-122b-funding-852b-valuation-2026-03-31",
+      "title": "OpenAI、1220億ドル調達完了——評価額8520億ドル・月収20億ドルを突破しIPOへ",
+      "company": "OpenAI",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "anthropic-claude-code-source-leak-npm-2026-03-31",
+      "title": "Anthropic「Claude Code」ソースコード流出——npmソースマップから51.2万行が漏洩・未公開機能KAIROSやBuddyが判明",
+      "company": "Anthropic",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "nvidia-marvell-2b-nvlink-fusion-2026-03-31",
+      "title": "NVIDIA、Marvellに20億ドル投資——NVLink FusionでカスタムXPUを統合し異種AIチップ共存エコシステムを構築",
+      "company": "NVIDIA / Marvell",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "google-veo-31-lite-cost-half-2026-03-31",
+      "title": "Google「Veo 3.1 Lite」リリース——AI動画生成コストを半額以下に・Gemini APIで即日利用可能",
+      "company": "Google DeepMind",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "cursor-self-hosted-cloud-agents-enterprise-2026-03-31",
+      "title": "Cursor、セルフホスト型クラウドエージェントを正式提供——Fortune 500のセキュリティ・コンプライアンス要件に対応",
+      "company": "Cursor",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "figure-ai-openai-split-humanoid-2026-03-31",
+      "title": "Figure AI、OpenAIとの提携を解消——「ほぼ価値なし」と判断・OpenAIが自社でヒューマノイドロボット開発へ",
+      "company": "Figure AI / OpenAI",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "mistral-voxtral-tts-official-2026-03-31",
+      "title": "Mistral AI「Voxtral TTS」正式リリース——オープンウェイト4B多言語音声合成・ElevenLabsを超える品質",
+      "company": "Mistral AI",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "jfrog-cursor-marketplace-security-plugin-2026-03-31",
+      "title": "JFrog、Cursor Marketplaceにセキュリティプラグインを提供——100万人超のAI開発者にサプライチェーンセキュリティを統合",
+      "company": "JFrog / Cursor",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "deepseek-second-outage-v4-prep-2026-03-31",
+      "title": "DeepSeek、数日内に2度目の大規模障害——史上最長7時間超・V4リリース準備との関連も浮上",
+      "company": "DeepSeek",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
+    },
+    {
+      "id": "micronity-22oku-ai-succession-2026-03-31",
+      "title": "マイクロニティ、22億円を調達——AIエージェントで中小ソフトウェア企業の事業承継を自動化",
+      "company": "マイクロニティ",
+      "date": "2026-03-31",
+      "delivered": "2026-03-31"
     }
   ]
 }
