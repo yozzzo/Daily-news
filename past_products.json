@@ -540,6 +540,66 @@
       "company": "Lifeward",
       "first_posted": "2026-03-31",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "AlphaGenome",
+      "company": "Google DeepMind",
+      "first_posted": "2026-04-01",
+      "field": "生物×IT"
+    },
+    {
+      "name": "腸脳インプラント（Gut-Brain Implant）",
+      "company": "Dartmouth Engineering / University of Cambridge",
+      "first_posted": "2026-04-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Neuralink N1 implant",
+      "company": "Neuralink",
+      "first_posted": "2026-04-01",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Impli 体内埋め込み型ホルモンセンサー",
+      "company": "Impli",
+      "first_posted": "2026-04-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "光合成性生体材料（Photosynthetic Living Material）",
+      "company": "ETH Zurich関連研究者ら（多国籍）",
+      "first_posted": "2026-04-01",
+      "field": "合成生物学"
+    },
+    {
+      "name": "AutoFlight V2000CG CarryAll",
+      "company": "AutoFlight",
+      "first_posted": "2026-04-01",
+      "field": "ドローン"
+    },
+    {
+      "name": "NeuroXess BCIインプラント",
+      "company": "NeuroXess",
+      "first_posted": "2026-04-01",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "ETH Zurich 筋骨格バイオハイブリッドシステム",
+      "company": "ETH Zurich Soft Robotics Lab / IBEC Barcelona",
+      "first_posted": "2026-04-01",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "ふじのくにHOPEオンコパネル",
+      "company": "エスアールエル / 静岡がんセンター",
+      "first_posted": "2026-04-01",
+      "field": "生物×IT"
+    },
+    {
+      "name": "PROPEL",
+      "company": "EUコンソーシアム（EIC Pathfinder）",
+      "first_posted": "2026-04-01",
+      "field": "合成生物学"
     }
   ]
 }
