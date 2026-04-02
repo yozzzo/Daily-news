@@ -600,6 +600,66 @@
       "company": "EUコンソーシアム（EIC Pathfinder）",
       "first_posted": "2026-04-01",
       "field": "合成生物学"
+    },
+    {
+      "name": "MIT Myoneural Actuator（MNA）",
+      "company": "MIT Media Lab / K. Lisa Yang Center for Bionics",
+      "first_posted": "2026-04-02",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Epia Neuro",
+      "company": "Epia Neuro",
+      "first_posted": "2026-04-02",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "フィジオロガス・テクノロジーズ 給水不要在宅透析装置",
+      "company": "フィジオロガス・テクノロジーズ株式会社",
+      "first_posted": "2026-04-02",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Epoch Biodesign",
+      "company": "Epoch Biodesign",
+      "first_posted": "2026-04-02",
+      "field": "合成生物学"
+    },
+    {
+      "name": "StairMed Technology",
+      "company": "StairMed Technology（阶梯医疗）",
+      "first_posted": "2026-04-02",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "LEM Surgical Dynamis",
+      "company": "LEM Surgical",
+      "first_posted": "2026-04-02",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Sensofusion Tactical Drone Factory",
+      "company": "Sensofusion",
+      "first_posted": "2026-04-02",
+      "field": "ドローン"
+    },
+    {
+      "name": "Mid-America Transplant 臓器輸送ドローン回廊",
+      "company": "Mid-America Transplant × Valkyrie UAS Solutions × Missouri S&T",
+      "first_posted": "2026-04-02",
+      "field": "ドローン"
+    },
+    {
+      "name": "ARAYA × Fluent BCI 音声デコーディングBCI",
+      "company": "株式会社ARAYA × Fluent BCI",
+      "first_posted": "2026-04-02",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Vaxxas HD-MAP",
+      "company": "Vaxxas",
+      "first_posted": "2026-04-02",
+      "field": "技術×バイオ"
     }
   ]
 }
