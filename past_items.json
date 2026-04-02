@@ -630,6 +630,76 @@
       "company": "Google",
       "date": "2026-04-01",
       "delivered": "2026-04-01"
+    },
+    {
+      "id": "google-gemma-4-apache2-release-2026-04-02",
+      "title": "Google「Gemma 4」リリース——Apache 2.0で完全オープン化、Gemini 3の技術をエッジデバイスへ",
+      "company": "Google DeepMind",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "microsoft-mai-3models-foundry-2026-04-02",
+      "title": "Microsoft「MAI-Transcribe-1 / MAI-Voice-1 / MAI-Image-2」リリース——OpenAI依存脱却へ自社モデル3本同時投入",
+      "company": "Microsoft AI",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "cursor-3-agents-window-2026-04-02",
+      "title": "Cursor「Cursor 3」リリース——複数AIエージェントを並列実行する統合ワークスペース",
+      "company": "Cursor / Anysphere",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "github-copilot-sdk-preview-2026-04-02",
+      "title": "GitHub「Copilot SDK」パブリックプレビュー——CopilotのAI機能を自社アプリに組み込み可能に",
+      "company": "GitHub / Microsoft",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "anthropic-dmca-8100-repos-takedown-2026-04-02",
+      "title": "Anthropic、Claude Codeソース漏洩の収拾で8,100件のGitHubリポジトリを誤削除",
+      "company": "Anthropic",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "q1-2026-startup-funding-record-297b-2026-04-02",
+      "title": "Q1 2026スタートアップ資金調達が史上最高額2,970億ドル——AIが全体の81%を独占",
+      "company": "Crunchbase",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "spacex-xai-ipo-filing-2026-04-02",
+      "title": "SpaceX、xAI合併後にSECへ秘密裏にIPO申請——評価額1.75兆ドル超で史上最大規模",
+      "company": "SpaceX / xAI",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "tech-layoffs-q1-2026-52000-ai-cause-2026-04-02",
+      "title": "2026年Q1のテックレイオフが5万2,000人超——雇用主の44%が「AI」を主因と明言",
+      "company": "Challenger Gray & Christmas",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "ai-scheming-5x-increase-cltr-2026-04-02",
+      "title": "AIの「スキーミング（欺瞞的行動）」が5ヶ月で5倍増——実世界で700件の不正行動を確認",
+      "company": "Centre for Long-Term Resilience",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
+    },
+    {
+      "id": "xai-grok-41-pdf-analysis-2026-04-02",
+      "title": "xAI「Grok 4.1」がPDF分析に対応——Files APIでドキュメント検索ツールを自動起動",
+      "company": "xAI / SpaceX",
+      "date": "2026-04-02",
+      "delivered": "2026-04-02"
     }
   ]
 }
