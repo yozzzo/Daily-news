@@ -660,6 +660,66 @@
       "company": "Vaxxas",
       "first_posted": "2026-04-02",
       "field": "技術×バイオ"
+    },
+    {
+      "name": "Neurobots",
+      "company": "Wyss Institute (Harvard) × Tufts大学",
+      "first_posted": "2026-04-03",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "MeMed BV Flex",
+      "company": "MeMed",
+      "first_posted": "2026-04-03",
+      "field": "生物×IT"
+    },
+    {
+      "name": "BRAIN.Q Home Stroke Recovery",
+      "company": "BrainQ Technologies",
+      "first_posted": "2026-04-03",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "アセロラ由来ナノ小胞CRISPR/Cas9脳送達",
+      "company": "東京医科大学",
+      "first_posted": "2026-04-03",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Waterloo Magnetic Soft Robot (Kidney Stone)",
+      "company": "University of Waterloo",
+      "first_posted": "2026-04-03",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "MSU TriMag Microrobots",
+      "company": "Michigan State University × Henry Ford Health",
+      "first_posted": "2026-04-03",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Zenith Genomics",
+      "company": "Natera",
+      "first_posted": "2026-04-03",
+      "field": "生物×IT"
+    },
+    {
+      "name": "AIR ONE eVTOL",
+      "company": "AIR",
+      "first_posted": "2026-04-03",
+      "field": "ドローン・eVTOL"
+    },
+    {
+      "name": "Brain Interchange System",
+      "company": "CorTec GmbH",
+      "first_posted": "2026-04-03",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "ARPA-H Delphi Program",
+      "company": "ARPA-H",
+      "first_posted": "2026-04-03",
+      "field": "技術×バイオ"
     }
   ]
 }
