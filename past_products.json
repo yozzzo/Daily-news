@@ -720,6 +720,66 @@
       "company": "ARPA-H",
       "first_posted": "2026-04-03",
       "field": "技術×バイオ"
+    },
+    {
+      "name": "CL1 Biological Data Centre",
+      "company": "Cortical Labs",
+      "first_posted": "2026-04-04",
+      "field": "合成生物学 / バイオコンピューティング"
+    },
+    {
+      "name": "RegCell Treg Cell Therapy Platform",
+      "company": "RegCell Inc.",
+      "first_posted": "2026-04-04",
+      "field": "生物×IT / 細胞療法"
+    },
+    {
+      "name": "Terra A1 Interceptor Drone",
+      "company": "Terra Drone × Amazing Drones",
+      "first_posted": "2026-04-04",
+      "field": "ドローン（防衛・迎撃）"
+    },
+    {
+      "name": "AI AutoVision",
+      "company": "Diagens Biotechnology",
+      "first_posted": "2026-04-04",
+      "field": "生物×IT / AI診断"
+    },
+    {
+      "name": "Guardian DFR Drone",
+      "company": "BRINC",
+      "first_posted": "2026-04-04",
+      "field": "ドローン（緊急対応）"
+    },
+    {
+      "name": "DOT Therapeutic BCI",
+      "company": "Motif Neurotech",
+      "first_posted": "2026-04-04",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "LIBERTY Endovascular Robot",
+      "company": "Microbot Medical",
+      "first_posted": "2026-04-04",
+      "field": "ロボティクス×バイオ（血管内手術）"
+    },
+    {
+      "name": "AI Liquid Biopsy for Liver Fibrosis",
+      "company": "Johns Hopkins Medicine",
+      "first_posted": "2026-04-04",
+      "field": "生物×IT / 液体生検"
+    },
+    {
+      "name": "EvORanker",
+      "company": "Hebrew University of Jerusalem",
+      "first_posted": "2026-04-04",
+      "field": "生物×IT / 希少疾患診断"
+    },
+    {
+      "name": "Ceglu Organoid Collaborative Research Platform",
+      "company": "積水化学工業 × ニコン",
+      "first_posted": "2026-04-04",
+      "field": "技術×バイオ / オルガノイド"
     }
   ]
 }
