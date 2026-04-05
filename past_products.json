@@ -780,6 +780,67 @@
       "company": "積水化学工業 × ニコン",
       "first_posted": "2026-04-04",
       "field": "技術×バイオ / オルガノイド"
+    },
+    {
+      "name": "Anduril YFQ-44A Fury",
+      "company": "Anduril Industries",
+      "first_posted": "2026-04-05",
+      "field": "防衛ドローン"
+    },
+    {
+      "name": "Skycutter SkyFall Shrike 10 Fiber",
+      "company": "Skycutter / SkyFall",
+      "first_posted": "2026-04-05",
+      "field": "防衛ドローン"
+    },
+    {
+      "name": "Form Energy Iron Air Battery 30GWh",
+      "company": "Form Energy",
+      "first_posted": "2026-04-05",
+      "field": "エネルギー貯蔵"
+    },
+    {
+      "name": "Vast Haven-1",
+      "company": "Vast Space",
+      "first_posted": "2026-04-05",
+      "field": "宇宙インフラ"
+    },
+    {
+      "name": "EPFL CSEM Perovskite Triple Junction 30.02%",
+      "company": "EPFL / CSEM",
+      "first_posted": "2026-04-05",
+      "field": "クリーンエネルギー"
+    },
+    {
+      "name": "Starlab Commercial Space Station",
+      "company": "Starlab Space (Voyager Space x Airbus)",
+      "first_posted": "2026-04-05",
+      "field": "宇宙インフラ"
+    },
+    {
+      "name": "Mach Industries Divergent Venom",
+      "company": "Mach Industries / Divergent Technologies",
+      "first_posted": "2026-04-05",
+      "field": "防衛ドローン"
+    },
+    {
+      "name": "Quaise Energy Project Obsidian",
+      "company": "Quaise Energy",
+      "first_posted": "2026-04-05",
+      "field": "クリーンエネルギー"
+    },
+    {
+      "name": "Rondo Energy Covestro Heat Battery",
+      "company": "Rondo Energy / Covestro",
+      "first_posted": "2026-04-05",
+      "field": "クリーンエネルギー"
+    },
+    {
+      "name": "Isar Aerospace Spectrum Onward and Upward",
+      "company": "Isar Aerospace",
+      "first_posted": "2026-04-05",
+      "field": "宇宙輸送"
     }
-  ]
+  ],
+  "last_updated": "2026-04-05"
 }
