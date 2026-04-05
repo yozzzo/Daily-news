@@ -732,6 +732,286 @@
       "type": "論文",
       "first_posted": "2026-03-28",
       "field": "測量"
+    },
+    {
+      "name": "GEMM-GS",
+      "type": "論文",
+      "field": "高速化",
+      "url": "https://arxiv.org/abs/2604.02120",
+      "description": "テンソルコアを活用したGPU上での3DGS高速化手法。GEMM変換により描画パイプラインを再設計",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "TRiGS",
+      "type": "論文",
+      "field": "4DGS",
+      "url": "https://arxiv.org/abs/2604.00538",
+      "description": "SE(3)剛体変換を統合した4DGS。1200フレームの長尺動画シーン再構成に対応",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "F3DGS",
+      "type": "論文",
+      "field": "分散・マルチエージェント",
+      "url": "https://arxiv.org/abs/2604.01605",
+      "description": "連合学習（フェデレーテッドラーニング）を使ったマルチエージェント分散3D再構成",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Palette-Based Color Grading for 3DGS",
+      "type": "論文",
+      "field": "編集",
+      "url": "https://arxiv.org/abs/2604.01551",
+      "description": "パレットベースのリアルタイムカラーグレーディング。3DGSシーンをリアルタイムで色調整可能",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "ARGS",
+      "type": "論文",
+      "field": "生成",
+      "url": "https://arxiv.org/abs/2604.00494",
+      "description": "自己回帰型Gaussian Splatting生成フレームワーク。並列プログレッシブデコーディングで高品質3D生成",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "TRACE",
+      "type": "論文",
+      "field": "編集",
+      "url": "https://arxiv.org/abs/2604.01207",
+      "description": "接線ベクトルを使った高忠実度3Dシーン編集フレームワーク",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Director",
+      "type": "論文",
+      "field": "4DGS・人物",
+      "url": "https://arxiv.org/abs/2604.01678",
+      "description": "インスタンス認識型4DGS。動的シーンで人物パフォーマンスと高品質レンダリングを統合",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "MotionScale",
+      "type": "論文",
+      "field": "4DGS",
+      "url": "https://arxiv.org/abs/2603.29296",
+      "description": "大規模動的シーン向けスケーラブル4DGSフレームワーク。CVPR 2026採択",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Diff3R",
+      "type": "論文",
+      "field": "フィードフォワード3DGS",
+      "url": "https://arxiv.org/abs/2604.01030",
+      "description": "不確実性認識型微分可能最適化を組み合わせたフィードフォワード3DGS",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "FaCT-GS",
+      "type": "論文",
+      "field": "医療・CT",
+      "url": "https://arxiv.org/abs/2604.01844",
+      "description": "Gaussian Splattingを使った高速・スケーラブルなCT再構成フレームワーク",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "GS^2",
+      "type": "論文",
+      "field": "圧縮・最適化",
+      "url": "https://arxiv.org/abs/2604.01884",
+      "description": "グラフベースの空間分布最適化によるコンパクト3DGS。少ないGaussian点数で高品質レンダリング",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "LESV",
+      "type": "論文",
+      "field": "言語+3D",
+      "url": "https://arxiv.org/abs/2604.01388",
+      "description": "スパースボクセルと言語特徴を融合したオープン語彙3Dシーン理解",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "GeoHCC",
+      "type": "論文",
+      "field": "圧縮",
+      "url": "https://arxiv.org/abs/2603.28431",
+      "description": "幾何学的関係を活用した階層的コンテキスト圧縮で3DGSファイルサイズを大幅削減",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Coko-SLAM",
+      "type": "論文",
+      "field": "SLAM・ロボット",
+      "url": "https://arxiv.org/abs/2604.00804",
+      "description": "コンパクトキーフレーム最適化マルチエージェントGaussian Splatting SLAM。帯域制限環境でのロボット展開に対応",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "EgoSim",
+      "type": "論文",
+      "field": "ロボット・シミュレーション",
+      "url": "https://arxiv.org/abs/2604.01001",
+      "description": "3DGSを使った自我中心世界シミュレーター。ロボットアームと人間の手のインタラクション動画生成",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "ReSplat",
+      "type": "論文",
+      "field": "フィードフォワード3DGS",
+      "url": "https://github.com/cvg/resplat",
+      "description": "再帰型フィードフォワード3DGS。レンダリング誤差をフィードバックとして反復的にGaussianを精緻化",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "DJI Reality",
+      "type": "ツール",
+      "field": "ドローン・ビューアー",
+      "url": "https://dronedj.com/2026/04/02/dji-reality-drone-3d-mapping/",
+      "description": "DJI Terraに統合された無料3Dモデルビューアー。メッシュ・点群・3DGSを即時表示、ログイン不要",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "DJI Avata 360",
+      "type": "ハードウェア",
+      "field": "ドローン",
+      "url": "https://www.bhphotovideo.com/explora/video/news/dji-announces-the-avata-360-an-8k-360-degree-fpv-drone",
+      "description": "DJIの8K 360度FPVドローン。3DGSデータ収集に最適な360度映像を8K/60fpsで撮影可能",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "PlayCanvas + Gracia 4DGS統合",
+      "type": "ツール",
+      "field": "4DGS・Webエンジン",
+      "url": "https://80.lv/articles/playcanvas-can-now-load-gracia-s-4d-gaussian-splats",
+      "description": "オープンソースWebエンジンPlayCanvasがGracia 4DGSをネイティブサポート。ブラウザ上でリアルタイムライティング・シャドウ付き4DGS再生が可能に",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Gracia PortAventura 4DGS体験",
+      "type": "ニュース",
+      "field": "4DGS・エンターテインメント",
+      "url": "https://radiancefields.com/gracia-launches-4dgs-experience-at-portaventura-park",
+      "description": "スペインのテーマパーク「PortAventura」に世界初のリアルタイム4DGSデジタルヒューマンが登場。恐竜探検をガイドするULUMキャラクター",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Babylon.js V9.1",
+      "type": "ツール",
+      "field": "Webエンジン",
+      "url": "https://radiancefields.com/babylon.js-releases-v9.1",
+      "description": "ダウンサンプリング球面調和関数（SH）生成とランタイムSH次数制御を追加。Webブラウザ上での3DGS品質チューニングが可能に",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "World Labs Marble 1.1 / 1.1 Plus",
+      "type": "ツール",
+      "field": "3D世界生成",
+      "url": "https://radiancefields.com/world-labs-releases-marble-1.1-and-marble-1.1-plus",
+      "description": "テキストから3D世界を生成するMarbleが1.1にアップデート。1.1 Plusは動的に空間を拡張し、より大きな世界を生成",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "SplatRenderer v1.1.0",
+      "type": "ツール",
+      "field": "UE5プラグイン・4DGS",
+      "url": "https://radiancefields.com/splatrenderer-v1.1.0-adds-level-sequencer-for-4dgs-in-unreal-engine-5",
+      "description": "UE5のLevel Sequencerで4DGSのキーフレームアニメーション制御が可能に。SplatScale・ScrubFrame・PlaybackSpeedをシーケンサーで直接制御",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "SplataraScan on SideQuest",
+      "type": "ツール",
+      "field": "VR・スキャン",
+      "url": "https://radiancefields.com/splatarascan-arrives-on-sidequest",
+      "description": "Meta Quest向けGaussian Splat 3Dスキャナー＆マルチプレイヤービューアーがSideQuestで公開。P2P接続で複数ユーザーが同じGSシーンに同時入場可能",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Cesium KHR_gaussian_splatting実装",
+      "type": "ニュース",
+      "field": "標準化",
+      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
+      "description": "CesiumJS 1.139とCesium for Unreal v2.23.0にglTF KHR_gaussian_splatting拡張のサポートが実装。地理空間・インフラ可視化での3DGS標準化が加速",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Corridor Crew「THIS is the Biggest Thing Since CGI」",
+      "type": "コミュニティ",
+      "field": "YouTube・啓発",
+      "url": "https://www.youtube.com/watch?v=X8yRlA7jqEQ",
+      "description": "VFX解説チャンネルCorridor Crewが4D Gaussian Splattingを「CGI以来最大の革命」と紹介。大きな話題に",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "4DGS.jp（IZUTSUYA）",
+      "type": "ニュース",
+      "field": "日本・4DGS",
+      "url": "https://prtimes.jp/main/html/rd/p/000000027.000138121.html",
+      "description": "日本のIZUTSUYAがスマホ1台で4DGSデータを数十秒で生成・投稿・視聴できる空間映像配信プラットフォーム「4DGS.jp」を発表",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "共同通信3DGS大分火災検証",
+      "type": "ニュース",
+      "field": "日本・報道",
+      "url": "https://www.sanyonews.jp/article/1895966",
+      "description": "共同通信と一橋大が1781枚の航空写真から3DGSで大分火災現場を立体化。JIMA賞グランプリ受賞",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "大日本印刷 伏見稲荷大社3DGSメタバース化",
+      "type": "ニュース",
+      "field": "日本・文化財",
+      "url": "https://www.newprinet.co.jp/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%8D%B0%E5%88%B7%E3%80%80%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%A7%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE%E3%82%92%E3%83%A1",
+      "description": "大日本印刷が大阪・関西万博で伏見稲荷大社を3DGSでメタバース化。高精度・低コストなデジタル化を実現",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Arcturus スポーツ放送ラジアンスフィールドインタビュー",
+      "type": "ニュース",
+      "field": "スポーツ放送",
+      "url": "https://radiancefields.com/inside-arcturus-how-radiance-fields-are-reshaping-volumetric-sports-broadcasts",
+      "description": "Arcturusがラジアンスフィールドを使ったボリュメトリックスポーツ放送の実用化について詳細インタビュー",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "Blurry LoD Streaming",
+      "type": "ツール",
+      "field": "ストリーミング",
+      "url": "https://radiancefields.com/blurry-adds-level-of-detail-streaming-and-revamps-pricing",
+      "description": "ブラウザ上で4000万以上のSplatシーンをLoD（詳細度）ストリーミングで処理。無料枠が30GBに拡大",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "AR Splat by AR Code",
+      "type": "ツール",
+      "field": "AR・QRコード",
+      "url": "https://ar-code.com/blog/ar-splat-a-new-3d-scanning-to-augmented-reality-solution-based-on-gaussian-splatting",
+      "description": "動画をアップロードするだけでGaussian Splattingベースの3DシーンをAR QRコードとして即時共有",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "COLMAP 4.0",
+      "type": "ツール",
+      "field": "3D再構成",
+      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
+      "description": "3D再構成の定番ツールCOLMAP 4.0リリース。GLOMAPネイティブサポートを追加",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "vkSplatting 2026.1",
+      "type": "ツール",
+      "field": "Vulkan・レンダリング",
+      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
+      "description": "NVIDIAのオープンソースVulkan Gaussian Splattingリファレンス実装が2026年初アップデート",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "fVDB V0.4",
+      "type": "ツール",
+      "field": "NVIDIAライブラリ",
+      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
+      "description": "NVIDIAのfVDBがV0.4リリース。MCMCと3DGUTメソッドをライブラリに追加",
+      "date": "2026-04-05"
     }
   ]
 }
