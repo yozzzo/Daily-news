@@ -850,6 +850,76 @@
       "company": "Meta",
       "country": "米国",
       "url": "https://winbuzzer.com/2026/04/04/meta-superintelligence-labs-builds-hardware-team-ai-push-xcxwbn/"
+    },
+    {
+      "id": "openai-gpt-image-2-leaked-lmarena-2026-04-04",
+      "title": "OpenAI「GPT-Image-2」がLMArenaに誤公開——フォトリアルな画像生成でNano Banana Proを凌駕",
+      "company": "OpenAI（米国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "anthropic-claude-opus46-1m-context-120features-2026-04-05",
+      "title": "AnthropicがQ1 2026で120以上の新機能を発表——Claude Opus 4.6に100万トークンコンテキストが標準提供",
+      "company": "Anthropic（米国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "utah-ai-prescription-renewal-first-state-2026-04-05",
+      "title": "米ユタ州、AIによる精神科薬の処方更新を全米初承認——月額$19でAIが医師代わりに",
+      "company": "Legion Health / Doctronic（米国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "salesforce-slackbot-ai-agent-ga-2026-04-05",
+      "title": "SalesforceがSlackbotをフルAIエージェントに刷新——30以上の新機能が一般提供開始",
+      "company": "Salesforce（米国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "openai-chatgpt-carplay-ios264-2026-04-02",
+      "title": "OpenAI、ChatGPTをApple CarPlayに全プラン向けグローバル展開——iOS 26.4以降で車内ハンズフリーAI",
+      "company": "OpenAI（米国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "baidu-apollo-go-250k-rides-weekly-2026-04-05",
+      "title": "BaiduのApollo Goがロボタクシー週250,000回乗車を達成——Waymoと並ぶ規模に",
+      "company": "Baidu（中国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "xai-grok-arena-medical-top1-2026-04-04",
+      "title": "GrokがArena医療・ヘルスケア部門で世界1位を獲得——xAIモデルがトップ3に2つランクイン",
+      "company": "xAI（米国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "mistral-ai-samsung-memory-partnership-2026-04-05",
+      "title": "Mistral AIとSamsung電子がAIメモリ半導体協業を検討——欧州ソブリンAI実現へ向けた戦略的連携",
+      "company": "Mistral AI（フランス）/ Samsung（韓国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "alibaba-agentrun-agentic-ai-leader-2026-04-05",
+      "title": "Alibaba CloudがAgentic AIプラットフォーム市場でリーダーシップ獲得——AgentRunでコスト最大60%削減",
+      "company": "Alibaba Cloud（中国）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
+    },
+    {
+      "id": "japan-physical-ai-real-world-deployment-2026-04-05",
+      "title": "日本のフィジカルAIが実用化フェーズへ——安川電機・ファナックが労働力不足解消に向けロボット展開加速",
+      "company": "安川電機 / ファナック / 経済産業省（日本）",
+      "date": "2026-04-05",
+      "delivered": "2026-04-05"
     }
   ]
 }
