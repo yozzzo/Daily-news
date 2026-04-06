@@ -920,6 +920,76 @@
       "company": "安川電機 / ファナック / 経済産業省（日本）",
       "date": "2026-04-05",
       "delivered": "2026-04-05"
+    },
+    {
+      "id": "github-copilot-rubber-duck-second-opinion-2026-04-06",
+      "title": "GitHub Copilot CLI「Rubber Duck」— 異なるAIファミリーによるセカンドオピニオン機能",
+      "company": "GitHub / Microsoft",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "openai-ai-economy-policy-robot-tax-wealth-fund-2026-04-06",
+      "title": "OpenAI、AI経済政策「ロボット税・公共富裕基金・週4日労働」を提言",
+      "company": "OpenAI",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "meta-alexandr-wang-new-models-open-source-2026-04-06",
+      "title": "Meta、Alexandr Wang主導の新AIモデルをオープンソースで近日公開",
+      "company": "Meta",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "tesla-spacex-xai-terafab-chip-factory-2026-04-06",
+      "title": "Elon Musk、Tesla・SpaceX・xAI共同の半導体工場「TeraFab」発表（2兆円超）",
+      "company": "Tesla / SpaceX / xAI",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "anthropic-google-broadcom-tpu-3-5gw-2026-04-06",
+      "title": "Anthropic、Google・Broadcom提携拡大——2027年に3.5GWのTPU計算資源へアクセス",
+      "company": "Anthropic",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "microsoft-copilot-multimodel-openai-independence-2026-04-06",
+      "title": "Microsoft、CopilotをマルチモデルAIに転換——OpenAI依存脱却を加速",
+      "company": "Microsoft",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "amazon-transformer-phone-ai-reentry-2026-04-06",
+      "title": "Amazon、AI中心スマートフォン「Transformer」でスマホ市場に再参入",
+      "company": "Amazon",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "openai-tbpn-acquisition-media-strategy-2026-04-06",
+      "title": "OpenAI、テック系ライブ番組「TBPN」を買収——AIメディア戦略を強化",
+      "company": "OpenAI",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "xai-grok-dutch-court-ncii-ban-2026-04-06",
+      "title": "オランダ裁判所、xAI Grokに非同意性的画像の生成停止を命令",
+      "company": "xAI",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
+    },
+    {
+      "id": "nvidia-emerald-ai-flexible-factory-grid-2026-04-06",
+      "title": "NVIDIA × Emerald AI、電力系統連動型「柔軟AIファクトリー」を開発",
+      "company": "NVIDIA / Emerald AI",
+      "date": "2026-04-06",
+      "delivered": "2026-04-06"
     }
   ]
 }
