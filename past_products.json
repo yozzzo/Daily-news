@@ -900,7 +900,67 @@
       "company": "Elasmogen",
       "first_posted": "2026-04-06",
       "field": "合成生物学"
+    },
+    {
+      "name": "PRIMA BCI Retinal Implant",
+      "company": "Science Corporation",
+      "first_posted": "2026-04-07",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "West China Hospital International Remote Robotic Surgery Center",
+      "company": "Sichuan University West China Hospital",
+      "first_posted": "2026-04-07",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Generare Microbial Genome Drug Discovery Platform",
+      "company": "Generare",
+      "first_posted": "2026-04-07",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Biolinq Shine Needle-Free CGM",
+      "company": "Biolinq",
+      "first_posted": "2026-04-07",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Organ-on-a-Chip Aging Acceleration System",
+      "company": "UC Berkeley Stahl Lab",
+      "first_posted": "2026-04-07",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "ScalaOS AI Protein Design Platform",
+      "company": "Scala Biodesign",
+      "first_posted": "2026-04-07",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Merops Counter-Drone AI System",
+      "company": "Perennial Autonomy",
+      "first_posted": "2026-04-07",
+      "field": "ドローン"
+    },
+    {
+      "name": "Living Sensor Display",
+      "company": "University of Tokyo",
+      "first_posted": "2026-04-07",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "TigerShark Autonomous Deep Strike Drone",
+      "company": "MGI Engineering",
+      "first_posted": "2026-04-07",
+      "field": "ドローン"
+    },
+    {
+      "name": "Cell-Free Hyaluronic Acid Production",
+      "company": "Enzymit",
+      "first_posted": "2026-04-07",
+      "field": "合成生物学"
     }
   ],
-  "last_updated": "2026-04-05"
+  "last_updated": "2026-04-07"
 }
