@@ -990,6 +990,76 @@
       "company": "NVIDIA / Emerald AI",
       "date": "2026-04-06",
       "delivered": "2026-04-06"
+    },
+    {
+      "id": "anthropic-claude-mythos-project-glasswing-2026-04-07",
+      "title": "Anthropic「Claude Mythos Preview」発表 + Project Glasswing連合 — AIが全主要OSのゼロデイ脆弱性を発見",
+      "company": "Anthropic",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "deepseek-v4-huawei-ascend-release-2026-04-07",
+      "title": "DeepSeek V4、Huawei Ascend 950PRチップで近日リリース — 中国AI自給自足の転換点",
+      "company": "DeepSeek / Huawei",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "meta-avocado-mango-open-source-plan-2026-04-07",
+      "title": "Meta、次世代AIモデル「Avocado」「Mango」のオープンソース化計画 — Llama 4不振後の戦略転換",
+      "company": "Meta",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "agibot-10000-humanoids-90days-2026-04-01",
+      "title": "AgiBot（智元ロボット）、90日間で5,000台出荷・累計10,000台達成 — ヒューマノイド量産時代の到来",
+      "company": "AgiBot",
+      "date": "2026-04-01",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "eclipse-13b-physical-ai-fund-2026-04-07",
+      "title": "Eclipse VC、フィジカルAIスタートアップ向け13億ドルファンド設立 — ロボティクス投資の加速",
+      "company": "Eclipse VC",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "generalist-ai-gen1-99pct-robotics-2026-04-02",
+      "title": "Generalist AI「GEN-1」汎用ロボットモデルが99%成功率達成 — 汎用ロボットAIの実用化",
+      "company": "Generalist AI",
+      "date": "2026-04-02",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "us-china-humanoid-robot-ban-bill-2026-04-07",
+      "title": "米国、中国製ヒューマノイドロボット連邦調達禁止法案 — AI地政学の新局面",
+      "company": "米国議会",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "xai-grok-420-palantir-aip-2026-04-07",
+      "title": "xAI「Grok 4.20」がPalantir AIPで正式利用可能に — エンタープライズAI統合の加速",
+      "company": "xAI",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "mistral-small-4-multimodal-apache2-2026-03-16",
+      "title": "Mistral Small 4 — 119B MoE・マルチモーダル・Apache 2.0 — オープンソースAIの新基準",
+      "company": "Mistral AI",
+      "date": "2026-03-16",
+      "delivered": "2026-04-07"
+    },
+    {
+      "id": "openai-ipo-cfo-concerns-altman-2026-04-07",
+      "title": "OpenAI CFO Sarah FriarがIPO計画に懸念表明 — AI業界最大企業の内部緊張",
+      "company": "OpenAI",
+      "date": "2026-04-07",
+      "delivered": "2026-04-07"
     }
   ]
 }
