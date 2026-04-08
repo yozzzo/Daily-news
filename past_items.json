@@ -1060,6 +1060,86 @@
       "company": "OpenAI",
       "date": "2026-04-07",
       "delivered": "2026-04-07"
+    },
+    {
+      "id": "meta-muse-spark-superintelligence-labs-2026-04-08",
+      "title": "Meta「Muse Spark」発表 — Meta Superintelligence Labs初の主要LLM",
+      "company": "Meta",
+      "date": "2026-04-08",
+      "category": "model_release",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/"
+    },
+    {
+      "id": "anthropic-30b-arr-claude-mythos-glasswing-2026-04-08",
+      "title": "Anthropic、年間収益ランレート$30B突破 — Claude Mythos PreviewがApple・Microsoft・Googleと協力してゼロデイ脆弱性を自律発見",
+      "company": "Anthropic",
+      "date": "2026-04-08",
+      "category": "business_milestone",
+      "url": "https://sherwood.news/tech/anthropics-revenue-run-rate-just-topped-usd30-billion-thats-ahead-of-openai/"
+    },
+    {
+      "id": "zai-glm-5-1-8hour-autonomous-coding-2026-04-08",
+      "title": "Z.ai「GLM-5.1」リリース — 8時間自律コーディング・SWE-Bench Pro世界3位",
+      "company": "Z.ai",
+      "date": "2026-04-08",
+      "category": "model_release",
+      "url": "https://z.ai/blog/glm-5.1"
+    },
+    {
+      "id": "openai-codex-3m-users-enterprise-ai-next-phase-2026-04-08",
+      "title": "OpenAI Codex、週間アクティブユーザー300万人突破 — エンタープライズAI次フェーズを宣言",
+      "company": "OpenAI",
+      "date": "2026-04-08",
+      "category": "product_update",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai/"
+    },
+    {
+      "id": "deepseek-fast-expert-mode-v4-preview-2026-04-08",
+      "title": "DeepSeek、「Fast Mode」「Expert Mode」を追加 — V4（1兆パラメータ）リリース直前の大型UI刷新",
+      "company": "DeepSeek",
+      "date": "2026-04-08",
+      "category": "product_update",
+      "url": "https://www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release"
+    },
+    {
+      "id": "nvidia-rubin-r100-mass-production-2026-04-08",
+      "title": "NVIDIA「Rubin R100」、予定前倒しで量産開始 — Vera Rubinプラットフォームが本格稼働",
+      "company": "NVIDIA",
+      "date": "2026-04-08",
+      "category": "hardware",
+      "url": "https://www.financialcontent.com/article/marketminute-2026-4-8-nvidia-accelerates-the-future-rubin-r100-enters-mass-production-ahead-of-schedule"
+    },
+    {
+      "id": "x-grok-auto-translation-photo-editing-global-2026-04-08",
+      "title": "X（Twitter）、Grok搭載の自動翻訳・AI写真編集をグローバル展開",
+      "company": "xAI / X",
+      "date": "2026-04-08",
+      "category": "product_update",
+      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/"
+    },
+    {
+      "id": "alibaba-group-tech-committee-ai-restructure-2026-04-08",
+      "title": "Alibaba、グループレベルのAI技術委員会を設立 — CEO Eddie Wu主導でAI組織を全社横断再編",
+      "company": "Alibaba",
+      "date": "2026-04-08",
+      "category": "business_strategy",
+      "url": "https://finance.biggo.com/news/zlahbZ0B-x-dxYpboRKy"
+    },
+    {
+      "id": "d-robotics-150m-series-b2-embodied-ai-2026-04-08",
+      "title": "D-Robotics（地平线机器人）、シリーズB2で$1.5億調達 — 累計$2.7億でEmbodied AIチップ開発加速",
+      "company": "D-Robotics",
+      "date": "2026-04-08",
+      "category": "funding",
+      "url": "https://autonews.gasgoo.com/articles/icv/d-robotics-secures-150-million-to-accelerate-embodied-ai-ecosystem-with-horizon-robotics-2041759438526922753"
+    },
+    {
+      "id": "github-copilot-eclipse-open-source-mit-2026-04-08",
+      "title": "GitHub Copilot for Eclipse、MITライセンスでオープンソース化",
+      "company": "GitHub / Microsoft",
+      "date": "2026-04-08",
+      "category": "open_source",
+      "url": "https://devblogs.microsoft.com/java/ghc-eclipse-is-going-open-source/"
     }
   ]
 }
