@@ -960,7 +960,67 @@
       "company": "Enzymit",
       "first_posted": "2026-04-07",
       "field": "合成生物学"
+    },
+    {
+      "name": "Cancerguard",
+      "company": "Exact Sciences",
+      "first_posted": "2026-04-08",
+      "field": "生物×IT"
+    },
+    {
+      "name": "rentosertib",
+      "company": "Insilico Medicine",
+      "first_posted": "2026-04-08",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Aspect Biosystems Bioprinted Cell Therapy",
+      "company": "Aspect Biosystems",
+      "first_posted": "2026-04-08",
+      "field": "合成生物学"
+    },
+    {
+      "name": "NEO BCI",
+      "company": "Borui Kang Medical Technology / Neuracle",
+      "first_posted": "2026-04-08",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "MIT Myoneural Actuator (MNA)",
+      "company": "MIT Media Lab",
+      "first_posted": "2026-04-08",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "JUV-161",
+      "company": "Juvena Therapeutics",
+      "first_posted": "2026-04-08",
+      "field": "生物×IT"
+    },
+    {
+      "name": "ENV-294",
+      "company": "Enveda Therapeutics",
+      "first_posted": "2026-04-08",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Arrive Points",
+      "company": "Arrive AI",
+      "first_posted": "2026-04-08",
+      "field": "ドローン"
+    },
+    {
+      "name": "BB-EIT",
+      "company": "理化学研究所",
+      "first_posted": "2026-04-08",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Jellyfish Stinging Capsule Biohybrid Microrobot",
+      "company": "Tel Aviv University / Haifa University",
+      "first_posted": "2026-04-08",
+      "field": "ロボティクス×バイオ"
     }
   ],
-  "last_updated": "2026-04-07"
+  "last_updated": "2026-04-08"
 }
