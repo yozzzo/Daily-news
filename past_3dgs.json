@@ -1012,6 +1012,206 @@
       "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
       "description": "NVIDIAのfVDBがV0.4リリース。MCMCと3DGUTメソッドをライブラリに追加",
       "date": "2026-04-05"
+    },
+    {
+      "name": "AvatarPointillist",
+      "type": "論文",
+      "field": "4DGS・アバター生成",
+      "url": "https://arxiv.org/abs/2604.04787",
+      "description": "1枚の顔写真から動く4Dアバターを自動生成。デコーダー専用Transformerが点群を自己回帰的に生成し、3DGSで高品質レンダリング。CVPR 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "4C4D",
+      "type": "論文",
+      "field": "4DGS・動的シーン",
+      "url": "https://arxiv.org/abs/2604.04063",
+      "description": "わずか4台のカメラで高品質な4D動的シーンを再構成。従来は数十〜数百台のカメラが必要だったところを4台に削減。CVPR 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "GaussianGrow",
+      "type": "論文",
+      "field": "3D生成・テキスト誘導",
+      "url": "https://arxiv.org/abs/2604.05721",
+      "description": "3D点群（スキャンデータ等）を入力にテキスト指示で3DGSを「成長」させる新手法。既存の3Dデータを活用しながらテキストで形状を拡張・生成。CVPR 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "GP-4DGS",
+      "type": "論文",
+      "field": "4DGS・確率的モデリング",
+      "url": "https://arxiv.org/abs/2604.02915",
+      "description": "ガウス過程（GP）を4DGSに統合し、動的シーンの不確実性を確率的にモデリング。単眼カメラ映像から隠れた物体の動きも推定可能。CVPR 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Flash-Mono",
+      "type": "論文",
+      "field": "SLAM・ロボット",
+      "url": "https://arxiv.org/abs/2604.03092",
+      "description": "単眼カメラのみで高速・高精度なGaussian Splatting SLAMを実現。フィードフォワード予測フロントエンドで従来の「ゼロから学習」の問題を解決。ICLR 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "GaussFly",
+      "type": "論文",
+      "field": "ロボット・ドローン",
+      "url": "https://arxiv.org/abs/2604.05062",
+      "description": "3DGSで構築したシミュレーション環境でドローンの視覚運動制御を強化学習。リアル→シミュ→リアルのパイプラインで実機転用を実現。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "HOIGS",
+      "type": "論文",
+      "field": "人物・物体インタラクション",
+      "url": "https://arxiv.org/abs/2604.04016",
+      "description": "人間と物体のインタラクション（掴む・持つ等）を含む動的シーンをGaussian Splattingで高品質再構成。接触による変形を明示的にモデリング。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "CGHair",
+      "type": "論文",
+      "field": "ヘア再構成",
+      "url": "https://arxiv.org/abs/2604.03716",
+      "description": "Gaussian Splattingを使った高品質ヘア再構成。カードクラスタリングにより再構成時間を4分の1に短縮し、メモリ使用量を200分の1以下に削減。CVPR 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "ADM-GS",
+      "type": "論文",
+      "field": "自動運転・外観分解",
+      "url": "https://arxiv.org/abs/2604.05908",
+      "description": "異なる照明・環境条件で撮影された複数回の走行データから一貫した3Dシーンを再構成。自動運転のデータ収集を大幅に効率化。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "3DTurboQuant",
+      "type": "論文",
+      "field": "圧縮・最適化",
+      "url": "https://arxiv.org/abs/2604.05366",
+      "description": "3DGS・NeRF・Transformerベース3D再構成モデルの圧縮に、学習不要（トレーニングフリー）の量子化手法を初めて実現。シーンごとの再学習が不要に。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "UNICA",
+      "type": "論文",
+      "field": "アバター生成",
+      "url": "https://arxiv.org/abs/2604.02799",
+      "description": "スケルトン（骨格）不要で全身アバターを制御できる統合フレームワーク。服の揺れや髪の動きも自然に表現。オープンソース公開。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "GA-GS",
+      "type": "論文",
+      "field": "静的シーン再構成",
+      "url": "https://arxiv.org/abs/2604.04331",
+      "description": "動く物体が映り込んだ動画から静的シーンだけを高精度に再構成。生成AIで隠れた背景領域を補完する革新的アプローチ。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "M2StyleGS",
+      "type": "論文",
+      "field": "スタイル転送",
+      "url": "https://arxiv.org/abs/2604.03773",
+      "description": "テキストまたは画像の両方でリアルタイムに3DGSシーンのスタイルを変換。CLIPを活用したマルチモーダルスタイル転送。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "PanopticQuery",
+      "type": "論文",
+      "field": "4DGS・言語理解",
+      "url": "https://arxiv.org/abs/2604.05638",
+      "description": "4DGSで動的シーンを再構成し、自然言語クエリで時空間的な物体を検索・理解できるフレームワーク。「赤い車が通過した場所を教えて」等の質問に対応。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "LSGS-Loc",
+      "type": "論文",
+      "field": "UAV・位置推定",
+      "url": "https://arxiv.org/abs/2604.05402",
+      "description": "大規模UAV（ドローン）シナリオでの3DGSベース視覚的位置推定。複雑な幾何学と環境変化に対応したロバストな自己位置推定。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "NavCrafter",
+      "type": "論文",
+      "field": "3Dシーン探索",
+      "url": "https://arxiv.org/abs/2604.02828",
+      "description": "1枚の写真から3Dシーンを探索できる動画を生成。カメラ軌跡を制御しながら新視点映像を合成し、3DGSで精緻化。ICRA 2026採択。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Niantic Spatial Scaniverse & VPS 2.0",
+      "type": "ニュース",
+      "field": "空間AI・マッピング",
+      "url": "https://www.nianticspatial.com/en/blog/scaniverse",
+      "description": "ポケモンGOのNianticが空間AI企業として大幅刷新。ScaniverseがGaussian Splat生成・VPS 2.0（事前スキャン不要の全世界対応位置推定）を統合。ロボット・建設・大型施設向けに展開。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "360 Gaussian v1.4",
+      "type": "ツール",
+      "field": "360度映像・3DGS",
+      "url": "https://radiancefields.com/360-gaussian-releases-v1.4",
+      "description": "360°カメラ映像から3DGSを生成するパイプライン「360 Gaussian」がv1.4にアップデート。GPS連動による長距離ルート対応、バンドル調整改善、クリップトリミング機能追加。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Khronos glTF Gaussian Splatting ウェビナー開催・資料公開",
+      "type": "ニュース",
+      "field": "標準化",
+      "url": "https://www.khronos.org/events/gaussian-splats-use-cases-next-steps-for-gltf-standardization",
+      "description": "4月7日開催のKhronos Group glTFウェビナー（Gaussian Splats標準化）の発表資料が公開。Cesium・XGRIDS・スミソニアン博物館が実用事例を発表。glTF標準化の具体的な進捗が明らかに。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Revopoint MetroY Ultra",
+      "type": "ハードウェア",
+      "field": "3Dスキャナー",
+      "url": "https://www.revopoint3d.com/blogs/news/revopoint-launches-metroy-ultra-with-metrology-grade-verification-and-starts-a-pop-4-kickstarter-campaign",
+      "description": "計測精度0.015mmの産業用3Dスキャナー「MetroY Ultra」が発表。3DGSによるフォトリアリスティックモデルエクスポート機能を搭載。4月7日より予約受付開始。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "A$AP Rocky「HELICOPTER」MV 4DGS使用",
+      "type": "コミュニティ",
+      "field": "音楽・エンタメ",
+      "url": "https://radiancefields.com",
+      "description": "ラッパーA$AP Rockyの新曲「HELICOPTER」のMVに4D Gaussian Splattingが使用され話題に。TikTokで「4DGSが音楽業界に浸透」と拡散。Corridor Crewも取り上げた。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Gauss Cannon Blender Plugin",
+      "type": "ツール",
+      "field": "Blenderプラグイン",
+      "url": "https://github.com/keshmirian/gauss-cannon",
+      "description": "Blenderから直接Gaussian Splattingのカメラパスと点群を生成できるオープンソースBlenderアドオン。LichtFeld Studio互換性を追加したバージョンが公開。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Lumina 3D 2.0",
+      "type": "ツール",
+      "field": "iPhoneアプリ",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1sdbzp4/lumina_3d_20_appstore_release/",
+      "description": "iPhoneのLiDARセンサーを使ってSfM処理なしで直接Gaussian Splattingデータを生成するアプリ「Lumina 3D」がv2.0でApp Storeに正式公開。PostShot・LightField Studioと直接連携。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "ViS-3DGS VSCode Extension",
+      "type": "ツール",
+      "field": "開発ツール",
+      "url": "https://marketplace.visualstudio.com/items?itemName=batuoz.vis-3dgs-viewer",
+      "description": "VSCode（Visual Studio Code）内で.ply・.splat・.gsplatファイルを直接プレビューできる拡張機能。SuperSplatビューアーを組み込み、開発者がコードを書きながらGSシーンを確認可能。",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "Streaming Real-Time Rendered Scenes as 3D Gaussians",
+      "type": "論文",
+      "field": "ストリーミング",
+      "url": "https://arxiv.org/abs/2604.02851",
+      "description": "3DGSシーンをリアルタイムでストリーミング配信する新手法。従来の画像空間リプロジェクションではなく3Dガウシアン自体をストリーミングすることでレイテンシを大幅削減。",
+      "date": "2026-04-09"
     }
   ]
 }
