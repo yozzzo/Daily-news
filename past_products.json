@@ -1020,7 +1020,67 @@
       "company": "Tel Aviv University / Haifa University",
       "first_posted": "2026-04-08",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "BISC (Biological Interface System to Cortex)",
+      "company": "Columbia University / Stanford University / University of Pennsylvania / Kampto Neurotech",
+      "first_posted": "2026-04-09",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Personalized RNA drug (ASO技術) - GNAO1治療",
+      "company": "Sheba Medical Center",
+      "first_posted": "2026-04-09",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Viva Kompact",
+      "company": "Vivance (旧AWAK Technologies)",
+      "first_posted": "2026-04-09",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Compostable Soft Robotic System",
+      "company": "Seoul National University / Sogang University / Johannes Kepler University Linz",
+      "first_posted": "2026-04-09",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Xsensio Lab-on-Skin Sensing Platform",
+      "company": "Xsensio",
+      "first_posted": "2026-04-09",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Spiber Brewed Protein fiber",
+      "company": "Spiber Inc.",
+      "first_posted": "2026-04-09",
+      "field": "合成生物学"
+    },
+    {
+      "name": "ProFerm",
+      "company": "Perfect Day",
+      "first_posted": "2026-04-09",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Walking Biohybrid Robot with Embedded Conductive Fibers",
+      "company": "Northwestern University / Georgia Tech / Carnegie Mellon / University of Notre Dame",
+      "first_posted": "2026-04-09",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "CyberneX XHOLOS Ear Brain Interface",
+      "company": "株式会社CyberneX",
+      "first_posted": "2026-04-09",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "新型バイオ3Dプリンタ (サイフューズ×NSK)",
+      "company": "株式会社サイフューズ × NSK（日本精工）",
+      "first_posted": "2026-04-09",
+      "field": "技術×バイオ"
     }
   ],
-  "last_updated": "2026-04-08"
+  "last_updated": "2026-04-09"
 }
