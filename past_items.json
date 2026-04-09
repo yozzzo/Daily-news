@@ -1140,6 +1140,76 @@
       "date": "2026-04-08",
       "category": "open_source",
       "url": "https://devblogs.microsoft.com/java/ghc-eclipse-is-going-open-source/"
+    },
+    {
+      "id": "anthropic-project-glasswing-claude-mythos-2026-04-09",
+      "title": "Anthropic「Project Glasswing」発表——Claude Mythosが数千のゼロデイ脆弱性を自律発見",
+      "company": "Anthropic",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "openai-cyber-model-trusted-access-2026-04-09",
+      "title": "OpenAIもサイバーセキュリティ特化モデルを限定公開へ——「Trusted Access for Cyber」プログラム",
+      "company": "OpenAI",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "meta-muse-spark-superintelligence-labs-2026-04-09",
+      "title": "Meta「Muse Spark」発表——Superintelligence Labs初の成果、30億人規模に展開",
+      "company": "Meta",
+      "date": "2026-04-08",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "google-gemini-3d-models-notebooks-2026-04-09",
+      "title": "Google Gemini、インタラクティブ3Dモデル生成とNotebooks機能を同日発表",
+      "company": "Google",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "nvidia-rubin-delay-hbm4-blackwell-2026-04-09",
+      "title": "NVIDIAの次世代GPU「Rubin」、HBM4問題で遅延リスク浮上——Blackwellが70%超に",
+      "company": "NVIDIA",
+      "date": "2026-04-08",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "microsoft-mai-new-models-foundry-2026-04-09",
+      "title": "Microsoft、MAI-Transcribe-1・MAI-Voice-1・MAI-Image-2を正式公開——Whisper超えの音声認識",
+      "company": "Microsoft",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "deepseek-v4-grayscale-1m-context-2026-04-09",
+      "title": "DeepSeek V4、グレースケールテスト開始——1Mコンテキスト・知識ベース更新",
+      "company": "DeepSeek",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "nebius-ai21-labs-acquisition-2026-04-09",
+      "title": "Nebius Group、イスラエルAIスタートアップAI21 Labsの買収交渉——評価額14億ドル規模",
+      "company": "Nebius Group / AI21 Labs",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "xai-grok-auto-translation-image-editing-2026-04-09",
+      "title": "X（旧Twitter）、Grok搭載の自動翻訳とAI画像編集ツールをグローバル展開",
+      "company": "xAI / X",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
+    },
+    {
+      "id": "lg-exaone-45-multimodal-2026-04-09",
+      "title": "LG、次世代マルチモーダルAI「EXAONE 4.5」発表——GPT-5 mini超えを主張",
+      "company": "LG AI Research",
+      "date": "2026-04-09",
+      "delivered": "2026-04-09"
     }
   ]
 }
