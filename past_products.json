@@ -1080,7 +1080,127 @@
       "company": "株式会社サイフューズ × NSK（日本精工）",
       "first_posted": "2026-04-09",
       "field": "技術×バイオ"
+    },
+    {
+      "name": "TRG-035 (Tooth Regrowing Drug)",
+      "company": "京都大学病院",
+      "country": "日本",
+      "field": "技術×バイオ",
+      "date": "2026-04-10",
+      "summary": "USAG-1タンパク質を阻害することで歯の再生を促す薬剤。マウスとフェレットでの動物実験で成功し、現在京都大学病院でヒト臨床試験中。2030年までの実用化を目指す。",
+      "urls": [
+        "https://www.instagram.com/p/DW7lto0CQwu/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Genos",
+      "company": "BGI Research",
+      "country": "中国",
+      "field": "生物×IT",
+      "date": "2026-04-10",
+      "summary": "世界初の100億パラメータのオープンソースHuman-Centricゲノム基盤モデル。非コード領域の分析を改善し、単一塩基分解能でシグナルを特定する。",
+      "urls": [
+        "https://en.genomics.cn/en-news-7477.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "MIMIC™ AI Drug Discovery Platform",
+      "company": "Metaphore Biotechnologies",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-10",
+      "summary": "生体内の「機能」を起点に抗体を設計する独自のAI創薬プラットフォーム。大規模な機能データと動的なタンパク質相互作用情報をAIで統合解析し、アゴニスト抗体や多機能抗体などの創出が可能。",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000578.000047342.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Guardant Reveal",
+      "company": "Guardant Health",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-10",
+      "summary": "最小残存病変（MRD）モニタリング中に新たな原発性悪性腫瘍を特定するのに役立つ液体生検技術。",
+      "urls": [
+        "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Present-28-Abstracts-Highlighting-Advances-in-Tumor-Typing-Therapy-Selection-and-Expanded-Utility-of-Multiomic-Tissue-and-Liquid-Biopsy-Testing-at-AACR-2026/default.aspx"
+      ],
+      "score": 9
+    },
+    {
+      "name": "GEBRA",
+      "company": "3billion",
+      "country": "米国（グローバル）",
+      "field": "生物×IT",
+      "date": "2026-04-10",
+      "summary": "AIを活用した希少疾患診断プラットフォーム。大規模なゲノムデータをリアルタイムで分析し、潜在的な診断候補を優先順位付けする。",
+      "urls": [
+        "https://3billion.io/news/3billion-showcases-ai-powered-variant-interpretation-innovation-at-acmg-2026"
+      ],
+      "score": 9
+    },
+    {
+      "name": "UNITED 2.0",
+      "company": "National Cancer Centre Singapore / A*STAR",
+      "country": "シンガポール",
+      "field": "生物×IT",
+      "date": "2026-04-10",
+      "summary": "AIと高度なゲノムシーケンシングを組み合わせた次世代の癌プロファイリングテストを開発するS$600万の研究イニシアチブ。WESとWTSを導入し、より包括的な分子プロファイルを提供する。",
+      "urls": [
+        "https://opengovasia.com/singapore-ai-genomics-to-advance-precision-cancer-diagnostics/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Cancer Genome Interpreter (CGI)",
+      "company": "IRB Barcelona / CGI-Clinics consortium",
+      "country": "ヨーロッパ（スペイン主導）",
+      "field": "生物×IT",
+      "date": "2026-04-10",
+      "summary": "欧州の10以上の病院と共同で作成された、癌ゲノムの変異を解釈するための高度なバイオインフォマティクスツール。機械学習を活用し、複雑なゲノムデータを精密腫瘍学における実用的な情報に変換する。",
+      "urls": [
+        "https://www.eurekalert.org/news-releases/1121059"
+      ],
+      "score": 9
+    },
+    {
+      "name": "China's New Stealth Drone (72-hour endurance)",
+      "company": "（中国機関・非公開）",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-10",
+      "summary": "72時間連続飛行が可能なステルスドローン。高度な空力特性、軽量素材、効率的な推進システム、洗練されたセンサーペイロードを特徴とする。",
+      "urls": [
+        "https://www.ozsite.com.au/chinas-new-stealth-drone-can-fly-for-72-hours-straight-without-landing/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "DJI Avata 360",
+      "company": "DJI",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-10",
+      "summary": "8K/60fps HDR動画撮影が可能な360°FPVドローン。O4+映像伝送システムと障害物検知機能を搭載し、没入感のある飛行体験を提供。",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000404.000015765.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "YSuit Full-Body Wearable Garment",
+      "company": "Nature Sensors (Silvia Conti)",
+      "country": "グローバル",
+      "field": "技術×バイオ",
+      "date": "2026-04-10",
+      "summary": "軽量で通気性があり、洗濯可能な全身ウェアラブルガーメント。38個のテキスタイルセンサーを搭載し、13の関節と39の自由度を追跡。個々の体型に合わせてカスタマイズ可能で、リアルタイムのデータ送信を最大1週間サポート。",
+      "urls": [
+        "https://www.nature.com/articles/s44460-026-00063-x"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-09"
+  "last_updated": "2026-04-10"
 }
