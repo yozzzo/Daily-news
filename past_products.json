@@ -1200,7 +1200,147 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "Science Corp Biohybrid Cortical Sensor",
+      "company": "Science Corporation",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-16",
+      "summary": "Max Hodak率いるScience Corp.が合成電子回路と遺伝子組換えニューロンを融合した生きた脳センサーを2026/4/14に初めて人体に留置。第1例は記録専用だが、将来は光遺伝学で発火する培養ニューロン層が患者の脳細胞と融合する双方向BCI設計。",
+      "urls": [
+        "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+        "https://www.webanditnews.com/2026/04/15/a-living-sensor-inside-the-brain-science-corps-biohybrid-implant-enters-its-first-human-patient/",
+        "https://spectrum.ieee.org/brain-computer-interface-2671151260"
+      ],
+      "score": 10
+    },
+    {
+      "name": "eGenesis EGEN-2784",
+      "company": "eGenesis",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-16",
+      "summary": "69か所ゲノム編集した豚から採取した腎臓EGEN-2784に対し、FDAが2026/1にIND承認。末期腎不全患者を対象にPhase 1/2/3シームレス試験を開始する世界初の商業規模xenotransplant治験プログラム。",
+      "urls": [
+        "https://crisprmedicinenews.com/news/egenesis-receives-fda-clearance-for-gene-edited-pig-kidney-trial-in-end-stage-kidney-disease-patient/",
+        "https://egenesisbio.com/news-media/press-releases/egenesis-announces-ind-clearance-for-egen-2784-in-kidney-transplant-and-landmark-patient-updates-in-ongoing-expanded-access-study",
+        "https://www.science.org/content/article/man-s-pig-kidney-fails-just-shy-setting-record"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Baykar K2 Kamikaze AI自律スウォーム",
+      "company": "Baykar Technologies",
+      "country": "トルコ",
+      "field": "ドローン",
+      "date": "2026-04-16",
+      "summary": "2026/4/14、Baykarが5機のK2 Kamikaze UAV（MTOW 800kg、弾頭200kg、航続2,000km超）を使ったAI支援自律スウォーム飛行＋上空哨戒試験の成功を公表。右エシュロン・ライン・V字編隊を自律維持。",
+      "urls": [
+        "https://www.armyrecognition.com/news/aerospace-news/2026/baykars-k2-kamikaze-strike-uav-swarm-patrol-test-reshapes-autonomous-air-warfare-in-contested-airspace",
+        "https://www.airforce-technology.com/news/baykar-k2-kamikaze-uav-flight/",
+        "https://www.turkiyetoday.com/nation/baykar-unveils-k2-kamikaze-drone-with-2000-km-range-and-ai-swarm-capability-3216205"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Novo Nordisk × OpenAI Drug Discovery Partnership",
+      "company": "Novo Nordisk / OpenAI",
+      "country": "デンマーク・米国",
+      "field": "生物×IT",
+      "date": "2026-04-16",
+      "summary": "2026/4/14発表。Novo NordiskがOpenAIのフロンティアモデルを研究開発・製造・商業・コーポレート業務に横串で埋め込む戦略提携。化合物探索から流通まで全工程をAIエージェント化、年内にフルスケール統合予定。",
+      "urls": [
+        "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
+        "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery/",
+        "https://www.bloomberg.com/news/articles/2026-04-14/novo-taps-openai-to-speed-development-of-new-obesity-drugs"
+      ],
+      "score": 9
+    },
+    {
+      "name": "SWARM Biotactics Cyborg Insect Biobot",
+      "company": "SWARM Biotactics",
+      "country": "ドイツ",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-16",
+      "summary": "生きた昆虫（マダガスカルゴキブリなど）に制御エレクトロニクス・センサー・暗号化近距離通信を搭載した超小型バックパックを装着したサイボーグ昆虫を群制御で実用投入。2026年には13Mユーロを調達しNATO加盟国の有料顧客に偵察用として配備開始。",
+      "urls": [
+        "https://robohorizon.com/en-gb/news/2026/02/cyborg-insect-nato-swarms/",
+        "https://interestingengineering.com/ai-robotics/insect-cyborgs-enter-testing",
+        "https://www.nature.com/articles/s41467-025-60779-1"
+      ],
+      "score": 9
+    },
+    {
+      "name": "DJI FlyCart 100",
+      "company": "DJI",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-16",
+      "summary": "最大離陸170kg・シングルバッテリーで100kgペイロードの重運搬ドローン。LiDAR地形マッピング＋ミリ波レーダー＋ペンタビジョン＋7m/s降下のパラシュートを統合、標高6,000m飛行可能な山岳物流志向（米国では規制で販売不可）。",
+      "urls": [
+        "https://www.heliguy.com/blogs/posts/dji-launches-flycart-100-delivery-drone/",
+        "https://www.aerotime.aero/articles/dji-most-advanced-delivery-drone-flycart-100",
+        "https://www.techradar.com/cameras/drones/djis-terrifying-new-delivery-drone-is-its-most-powerful-so-far-the-flycart-100-can-carry-100kg-loads-and-climb-6-000m-mountains"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Airbound × Narayana Health 1セント医療配送",
+      "company": "Airbound / Narayana Health",
+      "country": "インド",
+      "field": "ドローン",
+      "date": "2026-04-16",
+      "summary": "ロケット型ブレンドウィング機でバンガロール4kmを10分で検体輸送。2026年1月開始のパイロットで54日間700+飛行・1便40検体・失敗ゼロを達成。年内に配送単価を₹5（約0.05ドル）以下に下げる計画で、都市内医療物流回廊への拡張を公表。",
+      "urls": [
+        "https://www.theweek.in/news/health/2026/03/17/drones-deliver-medical-samples-in-10-minutes-bengaluru-pilot-shows-future-of-health-care.html",
+        "https://indiamedtoday.com/airbound-and-narayana-health-complete-700-successful-drone-flights-announce-plans-for-medical-logistics-corridor-in-bengaluru/",
+        "https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Clair Continuous Hormone Monitor",
+      "company": "Clair Health",
+      "country": "米国（Stanford発）",
+      "field": "技術×バイオ",
+      "date": "2026-04-16",
+      "summary": "世界初の連続ホルモン追跡ウェアラブル。手首装着ブレスレットに10種の生体センサーを搭載、AIで三角測量してエストロゲン・プロゲステロン・LH・FSHをリアルタイム推定。40人以上・127月経周期で検証し、周期分類精度94.1%、LHサージ検出感度87%。FDA承認取得を目指し年内ローンチ予定。",
+      "urls": [
+        "https://stanforddaily.com/2026/02/05/stanford-founded-startup-develops-wearable-for-continuous-hormone-monitoring/",
+        "https://wearclair.com/",
+        "https://insider.fitt.co/clair-unveils-continuous-hormone-wearable/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Isomorphic Labs AlphaFold起源AI設計薬 臨床入り準備",
+      "company": "Isomorphic Labs",
+      "country": "英国・米国",
+      "field": "生物×IT",
+      "date": "2026-04-16",
+      "summary": "Google DeepMindスピンアウトのIsomorphic Labsが、AlphaFold 3共同開発を起点にした自社AI創薬エンジンでがん・免疫系疾患向けリード候補を複数IND-enablingフェーズへ。2026年末までに初のヒト臨床試験開始予定。Novartis・Eli Lilly・J&Jと約30億ドル規模の提携。",
+      "urls": [
+        "https://www.clinicaltrialsarena.com/news/isomorphic-labs-prepares-trials-ai-designed-drugs/",
+        "https://fortune.com/2025/07/06/deepmind-isomorphic-labs-cure-all-diseases-ai-now-first-human-trials/",
+        "https://the-decoder.com/isomorphic-labs-prepares-for-its-first-human-trials-with-drugs-designed-by-alphafold/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "横河電機 再生医療等製品 製造自動化プラットフォーム コンソーシアム",
+      "company": "横河電機 / 京都大学iPS細胞研究所 / アステラス製薬 他",
+      "country": "日本",
+      "field": "技術×バイオ",
+      "date": "2026-04-16",
+      "summary": "2026/4/13発表。横河電機がCiRA・アステラス製薬・東洋製罐GHD・ローツェライフサイエンス・藤田医科大 国際再生医療センターなど11機関と、QbD準拠の再生医療等製品向け製造自動化プラットフォームを開発するコンソーシアムを発足。2028年3月までに製造コスト65%削減・逸脱数75%削減・10⁹スケール細胞生産対応を目標。",
+      "urls": [
+        "https://www.yokogawa.co.jp/news/press-releases/2026/2026-04-13-ja",
+        "https://www.nikkei.com/article/DGXZRSP705800_T10C26A4000000/",
+        "https://prtimes.jp/main/html/rd/p/000000032.000160352.html"
+      ],
+      "score": 8
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-16"
 }
