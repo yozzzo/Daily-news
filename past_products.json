@@ -1200,7 +1200,134 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "Apple BCI HID Protocol + Synchron Integration",
+      "company": "Apple / Synchron",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-17",
+      "summary": "AppleがBCI HIDプロトコルを導入し、脳信号をiOS・iPadOS・visionOSのネイティブ入力手段として統合。Synchronが最初のBCI企業としてネイティブ連携を実現。",
+      "urls": [
+        "https://developer.apple.com/documentation/accessibility/brain-computer-interface-hid-reference-for-connecting-to-apple-platforms",
+        "https://www.technewsworld.com/story/apple-adds-brain-to-computer-protocol-to-its-accessibility-repertoire-179739.html"
+      ],
+      "score": 10
+    },
+    {
+      "name": "BiVACOR Total Artificial Heart",
+      "company": "BiVACOR Inc.",
+      "country": "米国/オーストラリア",
+      "field": "技術×バイオ",
+      "date": "2026-04-17",
+      "summary": "磁気浮上ローターで両心室を置換するチタン製完全人工心臓。FDA Early Feasibility Studyで5名全員が移植橋渡しに成功、合併症ゼロ。FDA Breakthrough Device指定。",
+      "urls": [
+        "https://www.medicaleconomics.com/view/bivacor-artificial-heart-earns-fda-breakthrough-device-status",
+        "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2026/march-2026-volume-111-issue-3/with-real-momentum-total-artificial-heart-technology-faces-defining-chapter/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI (Novo Nordisk, Amgen, Moderna提携)",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-17",
+      "summary": "2026年4月16日リリースのライフサイエンス特化AIモデル。大規模生物医学データから知見を抽出し、創薬・ヘルスケア応用に変換。大手製薬3社と提携。",
+      "urls": [
+        "https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html",
+        "https://www.bloomberg.com/news/articles/2026-04-16/openai-takes-on-google-with-new-ai-model-aimed-at-drug-discovery"
+      ],
+      "score": 9
+    },
+    {
+      "name": "北脳一号（Bei Brain No. 1）",
+      "company": "北京天壇病院 / 中関村グループ",
+      "country": "中国",
+      "field": "脳波/BCI",
+      "date": "2026-04-17",
+      "summary": "コイン大・128チャネル無線BCIインプラント。硬膜外設置の半侵襲型で、30kHzサンプリング、100ms以下で運動意図をデコード。7名に埋め込み済み。",
+      "urls": [
+        "https://m.gmw.cn/2026-04/14/content_1304417049.htm",
+        "https://www.stcn.com/article/detail/3743611.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "REGENT Squire Seaglider",
+      "company": "REGENT",
+      "country": "米国",
+      "field": "ドローン",
+      "date": "2026-04-17",
+      "summary": "水面上を地面効果で飛行する自律型ドローン。レーダー視線以下を最高70ノットで飛行、航続100海里以上。米国初のWIG飛行に成功。",
+      "urls": [
+        "https://www.navalnews.com/naval-news/2026/04/regents-squire-seaglider-drone-performs-ground-effect-flight/",
+        "https://www.regentcraft.com/news/regent-squire-seaglider-drone-flight-demonstration"
+      ],
+      "score": 9
+    },
+    {
+      "name": "ReForm Pathway（人工代謝CO2変換）",
+      "company": "Stanford University / Northwestern University",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-17",
+      "summary": "自然界に存在しない人工代謝経路ReFormがCO2由来のギ酸をアセチルCoAに変換。食品・化粧品・バイオプラスチック用リンゴ酸の製造に成功。",
+      "urls": [
+        "https://news.stanford.edu/stories/2026/01/artificial-metabolism-waste-co2-chemicals-synthetic-biology-carbon-recycling"
+      ],
+      "score": 9
+    },
+    {
+      "name": "German Bionic Exia",
+      "company": "German Bionic",
+      "country": "ドイツ",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-17",
+      "summary": "量産型エクソスケルトンとして世界最高の38kg持ち上げ支援。シャリテ病院と共同開発した介護特化バリアント。女性向けデザインも追加。",
+      "urls": [
+        "https://www.germanbionic.com/news/ai-to-wear-german-bionic-presents-the-exia-robotic-exoskeleton-at-ces-2026"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Naox Link（耳内EEG）",
+      "company": "NaoX Technologies",
+      "country": "フランス",
+      "field": "脳波/BCI",
+      "date": "2026-04-17",
+      "summary": "世界初のFDA 510(k)承認耳内EEGデバイス。神経内科・てんかん・睡眠ラボで使用開始。コンシューマー版Naox Waveを2026年末リリース予定。",
+      "urls": [
+        "https://www.massdevice.com/naox-technologies-wins-fda-clearance-for-earbud-based-eeg/",
+        "https://www.fiercebiotech.com/medtech/naox-technologies-nabs-first-ever-fda-clearance-ear-eeg-brain-monitoring-device"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Canon Ultimion フォトンカウンティングCT",
+      "company": "キヤノンメディカルシステムズ",
+      "country": "日本",
+      "field": "技術×バイオ",
+      "date": "2026-04-17",
+      "summary": "日本初の国産フォトンカウンティングCTスキャナ。独自CZT検出器とAI画像再構成INSTINX技術で超高解像度・低被曝を実現。",
+      "urls": [
+        "https://global.medical.canon/products/computed-tomography/pcct",
+        "https://jp.medical.canon/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "ULS Robotics VIATRIX",
+      "company": "ULS Robotics（傲鲨智能）",
+      "country": "中国",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-17",
+      "summary": "CES 2026 Innovation Award受賞の世界初コンシューマー向けパワードエクソスケルトン。Float360ヒップジョイント、車載グレードモーター、航続25km。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/ces-2026-uls-robotics-first-consumer-grade-exoskeleton-robot-viatrix-wins-innovation-award-at-its-international-debut-302656071.html"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-17"
 }
