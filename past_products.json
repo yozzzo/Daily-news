@@ -1200,7 +1200,147 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "ForSight Robotics JASPER",
+      "company": "ForSight Robotics",
+      "country": "イスラエル",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-19",
+      "summary": "世界初の完全ロボット支援白内障手術をヒト患者に対して成功。JASPERプラットフォームは精密モーションスケーリングと高度な3Dイメージングにより全身麻酔なしの完全ロボット眼科手術を実現。シリーズBで$125M調達済み。",
+      "urls": [
+        "https://innovatopia.jp/healthcare/healthcare-news/95221/",
+        "https://www.massdevice.com/forsight-first-robot-assisted-cataract-jasper/",
+        "https://www.businesswire.com/news/home/20260406526545/en/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-19",
+      "summary": "OpenAI初の生命科学特化AIモデル。分子・タンパク質・遺伝子・パスウェイの推論に最適化。50以上の科学データベースと統合し、Amgen、Moderna等がプレビュー利用中。",
+      "urls": [
+        "https://gigazine.net/news/20260417-gpt-rosalind/",
+        "https://www.itmedia.co.jp/news/articles/2604/17/news070.html",
+        "https://openai.com/index/introducing-gpt-rosalind/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Apple BCI HID Protocol (iOS 26)",
+      "company": "Apple / Synchron",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-19",
+      "summary": "iOS 26・iPadOS 26・visionOSにBCIデバイスのネイティブ接続プロトコルを標準搭載。Synchronの埋め込み型BCIとの連携で、脳信号だけでAppleデバイスを操作可能に。",
+      "urls": [
+        "https://xenospectrum.com/apple-collaborates-with-synchron-for-a-future-where-iphones-are-controlled-by-brainwaves/",
+        "https://ledge.ai/articles/apple_synchron_embedded_bci_support",
+        "https://developer.apple.com/documentation/accessibility/brain-computer-interface-hid-reference-for-connecting-to-apple-platforms"
+      ],
+      "score": 9
+    },
+    {
+      "name": "SetPoint Medical System",
+      "company": "SetPoint Medical",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-19",
+      "summary": "世界初の自己免疫疾患向けバイオエレクトロニック医療デバイス。埋め込み型迷走神経刺激装置で毎日60秒のパルスにより関節リウマチの炎症を抑制。FDA承認取得、米国で商用展開中。",
+      "urls": [
+        "https://setpointmedical.com/setpoint-medical-receives-fda-approval-for-novel-neuroimmune-modulation-therapy-for-rheumatoid-arthritis/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12889326/",
+        "https://www.northwell.edu/news/the-latest/fda-approves-first-vagus-nerve-device-to-treat-rheumatoid-arthritis"
+      ],
+      "score": 9
+    },
+    {
+      "name": "HH-200 自律型貨物ドローン",
+      "company": "AVIC / 西安飛機工業集団",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-19",
+      "summary": "双発ターボプロップ無人貨物機。ペイロード1.5トン、航続距離2,360km、巡航速度310km/h、完全自律飛行。運用コスト約$0.68/トン・km。2026年4月15日初飛行成功。",
+      "urls": [
+        "https://www.afpbb.com/articles/-/3631617",
+        "https://www.armyrecognition.com/news/aerospace-news/2026/chinas-hh-200-cargo-drone-completes-first-flight-with-autonomous-control-for-low-cost-logistics",
+        "https://english.news.cn/20260415/74e16751e8eb4438ae3a3805cec9a80e/c.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Atera",
+      "company": "10x Genomics",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-19",
+      "summary": "全トランスクリプトーム空間生物学プラットフォーム。単一細胞感度でFFPE・新鮮凍結組織に対応し、年間最大800サンプル処理可能。AACR 2026で発表。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/10x-genomics-introduces-atera-a-new-platform-to-redefine-how-biology-is-measured-and-understood-302746542.html",
+        "https://www.genengnews.com/topics/omics/10x-genomics-unveils-atera-spatial-platform-at-aacr-meeting/",
+        "https://www.10xgenomics.com/platforms/atera"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Neion Bio Raptor Platform",
+      "company": "Neion Bio",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-19",
+      "summary": "遺伝子改変鳥類始原生殖細胞を使い、卵白中で治療用タンパク質を大量生産する鶏卵ベースのバイオ製造プラットフォーム。$11M調達、大手製薬とバイオシミラー共同開発契約を締結。",
+      "urls": [
+        "https://www.globenewswire.com/news-release/2026/03/26/3263119/0/en/",
+        "https://www.fiercepharma.com/manufacturing/egg-based-drugmaker-neion-bio-emerges-stealth-cook-multi-product-biosimilar-collab",
+        "https://www.synbiobeta.com/read/evolution-built-the-perfect-bioreactor-neion-bio-is-finally-using-it"
+      ],
+      "score": 9
+    },
+    {
+      "name": "AVATAR Organ-Chips (Artemis II)",
+      "company": "Wyss Institute (Harvard) / NASA",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-19",
+      "summary": "アルテミスII号の4人の宇宙飛行士自身の細胞から培養した骨髄オルガン・オン・チップが月周回軌道を飛行。史上初のパーソナライズドオルガンチップ宇宙実験。",
+      "urls": [
+        "https://innovatopia.jp/spacetechnology/spacetechnology-news/66679/",
+        "https://wyss.harvard.edu/news/wyss-institute-technologies-enable-breakthrough-in-astronaut-health-research-aboard-nasas-artemis-ii-mission/",
+        "https://science.nasa.gov/biological-physical/investigations/avatar/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "CLASSIC AI Gene Circuit Design",
+      "company": "Rice University (Bashor Lab)",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-19",
+      "summary": "AI/MLで生きたヒト細胞内の遺伝子回路の機能を設計・予測することに初めて成功。100万規模のDNA回路ライブラリを構築し、物理ベースモデルを超えるMLモデルを実現。Nature誌掲載。",
+      "urls": [
+        "https://news.rice.edu/news/2026/scientists-demonstrate-first-time-use-ai-genetic-circuit-design",
+        "https://www.genengnews.com/topics/artificial-intelligence/genetic-circuits-designed-using-new-ai-ml-technique/",
+        "https://phys.org/news/2026-01-ai-genetic-circuit-human-cell.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Paradromics Connexus",
+      "company": "Paradromics",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-19",
+      "summary": "音声回復を目的とした完全埋め込み型BCI。420本のマイクロニードル電極搭載。2026年Q1にConnect-One臨床試験を開始。音声回復分野でFDA IDE承認を取得した初の企業。",
+      "urls": [
+        "https://neurotechjp.com/jp/blog/5-startups-invasive-bci/",
+        "https://www.paradromics.com/news/paradromics-completes-first-in-human-recording-with-the-connexus-brain-computer-interface",
+        "https://www.nature.com/articles/d41586-025-03849-0"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-19"
 }
