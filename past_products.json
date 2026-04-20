@@ -1200,7 +1200,137 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "ForSight JASPER",
+      "company": "ForSight Robotics",
+      "country": "イスラエル",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-20",
+      "summary": "世界初のヒトでの完全ロボット支援白内障手術を達成。JASPERプラットフォームは先進的イメージング、精密制御、モーションスケーリングを搭載し、全身麻酔なしで手術全工程をロボットが支援。",
+      "urls": [
+        "https://www.businesswire.com/news/home/20260406526545/en/ForSight-Robotics-Makes-History-with-the-Worlds-First-in-Human-Fully-Robot-Assisted-Cataract-Surgery",
+        "https://www.massdevice.com/forsight-first-robot-assisted-cataract-jasper/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "MethylScan",
+      "company": "UCLA",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-20",
+      "summary": "血中cfDNAのメチル化パターンをAI解析し、単一血液サンプルから複数がん種と肝疾患を同時検出する低コスト血液検査。特異度98%、1検体20ドル以下。",
+      "urls": [
+        "https://newsroom.ucla.edu/releases/ucla-develops-blood-test-to-detect-multiple-cancers-disease",
+        "https://www.medicalnewstoday.com/articles/single-blood-sample-screen-several-cancers-liver-lung-ovarian-stomach"
+      ],
+      "score": 9
+    },
+    {
+      "name": "BOOST（体内オンデマンド肝臓成長）",
+      "company": "Wyss Institute (Harvard) / Boston University / MIT",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-20",
+      "summary": "合成生物学の遺伝子回路で体内移植した肝臓構築物の成長を経口薬でオンデマンド制御する技術。マウスで健全な肝臓成長を実証。",
+      "urls": [
+        "https://wyss.harvard.edu/news/growing-liver-tissue-on-demand-directly-in-the-body/",
+        "https://www.science.org/doi/10.1126/sciadv.adz8362"
+      ],
+      "score": 9
+    },
+    {
+      "name": "UC Irvine 双方向BCI歩行外骨格",
+      "company": "UC Irvine / Caltech / USC Keck School of Medicine",
+      "country": "米国",
+      "field": "ロボティクス×バイオ / 脳波・BCI",
+      "date": "2026-04-20",
+      "summary": "世界初の双方向BCIによるロボット歩行外骨格制御。脳信号で歩行意図を92%精度で検出し、同時に体性感覚皮質への刺激で脚感覚フィードバックを提供。",
+      "urls": [
+        "https://news.uci.edu/2026/04/16/uc-irvine-led-study-achieves-brain-controlled-walking-with-artificial-sensory-feedback/",
+        "https://medicalxpress.com/news/2026-04/brain-interface-paralysis-linking-thoughts.html"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Subsense ナノ粒子BCI",
+      "company": "Subsense Inc.",
+      "country": "米国",
+      "field": "脳波・BCI",
+      "date": "2026-04-20",
+      "summary": "吸入型ナノ粒子を用いた非手術型BCI。鼻腔から嗅覚神経経由で血液脳関門をバイパスしナノ粒子を脳に送達。パーキンソン病とてんかんをターゲット。",
+      "urls": [
+        "https://www.medicaldesignandoutsourcing.com/subsense-brain-computer-interface-nanoparticle-inhalable/",
+        "https://www.neurofounders.co/post/how-subsense-is-reimagining-bcis-with-a-nasal-spray-instead-of-brain-surgery"
+      ],
+      "score": 9
+    },
+    {
+      "name": "SNU 自己修復型人工筋肉",
+      "company": "Seoul National University",
+      "country": "韓国",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-20",
+      "summary": "相転移フェロフルイド素材の人工筋肉。常温で固体、熱/磁場で流動化し電極の分裂・融合が可能。自己修復率91%、リプログラマブル。",
+      "urls": [
+        "https://interestingengineering.com/ai-robotics/snu-artificial-muscle-self-healing-soft-robotics",
+        "https://www.eurekalert.org/news-releases/1124662"
+      ],
+      "score": 9
+    },
+    {
+      "name": "HH-200 自律貨物ドローン",
+      "company": "AVIC / 西安飛機工業",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-20",
+      "summary": "最大積載1.5トン、航続2,360km、巡航310km/hの大型完全自律貨物ドローン。運用コスト1トンkmあたり約4.7元。2026年4月15日初飛行成功。",
+      "urls": [
+        "https://www.armyrecognition.com/news/aerospace-news/2026/chinas-hh-200-cargo-drone-completes-first-flight-with-autonomous-control-for-low-cost-logistics",
+        "https://dronexl.co/2026/04/18/china-200-cargo-drone-mission/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "CREATE Medicines RetroT",
+      "company": "CREATE Medicines",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-20",
+      "summary": "LINE-1レトロトランスポゾンを利用し、RNAのみで体内T細胞・NK細胞にCAR遺伝子を部位特異的に安定統合するプラットフォーム。ウイルスベクター不要のin vivo CAR細胞療法。",
+      "urls": [
+        "https://www.biospace.com/press-releases/create-medicines-to-showcase-multi-immune-in-vivo-car-t-car-nk-and-all-rna-retrot-platform-at-aacr-2026",
+        "https://createmedicines.com/news/create-medicines-unveils-all-rna-t-cell-engineering-platform-retrot-enables-site-specific"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Nephrodite Holly 埋め込み型連続透析",
+      "company": "Nephrodite",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-20",
+      "summary": "世界初のFDA Breakthrough Device指定を受けた埋め込み型連続透析システム。体内で継続的に腎機能を代替。大型動物実験で多日間の持続的機能を実証済み。",
+      "urls": [
+        "https://nephrodite.com/newsroom/nephrodite-earns-fdas-first-breakthrough-device-designation-for-an-implantable-kidney-replacement-system/",
+        "https://www.massdevice.com/nephrodite-holly-continuous-dialysis-implant-fda-breakthrough-designation/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-20",
+      "summary": "OpenAI初の生命科学特化型AIモデル。生化学・ゲノミクス・タンパク質工学に最適化。BixBenchでpass rate 0.751達成。Amgen、Moderna等が初期パートナー。",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-rosalind/",
+        "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-20"
 }
