@@ -1200,7 +1200,136 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "Science Corp Biohybrid Cortical Sensor",
+      "company": "Science Corporation",
+      "country": "米国",
+      "field": "脳波・BCI",
+      "date": "2026-04-21",
+      "summary": "培養ニューロ��を組み込んだバイオハイブリッド脳センサーの初のヒト脳埋植。520個の記録電極搭載、硬膜上載置方式。イェール大学にて手術中の患者に埋植し神経信号の記録に成功。",
+      "urls": [
+        "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+        "https://spectrum.ieee.org/brain-computer-interface-2671151260"
+      ],
+      "score": 10
+    },
+    {
+      "name": "eGenesis EGEN-2784",
+      "company": "eGenesis",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-21",
+      "summary": "CRISPR-Cas9で多重遺伝子編集を施したブタ腎臓。FDA IND承認取得。1例目の患者が9ヶ月以上透析なしで生活する記録を達成。",
+      "urls": [
+        "https://egenesisbio.com/news-media/press-releases/egenesis-announces-ind-clearance-for-egen-2784-in-kidney-transplant-and-landmark-patient-updates-in-ongoing-expanded-access-study",
+        "https://crisprmedicinenews.com/news/egenesis-receives-fda-clearance-for-gene-edited-pig-kidney-trial-in-end-stage-kidney-disease-patient/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Robeauté 脳内マイクロロボット",
+      "company": "Robeauté",
+      "country": "フランス",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-21",
+      "summary": "全長1.8mmの米粒サイズ自走式マイクロロボット。脳内を曲線的に自律走行し、脳腫瘍の微小生検等に使用。2026年に初のヒト臨床試験を開始。",
+      "urls": [
+        "https://tech.eu/2026/01/02/robeaut-is-turning-microrobotics-into-a-surgical-platform-for-the-brain/",
+        "https://interestingengineering.com/innovation/minimally-invasive-microrobot-navigates-brain"
+      ],
+      "score": 9
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-21",
+      "summary": "生命科学研究に特化したフロンティア推論モデル。創薬・ゲノミクス・タンパク質推論に最適化。50以上の科学ツールに接続するプラグインも同時公開。",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-rosalind/",
+        "https://www.fiercebiotech.com/biotech/openai-launches-biotech-specific-ai-model-gpt-rosalind"
+      ],
+      "score": 9
+    },
+    {
+      "name": "西安電子科技大学 マイクロ波無線給電ドローン",
+      "company": "西安電子科技大学（Xidian University）",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-21",
+      "summary": "マイクロ波ビームによるドローンの空中無線充電技術を実証。固定翼ドローンを高度約15mで最大3.1時間連続飛行させることに成功。送電効率は3〜5%。",
+      "urls": [
+        "https://www.scmp.com/news/china/science/article/3350482/chinas-land-aircraft-carrier-charges-flying-drone-microwave-beam",
+        "https://interestingengineering.com/military/china-microwave-beam-recharges-drones"
+      ],
+      "score": 9
+    },
+    {
+      "name": "ForSight Robotics JASPER",
+      "company": "ForSight Robotics",
+      "country": "イスラエル",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-21",
+      "summary": "世界初のヒトにおける完全ロボット支援白内障手術を成功。AIアルゴリズム・コンピュータビジョン・小型化メカニクスを統合した眼科手術ロボット。",
+      "urls": [
+        "https://www.massdevice.com/forsight-first-robot-assisted-cataract-jasper/",
+        "https://glance.eyesoneyecare.com/stories/2026-04-15/forsight-robotics-performs-fih-robot-based-cataract-surgery/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "量子ネイティブ神経デコーディング (Spikes meet Spins)",
+      "company": "中国科学院 上海マイクロシステム情報技術研究所",
+      "country": "中国",
+      "field": "脳波・BCI",
+      "date": "2026-04-21",
+      "summary": "1000量子ビットのコヒーレント光子イジングマシンによる量子ネイティブ神経デコーディング。最大96.2%精度、中央値0.075msレイテンシ（GPU比10倍高速）を達成。",
+      "urls": [
+        "https://www.biorxiv.org/content/10.64898/2026.04.09.717346v1"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Phantom Neuro Phantom X",
+      "company": "Phantom Neuro Inc.",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-21",
+      "summary": "筋肉-機械インターフェースの���のヒト早期実現可能性試験（CYBORG試験）がオーストラリアで承認。脳や神経に侵襲せず筋肉内の電気信号で義手を直感制御。",
+      "urls": [
+        "https://www.biospace.com/press-releases/phantom-neuro-receives-approval-for-first-in-human-clinical-study",
+        "https://www.mobihealthnews.com/news/phantom-neuro-gains-study-approval-phantom-x-prosthetic-control-system"
+      ],
+      "score": 9
+    },
+    {
+      "name": "HH-200 自律型大型貨物ドローン",
+      "company": "西安飛機工業（AVIC子会社）",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-21",
+      "summary": "全長12.2m、翼幅16.8m、最大積載量1.5トン、航続距離2,360kmの大型無人貨物機。2026年4月15日に初飛行成功。",
+      "urls": [
+        "https://english.news.cn/20260415/74e16751e8eb4438ae3a3805cec9a80e/c.html",
+        "https://dronexl.co/2026/04/18/china-200-cargo-drone-mission/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "DroidUp Moya",
+      "company": "DroidUp",
+      "country": "中国",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-21",
+      "summary": "空気圧人工筋肉と背骨様骨格構造を採用したバイオミメティック・ヒューマノイド。体温32〜36℃、25自由度の微表情、92%精度の歩行。2026年後半市場投入予定。",
+      "urls": [
+        "https://interestingengineering.com/ai-robotics/shanghai-unveils-moya-humanoid-robot",
+        "https://newatlas.com/ai-humanoids/moya-droidup-lifelike-robot/"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-21"
 }
