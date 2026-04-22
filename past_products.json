@@ -1200,7 +1200,140 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "Circulatronics 非外科的電子脳インプラント",
+      "company": "MIT / Harvard University / Wellesley College / Cahira Technologies",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-22",
+      "summary": "免疫細胞とサブセルラーサイズの無線フォトボルタイック電子デバイスを共有結合させた細胞-電子ハイブリッドを静脈注射で投与し、脳深部の局所神経調節を行う世界初の技術。",
+      "urls": [
+        "https://www.carenet.com/news/general/hdn/61831",
+        "https://dime.jp/genre/2051251/",
+        "https://www.nature.com/articles/s41587-025-02809-3"
+      ],
+      "score": 10
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-22",
+      "summary": "生命科学研究に特化した初のフロンティア推論モデル。化学、タンパク質工学、ゲノミクスに最適化。Amgen、Moderna等が初期ユーザー。",
+      "urls": [
+        "https://www.itmedia.co.jp/news/articles/2604/17/news070.html",
+        "https://gigazine.net/news/20260417-gpt-rosalind/",
+        "https://openai.com/index/introducing-gpt-rosalind/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "ForSight Robotics JASPER",
+      "company": "ForSight Robotics",
+      "country": "イスラエル",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-22",
+      "summary": "世界初の完全ロボット支援による白内障手術をヒト患者に対して実施。全工程をロボットが支援する初のシステム。$125Mシリーズ B完了済み。",
+      "urls": [
+        "https://innovatopia.jp/healthcare/healthcare-news/95221/",
+        "https://news.yahoo.co.jp/articles/2f3b6dbb98338ac44653e63c2d323b09fe901588",
+        "https://glance.eyesoneyecare.com/stories/2026-04-15/forsight-robotics-performs-fih-robot-based-cataract-surgery/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "MOTE 超小型無線神経インプラント",
+      "company": "Cornell University / Nanyang Technological University",
+      "country": "米国 / シンガポール",
+      "field": "脳波/BCI",
+      "date": "2026-04-22",
+      "summary": "長さ約300ミクロン・幅70ミクロンの世界最小ワイヤレス神経インプラント。赤外線レーザーで給電し1年以上無線で脳活動を記録。Nature Electronics掲載。",
+      "urls": [
+        "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+        "https://news.cornell.edu/stories/2025/11/neural-implant-smaller-salt-grain-wirelessly-tracks-brain"
+      ],
+      "score": 9
+    },
+    {
+      "name": "DrugCLIP",
+      "company": "清華大学 / 北京大学",
+      "country": "中国",
+      "field": "生物×IT",
+      "date": "2026-04-22",
+      "summary": "従来手法の1000万倍速のAI仮想スクリーニングフレームワーク。5億化合物のライブラリから200万の小分子ヒットを生成。Science誌掲載。",
+      "urls": [
+        "https://wired.jp/article/drugclip-ai-virtual-screening-drug-discovery/",
+        "https://cen.acs.org/pharmaceuticals/drug-discovery/AI-screening-method-speed-drug/104/web/2026/01"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Naox Link イヤホン型脳波計",
+      "company": "Naox Technologies",
+      "country": "フランス",
+      "field": "脳波/BCI",
+      "date": "2026-04-22",
+      "summary": "世界初のFDA認可イヤホン型EEGデバイス。てんかん・睡眠医療・臨床研究向け。コンシューマー向けNaox Waveも2026年末発売予定。",
+      "urls": [
+        "https://innovatopia.jp/neurotrechnology/neurotrechnology-news/76987/",
+        "https://www.fiercebiotech.com/medtech/naox-technologies-nabs-first-ever-fda-clearance-ear-eeg-brain-monitoring-device"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Xidian University マイクロ波飛行中ドローン充電",
+      "company": "西安電子科技大学",
+      "country": "中国",
+      "field": "ドローン",
+      "date": "2026-04-22",
+      "summary": "マイクロ波ビームでドローンを飛行中に無線充電するシステムの実証実験に成功。高度15メートルで最大3.1時間の連続飛行を達成。",
+      "urls": [
+        "https://spc.jst.go.jp/news/250104/topic_5_01.html",
+        "https://www.scmp.com/news/china/science/article/3350482/chinas-land-aircraft-carrier-charges-flying-drone-microwave-beam"
+      ],
+      "score": 9
+    },
+    {
+      "name": "KAIST ワイヤレスOLEDコンタクトレンズ",
+      "company": "KAIST",
+      "country": "韓国",
+      "field": "技術×バイオ",
+      "date": "2026-04-22",
+      "summary": "超薄型OLED内蔵の世界初のワイヤレスコンタクトレンズ型網膜診断プラットフォーム。レンズ装着だけで網膜電図検査が可能。ACS Nano掲載。",
+      "urls": [
+        "https://spap.jst.go.jp/korea/news/250902/topic_nk_02.html",
+        "https://pubs.acs.org/doi/10.1021/acsnano.4c18563"
+      ],
+      "score": 9
+    },
+    {
+      "name": "TETmedical NSE-FAST 脳卒中血液検査",
+      "company": "TETmedical / Cornell University",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-22",
+      "summary": "哺乳類精子の酵素付着機構を模倣した分子ナノボット技術で15分以内に脳卒中を診断する血液検査。2027年FDA承認目標。",
+      "urls": [
+        "https://news.cornell.edu/stories/2026/04/research-becomes-reality-biomed-startups",
+        "https://tetmedical.com/our-product/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Serif Biomedicines Modified DNA",
+      "company": "Serif Biomedicines (Flagship Pioneering)",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-22",
+      "summary": "mRNAと遺伝子治療の長所を組み合わせた新モダリティ「Modified DNA」。プログラム可能で持続的かつ反復投与が可能。$50M初期コミットメント。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/flagship-pioneering-launches-serif-biomedicines-to-establish-modified-dna-as-a-new-biotechnology-302747795.html",
+        "https://serifbiomedicines.com/"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-22"
 }
