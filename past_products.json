@@ -1200,7 +1200,137 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "Sabi Thought-to-Text BCI Beanie",
+      "company": "Sabi",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-23",
+      "summary": "70,000〜100,000個の超小型EEGセンサーを織り込んだビーニー帽型非侵襲BCI。内言語を約30語/分でテキスト化。2026年後半の消費者向け発売を目指す。",
+      "urls": [
+        "https://www.digitaltrends.com/computing/this-thought-reading-beanie-sounds-cool-but-im-not-fully-comfortable-yet/",
+        "https://boingboing.net/2026/04/16/a-silicon-valley-startup-wants-to-sell-you-a-brain-reading-beanie.html"
+      ],
+      "score": 10
+    },
+    {
+      "name": "AVATAR Organ Chips on Artemis II",
+      "company": "Wyss Institute (Harvard) / Emulate / NASA",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-23",
+      "summary": "宇宙飛行士本人の細胞から培養した骨髄組織をオルガンチップに搭載し、Artemis IIで月軌道を越えた深宇宙での放射線・微小重力の影響をリアルタイム観察する史上初の実験。",
+      "urls": [
+        "https://wyss.harvard.edu/news/wyss-institute-technologies-enable-breakthrough-in-astronaut-health-research-aboard-nasas-artemis-ii-mission/",
+        "https://www.harvardmagazine.com/science/harvard-wyss-institute-artemis-avatar-space-medicine"
+      ],
+      "score": 9.5
+    },
+    {
+      "name": "Envoy Medical Acclaim Cochlear Implant",
+      "company": "Envoy Medical",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-23",
+      "summary": "世界初の完全埋め込み型人工内耳。外部デバイス不要で、耳の自然な解剖学的構造を活用した内蔵センサーで音を捉える。56人の臨床試験が進行中、FDA PMA申請間近。",
+      "urls": [
+        "https://ir.envoymedical.com/news-events/press-releases/detail/89/envoy-medical-reaches-critical-milestone-in-pivotal-clinical-trial-of-fully-implanted-acclaimr-cochlear-implant",
+        "https://www.biospace.com/press-releases/envoy-medical-reaches-critical-milestone-in-pivotal-clinical-trial-of-fully-implanted-acclaimr-cochlear-implant"
+      ],
+      "score": 9.5
+    },
+    {
+      "name": "ForSight JASPER Robotic Cataract Surgery",
+      "company": "ForSight Robotics",
+      "country": "イスラエル",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-23",
+      "summary": "世界初の完全ロボット支援白内障手術をヒトで実施。AI・コンピュータビジョン・微小メカニクスを駆使し、手術全工程をロボットが完遂。全身麻酔不要。",
+      "urls": [
+        "https://ophthalmologymanagement.com/news/2026/worlds-first-in-human-fully-robot-assisted-cataract-surgery-performed/",
+        "https://www.ynetnews.com/health_science/article/bkxq7yh2wx"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Al3Cas12f Compact CRISPR",
+      "company": "Metagenomi / テキサス大学オースティン校",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-23",
+      "summary": "AAVベクターに収まるミニCRISPRヌクレアーゼ。改良版RKKは編集効率を10%未満から90%に飛躍させ、体内遺伝子治療の道を開く。",
+      "urls": [
+        "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
+        "https://phys.org/news/2026-04-compact-crispr-body-gene-efficiency.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Xpeng Land Aircraft Carrier",
+      "company": "Xpeng AeroHT",
+      "country": "中国",
+      "field": "ドローン / eVTOL",
+      "date": "2026-04-23",
+      "summary": "6輪EREV地上車両と分離式6ローターeVTOLを組み合わせたモジュール型フライングカー。広州工場で年産10,000台体制で生産開始。約$300,000、7,000件以上予約済み。",
+      "urls": [
+        "https://electrek.co/2026/04/22/xpeng-aridge-flying-car-factory-visit/",
+        "https://thesiliconreview.com/2026/04/flying-cars-xpeng-deliveries-modular-flying-vehicle-2027"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services (AWS)",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-23",
+      "summary": "40以上の生物基盤モデルを搭載したエージェント型AI創薬プラットフォーム。MSKが数週間で30万の新規抗体分子を設計。Bayer、Broad Instituteが初期採用。",
+      "urls": [
+        "https://www.aboutamazon.com/news/aws/aws-amazon-bio-discovery-ai-drug-research",
+        "https://www.genengnews.com/topics/artificial-intelligence/aws-launches-amazon-bio-discovery-agentic-ai-to-accelerate-drug-development/"
+      ],
+      "score": 8.5
+    },
+    {
+      "name": "Paradromics Connexus BCI",
+      "company": "Paradromics",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-23",
+      "summary": "10セント硬貨より小さい完全埋め込み型BCI。421本の微小電極を搭載し、初のヒト記録に成功。リアルタイム音声復元に特化。200+ bits/秒の情報伝送速度。",
+      "urls": [
+        "https://www.paradromics.com/news/paradromics-completes-first-in-human-recording-with-the-connexus-brain-computer-interface",
+        "https://newatlas.com/medical-devices/human-trial-experimental-brain-chip-connexus"
+      ],
+      "score": 8.5
+    },
+    {
+      "name": "Sidewinder DNA Assembly",
+      "company": "Genyro / Caltech",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-23",
+      "summary": "DNA 3方向ジャンクションとバーコード技術で誤接続率を10万倍改善（約100万分の1）。40フラグメント同時組み立てに対応。Natureに発表。",
+      "urls": [
+        "https://www.nature.com/articles/s41586-025-10006-0",
+        "https://www.nature.com/articles/s41576-026-00955-1"
+      ],
+      "score": 8.5
+    },
+    {
+      "name": "Vocxi Health MyBreathPrint",
+      "company": "Vocxi Health / Forj Medical",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "date": "2026-04-23",
+      "summary": "グラフェンナノセンサーと機械学習で呼気中VOCから肺がんを検出するハンドヘルドデバイス。従来の1,000倍の感度。臨床試験用500台を製造。",
+      "urls": [
+        "https://www.biospace.com/press-releases/vocxi-health-and-forj-medical-partner-to-miniaturize-breath-based-cancer-detection-device-platform",
+        "https://www.grapheneuses.org/vocxi-health-develops-graphene-cancer-breath-detection-device/"
+      ],
+      "score": 8.5
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-23"
 }
