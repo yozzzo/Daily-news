@@ -1200,7 +1200,133 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI",
+      "country": "米国",
+      "first_posted": "2026-04-24",
+      "field": "生物×IT",
+      "summary": "OpenAIが発表したライフサイエンス専用フロンティア推論モデル。薬物探索・ゲノム解析・タンパク質推論・トランスレーショナル医学を加速するために設計。",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-rosalind/",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-launches-ai-model-gpt-rosalind-life-sciences-research-2026-04-16/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "JASPER Platform（世界初完全ロボット白内障手術）",
+      "company": "ForSight Robotics",
+      "country": "イスラエル",
+      "first_posted": "2026-04-24",
+      "field": "ロボティクス×バイオ",
+      "summary": "世界初の完全ロボット支援白内障手術を人間患者で成功させたプラットフォーム。全身麻酔なしで手術を最初から最後まで完遂。",
+      "urls": [
+        "https://www.businesswire.com/news/home/20260406526545/en/ForSight-Robotics-Makes-History-with-the-Worlds-First-in-Human-Fully-Robot-Assisted-Cataract-Surgery",
+        "https://innovatopia.jp/healthcare/healthcare-news/95221/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Brainless Microrobots（脳なし3Dプリントマイクロロボット）",
+      "company": "Leiden University（Daniela Kraft研究室）",
+      "country": "オランダ",
+      "first_posted": "2026-04-24",
+      "field": "ロボティクス×バイオ",
+      "summary": "センサー・ソフトウェア・外部制御なしで泳ぎ、障害物を回避できる3Dプリント製マイクロロボット。2026年3月27日PNAS掲載。",
+      "urls": [
+        "https://www.universiteitleiden.nl/en/news/2026/03/alive-or-not-tiny-3d-printed-robots-without-a-brain-that-swim-and-navigate-just-like-animals",
+        "https://gigazine.net/news/20260406-3d-print-robot-size-single-cell-organism/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Mayo Clinic × Goodfire 遺伝子変異AI解析システム",
+      "company": "Mayo Clinic / Goodfire",
+      "country": "米国",
+      "first_posted": "2026-04-24",
+      "field": "生物×IT",
+      "summary": "ClinVar登録の420万件の遺伝子変異について疾患原因変異を特定し、生物学的メカニズムを説明するAIシステム。",
+      "urls": [
+        "https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/",
+        "https://www.goodfire.ai/research/evee-explaining-genetic-variants"
+      ],
+      "score": 9
+    },
+    {
+      "name": "NeuStim™（AI誘導型脳体インターフェース）",
+      "company": "Neuvotion",
+      "country": "米国",
+      "first_posted": "2026-04-24",
+      "field": "脳波/BCI",
+      "summary": "FDA認可済みの非侵襲型高解像度電気筋肉刺激デバイス。脳卒中・脊髄損傷後の手の動き回復を支援するAI誘導型脳体インターフェース。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/neuvotion-announces-the-launch-of-neustim-as-part-of-its-ai-guided-brain-body-interface-platform-for-recovery-after-stroke-or-injury-302751267.html",
+        "https://www.massdevice.com/neuvotion-launches-neurostim-post-stroke-recovery/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Edge Medical 遠隔手術ロボット（7,000km超遠隔手術）",
+      "company": "Edge Medical（深圳）",
+      "country": "中国",
+      "first_posted": "2026-04-24",
+      "field": "ロボティクス×バイオ",
+      "summary": "中国から約7,000km離れたポーランドの医療機関に対し遠隔手術を成功。ネットワーク遅延わずか30ミリ秒。",
+      "urls": [
+        "https://j.people.com.cn/n3/2026/0325/c95952-20439694.html",
+        "https://spap.jst.go.jp/china/news/260304/topic_6_05.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Ignite 3.0 高スループット遺伝子合成プラットフォーム",
+      "company": "Beijing Tsingke Biotech × iGeneTech Bioscience",
+      "country": "中国",
+      "first_posted": "2026-04-24",
+      "field": "合成生物学",
+      "summary": "4k〜1Mのオリゴプールを処理可能な高スループット遺伝子合成システム。精密医療・バイオ育種・遺伝子編集の研究開発を加速。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/tsingke-biotech-and-igenetech-forge-strategic-partnership-to-lead-synthetic-biology-advancements-302707927.html"
+      ],
+      "score": 8
+    },
+    {
+      "name": "ZenaDrone Interceptor P-1",
+      "company": "ZenaTech / ZenaDrone",
+      "country": "米国",
+      "first_posted": "2026-04-24",
+      "field": "ドローン",
+      "summary": "5,000ドル以下での販売を目標とした使い捨て自律迎撃ドローン。カウンターUASシステムの一部として開発。",
+      "urls": [
+        "https://www.zenatech.com/zenatechs-zenadrone-interceptor-p-1-single-use-autonomous-interceptor-drone-targeted-to-sell-for-under-5000-usd/"
+      ],
+      "score": 8
+    },
+    {
+      "name": "BiCAM（3D培養骨格筋細胞バイオハイブリッドロボット）",
+      "company": "東京大学・大阪大学",
+      "country": "日本",
+      "first_posted": "2026-04-24",
+      "field": "ロボティクス×バイオ",
+      "summary": "3D培養骨格筋細胞を搭載したバイオハイブリッドロボット用アクチュエータ。特定条件下で収縮力が約2倍向上することを確認。",
+      "urls": [
+        "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1778864/full"
+      ],
+      "score": 8
+    },
+    {
+      "name": "Capra Biosciences バイオフィルム型疎水性化学物質生産プラットフォーム",
+      "company": "Capra Biosciences",
+      "country": "米国",
+      "first_posted": "2026-04-24",
+      "field": "合成生物学",
+      "summary": "バイオフィルムを活用した独自バイオリアクター技術により、レチノール・サリチル酸などの疎水性高機能化学物質をバイオベースで生産。",
+      "urls": [
+        "https://www.caprabiosciences.com/"
+      ],
+      "score": 7
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-24"
 }
