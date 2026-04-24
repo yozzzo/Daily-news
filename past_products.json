@@ -1200,7 +1200,137 @@
         "https://www.nature.com/articles/s44460-026-00063-x"
       ],
       "score": 9
+    },
+    {
+      "name": "Sabi BCI Beanie",
+      "company": "Sabi",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "date": "2026-04-24",
+      "summary": "ニット帽型デバイスに7万〜10万個の超高密度EEGセンサーを搭載し、内部音声をテキストに変換する非侵襲型BCI。10万時間の脳データで訓練された脳基盤モデルを使用。2026年末に消費者向け発売予定。",
+      "urls": [
+        "https://boingboing.net/2026/04/16/a-silicon-valley-startup-wants-to-sell-you-a-brain-reading-beanie.html",
+        "https://www.digitaltrends.com/computing/this-thought-reading-beanie-sounds-cool-but-im-not-fully-comfortable-yet/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "K1000ULE Laser-Powered Drone",
+      "company": "Kraus Hamdani Aerospace / PowerLight Technologies",
+      "country": "米国",
+      "field": "ドローン",
+      "date": "2026-04-24",
+      "summary": "世界初のレーザーワイヤレス給電飛行実証に成功。高度5,000フィートで飛行中に約1kWの電力をレーザーで受電し、着陸不要で数ヶ月間の連続飛行が可能。米空軍から2.7億ドルの契約を受注。",
+      "urls": [
+        "https://dronelife.com/2026/04/22/kraus-hamdani-aerospace-demonstrates-wireless-power-beaming-to-k1000ule-at-shaw-afb/",
+        "https://breakingdefense.com/2026/04/afcent-awards-kraus-hamdani-270m-for-solar-powered-long-endurance-drones/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Reni-cel (renizgamglogene autogedtemcel)",
+      "company": "Editas Medicine",
+      "country": "米国",
+      "field": "合成生物��",
+      "date": "2026-04-24",
+      "summary": "CRISPR-Cas12aベースの遺伝子編集療法。重症鎌状赤血球症患者28名の第1-2相試験で27/27完全寛解。Cas12a酵素を利用した初の大規模臨床成功例。NEJM掲載。",
+      "urls": [
+        "https://www.nejm.org/doi/full/10.1056/NEJMoa2415550",
+        "https://www.aabb.org/news-resources/news/article/2026/04/15/investigational-crispr-gene-editing-therapy-shows-early-promise-in-scd--beta-thalassemia"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Smart DNA Drug (Programmable DNA Nanorobot)",
+      "company": "University of Geneva (UNIGE)",
+      "country": "スイス",
+      "field": "ロボティクス×バイオ / 技術×バイオ",
+      "date": "2026-04-24",
+      "summary": "がん細胞表面の2つのバイオマーカーを同時検出した場合のみ自己組み立てし細胞毒性薬を放出する、二要素認証型DNAナノロボット薬剤。Nature Biotechnology掲載。",
+      "urls": [
+        "https://www.sciencedaily.com/releases/2026/04/260402042744.htm",
+        "https://www.unige.ch/medias/en/2026/des-medicaments-intelligents-pour-lutter-contre-le-cancer"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Beinao No.1 (脳号1号)",
+      "company": "CIBR / NeuCyber NeuroTech / 天壇病院",
+      "country": "中国",
+      "field": "脳波/BCI",
+      "date": "2026-04-24",
+      "summary": "中国初の生中継BCI埋め込み手術。硬膜外電極の半侵襲型で128チャネル・30kHzサンプリング。ALS患者の中国語音声デコードに成功。50〜100名規模の臨床試験を予定。",
+      "urls": [
+        "https://news.cgtn.com/news/2026-04-15/China-completes-first-live-streamed-Beinao-No-1-BCI-surgery-1MmwHSLYfQs/p.html",
+        "https://en.people.cn/n3/2026/0421/c98649-20448814.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "JASPER Ophthalmic Surgical Robot",
+      "company": "ForSight Robotics",
+      "country": "イスラ��ル",
+      "field": "ロボティクス×バイオ",
+      "date": "2026-04-24",
+      "summary": "世界初のヒトに対する完全ロボット支援白内障手術を実施。全身麻酔なしで手術の最初から最後までロボットが支援。フィリピン・マニラで初の臨床試験。",
+      "urls": [
+        "https://www.massdevice.com/forsight-first-robot-assisted-cataract-jasper/",
+        "https://www.businesswire.com/news/home/20260406526545/en/ForSight-Robotics-Makes-History-with-the-Worlds-First-in-Human-Fully-Robot-Assisted-Cataract-Surgery"
+      ],
+      "score": 9
+    },
+    {
+      "name": "GPT-Rosalind",
+      "company": "OpenAI",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-24",
+      "summary": "OpenAI初のライフサイエンス特化型フロンティア推論モデル。生化学・ゲノミクス・タンパク質工学に最適化。Amgen、Moderna、Novo Nordiskらが利用。",
+      "urls": [
+        "https://openai.com/index/introducing-gpt-rosalind/",
+        "https://www.fiercebiotech.com/biotech/openai-launches-biotech-specific-ai-model-gpt-rosalind"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Bio-Hybrid DNA Memristor",
+      "company": "Penn State University / University of Minnesota",
+      "country": "米国",
+      "field": "合成生物学",
+      "date": "2026-04-24",
+      "summary": "合成DNAとペロブスカイト半導体を統合したバイ���ハイブリッドメモリスタ。0.1V未満で動作、従来比100倍省電力。120℃でも安定稼働。",
+      "urls": [
+        "https://www.psu.edu/news/research/story/borrowing-biology-power-next-gen-data-storage",
+        "https://www.electronicsforu.com/news/bio-hybrid-dna-memristors-for-energy-efficient-data-storage"
+      ],
+      "score": 9
+    },
+    {
+      "name": "AI Allosteric Protein Switches",
+      "company": "QUT / University of Washington / CSIRO",
+      "country": "豪州・米国・英国",
+      "field": "合成生��学",
+      "date": "2026-04-24",
+      "summary": "AIで設計した人工アロステリックタンパク質スイッチ。標的分子検出時のみ活性化するスマートタンパク質。電気化学バイオセンサーや生細胞内でも機能。Nature Biotechnology掲載。",
+      "urls": [
+        "https://www.nature.com/articles/s41587-026-03081-9",
+        "https://phys.org/news/2026-04/scientists-ai-generated-proteins-smart.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services",
+      "country": "米国",
+      "field": "生物×IT",
+      "date": "2026-04-24",
+      "summary": "40以上の生物学特化型基盤モデルとAIエージェントを統合したAI創薬プラットフォーム。MSKとの実証で30万の新規抗体分子を設計。Bayer、Broad Instituteらが早期採用。",
+      "urls": [
+        "https://aws.amazon.com/blogs/industries/introducing-amazon-bio-discovery/",
+        "https://www.aboutamazon.com/news/aws/aws-amazon-bio-discovery-ai-drug-research"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-10"
+  "last_updated": "2026-04-24"
 }
