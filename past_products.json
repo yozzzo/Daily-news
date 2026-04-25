@@ -1326,7 +1326,97 @@
         "https://www.caprabiosciences.com/"
       ],
       "score": 7
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 1,
+      "name": "SSi Vimana Aero",
+      "company": "SS Innovations International",
+      "country": "インド",
+      "field": "ロボティクス×バイオ / ドローン",
+      "url": "https://www.massdevice.com/ss-innovations-unveils-drone-surgical-robot/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 2,
+      "name": "Imagined Speech BCI",
+      "company": "Georgia Tech & Emory University",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.gatech.edu/news/2026/01/28/better-brain-machine-interfaces-could-allow-paralyzed-communicate-again"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 3,
+      "name": "Heartseed HS-005",
+      "company": "Heartseed",
+      "country": "日本",
+      "field": "技術×バイオ / 再生医療",
+      "url": "https://cuorips.co.jp/en/news/2026/03/06/512/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 4,
+      "name": "Converge Bio AI Antibody Platform",
+      "company": "Converge Bio",
+      "country": "イスラエル/米国",
+      "field": "生物×IT",
+      "url": "https://converge-bio.com/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 5,
+      "name": "Aleph Cuts (培養牛肉)",
+      "company": "Aleph Farms",
+      "country": "イスラエル",
+      "field": "合成生物学 / 代替食品",
+      "url": "https://aleph-farms.com/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 6,
+      "name": "hinotori（ヒノトリ）",
+      "company": "メディカロイド",
+      "country": "日本",
+      "field": "ロボティクス×バイオ",
+      "url": "https://www.medicaroid.com/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 7,
+      "name": "Epistra Accelerate",
+      "company": "Epistra",
+      "country": "日本",
+      "field": "生物×IT / 技術×バイオ",
+      "url": "https://epistra.jp/en/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 8,
+      "name": "Stendr AI Counter-Drone System",
+      "company": "Stendr",
+      "country": "ノルウェー",
+      "field": "ドローン（防衛・検知）",
+      "url": "https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 9,
+      "name": "BluJ Aerospace REACH VTOL",
+      "company": "BluJ Aerospace",
+      "country": "インド",
+      "field": "ドローン",
+      "url": "https://blujaero.com/product/"
+    },
+    {
+      "date": "2026-04-25",
+      "rank": 10,
+      "name": "Wearable Sweat Patch (12疾患診断)",
+      "company": "National University of Singapore",
+      "country": "シンガポール",
+      "field": "技術×バイオ / ウェアラブル",
+      "url": "https://www.linkedin.com/posts/sumeet-chandna-171ab522_singapore-scientists-developed-sweat-patch-activity-7420308430571139072--uyX"
     }
   ],
-  "last_updated": "2026-04-24"
+  "last_updated": "2026-04-25"
 }
