@@ -1326,7 +1326,137 @@
         "https://www.caprabiosciences.com/"
       ],
       "score": 7
+    },
+    {
+      "name": "Otarmeni (lunsotogene parvec-cwha)",
+      "company": "Regeneron Pharmaceuticals",
+      "country": "米国",
+      "first_posted": "2026-04-25",
+      "field": "生物×IT",
+      "summary": "世界初のデュアルAAVベクター遺伝子治療薬。OTOF遺伝子変異による遺伝性難聴を対象にFDA加速承認。患者の80%で聴力改善、BLA提出から61日で承認は史上最速タイ。",
+      "urls": [
+        "https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+        "https://www.cnn.com/2026/04/23/health/fda-gene-therapy-inherited-deafness-regeneron"
+      ],
+      "score": 10
+    },
+    {
+      "name": "ReHeart iPS細胞由来心筋シート",
+      "company": "クオリプス（大阪大学発ベンチャー）",
+      "country": "日本",
+      "first_posted": "2026-04-25",
+      "field": "技術×バイオ",
+      "summary": "世界初のiPS細胞由来再生医療製品。重症心不全患者の心臓に貼付して機能回復を促す心筋シート。2026年3月に厚労相が条件・期限付き承認を決定。",
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUA061060W6A300C2000000/",
+        "https://scienceportal.jst.go.jp/stories/20260318_s01/"
+      ],
+      "score": 10
+    },
+    {
+      "name": "Nia Therapeutics SNS（AI誘導型記憶回復BCIインプラント）",
+      "company": "Nia Therapeutics",
+      "country": "米国",
+      "first_posted": "2026-04-25",
+      "field": "脳波/BCI",
+      "summary": "外傷性脳損傷後のエピソード記憶喪失を治療する世界初のAI誘導型BCIインプラント。60チャネルで4脳領域を記録し、FDAブレークスルーデバイス指定を取得。",
+      "urls": [
+        "https://www.biospace.com/press-releases/nia-therapeutics-receives-fda-breakthrough-device-designation-for-ai-guided-brain-implant-to-treat-memory-loss",
+        "https://www.businesswire.com/news/home/20260313678930/en/Nia-Therapeutics-Receives-FDA-Breakthrough-Device-Designation-for-AI-Guided-Brain-Implant-to-Treat-Memory-Loss"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Amazon Bio Discovery (ABD)",
+      "company": "Amazon Web Services (AWS)",
+      "country": "米国",
+      "first_posted": "2026-04-25",
+      "field": "生物×IT",
+      "summary": "40種以上の生物学基盤モデルを搭載したAI創薬プラットフォーム。MSKCCとの協業で約30万の新規抗体分子を生成。",
+      "urls": [
+        "https://aws.amazon.com/blogs/industries/introducing-amazon-bio-discovery/",
+        "https://www.aboutamazon.com/news/aws/aws-amazon-bio-discovery-ai-drug-research"
+      ],
+      "score": 9
+    },
+    {
+      "name": "SetPoint System（迷走神経刺激型ニューロイミュノモジュレーションデバイス）",
+      "company": "SetPoint Medical",
+      "country": "米国",
+      "first_posted": "2026-04-25",
+      "field": "技術×バイオ",
+      "summary": "世界初のニューロイミュノモジュレーションデバイス。迷走神経刺激で関節リウマチを治療し、75%の患者が生物学的製剤不要に。FDA承認済み。",
+      "urls": [
+        "https://setpointmedical.com/setpoint-medical-receives-fda-approval-for-novel-neuroimmune-modulation-therapy-for-rheumatoid-arthritis/",
+        "https://www.rheumatologyadvisor.com/news/fda-approves-neuroimmune-modulation-device-for-rheumatoid-arthritis/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "CRISPR/Cas9ダウン症候群余剰染色体サイレンシング",
+      "company": "Beth Israel Deaconess Medical Center / Harvard Medical School",
+      "country": "米国",
+      "first_posted": "2026-04-25",
+      "field": "合成生物学",
+      "summary": "改良型CRISPR/Cas9でダウン症候群の余剰21番染色体にXIST遺伝子を挿入し活性を抑制。従来の約30倍の挿入効率を達成。",
+      "urls": [
+        "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
+        "https://www.pnas.org/doi/10.1073/pnas.2517953123"
+      ],
+      "score": 9
+    },
+    {
+      "name": "NAOX Link / NAOX Wave（EEG内蔵ワイヤレスイヤホン）",
+      "company": "NAOX Technologies",
+      "country": "フランス",
+      "first_posted": "2026-04-25",
+      "field": "脳波/BCI",
+      "summary": "臨床グレードEEG内蔵ワイヤレスイヤホン。臨床用NAOX LinkはFDA承認済み。コンシューマ用NAOX Waveは2026年末発売予定。",
+      "urls": [
+        "https://www.engadget.com/wearables/naoxs-wireless-earbuds-have-a-built-in-eeg-to-monitor-your-brain-health-030000605.html",
+        "https://www.massdevice.com/naox-technologies-wins-fda-clearance-for-earbud-based-eeg/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Electrofluidic Fiber Muscles（電気流体人工筋肉ファイバー）",
+      "company": "MIT Media Lab / Politecnico di Bari",
+      "country": "米国 / イタリア",
+      "first_posted": "2026-04-25",
+      "field": "ロボティクス×バイオ",
+      "summary": "モーター不要の静音人工筋肉ファイバー。骨格筋に匹敵する出力密度50W/kgと収縮率20%を実現。Science Robotics掲載。",
+      "urls": [
+        "https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409",
+        "https://www.science.org/doi/10.1126/scirobotics.ady6438"
+      ],
+      "score": 8
+    },
+    {
+      "name": "Flytrex Sky2（大容量配送ドローン）",
+      "company": "Flytrex / Little Caesars",
+      "country": "イスラエル / 米国",
+      "first_posted": "2026-04-25",
+      "field": "ドローン",
+      "summary": "ラージピザ2枚+飲料を1回で配送可能な大容量配送ドローン。平均4.5分で配達完了。テキサス州で実運用開始。",
+      "urls": [
+        "https://dronedj.com/2026/04/25/little-caesars-pizza-drone-delivery/",
+        "https://www.restaurantdive.com/news/flytrex-sky-2-little-caesars-texas-family-meal-delivery/818210/"
+      ],
+      "score": 8
+    },
+    {
+      "name": "Electronic-Free Robotic Swarm（電子部品ゼロマイクロロボット群）",
+      "company": "Georgia Institute of Technology",
+      "country": "米国",
+      "first_posted": "2026-04-25",
+      "field": "ロボティクス×バイオ",
+      "summary": "電子部品・バッテリー・プロセッサー不要のマイクロロボット群。幾何学的設計のみで集団行動を実現。がん薬物送達等に応用期待。",
+      "urls": [
+        "https://news.research.gatech.edu/2026/03/30/smartest-robots-may-be-dumbest-ones",
+        "https://techxplore.com/news/2026-04/robotic-swarm-electronics-batteries-brains.html"
+      ],
+      "score": 8
     }
   ],
-  "last_updated": "2026-04-24"
+  "last_updated": "2026-04-25"
 }
