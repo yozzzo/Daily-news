@@ -1416,7 +1416,97 @@
       "country": "シンガポール",
       "field": "技術×バイオ / ウェアラブル",
       "url": "https://www.linkedin.com/posts/sumeet-chandna-171ab522_singapore-scientists-developed-sweat-patch-activity-7420308430571139072--uyX"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 1,
+      "name": "Circulatronics（注射型脳インプラント）",
+      "company": "MIT / Cahira Technologies",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.nature.com/articles/s41587-025-02809-3"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 2,
+      "name": "miroliverELAP（バイオ人工肝臓）",
+      "company": "Miromatrix Medical / United Therapeutics",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "url": "https://ir.unither.com/press-releases/2026/04-08-2026-120021960"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 3,
+      "name": "Lamprey MMAUV（寄生型水中ドローン）",
+      "company": "Lockheed Martin",
+      "country": "米国",
+      "field": "ドローン",
+      "url": "https://www.defensenews.com/unmanned/2026/02/10/lockheeds-unveils-lamprey-undersea-drone-that-can-attach-to-ships/"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 4,
+      "name": "Electrofluidic Fiber Muscles（電気流体人工筋繊維）",
+      "company": "MIT Media Lab / Politecnico di Bari",
+      "country": "米国/イタリア",
+      "field": "ロボティクス×バイオ",
+      "url": "https://www.science.org/doi/10.1126/scirobotics.ady6438"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 5,
+      "name": "Connexus BCI",
+      "company": "Paradromics",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.paradromics.com/news/paradromics-completes-first-in-human-recording-with-the-connexus-brain-computer-interface"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 6,
+      "name": "Constructive Bio（合成ゲノムバイオファクトリー）",
+      "company": "Constructive Bio",
+      "country": "英国",
+      "field": "合成生物学",
+      "url": "https://www.synbiobeta.com/read/synthetic-genomics-startup-lands-58m-welcomes-nobel-laureate-to-board"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 7,
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services",
+      "country": "米国",
+      "field": "生物×IT",
+      "url": "https://www.aboutamazon.com/news/aws/aws-amazon-bio-discovery-ai-drug-research"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 8,
+      "name": "Glucotrack CBGM（埋め込み型血糖モニター）",
+      "company": "Glucotrack Inc.",
+      "country": "イスラエル/米国",
+      "field": "技術×バイオ",
+      "url": "https://www.globenewswire.com/news-release/2026/04/21/3277876/0/en/Glucotrack-Announces-Publication-of-Peer-Reviewed-Study-Supporting-Long-Life-Sensor-Design-for-Implantable-Continuous-Blood-Glucose-Monitoring-Technology.html"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 9,
+      "name": "Atlas Data Storage x imec（DNAストレージチップ）",
+      "company": "Atlas Data Storage / imec",
+      "country": "米国/ベルギー",
+      "field": "合成生物学",
+      "url": "https://www.imec-int.com/en/press/next-generation-permanent-dna-based-data-storage-ai-age"
+    },
+    {
+      "date": "2026-04-26",
+      "rank": 10,
+      "name": "STC-15（RNAエピジェネティクス薬）",
+      "company": "STORM Therapeutics",
+      "country": "英国",
+      "field": "生物×IT / 合成生物学",
+      "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/"
     }
   ],
-  "last_updated": "2026-04-25"
+  "last_updated": "2026-04-26"
 }
