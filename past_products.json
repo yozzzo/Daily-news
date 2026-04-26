@@ -1416,7 +1416,67 @@
       "country": "シンガポール",
       "field": "技術×バイオ / ウェアラブル",
       "url": "https://www.linkedin.com/posts/sumeet-chandna-171ab522_singapore-scientists-developed-sweat-patch-activity-7420308430571139072--uyX"
+    },
+    {
+      "name": "Evo 2 ゲノム設計AIモデル（Nature掲載）",
+      "company": "Arc Institute × NVIDIA",
+      "first_posted": "2026-04-26",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Formation Bio AIクリニカルトライアル加速プラットフォーム",
+      "company": "Formation Bio",
+      "first_posted": "2026-04-26",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Changying-8（長鷹-8）大型貨物ドローン",
+      "company": "NORINCO（中国北方工業公司）",
+      "first_posted": "2026-04-26",
+      "field": "ドローン"
+    },
+    {
+      "name": "StairMed 侵襲型BMIシステム（Alibaba・Tencent出資）",
+      "company": "StairMed Technology（上海）",
+      "first_posted": "2026-04-26",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Technion 体内薬物生成バクテリア（マイクロニードルパッチ）",
+      "company": "Technion（イスラエル工科大学）",
+      "first_posted": "2026-04-26",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "慶應義塾大学 BCI運動イメージ訓練（脳状態可視化）",
+      "company": "慶應義塾大学・JST",
+      "first_posted": "2026-04-26",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Agtonomy × Kubota 自律農業トラクター（Kubota出資）",
+      "company": "Agtonomy × Kubota",
+      "first_posted": "2026-04-26",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "10x Science AIタンパク質解析プラットフォーム",
+      "company": "10x Science (YC W26)",
+      "first_posted": "2026-04-26",
+      "field": "生物×IT"
+    },
+    {
+      "name": "イスラエル国家ドローンプロジェクト（第1フェーズ完了）",
+      "company": "イスラエル運輸省",
+      "first_posted": "2026-04-26",
+      "field": "ドローン"
+    },
+    {
+      "name": "NUS マイクロニードル植物用バイオ肥料送達システム",
+      "company": "シンガポール国立大学（NUS）",
+      "first_posted": "2026-04-26",
+      "field": "技術×バイオ"
     }
   ],
-  "last_updated": "2026-04-25"
+  "last_updated": "2026-04-26"
 }
