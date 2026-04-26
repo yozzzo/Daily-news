@@ -1212,6 +1212,270 @@
       "url": "https://arxiv.org/abs/2604.02851",
       "description": "3DGSシーンをリアルタイムでストリーミング配信する新手法。従来の画像空間リプロジェクションではなく3Dガウシアン自体をストリーミングすることでレイテンシを大幅削減。",
       "date": "2026-04-09"
+    },
+    {
+      "name": "DualSplat",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "動的シーン再構成"
+    },
+    {
+      "name": "You Only Gaussian Once (YOGOS)",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "3DGS最適化"
+    },
+    {
+      "name": "WildSplatter",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "フィードフォワード3DGS"
+    },
+    {
+      "name": "GSCompleter",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "スパースビュー補完"
+    },
+    {
+      "name": "Gaussians on a Diet",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "メモリ効率化"
+    },
+    {
+      "name": "FluSplat",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "3D編集"
+    },
+    {
+      "name": "SketchFaceGS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "顔編集"
+    },
+    {
+      "name": "OT-UVGS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "UVマッピング"
+    },
+    {
+      "name": "AdaGScale",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "レンダリング高速化"
+    },
+    {
+      "name": "GS-STVSR",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "ビデオ超解像"
+    },
+    {
+      "name": "E3VS-Bench",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "ベンチマーク"
+    },
+    {
+      "name": "LAGS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "ドローン群"
+    },
+    {
+      "name": "Neural Gabor Splatting",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "高周波サーフェス"
+    },
+    {
+      "name": "GaussianFlow SLAM",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "SLAM"
+    },
+    {
+      "name": "GlobalSplat",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "フィードフォワード3DGS"
+    },
+    {
+      "name": "TokenGS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "フィードフォワード3DGS"
+    },
+    {
+      "name": "SSD-GS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "再照明"
+    },
+    {
+      "name": "HY-World 2.0",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "世界モデル"
+    },
+    {
+      "name": "ClipGStream",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "4DGS"
+    },
+    {
+      "name": "GeoRect4D",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "4DGS"
+    },
+    {
+      "name": "MUA: Mobile Ultra-detailed Animatable Avatars",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "アバター"
+    },
+    {
+      "name": "High-Fidelity 3D Gaussian Human Reconstruction",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "人体再構成"
+    },
+    {
+      "name": "GGD-SLAM",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "SLAM"
+    },
+    {
+      "name": "Habitat-GS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "Embodied AI"
+    },
+    {
+      "name": "NG-GS",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "セグメンテーション"
+    },
+    {
+      "name": "Sculpt4D",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "4D生成"
+    },
+    {
+      "name": "Vista4D",
+      "type": "論文",
+      "first_posted": "2026-04-25",
+      "field": "4DGS"
+    },
+    {
+      "name": "Preferred Networks × TBS日曜劇場GIFT 3DGS活用",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "映像制作"
+    },
+    {
+      "name": "XGRIDS PortalCam NAB 2026 4部門最優秀製品賞",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "ハードウェア"
+    },
+    {
+      "name": "Radiant Images Meridian 4DGS × 24台iPhone ビュレットタイムリグ",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "映像制作"
+    },
+    {
+      "name": "Antigravity Project ETERNAL",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "文化遺産"
+    },
+    {
+      "name": "Insta360 × Splatica パートナーシップ",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "ツール"
+    },
+    {
+      "name": "Tencent HY-World 2.0 オープンソース",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "世界モデル"
+    },
+    {
+      "name": "Microsoft TRELLIS.2",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "生成AI"
+    },
+    {
+      "name": "NVIDIA Lyra 2.0",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "生成AI"
+    },
+    {
+      "name": "Laval Virtual 2026 4DGS特集",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "XR"
+    },
+    {
+      "name": "Captures Studio V1.0",
+      "type": "ツール",
+      "first_posted": "2026-04-25",
+      "field": "プラットフォーム"
+    },
+    {
+      "name": "LichtFeld Studio v0.5.2",
+      "type": "ツール",
+      "first_posted": "2026-04-25",
+      "field": "処理ツール"
+    },
+    {
+      "name": "COLMAP Bridge アップデート",
+      "type": "ツール",
+      "first_posted": "2026-04-25",
+      "field": "ワークフロー"
+    },
+    {
+      "name": "Godot GDGSプラグイン",
+      "type": "ツール",
+      "first_posted": "2026-04-25",
+      "field": "ゲームエンジン"
+    },
+    {
+      "name": "PlayCanvas チュートリアル Gaussian Splat ゲーム化",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-25",
+      "field": "ゲームエンジン"
+    },
+    {
+      "name": "Clair Obscur Expedition 33 Gaussian Splat",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-25",
+      "field": "ゲーム"
+    },
+    {
+      "name": "LifeHacker Gaussian Splats記事",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "一般向け"
+    },
+    {
+      "name": "PFN TBS GIFT 日本語報道",
+      "type": "ニュース",
+      "first_posted": "2026-04-25",
+      "field": "映像制作"
     }
   ]
 }
