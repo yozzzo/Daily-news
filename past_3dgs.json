@@ -1476,6 +1476,132 @@
       "type": "ニュース",
       "first_posted": "2026-04-25",
       "field": "映像制作"
+    },
+    {
+      "name": "YOGO (You Only Gaussian Once)",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "3DGS最適化・本番環境対応"
+    },
+    {
+      "name": "GraphiXS (Graphical X Splatting)",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "4DGS・不確実性モデリング"
+    },
+    {
+      "name": "WorldStereo",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "動画生成×3D再構成"
+    },
+    {
+      "name": "Splatography",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "4DGS・映画制作"
+    },
+    {
+      "name": "CryoSplat",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "科学応用・クライオ電子顕微鏡"
+    },
+    {
+      "name": "MS-Splatting (Multi-Spectral Gaussian Splatting)",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "マルチスペクトル・赤外線対応"
+    },
+    {
+      "name": "Splatica × Insta360 パートナーシップ The Verge報道",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "360度カメラ×3DGS普及"
+    },
+    {
+      "name": "Antigravity Project ETERNAL 文化財3DGS保存",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "文化財保存"
+    },
+    {
+      "name": "V-Ray 7 Update 3 Gaussian Splat再照明対応",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "レンダリングツール"
+    },
+    {
+      "name": "NVIDIA Asset Harvester 自動運転3Dアセット生成",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "自動運転シミュレーション"
+    },
+    {
+      "name": "Pixotope Volinga 3DGS統合 NAB 2026",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "ライブ放送・バーチャルプロダクション"
+    },
+    {
+      "name": "DroneDeploy Gaussian Splats ベータ公開",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "建設・測量"
+    },
+    {
+      "name": "KIRI Engine 4.2 3DGS to Mesh 3.0",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "3DGSメッシュ変換"
+    },
+    {
+      "name": "PlayCanvas SplatTransform CLIツール",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-27",
+      "field": "ゲーム開発"
+    },
+    {
+      "name": "VRChat Gaussian Splatting SH3対応アップデート",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-27",
+      "field": "VRコミュニティ"
+    },
+    {
+      "name": "360度動画Gaussian Splat仮想ツアー Spatial Studio検証",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-27",
+      "field": "仮想ツアー"
+    },
+    {
+      "name": "AirVis 大規模Gaussian Splatシーン クロスデバイス",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-27",
+      "field": "クロスデバイス3DGS閲覧"
+    },
+    {
+      "name": "Gaussian Splatting for VFX Houdini Nuke USD解説",
+      "type": "コミュニティ",
+      "first_posted": "2026-04-27",
+      "field": "VFXパイプライン"
+    },
+    {
+      "name": "Dehaze-then-Splat 煙霧環境3DGS",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "ロバスト3DGS・悪条件対応"
+    },
+    {
+      "name": "PropSplat RF電波伝搬3DGS DySPAN 2026",
+      "type": "論文",
+      "first_posted": "2026-04-27",
+      "field": "無線通信・RF場再構成"
+    },
+    {
+      "name": "XGRIDS 3DGS無料ウェビナー 4月28日",
+      "type": "ニュース",
+      "first_posted": "2026-04-27",
+      "field": "日本語教育コンテンツ"
     }
   ]
 }
