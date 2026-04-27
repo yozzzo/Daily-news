@@ -1476,7 +1476,97 @@
       "company": "シンガポール国立大学（NUS）",
       "first_posted": "2026-04-26",
       "field": "技術×バイオ"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 1,
+      "name": "Sabi BCI ビーニー",
+      "company": "Sabi",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 2,
+      "name": "NASA × UNOS 臓器輸送ドローン（CERTAIN計画）",
+      "company": "NASA Langley / UNOS",
+      "country": "米国",
+      "field": "ドローン",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 3,
+      "name": "RevolKa RevoAb® 抗体設計AIサービス",
+      "company": "RevolKa",
+      "country": "日本",
+      "field": "生物×IT",
+      "url": "https://www.revolka.com/en/news/corporate-20260401/"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 4,
+      "name": "Peri 更年期前期専用ウェアラブル",
+      "company": "Peri / MyPeri",
+      "country": "アイルランド",
+      "field": "技術×バイオ",
+      "url": "https://www.fastcompany.com/91519154/finally-a-wearable-designed-for-women-approaching-menopause"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 5,
+      "name": "Naox Link 耳型EEGデバイス（FDA 510(k)認可）",
+      "company": "Naox Technologies",
+      "country": "フランス",
+      "field": "脳波/BCI",
+      "url": "https://www.massdevice.com/naox-technologies-wins-fda-clearance-for-earbud-based-eeg/"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 6,
+      "name": "UC San Diego AI駆動ロボット脊椎手術（西海岸初）",
+      "company": "UC San Diego Health",
+      "country": "米国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://health.ucsd.edu/news/press-releases/2026-04-27-uc-san-diego-health-performs-first-west-coast-ai-robotic-spine-surgery/"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 7,
+      "name": "Phylo Biomni Lab（AIエージェント生物学研究環境）",
+      "company": "Phylo",
+      "country": "米国",
+      "field": "生物×IT",
+      "url": "https://www.synbiobeta.com/read/phylo-launches-biomni-lab-and-secures-13.5m-seed-round"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 8,
+      "name": "ファーメランタ 発酵生産パイロット工場（2026年5月竣工）",
+      "company": "ファーメランタ株式会社",
+      "country": "日本",
+      "field": "合成生物学",
+      "url": "https://fermelanta.com/posts-1/qdvV0Mjr"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 9,
+      "name": "Elroy Air Chaparral 自律貨物ドローン（USDOT eIPP選定）",
+      "company": "Elroy Air",
+      "country": "米国",
+      "field": "ドローン",
+      "url": "https://www.businesswire.com/news/home/20260311112442/en/Elroy-Air-selected-to-provide-autonomous-aerial-cargo-delivery-as-part-of-new-White-House-program"
+    },
+    {
+      "date": "2026-04-27",
+      "rank": 10,
+      "name": "Superwing ZR-300 武装eVTOL",
+      "company": "Superwing Technology Group",
+      "country": "中国",
+      "field": "ドローン",
+      "url": "https://armyrecognition.com/news/aerospace-news/2026/china-develops-superwing-zr-300-armed-evtol-aircraft-with-missile-launcher-for-urban-security-missions"
     }
   ],
-  "last_updated": "2026-04-26"
+  "last_updated": "2026-04-27"
 }
