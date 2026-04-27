@@ -1476,7 +1476,67 @@
       "company": "シンガポール国立大学（NUS）",
       "first_posted": "2026-04-26",
       "field": "技術×バイオ"
+    },
+    {
+      "name": "Intellia Lonvo-Z（in vivo CRISPR遺伝子編集治療）",
+      "company": "Intellia Therapeutics",
+      "first_posted": "2026-04-27",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Amazon Bio Discovery（AI創薬プラットフォーム）",
+      "company": "Amazon Web Services",
+      "first_posted": "2026-04-27",
+      "field": "生物×IT"
+    },
+    {
+      "name": "DJI FlyCart 200 / T200（200kg積載重量級ドローン）",
+      "company": "DJI",
+      "first_posted": "2026-04-27",
+      "field": "ドローン"
+    },
+    {
+      "name": "Cala kIQ Plus（AI神経刺激ウェアラブル）",
+      "company": "Cala Health",
+      "first_posted": "2026-04-27",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Serif Biomedicines（改変DNAプラットフォーム）",
+      "company": "Serif Biomedicines / Flagship Pioneering",
+      "first_posted": "2026-04-27",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Canon Ultimion（フォトンカウンティングCT）",
+      "company": "キヤノンメディカルシステムズ",
+      "first_posted": "2026-04-27",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Clair Health（連続ホルモンモニタリング腕時計）",
+      "company": "Clair Health",
+      "first_posted": "2026-04-27",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Precede Bio Insight（ゲノムワイド液体生検）",
+      "company": "Precede Biosciences",
+      "first_posted": "2026-04-27",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Princeton Origami Soft Robot（モーターレスソフトロボット）",
+      "company": "Princeton University",
+      "first_posted": "2026-04-27",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Sentrycs FIFA W杯カウンタードローン（CoRF技術）",
+      "company": "Sentrycs / Ondas Inc.",
+      "first_posted": "2026-04-27",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-04-26"
+  "last_updated": "2026-04-27"
 }
