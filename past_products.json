@@ -1566,7 +1566,97 @@
       "country": "中国",
       "field": "ドローン",
       "url": "https://armyrecognition.com/news/aerospace-news/2026/china-develops-superwing-zr-300-armed-evtol-aircraft-with-missile-launcher-for-urban-security-missions"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 1,
+      "name": "Joby Aviation NYC実証飛行",
+      "company": "Joby Aviation",
+      "country": "米国",
+      "field": "ドローン / eVTOL",
+      "url": "https://www.jobyaviation.com/news/joby-brings-electric-air-taxis-to-new-york-city-in-week-long-flight-campaign"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 2,
+      "name": "Eversense 365",
+      "company": "Senseonics Holdings / Sequel Med Tech",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "url": "https://www.globenewswire.com/news-release/2026/04/24/3280686/0/en/Senseonics-Announces-European-Launch-of-Eversense-365-The-World-s-First-and-Only-One-Year-CGM-System.html"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 3,
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services (AWS)",
+      "country": "米国",
+      "field": "生物×IT",
+      "url": "https://www.aboutamazon.com/news/aws/aws-amazon-bio-discovery-ai-drug-research"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 4,
+      "name": "Believer Meats USDA承認",
+      "company": "Believer Meats",
+      "country": "米国 / イスラエル",
+      "field": "合成生物学",
+      "url": "https://www.feedstuffs.com/agribusiness-news/usda-clears-cultivated-chicken-from-believer-meats"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 5,
+      "name": "Motif Neurotech XCS",
+      "company": "Motif Neurotech",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.businesswire.com/news/home/20260427361988/en/Motif-Neurotech-Receives-FDA-Approval-to-Begin-First-Clinical-Trial-of-its-Therapeutic-BCI-for-Treatment-Resistant-Depression"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 6,
+      "name": "AVATAR Organ Chips（Artemis II搭載）",
+      "company": "Wyss Institute / Emulate / Space Tango",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "url": "https://wyss.harvard.edu/news/wyss-institute-technologies-enable-breakthrough-in-astronaut-health-research-aboard-nasas-artemis-ii-mission/"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 7,
+      "name": "SYNTHBODY ロジックゲートADC",
+      "company": "Synthetic Design Lab (SDL)",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "url": "https://www.biospace.com/press-releases/synthetic-design-lab-unveils-first-advanced-logic-gated-adc-at-aacr-2026-achieving-10x-improvement-in-targeted-cancer-cell-killing"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 8,
+      "name": "Phantom X CYBORG臨床試験",
+      "company": "Phantom Neuro",
+      "country": "米国 / オーストラリア",
+      "field": "ロボティクス×バイオ",
+      "url": "https://www.prnewswire.com/news-releases/phantom-neuro-receives-approval-for-first-in-human-clinical-study-302742793.html"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 9,
+      "name": "Atlas Data Storage × imec DNAデータストレージCMOSチップ",
+      "company": "Atlas Data Storage / imec",
+      "country": "米国 / ベルギー",
+      "field": "合成生物学",
+      "url": "https://www.imec-int.com/en/press/next-generation-permanent-dna-based-data-storage-ai-age"
+    },
+    {
+      "date": "2026-04-28",
+      "rank": 10,
+      "name": "Nia Therapeutics SNS",
+      "company": "Nia Therapeutics",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.biospace.com/press-releases/nia-therapeutics-receives-fda-breakthrough-device-designation-for-ai-guided-brain-implant-to-treat-memory-loss"
     }
   ],
-  "last_updated": "2026-04-27"
+  "last_updated": "2026-04-28"
 }
