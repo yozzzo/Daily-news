@@ -1566,7 +1566,67 @@
       "country": "中国",
       "field": "ドローン",
       "url": "https://armyrecognition.com/news/aerospace-news/2026/china-develops-superwing-zr-300-armed-evtol-aircraft-with-missile-launcher-for-urban-security-missions"
+    },
+    {
+      "name": "ABS-101",
+      "company": "Absci",
+      "first_posted": "2026-04-28",
+      "field": "生物×IT / AI創薬"
+    },
+    {
+      "name": "OpenCRISPR-1",
+      "company": "Profluent",
+      "first_posted": "2026-04-28",
+      "field": "技術×バイオ / 合成生物学"
+    },
+    {
+      "name": "RTX-117 / XtalPi AI+Robotics Drug Discovery Engine",
+      "company": "ReviR Therapeutics × XtalPi",
+      "first_posted": "2026-04-28",
+      "field": "技術×バイオ / AIロボティクス創薬"
+    },
+    {
+      "name": "Connexus BCI / Connect-One Study",
+      "company": "Paradromics",
+      "first_posted": "2026-04-28",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "ARC-BCI Therapy",
+      "company": "ONWARD Medical",
+      "first_posted": "2026-04-28",
+      "field": "脳波/BCI / 神経リハビリ"
+    },
+    {
+      "name": "TuneLab",
+      "company": "Eli Lilly",
+      "first_posted": "2026-04-28",
+      "field": "生物×IT / AI創薬"
+    },
+    {
+      "name": "ESM3 / Forge protein design platform",
+      "company": "EvolutionaryScale",
+      "first_posted": "2026-04-28",
+      "field": "生物×IT / タンパク質生成AI"
+    },
+    {
+      "name": "H2D55 / Z1 Hydrogen Drone",
+      "company": "Heven AeroTech / Heven Drones",
+      "first_posted": "2026-04-28",
+      "field": "ドローン"
+    },
+    {
+      "name": "Skydio R10",
+      "company": "Skydio",
+      "first_posted": "2026-04-28",
+      "field": "ドローン / 公共安全"
+    },
+    {
+      "name": "Reshape robotic microbiology platform",
+      "company": "Reshape Biotech",
+      "first_posted": "2026-04-28",
+      "field": "技術×バイオ / ラボ自動化"
     }
   ],
-  "last_updated": "2026-04-27"
+  "last_updated": "2026-04-28"
 }
