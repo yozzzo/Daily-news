@@ -1626,7 +1626,67 @@
       "company": "Reshape Biotech",
       "first_posted": "2026-04-28",
       "field": "技術×バイオ / ラボ自動化"
+    },
+    {
+      "name": "Starfish BCI chip",
+      "company": "Starfish Neuroscience",
+      "first_posted": "2026-04-29",
+      "field": "脳波・BCI"
+    },
+    {
+      "name": "Robot-assisted transcatheter mitral valve replacement",
+      "company": "Capstan Medical",
+      "first_posted": "2026-04-29",
+      "field": "ロボティクス×バイオ / 心臓治療"
+    },
+    {
+      "name": "RNA Edge",
+      "company": "Asimov",
+      "first_posted": "2026-04-29",
+      "field": "技術×バイオ / 合成生物学"
+    },
+    {
+      "name": "CGX-926",
+      "company": "Congruence Therapeutics",
+      "first_posted": "2026-04-29",
+      "field": "生物×IT / AI創薬"
+    },
+    {
+      "name": "Carina modular robotic surgery platform",
+      "company": "Ronovo Surgical",
+      "first_posted": "2026-04-29",
+      "field": "ロボティクス×バイオ / 手術支援"
+    },
+    {
+      "name": "Xcell Portfolio",
+      "company": "NewBiologix",
+      "first_posted": "2026-04-29",
+      "field": "合成生物学 / 遺伝子治療製造"
+    },
+    {
+      "name": "Engineered Cytocaf Proteins",
+      "company": "MarraBio",
+      "first_posted": "2026-04-29",
+      "field": "合成生物学 / 細胞培養"
+    },
+    {
+      "name": "BioChatter V0.9.0",
+      "company": "The Hyve / Open-source community",
+      "first_posted": "2026-04-29",
+      "field": "生物×IT / バイオLLM"
+    },
+    {
+      "name": "Skin Booster Bio-Fermented Serum with ÄIO RedOil",
+      "company": "ÄIO × tilk!",
+      "first_posted": "2026-04-29",
+      "field": "技術×バイオ / 精密発酵素材"
+    },
+    {
+      "name": "SciData XLerate v1.0",
+      "company": "Boulder BioComputing",
+      "first_posted": "2026-04-29",
+      "field": "生物×IT / 研究データ基盤"
     }
   ],
-  "last_updated": "2026-04-28"
+  "last_updated": "2026-04-29"
 }
