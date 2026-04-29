@@ -1326,7 +1326,137 @@
         "https://www.caprabiosciences.com/"
       ],
       "score": 7
+    },
+    {
+      "name": "Envoy AUV（水素燃料電池潜水ドローン）",
+      "company": "Cellula Robotics",
+      "country": "カナダ",
+      "first_posted": "2026-04-29",
+      "field": "ドローン",
+      "summary": "水素燃料電池駆動の自律型潜水ドローンが完全潜航状態で2,023km航行の世界記録を達成。385時間の連続任務。",
+      "urls": [
+        "https://cellula.com/cellulas-envoy-auv-exceeds-2000-km-submerged-on-hydrogen-fuel-cell-power/",
+        "https://interestingengineering.com/energy/world-first-submarine-drone-travels-underwater"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Al3Cas12f RKK（超小型CRISPRヌクレアーゼ）",
+      "company": "Metagenomi Therapeutics / テキサス大学オースティン校",
+      "country": "米国",
+      "first_posted": "2026-04-29",
+      "field": "合成生物学",
+      "summary": "AAVベクターに収まる超小型CRISPRで編集効率80-90%を達成。体内遺伝子治療への道を開く。",
+      "urls": [
+        "https://www.nature.com/articles/s41594-026-01788-6",
+        "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Blackrock MoveAgain 高次脳領域BCI",
+      "company": "Blackrock Neurotech / コロラド大学アンシュッツ医学キャンパス",
+      "country": "米国",
+      "first_posted": "2026-04-29",
+      "field": "脳波/BCI",
+      "summary": "世界初、運動野ではなく計画・意思決定を司る高次連合野にBCIデバイスを埋め込み。",
+      "urls": [
+        "https://news.cuanschutz.edu/news-stories/colorados-first-implanted-brain-computer-interface-surgery-marks-a-new-era-in-neurological-research",
+        "https://www.cbsnews.com/colorado/news/colorado-surgery-first-implant-brain-computer-interface-higher-levels/"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Phantom X（CYBORG臨床試験）",
+      "company": "Phantom Neuro",
+      "country": "米国 / オーストラリア",
+      "first_posted": "2026-04-29",
+      "field": "ロボティクス×バイオ",
+      "summary": "筋肉-マシンインターフェースの初ヒト臨床試験承認。皮下センサーアレイで義手を直感制御。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/phantom-neuro-receives-approval-for-first-in-human-clinical-study-302742793.html",
+        "https://www.mobihealthnews.com/news/phantom-neuro-gains-study-approval-phantom-x-prosthetic-control-system"
+      ],
+      "score": 9
+    },
+    {
+      "name": "書き換え可能DNAハードドライブ",
+      "company": "ミズーリ大学",
+      "country": "米国",
+      "first_posted": "2026-04-29",
+      "field": "合成生物学",
+      "summary": "世界初の書き換え可能DNAデータストレージ。酵素フリーで繰り返し消去・上書きが可能。",
+      "urls": [
+        "https://engineering.missouri.edu/2026/mizzou-researchers-developing-a-rewritable-dna-hard-drive/",
+        "https://techxplore.com/news/2026-03-rewritable-dna-hard-storage-crisis.html"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Virtual Biology Initiative",
+      "company": "Biohub / Chan Zuckerberg Initiative",
+      "country": "米国",
+      "first_posted": "2026-04-29",
+      "field": "生物×IT",
+      "summary": "5年間5億ドル規模のAI細胞モデル構築オープンデータ基盤。NVIDIAが技術パートナー。",
+      "urls": [
+        "https://biohub.org/news/virtual-biology-initiative/",
+        "https://www.axios.com/2026/04/29/zuckerberg-chan-biohub-philanthropy-ai-disease"
+      ],
+      "score": 9
+    },
+    {
+      "name": "MySalvia Therapy（超薄型片頭痛インプラント）",
+      "company": "Salvia BioElectronics",
+      "country": "オランダ",
+      "first_posted": "2026-04-29",
+      "field": "技術×バイオ",
+      "summary": "超薄型インプラントでボタンひとつで片頭痛を止めるニューロモジュレーション療法。Phase 3進行中。",
+      "urls": [
+        "https://www.salviabioelectronics.com/news/first-patient-in-the-netherlands-receives-promising-migraine-implant-in-clinical-study",
+        "https://www.fiercebiotech.com/medtech/salvia-bioelectronics-nets-60m-develop-minimally-invasive-migraine-implant"
+      ],
+      "score": 8
+    },
+    {
+      "name": "全音節中国語リアルタイム音声BCI",
+      "company": "復旦大学",
+      "country": "中国",
+      "first_posted": "2026-04-29",
+      "field": "脳波/BCI",
+      "summary": "256チャネルマイクロECoGで中国語394音節をリアルタイムデコード。LLM連携も実証。",
+      "urls": [
+        "https://www.science.org/doi/10.1126/sciadv.adz9968",
+        "https://www.science.org/content/article/researchers-decode-mandarin-chinese-neural-signals"
+      ],
+      "score": 9
+    },
+    {
+      "name": "Joby S4（FAA Stage 4認証完了）",
+      "company": "Joby Aviation",
+      "country": "米国",
+      "first_posted": "2026-04-29",
+      "field": "ドローン / eVTOL",
+      "summary": "eVTOL初のFAA Stage 4認証完了。Delta Air Linesと提携し2026年後半の商業運航を目指す。",
+      "urls": [
+        "https://www.aircraftinsider.com/joby-aviation-clears-faa-stage-4-certification-commercial-evtol-passenger-flights-could-launch-by-end-of-2026/",
+        "https://evtol.travel/blogs/joby-faa-stage-4-tia-april-2026"
+      ],
+      "score": 9
+    },
+    {
+      "name": "PEDOT導電性ファイバー搭載バイオハイブリッドロボット",
+      "company": "研究チーム（bioRxiv / Nature掲載）",
+      "country": "米国",
+      "first_posted": "2026-04-29",
+      "field": "ロボティクス×バイオ",
+      "summary": "導電性高分子PEDOTファイバーを筋組織に埋め込み、1V・0.376mWで筋収縮を誘発する歩行ロボット。",
+      "urls": [
+        "https://www.biorxiv.org/content/10.64898/2026.04.01.715915v1.full",
+        "https://www.nature.com/articles/s44182-026-00072-5"
+      ],
+      "score": 9
     }
   ],
-  "last_updated": "2026-04-24"
+  "last_updated": "2026-04-29"
 }
