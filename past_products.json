@@ -1686,7 +1686,67 @@
       "company": "Boulder BioComputing",
       "first_posted": "2026-04-29",
       "field": "生物×IT / 研究データ基盤"
+    },
+    {
+      "name": "AMCHEPRY（iPS細胞由来パーキンソン病治療薬）",
+      "company": "住友ファーマ",
+      "first_posted": "2026-04-30",
+      "field": "技術×バイオ / 再生医療"
+    },
+    {
+      "name": "Profluent × Eli Lilly AIリコンビナーゼ",
+      "company": "Profluent / Eli Lilly",
+      "first_posted": "2026-04-30",
+      "field": "生物×IT / 遺伝子編集"
+    },
+    {
+      "name": "Laguna Diagnostics mRNA血液検査",
+      "company": "Laguna Diagnostics",
+      "first_posted": "2026-04-30",
+      "field": "技術×バイオ / 診断"
+    },
+    {
+      "name": "Flytrex Sky2 ピザデリバリードローン",
+      "company": "Flytrex × Little Caesars",
+      "first_posted": "2026-04-30",
+      "field": "ドローン / デリバリー"
+    },
+    {
+      "name": "Cellula Robotics Envoy AUV",
+      "company": "Cellula Robotics",
+      "first_posted": "2026-04-30",
+      "field": "ドローン / 水中無人機"
+    },
+    {
+      "name": "MIT Electrofluidic Fiber Muscles",
+      "company": "MIT Media Lab × バーリ工科大学",
+      "first_posted": "2026-04-30",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Fermeate 光遺伝学発酵制御プラットフォーム",
+      "company": "Fermeate",
+      "first_posted": "2026-04-30",
+      "field": "合成生物学 / 精密発酵"
+    },
+    {
+      "name": "清華大学 側脳室型BCI（ランタン電極）",
+      "company": "清華大学",
+      "first_posted": "2026-04-30",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "GenScript × Mimulus Glacier DNAデータストレージカード",
+      "company": "GenScript Biotech / Mimulus Corp",
+      "first_posted": "2026-04-30",
+      "field": "合成生物学 / DNAストレージ"
+    },
+    {
+      "name": "UC Irvine 双方向BCI歩行外骨格（BDBCI）",
+      "company": "UC Irvine / Caltech / USC",
+      "first_posted": "2026-04-30",
+      "field": "脳波/BCI / ロボティクス×バイオ"
     }
   ],
-  "last_updated": "2026-04-29"
+  "last_updated": "2026-04-30"
 }
