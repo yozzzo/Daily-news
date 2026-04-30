@@ -1686,7 +1686,67 @@
       "company": "Boulder BioComputing",
       "first_posted": "2026-04-29",
       "field": "生物×IT / 研究データ基盤"
+    },
+    {
+      "name": "AURA automated IVF lab",
+      "company": "Conceivable Life Sciences",
+      "first_posted": "2026-05-01",
+      "field": "生物×IT / ロボティクス×バイオ"
+    },
+    {
+      "name": "Scientific Superintelligence Platform / AI Science Factory",
+      "company": "Lila Sciences",
+      "first_posted": "2026-05-01",
+      "field": "生物×IT / 自律実験"
+    },
+    {
+      "name": "HX-2 AI Strike Drone / Altra swarm integration",
+      "company": "Helsing",
+      "first_posted": "2026-05-01",
+      "field": "ドローン / 防衛AI"
+    },
+    {
+      "name": "MW75 Neuro LT",
+      "company": "Neurable",
+      "first_posted": "2026-05-01",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "ROHand / OHand tactile robotic hand",
+      "company": "OYMotion",
+      "first_posted": "2026-05-01",
+      "field": "ロボティクス×バイオ / BCI周辺"
+    },
+    {
+      "name": "Firefly Petunia",
+      "company": "Light Bio",
+      "first_posted": "2026-05-01",
+      "field": "合成生物学"
+    },
+    {
+      "name": "ELIOS 3 Smart Return-to-Home / UT Payload",
+      "company": "Flyability",
+      "first_posted": "2026-05-01",
+      "field": "ドローン / 産業検査"
+    },
+    {
+      "name": "BeeHero Pollination Insight Platform 2.0",
+      "company": "BeeHero",
+      "first_posted": "2026-05-01",
+      "field": "技術×バイオ / 農業AI"
+    },
+    {
+      "name": "Biohybrid robotic jellyfish",
+      "company": "Caltech / Dabiri Lab",
+      "first_posted": "2026-05-01",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "CBI-1214 T-cell engager",
+      "company": "Cartography Biosciences",
+      "first_posted": "2026-05-01",
+      "field": "技術×バイオ / AI創薬・がん免疫"
     }
   ],
-  "last_updated": "2026-04-29"
+  "last_updated": "2026-05-01"
 }
