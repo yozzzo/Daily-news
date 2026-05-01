@@ -1746,6 +1746,66 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Lonvoguran Ziclumeran (in vivo CRISPR治療)",
+      "company": "Intellia Therapeutics",
+      "first_posted": "2026-05-01",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Sentire 自律手術プラットフォーム",
+      "company": "Cornerstone Robotics",
+      "first_posted": "2026-05-01",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "AVATAR Organ Chips (Artemis II搭載)",
+      "company": "Wyss Institute / Emulate",
+      "first_posted": "2026-05-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services",
+      "first_posted": "2026-05-01",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Living Bioelectronics (ABLE Platform)",
+      "company": "University of Chicago",
+      "first_posted": "2026-05-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Al3Cas12f RKK 超小型CRISPRシステム",
+      "company": "NIH",
+      "first_posted": "2026-05-01",
+      "field": "合成生物学"
+    },
+    {
+      "name": "AVIM Therapy",
+      "company": "Orchestra BioMed",
+      "first_posted": "2026-05-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "OCULAB 涙液バイオマーカー治療デバイス",
+      "company": "ARPA-H",
+      "first_posted": "2026-05-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "MAYHEM 10 マルチロールドローン",
+      "company": "AeroVironment",
+      "first_posted": "2026-05-01",
+      "field": "ドローン"
+    },
+    {
+      "name": "Atlas Eon 100 DNAデータストレージ",
+      "company": "Atlas Data Storage",
+      "first_posted": "2026-05-01",
+      "field": "合成生物学"
     }
   ],
   "last_updated": "2026-05-01"
