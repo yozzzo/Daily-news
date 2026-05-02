@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "ARPA-H OCULAB 涙管内バイオセンサー＋自動投薬システム",
+      "company": "ARPA-H / Lacristat / MIT / Columbia University / USC",
+      "first_posted": "2026-05-02",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services",
+      "first_posted": "2026-05-02",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Fermeate 光遺伝学×精密発酵制御プラットフォーム",
+      "company": "Fermeate",
+      "first_posted": "2026-05-02",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Firestorm Labs xCell コンテナ型ドローン製造工場",
+      "company": "Firestorm Labs",
+      "first_posted": "2026-05-02",
+      "field": "ドローン"
+    },
+    {
+      "name": "MIT PEDOTファイバー搭載バイオハイブリッド歩行ロボット",
+      "company": "MIT Raman Lab",
+      "first_posted": "2026-05-02",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "SquareMind Swan AI全身皮膚スキャンロボット",
+      "company": "SquareMind",
+      "first_posted": "2026-05-02",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Neurolief Proliv Rx 在宅脳ニューロモデュレーション治療",
+      "company": "Neurolief",
+      "first_posted": "2026-05-02",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Flytrex Sky2 配送ドローン",
+      "company": "Flytrex",
+      "first_posted": "2026-05-02",
+      "field": "ドローン"
+    },
+    {
+      "name": "Enduro Genetics Enduro Sense 合成中毒メカニズム",
+      "company": "Enduro Genetics",
+      "first_posted": "2026-05-02",
+      "field": "合成生物学"
+    },
+    {
+      "name": "HTX Drone-in-a-Box シンガポール全島ドローン警備",
+      "company": "HTX (Singapore Home Team Science and Technology Agency)",
+      "first_posted": "2026-05-02",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-02"
 }
