@@ -1746,7 +1746,97 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 1,
+      "name": "Intellia NTLA-2002",
+      "company": "Intellia Therapeutics",
+      "country": "米国",
+      "field": "生物×IT / 合成生物学",
+      "url": "https://www.cnbc.com/2026/04/27/crispr-gene-editing-intellia-trial.html"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 2,
+      "name": "Amazon Bio Discovery",
+      "company": "AWS / Amazon",
+      "country": "米国",
+      "field": "生物×IT",
+      "url": "https://aws.amazon.com/biodiscovery/"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 3,
+      "name": "Virtual Incision MIRA",
+      "company": "Virtual Incision",
+      "country": "米国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://virtualincision.com/virtual-incision-receives-fda-authorization-for-the-mira-surgical-system-as-the-first-miniaturized-robotic-assisted-surgery-device/"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 4,
+      "name": "Neuralink Blindsight",
+      "company": "Neuralink",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://neuralink.com/trials/visual-prosthesis/"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 5,
+      "name": "Airbound ロケット型配送ドローン",
+      "company": "Airbound",
+      "country": "インド",
+      "field": "ドローン",
+      "url": "https://www.airbound.com/"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 6,
+      "name": "XTEND AI Drone Swarms",
+      "company": "XTEND",
+      "country": "イスラエル",
+      "field": "ドローン",
+      "url": "https://www.autonomyglobal.co/xtends-modular-ai-drone-swarms-idf-battlefield-results-drive-new-u-s-defense-contracts/"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 7,
+      "name": "Starget Pharma STR",
+      "company": "Starget Pharma",
+      "country": "イスラエル",
+      "field": "技術×バイオ",
+      "url": "https://stargetpharma.com/"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 8,
+      "name": "EAVISION J150",
+      "company": "EAVISION",
+      "country": "中国",
+      "field": "ドローン",
+      "url": "https://www.globenewswire.com/news-release/2026/04/28/3282276/0/en/eavision-showcases-new-autonomous-drone-capacities-at-agrishow-2026.html"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 9,
+      "name": "Moon Biotech 微生物合成生物学プラットフォーム",
+      "company": "Moon (Guangzhou) Biotech",
+      "country": "中国",
+      "field": "合成生物学",
+      "url": "https://www.lexology.com/library/detail.aspx?g=b3cc552c-32e3-476f-b4a6-62264294aef5"
+    },
+    {
+      "date": "2026-05-03",
+      "rank": 10,
+      "name": "eBiobots ワイヤレスバイオハイブリッド電子ロボット",
+      "company": "Northwestern University / John Rogers Lab",
+      "country": "米国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://www.nature.com/articles/s44182-026-00072-5"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-03"
 }
