@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Celleste Bio 細胞培養カカオバター",
+      "company": "Celleste Bio",
+      "first_posted": "2026-05-04",
+      "field": "合成生物学"
+    },
+    {
+      "name": "MSK Nanosensor Liquid Biopsy（カーボンナノチューブ×AI脳腫瘍検出）",
+      "company": "Memorial Sloan Kettering Cancer Center",
+      "first_posted": "2026-05-04",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Hybrid Heart（ソフトロボティクス全人工心臓）",
+      "company": "AMOLF / Erasmus MC / TU Eindhoven",
+      "first_posted": "2026-05-04",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Nephrodite Holly（埋め込み型持続透析システム）",
+      "company": "Nephrodite",
+      "first_posted": "2026-05-04",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Fermeate（光遺伝学的発酵プラットフォーム）",
+      "company": "Fermeate",
+      "first_posted": "2026-05-04",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Intelligent SpinePecker（超小型脊椎手術ロボット）",
+      "company": "SEMR / Interventional Systems × HICREN",
+      "first_posted": "2026-05-04",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Parima 培養ダック肉（シンガポール認可）",
+      "company": "Parima (旧Gourmey)",
+      "first_posted": "2026-05-04",
+      "field": "合成生物学"
+    },
+    {
+      "name": "HTX Drone Box System（シンガポール全島ドローンネットワーク）",
+      "company": "Home Team Science and Technology Agency (HTX)",
+      "first_posted": "2026-05-04",
+      "field": "ドローン"
+    },
+    {
+      "name": "Nutromics Lab-on-a-Patch（マイクロニードル薬物モニタリング）",
+      "company": "Nutromics",
+      "first_posted": "2026-05-04",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Terra Drone Terra A2（固定翼迎撃ドローン）",
+      "company": "テラドローン × WinnyLab",
+      "first_posted": "2026-05-04",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-04"
 }
