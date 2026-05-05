@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "LIMO Heart（ソフトロボティクス完全人工心臓）",
+      "company": "AMOLF / Eindhoven University of Technology / Erasmus MC",
+      "first_posted": "2026-05-05",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Biodegradable All-Metal Microrobots",
+      "company": "Johns Hopkins University (Gracias Lab & Selaru Lab)",
+      "first_posted": "2026-05-05",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services (AWS)",
+      "first_posted": "2026-05-05",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Beinao-1（北脳一号）",
+      "company": "CIBR / Xinzhida / 天壇医院",
+      "first_posted": "2026-05-05",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "EPISERAS（てんかん発作予測ウェアラブル）",
+      "company": "Neuraxpharm / mjn-neuro",
+      "first_posted": "2026-05-05",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "DrugCLIP",
+      "company": "清華大学・北京大学",
+      "first_posted": "2026-05-05",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Pentasweet Brazzein甘味タンパク質工場",
+      "company": "Pentasweet",
+      "first_posted": "2026-05-05",
+      "field": "合成生物学"
+    },
+    {
+      "name": "OTTAVA Robotic Surgical System",
+      "company": "Johnson & Johnson MedTech",
+      "first_posted": "2026-05-05",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Matternet NHS ロンドン医療ドローン配送",
+      "company": "Matternet / Apian",
+      "first_posted": "2026-05-05",
+      "field": "ドローン"
+    },
+    {
+      "name": "GenScript × Mimulus DNAデータストレージ産業化",
+      "company": "GenScript Biotech / Mimulus Corp",
+      "first_posted": "2026-05-05",
+      "field": "合成生物学"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-05"
 }
