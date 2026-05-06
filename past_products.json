@@ -1746,7 +1746,97 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 1,
+      "name": "VEPPANU (vepdegestrant)",
+      "company": "Arvinas / Pfizer",
+      "country": "米国",
+      "field": "生物×IT",
+      "url": "https://ir.arvinas.com/news-releases/news-release-details/arvinas-announces-fda-approval-veppanu-vepdegestrant-treatment"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 2,
+      "name": "生分解性全金属マイクロロボット",
+      "company": "Johns Hopkins University",
+      "country": "米国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://medicalxpress.com/news/2026-05-biodegradable-metal-microrobots-drug-delivery.html"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 3,
+      "name": "Firestorm Labs xCell（移動式ドローン工場）",
+      "company": "Firestorm Labs",
+      "country": "米国",
+      "field": "ドローン",
+      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 4,
+      "name": "LubDubDecoder（イヤホン型心臓モニタリング）",
+      "company": "Carnegie Mellon University",
+      "country": "米国",
+      "field": "技術×バイオ",
+      "url": "https://www.cmu.edu/news/stories/archives/2026/april/cmu-researchers-use-earbuds-to-monitor-heart-health"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 5,
+      "name": "Amazon Bio Discovery",
+      "company": "Amazon Web Services",
+      "country": "米国",
+      "field": "生物×IT",
+      "url": "https://aws.amazon.com/blogs/industries/introducing-amazon-bio-discovery/"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 6,
+      "name": "北脳一号（Beinao-1）",
+      "company": "芯智達神経技術 / 北京脳科学研究所",
+      "country": "中国",
+      "field": "脳波/BCI",
+      "url": "https://news.cgtn.com/news/2026-04-15/China-completes-first-live-streamed-Beinao-No-1-BCI-surgery-1MmwHSLYfQs/p.html"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 7,
+      "name": "TG4050（AI個別化がんワクチン）",
+      "company": "Transgene / NEC Bio",
+      "country": "フランス / 日本",
+      "field": "生物×IT / 合成生物学",
+      "url": "https://jpn.nec.com/press/202604/20260403_01.html"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 8,
+      "name": "HTX Drone Box System",
+      "company": "Home Team Science and Technology Agency",
+      "country": "シンガポール",
+      "field": "ドローン",
+      "url": "https://dronexl.co/2026/05/01/singapore-drone-boxes-island-public/"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 9,
+      "name": "Centivax Centi-Flu 01（ユニバーサルインフルエンザワクチン）",
+      "company": "Centivax / 明治製菓ファルマ出資",
+      "country": "米国 / 日本",
+      "field": "合成生物学",
+      "url": "https://www.synbiobeta.com/read/centivax-fully-enrolls-180-subject-universal-flu-vaccine-trial-two-months-after-first-dose"
+    },
+    {
+      "date": "2026-05-06",
+      "rank": 10,
+      "name": "OTTAVA（テーブル統合型手術ロボット）",
+      "company": "Johnson & Johnson MedTech",
+      "country": "米国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-06"
 }
