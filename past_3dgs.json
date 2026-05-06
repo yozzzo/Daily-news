@@ -1602,6 +1602,118 @@
       "type": "ニュース",
       "first_posted": "2026-04-27",
       "field": "日本語教育コンテンツ"
+    },
+    {
+      "name": "FreeTimeGS++",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "4DGS・動的シーン分析",
+      "url": "https://arxiv.org/abs/2605.03337",
+      "description": "4DGSの動作原理を体系的に解明。ゲーテッドマージナライゼーションとニューラル速度場で物理整合性と再現性を両立"
+    },
+    {
+      "name": "GETA-3DGS",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "3DGS圧縮・最適化",
+      "url": "https://arxiv.org/abs/2605.02086",
+      "description": "世界初の自動プルーニング+量子化統合フレームワーク。目標サイズ・品質を指定するだけで自動圧縮"
+    },
+    {
+      "name": "2D-SuGaR",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "表面再構成・メッシュ",
+      "url": "https://arxiv.org/abs/2605.00569",
+      "description": "深度・法線事前情報活用でDTUベンチマーク史上最高水準のメッシュ精度（Chamfer Distance 0.67）を達成"
+    },
+    {
+      "name": "Flow4DGS-SLAM",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "4DGS・SLAM・ロボット",
+      "url": "https://arxiv.org/abs/2604.22339",
+      "description": "光学フロー誘導型4D Gaussian SLAM。カテゴリー学習不要で動的物体と静的背景を同時再構成"
+    },
+    {
+      "name": "ELoG-GS",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "低照度3D再構成",
+      "url": "https://arxiv.org/abs/2604.12592",
+      "description": "約30枚の極暗所写真から高品質3DGS生成。NTIRE 2026チャレンジ対応の2段階パイプライン"
+    },
+    {
+      "name": "GS-2M",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "マテリアル・メッシュ再構成",
+      "url": "https://arxiv.org/abs/2509.22276",
+      "description": "Eurographics 2026採択。マテリアル認識で反射・金属面の高忠実度メッシュ再構成を実現。コード公開済み"
+    },
+    {
+      "name": "Lumina-4DGS",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "4DGS・自動運転・マルチカメラ",
+      "url": "https://www.mdpi.com/1424-8220/26/5/1650",
+      "description": "MDPI Sensors 2026掲載。マルチカメラの照明不整合を克服する4DGS。Waymo OSでPSNR 31.12dB達成"
+    },
+    {
+      "name": "GS-DOT",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "医療応用・光学計測",
+      "url": "https://arxiv.org/abs/2604.23675",
+      "description": "拡散光学トモグラフィー（医療撮像）へのGaussian Splatting世界初適用。メモリ使用量大幅削減"
+    },
+    {
+      "name": "Structure-Aware Fine-Grained GS (SFGGS)",
+      "type": "論文",
+      "first_posted": "2026-05-06",
+      "field": "アバター・人物再構成",
+      "url": "https://arxiv.org/abs/2604.09324",
+      "description": "単眼動画から全身の細粒度アバター再構成。空間triplane+時間hexplaneで動的細部変化を精密に捉える"
+    },
+    {
+      "name": "XGRIDS Lixel K2 + LixelStudio 4.0",
+      "type": "ハードウェア",
+      "first_posted": "2026-05-06",
+      "field": "3DGSスキャナー・ハードウェア",
+      "url": "https://www.heliguy.com/blogs/posts/xgrids-lixel-k2-lixelstudio-4-launch/",
+      "description": "2026年5月6日発売。K1比60%の価格（£6,549）で測量グレード精度±1cmと3DGS出力に対応"
+    },
+    {
+      "name": "Adobe Photoshop 27.6 Rotate Object",
+      "type": "ニュース",
+      "first_posted": "2026-05-06",
+      "field": "主流ツール統合・3DGS普及",
+      "url": "https://www.cgchannel.com/2026/04/adobe-releases-photoshop-27-6/",
+      "description": "Photoshop 27.6にGSベースのRotate Object機能が正式統合。世界数千万人のデザイナーが3DGSを利用可能に"
+    },
+    {
+      "name": "OctaneRender 2026.1 Gaussian Splatting GA",
+      "type": "ニュース",
+      "first_posted": "2026-05-06",
+      "field": "商用レンダラー・VFX",
+      "url": "https://radiancefields.com/octanerender-2026-released-and-2027-roadmap-announced",
+      "description": "世界初・Gaussian Splatsをパストレーシングでリライタブルに商用レンダリング。.PLY/.SPZに対応"
+    },
+    {
+      "name": "Arrival Space オフラインモード追加",
+      "type": "コミュニティ",
+      "first_posted": "2026-05-06",
+      "field": "3DGSソーシャルプラットフォーム",
+      "url": "https://radiancefields.com/arrival-space-release-2026.2",
+      "description": "3DGSソーシャルプラットフォームがオフライン対応。博物館・建設現場など通信制限環境でも利用可能に"
+    },
+    {
+      "name": "glTF KHR_gaussian_splatting Q2 2026批准予定",
+      "type": "インサイト",
+      "first_posted": "2026-05-06",
+      "field": "標準化・開発者向け",
+      "url": "https://www.khronos.org/events/gaussian-splats-use-cases-next-steps-for-gltf-standardization",
+      "description": "Q2 2026内の正式批准を目指す。Google・NVIDIA・Apple・Bentley・Cesiumがサポート。先行実装はCesiumJS 1.139済み"
     }
   ]
 }
