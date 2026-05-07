@@ -1,1607 +1,274 @@
 {
   "description": "過去に配信済みの3DGS/4DGS関連項目一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
   "items": [
-    {
-      "name": "Matryoshka Gaussian Splatting (MGS)",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "3DGS最適化"
-    },
-    {
-      "name": "GSPrior",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "表面復元"
-    },
-    {
-      "name": "OnlinePG",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "空間認識"
-    },
-    {
-      "name": "CrowdGaussian",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "人物復元"
-    },
-    {
-      "name": "ReLaGS",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "言語+3D"
-    },
-    {
-      "name": "Fourier Splatting",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "新表現手法"
-    },
-    {
-      "name": "HUGE-Bench",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "ドローン"
-    },
-    {
-      "name": "StreetForward",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "自動運転"
-    },
-    {
-      "name": "GSMem",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "ロボットAI"
-    },
-    {
-      "name": "GHOST",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "手と物体"
-    },
-    {
-      "name": "AHOY!",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "人物アニメーション"
-    },
-    {
-      "name": "Splat2BEV",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "自動運転"
-    },
-    {
-      "name": "月面マッピング with 3DGS",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "宇宙"
-    },
-    {
-      "name": "Polynomial Kernels for GS",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "最適化"
-    },
-    {
-      "name": "SRGS",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "超解像"
-    },
-    {
-      "name": "RetimeGS",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "4DGS"
-    },
-    {
-      "name": "SpatioGS",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "4DGS"
-    },
-    {
-      "name": "WorldSplat",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "4DGS/自動運転"
-    },
-    {
-      "name": "ReconDrive",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "4DGS/自動運転"
-    },
-    {
-      "name": "UniSem",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "意味理解"
-    },
-    {
-      "name": "SMAL-pets",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "動物3D化"
-    },
-    {
-      "name": "3D-REGEN",
-      "type": "論文",
-      "first_posted": "2026-03-23",
-      "field": "3D生成"
-    },
-    {
-      "name": "Voxelmaps サンノゼ都市デジタルツイン",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "デジタルツイン"
-    },
-    {
-      "name": "Khronos glTF 3DGS標準化",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "標準化"
-    },
-    {
-      "name": "NanoGS UE5プラグイン",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "ゲームエンジン"
-    },
-    {
-      "name": "NVIDIA Omniverse NuRec",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "シミュレーション"
-    },
-    {
-      "name": "LichtFeld-Studio",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "開発ツール"
-    },
-    {
-      "name": "VentureBeat AIが物理世界を理解する3つの方法",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "メディア報道"
-    },
-    {
-      "name": "France TV 映画制作を変革するリアルタイム3D",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "映画"
-    },
-    {
-      "name": "Connect Tech エッジAIデジタルツイン",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "デジタルツイン"
-    },
-    {
-      "name": "欧州投資家 GS関連スタートアップ投資",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "投資"
-    },
-    {
-      "name": "峰瑞資本 3DGSハードウェア出資",
-      "type": "ニュース",
-      "first_posted": "2026-03-23",
-      "field": "投資"
-    },
-    {
-      "name": "KIRI Engine 3DGS→メッシュ変換",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-23",
-      "field": "スマホアプリ"
-    },
-    {
-      "name": "SXSW 2026 4Dボリュメトリック映像",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-23",
-      "field": "4DGS"
-    },
-    {
-      "name": "DeoVR 3DGS対応予告",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-23",
-      "field": "VR"
-    },
-    {
-      "name": "fast-gaussian-rasterization",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-23",
-      "field": "高速化"
-    },
-    {
-      "name": "TikTok 3DGSデジタルツイン動画",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-23",
-      "field": "デジタルツイン"
-    },
-    {
-      "name": "Note.com 3D-REGEN/RetimeGS日本語解説",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-23",
-      "field": "日本語解説"
-    },
-    {
-      "name": "F4Splat",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "3DGS最適化"
-    },
-    {
-      "name": "Camera-Agnostic Pruning",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "3DGS圧縮・最適化"
-    },
-    {
-      "name": "GSA (Cross-Instance Registration)",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "3DGS位置合わせ"
-    },
-    {
-      "name": "FreeArtGS",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "関節物体の3D再構成"
-    },
-    {
-      "name": "GTSR (Translucent Surface Reconstruction)",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "半透明物体の3D再構成"
-    },
-    {
-      "name": "GaussianSSC",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "自動運転・セマンティック理解"
-    },
-    {
-      "name": "高忠実度アバター再構成 (Springer)",
-      "type": "論文",
-      "first_posted": "2026-03-24",
-      "field": "アバター生成"
-    },
-    {
-      "name": "OpenUSD v26.03 Gaussian Splatsスキーマ",
-      "type": "ニュース",
-      "first_posted": "2026-03-24",
-      "field": "標準化"
-    },
-    {
-      "name": "glTF KHR_gaussian_splatting拡張",
-      "type": "ニュース",
-      "first_posted": "2026-03-24",
-      "field": "標準化"
-    },
-    {
-      "name": "NanoGS UE5 NaniteスタイルLOD",
-      "type": "ニュース",
-      "first_posted": "2026-03-24",
-      "field": "ゲームエンジン"
-    },
-    {
-      "name": "51Vision 51Claw Embodied AI",
-      "type": "ニュース",
-      "first_posted": "2026-03-24",
-      "field": "Embodied AI"
-    },
-    {
-      "name": "NAB Show GS in Production パネル",
-      "type": "ニュース",
-      "first_posted": "2026-03-24",
-      "field": "映像制作"
-    },
-    {
-      "name": "GASP (GS + Genesis物理エンジン)",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-24",
-      "field": "物理シミュレーション"
-    },
-    {
-      "name": "Mobile-GS (モバイル116FPS)",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-24",
-      "field": "モバイル"
-    },
-    {
-      "name": "MLSLabsRenderer UE5プラグイン更新",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-24",
-      "field": "ゲームエンジン"
-    },
-    {
-      "name": "3DMakerpro 不動産GSツアー",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-24",
-      "field": "不動産"
-    },
-    {
-      "name": "What The Splat! 学習コース",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-24",
-      "field": "教育"
-    },
-    {
-      "name": "Sandy Ressler 5つのGS発表まとめ",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-24",
-      "field": "まとめ"
-    },
-    {
-      "name": "SpectralSplats",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "3DGS追跡・最適化"
-    },
-    {
-      "name": "FilterGS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "大規模シーン・LoD"
-    },
-    {
-      "name": "AdvSplat",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "セキュリティ・敵対的攻撃"
-    },
-    {
-      "name": "Stochastic Ray Tracing for 3DGS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "レンダリング品質向上"
-    },
-    {
-      "name": "Pose-Free Omnidirectional GS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "360度映像・VR"
-    },
-    {
-      "name": "Drop-In Perceptual Optimization for 3DGS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "画質最適化"
-    },
-    {
-      "name": "GTLR-GS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "LiDAR融合・シーン再構成"
-    },
-    {
-      "name": "RefracGS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "水面・屈折光学"
-    },
-    {
-      "name": "EmoTaG",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "感情認識・トーキングヘッド"
-    },
-    {
-      "name": "Fast and Robust Deformable 3DGS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "動的シーン・変形"
-    },
-    {
-      "name": "Leveling3D",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "3D再構成・生成"
-    },
-    {
-      "name": "GaussianPile",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "医療・ボリューム再構成"
-    },
-    {
-      "name": "TRGS-SLAM",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "SLAM・熱画像"
-    },
-    {
-      "name": "4DGS360",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "4DGS・動的物体"
-    },
-    {
-      "name": "Inst4DGS",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "4DGS・インスタンス分解"
-    },
-    {
-      "name": "EmbodiedSplat",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "Embodied AI・意味理解"
-    },
-    {
-      "name": "Let it Snow!",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "動的天気エフェクト・シーン編集"
-    },
-    {
-      "name": "Training-Free Instance-Aware 3D Scene Reconstruction",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "インスタンス認識・シーン再構成"
-    },
-    {
-      "name": "Feed-forward Gaussian Registration for Head Avatar",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "アバター・ヘッド"
-    },
-    {
-      "name": "Dual Diffusion Models for Multi-modal 3D Avatar Generation",
-      "type": "論文",
-      "first_posted": "2026-03-27",
-      "field": "アバター生成"
-    },
-    {
-      "name": "Gaussian Splat Studio for Cinema 4D",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "C4Dプラグイン・映像制作"
-    },
-    {
-      "name": "SplatRenderer Plugin for Unreal Engine",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "UE5プラグイン・4DGS"
-    },
-    {
-      "name": "NVIDIA Omniverse NuRec GA（一般提供開始）",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "シミュレーション・自動運転"
-    },
-    {
-      "name": "Miris 公開ベータ - 高忠実度3Dストリーミング",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "3Dストリーミング"
-    },
-    {
-      "name": "Khronos Group glTF Gaussian Splatting ウェビナー（4月7日）",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "標準化・ウェビナー"
-    },
-    {
-      "name": "SP-6M 世界最大の人間頭部スキャンデータセット",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "データセット・アバター"
-    },
-    {
-      "name": "World Labs Gaussian Splatsで物理世界を理解するAI",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "空間AI・World Models"
-    },
-    {
-      "name": "OpenUSD v26.03 正式リリース CG Channel報道",
-      "type": "ニュース",
-      "first_posted": "2026-03-27",
-      "field": "標準化・業界報道"
-    },
-    {
-      "name": "SuperSplat Walk Mode",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "不動産・ブラウザビューア"
-    },
-    {
-      "name": "RadianceKit Apple Silicon Mac向けネイティブ3DGSアプリ",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "Macアプリ・ローカル処理"
-    },
-    {
-      "name": "4DGS360 Reddit話題",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "4DGS・コミュニティ"
-    },
-    {
-      "name": "NanoGS GUI Tool",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "開発ツール・最適化"
-    },
-    {
-      "name": "ColmapLiDAR App Update 1.2",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "iOSアプリ・LiDAR"
-    },
-    {
-      "name": "gsplat-unity",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "Unity・ゲームエンジン"
-    },
-    {
-      "name": "SplatKing iPhone向け無料GSキャプチャアプリ",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "iPhoneアプリ・キャプチャ"
-    },
-    {
-      "name": "Awesome-4D-Spatial-Intelligence",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "論文まとめ・リソース"
-    },
-    {
-      "name": "FastGS (CVPR 2026)",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "高速化・CVPR"
-    },
-    {
-      "name": "Gaussian Splat viewer on Rokid Glasses",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-27",
-      "field": "ARグラス・VR"
-    },
-    {
-      "name": "LGTM (Less Gaussians, Texture More)",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "4K/フィードフォワード"
-    },
-    {
-      "name": "GaussFusion",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "アーティファクト除去"
-    },
-    {
-      "name": "MoRGS",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "4DGS/ストリーミング"
-    },
-    {
-      "name": "Learning Explicit Continuous Motion",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "4DGS"
-    },
-    {
-      "name": "HyperGaussians",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "アバター"
-    },
-    {
-      "name": "Confidence-Based Mesh Extraction (CoMe)",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "メッシュ抽出"
-    },
-    {
-      "name": "AirSplat",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "NVS"
-    },
-    {
-      "name": "PhotoAgent",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "ロボット"
-    },
-    {
-      "name": "Instrument-Splatting++",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "医療/ロボット"
-    },
-    {
-      "name": "Fast undersampled dynamic MRI with GS",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "医療"
-    },
-    {
-      "name": "World Labs Marble 1億Splats",
-      "type": "ニュース",
-      "first_posted": "2026-03-28",
-      "field": "生成AI"
-    },
-    {
-      "name": "Vine FX After the Flood S2",
-      "type": "ニュース",
-      "first_posted": "2026-03-28",
-      "field": "映像制作"
-    },
-    {
-      "name": "Tencent HY3D Studio",
-      "type": "ニュース",
-      "first_posted": "2026-03-28",
-      "field": "3D生成"
-    },
-    {
-      "name": "3Dasset.io 無料公開",
-      "type": "ニュース",
-      "first_posted": "2026-03-28",
-      "field": "アセット"
-    },
-    {
-      "name": "SEI CMU 3DGS教育ブログ",
-      "type": "ニュース",
-      "first_posted": "2026-03-28",
-      "field": "教育"
-    },
-    {
-      "name": "Core11 LichtFeld Studio 支援延長",
-      "type": "ニュース",
-      "first_posted": "2026-03-28",
-      "field": "投資"
-    },
-    {
-      "name": "SplatViewer VR",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-28",
-      "field": "VRビューア"
-    },
-    {
-      "name": "Slice and Dice Tool",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-28",
-      "field": "開発ツール"
-    },
-    {
-      "name": "World Labs Marble × Meta AIグラス",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-28",
-      "field": "AR"
-    },
-    {
-      "name": "Note.com LFS MCMCハイブリッド解説",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-28",
-      "field": "日本語解説"
-    },
-    {
-      "name": "Apple ml-perceptual-3dgs コード公開",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-28",
-      "field": "オープンソース"
-    },
-    {
-      "name": "CVPR 2026 3DGS論文まとめ",
-      "type": "コミュニティ",
-      "first_posted": "2026-03-28",
-      "field": "まとめ"
-    },
-    {
-      "name": "ViewSplat",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "フィードフォワード"
-    },
-    {
-      "name": "2Xplat",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "フィードフォワード"
-    },
-    {
-      "name": "SGAD-SLAM",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "SLAM"
-    },
-    {
-      "name": "Predictive Photometric Uncertainty",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "不確実性推定"
-    },
-    {
-      "name": "Relaxed Rigidity with Ray-based Grouping",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "4DGS"
-    },
-    {
-      "name": "Accurate Point Measurement in 3DGS",
-      "type": "論文",
-      "first_posted": "2026-03-28",
-      "field": "測量"
-    },
-    {
-      "name": "GEMM-GS",
-      "type": "論文",
-      "field": "高速化",
-      "url": "https://arxiv.org/abs/2604.02120",
-      "description": "テンソルコアを活用したGPU上での3DGS高速化手法。GEMM変換により描画パイプラインを再設計",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "TRiGS",
-      "type": "論文",
-      "field": "4DGS",
-      "url": "https://arxiv.org/abs/2604.00538",
-      "description": "SE(3)剛体変換を統合した4DGS。1200フレームの長尺動画シーン再構成に対応",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "F3DGS",
-      "type": "論文",
-      "field": "分散・マルチエージェント",
-      "url": "https://arxiv.org/abs/2604.01605",
-      "description": "連合学習（フェデレーテッドラーニング）を使ったマルチエージェント分散3D再構成",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Palette-Based Color Grading for 3DGS",
-      "type": "論文",
-      "field": "編集",
-      "url": "https://arxiv.org/abs/2604.01551",
-      "description": "パレットベースのリアルタイムカラーグレーディング。3DGSシーンをリアルタイムで色調整可能",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "ARGS",
-      "type": "論文",
-      "field": "生成",
-      "url": "https://arxiv.org/abs/2604.00494",
-      "description": "自己回帰型Gaussian Splatting生成フレームワーク。並列プログレッシブデコーディングで高品質3D生成",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "TRACE",
-      "type": "論文",
-      "field": "編集",
-      "url": "https://arxiv.org/abs/2604.01207",
-      "description": "接線ベクトルを使った高忠実度3Dシーン編集フレームワーク",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Director",
-      "type": "論文",
-      "field": "4DGS・人物",
-      "url": "https://arxiv.org/abs/2604.01678",
-      "description": "インスタンス認識型4DGS。動的シーンで人物パフォーマンスと高品質レンダリングを統合",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "MotionScale",
-      "type": "論文",
-      "field": "4DGS",
-      "url": "https://arxiv.org/abs/2603.29296",
-      "description": "大規模動的シーン向けスケーラブル4DGSフレームワーク。CVPR 2026採択",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Diff3R",
-      "type": "論文",
-      "field": "フィードフォワード3DGS",
-      "url": "https://arxiv.org/abs/2604.01030",
-      "description": "不確実性認識型微分可能最適化を組み合わせたフィードフォワード3DGS",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "FaCT-GS",
-      "type": "論文",
-      "field": "医療・CT",
-      "url": "https://arxiv.org/abs/2604.01844",
-      "description": "Gaussian Splattingを使った高速・スケーラブルなCT再構成フレームワーク",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "GS^2",
-      "type": "論文",
-      "field": "圧縮・最適化",
-      "url": "https://arxiv.org/abs/2604.01884",
-      "description": "グラフベースの空間分布最適化によるコンパクト3DGS。少ないGaussian点数で高品質レンダリング",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "LESV",
-      "type": "論文",
-      "field": "言語+3D",
-      "url": "https://arxiv.org/abs/2604.01388",
-      "description": "スパースボクセルと言語特徴を融合したオープン語彙3Dシーン理解",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "GeoHCC",
-      "type": "論文",
-      "field": "圧縮",
-      "url": "https://arxiv.org/abs/2603.28431",
-      "description": "幾何学的関係を活用した階層的コンテキスト圧縮で3DGSファイルサイズを大幅削減",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Coko-SLAM",
-      "type": "論文",
-      "field": "SLAM・ロボット",
-      "url": "https://arxiv.org/abs/2604.00804",
-      "description": "コンパクトキーフレーム最適化マルチエージェントGaussian Splatting SLAM。帯域制限環境でのロボット展開に対応",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "EgoSim",
-      "type": "論文",
-      "field": "ロボット・シミュレーション",
-      "url": "https://arxiv.org/abs/2604.01001",
-      "description": "3DGSを使った自我中心世界シミュレーター。ロボットアームと人間の手のインタラクション動画生成",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "ReSplat",
-      "type": "論文",
-      "field": "フィードフォワード3DGS",
-      "url": "https://github.com/cvg/resplat",
-      "description": "再帰型フィードフォワード3DGS。レンダリング誤差をフィードバックとして反復的にGaussianを精緻化",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "DJI Reality",
-      "type": "ツール",
-      "field": "ドローン・ビューアー",
-      "url": "https://dronedj.com/2026/04/02/dji-reality-drone-3d-mapping/",
-      "description": "DJI Terraに統合された無料3Dモデルビューアー。メッシュ・点群・3DGSを即時表示、ログイン不要",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "DJI Avata 360",
-      "type": "ハードウェア",
-      "field": "ドローン",
-      "url": "https://www.bhphotovideo.com/explora/video/news/dji-announces-the-avata-360-an-8k-360-degree-fpv-drone",
-      "description": "DJIの8K 360度FPVドローン。3DGSデータ収集に最適な360度映像を8K/60fpsで撮影可能",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "PlayCanvas + Gracia 4DGS統合",
-      "type": "ツール",
-      "field": "4DGS・Webエンジン",
-      "url": "https://80.lv/articles/playcanvas-can-now-load-gracia-s-4d-gaussian-splats",
-      "description": "オープンソースWebエンジンPlayCanvasがGracia 4DGSをネイティブサポート。ブラウザ上でリアルタイムライティング・シャドウ付き4DGS再生が可能に",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Gracia PortAventura 4DGS体験",
-      "type": "ニュース",
-      "field": "4DGS・エンターテインメント",
-      "url": "https://radiancefields.com/gracia-launches-4dgs-experience-at-portaventura-park",
-      "description": "スペインのテーマパーク「PortAventura」に世界初のリアルタイム4DGSデジタルヒューマンが登場。恐竜探検をガイドするULUMキャラクター",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Babylon.js V9.1",
-      "type": "ツール",
-      "field": "Webエンジン",
-      "url": "https://radiancefields.com/babylon.js-releases-v9.1",
-      "description": "ダウンサンプリング球面調和関数（SH）生成とランタイムSH次数制御を追加。Webブラウザ上での3DGS品質チューニングが可能に",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "World Labs Marble 1.1 / 1.1 Plus",
-      "type": "ツール",
-      "field": "3D世界生成",
-      "url": "https://radiancefields.com/world-labs-releases-marble-1.1-and-marble-1.1-plus",
-      "description": "テキストから3D世界を生成するMarbleが1.1にアップデート。1.1 Plusは動的に空間を拡張し、より大きな世界を生成",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "SplatRenderer v1.1.0",
-      "type": "ツール",
-      "field": "UE5プラグイン・4DGS",
-      "url": "https://radiancefields.com/splatrenderer-v1.1.0-adds-level-sequencer-for-4dgs-in-unreal-engine-5",
-      "description": "UE5のLevel Sequencerで4DGSのキーフレームアニメーション制御が可能に。SplatScale・ScrubFrame・PlaybackSpeedをシーケンサーで直接制御",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "SplataraScan on SideQuest",
-      "type": "ツール",
-      "field": "VR・スキャン",
-      "url": "https://radiancefields.com/splatarascan-arrives-on-sidequest",
-      "description": "Meta Quest向けGaussian Splat 3Dスキャナー＆マルチプレイヤービューアーがSideQuestで公開。P2P接続で複数ユーザーが同じGSシーンに同時入場可能",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Cesium KHR_gaussian_splatting実装",
-      "type": "ニュース",
-      "field": "標準化",
-      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
-      "description": "CesiumJS 1.139とCesium for Unreal v2.23.0にglTF KHR_gaussian_splatting拡張のサポートが実装。地理空間・インフラ可視化での3DGS標準化が加速",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Corridor Crew「THIS is the Biggest Thing Since CGI」",
-      "type": "コミュニティ",
-      "field": "YouTube・啓発",
-      "url": "https://www.youtube.com/watch?v=X8yRlA7jqEQ",
-      "description": "VFX解説チャンネルCorridor Crewが4D Gaussian Splattingを「CGI以来最大の革命」と紹介。大きな話題に",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "4DGS.jp（IZUTSUYA）",
-      "type": "ニュース",
-      "field": "日本・4DGS",
-      "url": "https://prtimes.jp/main/html/rd/p/000000027.000138121.html",
-      "description": "日本のIZUTSUYAがスマホ1台で4DGSデータを数十秒で生成・投稿・視聴できる空間映像配信プラットフォーム「4DGS.jp」を発表",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "共同通信3DGS大分火災検証",
-      "type": "ニュース",
-      "field": "日本・報道",
-      "url": "https://www.sanyonews.jp/article/1895966",
-      "description": "共同通信と一橋大が1781枚の航空写真から3DGSで大分火災現場を立体化。JIMA賞グランプリ受賞",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "大日本印刷 伏見稲荷大社3DGSメタバース化",
-      "type": "ニュース",
-      "field": "日本・文化財",
-      "url": "https://www.newprinet.co.jp/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%8D%B0%E5%88%B7%E3%80%80%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%A7%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE%E3%82%92%E3%83%A1",
-      "description": "大日本印刷が大阪・関西万博で伏見稲荷大社を3DGSでメタバース化。高精度・低コストなデジタル化を実現",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Arcturus スポーツ放送ラジアンスフィールドインタビュー",
-      "type": "ニュース",
-      "field": "スポーツ放送",
-      "url": "https://radiancefields.com/inside-arcturus-how-radiance-fields-are-reshaping-volumetric-sports-broadcasts",
-      "description": "Arcturusがラジアンスフィールドを使ったボリュメトリックスポーツ放送の実用化について詳細インタビュー",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "Blurry LoD Streaming",
-      "type": "ツール",
-      "field": "ストリーミング",
-      "url": "https://radiancefields.com/blurry-adds-level-of-detail-streaming-and-revamps-pricing",
-      "description": "ブラウザ上で4000万以上のSplatシーンをLoD（詳細度）ストリーミングで処理。無料枠が30GBに拡大",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "AR Splat by AR Code",
-      "type": "ツール",
-      "field": "AR・QRコード",
-      "url": "https://ar-code.com/blog/ar-splat-a-new-3d-scanning-to-augmented-reality-solution-based-on-gaussian-splatting",
-      "description": "動画をアップロードするだけでGaussian Splattingベースの3DシーンをAR QRコードとして即時共有",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "COLMAP 4.0",
-      "type": "ツール",
-      "field": "3D再構成",
-      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
-      "description": "3D再構成の定番ツールCOLMAP 4.0リリース。GLOMAPネイティブサポートを追加",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "vkSplatting 2026.1",
-      "type": "ツール",
-      "field": "Vulkan・レンダリング",
-      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
-      "description": "NVIDIAのオープンソースVulkan Gaussian Splattingリファレンス実装が2026年初アップデート",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "fVDB V0.4",
-      "type": "ツール",
-      "field": "NVIDIAライブラリ",
-      "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia",
-      "description": "NVIDIAのfVDBがV0.4リリース。MCMCと3DGUTメソッドをライブラリに追加",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "AvatarPointillist",
-      "type": "論文",
-      "field": "4DGS・アバター生成",
-      "url": "https://arxiv.org/abs/2604.04787",
-      "description": "1枚の顔写真から動く4Dアバターを自動生成。デコーダー専用Transformerが点群を自己回帰的に生成し、3DGSで高品質レンダリング。CVPR 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "4C4D",
-      "type": "論文",
-      "field": "4DGS・動的シーン",
-      "url": "https://arxiv.org/abs/2604.04063",
-      "description": "わずか4台のカメラで高品質な4D動的シーンを再構成。従来は数十〜数百台のカメラが必要だったところを4台に削減。CVPR 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "GaussianGrow",
-      "type": "論文",
-      "field": "3D生成・テキスト誘導",
-      "url": "https://arxiv.org/abs/2604.05721",
-      "description": "3D点群（スキャンデータ等）を入力にテキスト指示で3DGSを「成長」させる新手法。既存の3Dデータを活用しながらテキストで形状を拡張・生成。CVPR 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "GP-4DGS",
-      "type": "論文",
-      "field": "4DGS・確率的モデリング",
-      "url": "https://arxiv.org/abs/2604.02915",
-      "description": "ガウス過程（GP）を4DGSに統合し、動的シーンの不確実性を確率的にモデリング。単眼カメラ映像から隠れた物体の動きも推定可能。CVPR 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Flash-Mono",
-      "type": "論文",
-      "field": "SLAM・ロボット",
-      "url": "https://arxiv.org/abs/2604.03092",
-      "description": "単眼カメラのみで高速・高精度なGaussian Splatting SLAMを実現。フィードフォワード予測フロントエンドで従来の「ゼロから学習」の問題を解決。ICLR 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "GaussFly",
-      "type": "論文",
-      "field": "ロボット・ドローン",
-      "url": "https://arxiv.org/abs/2604.05062",
-      "description": "3DGSで構築したシミュレーション環境でドローンの視覚運動制御を強化学習。リアル→シミュ→リアルのパイプラインで実機転用を実現。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "HOIGS",
-      "type": "論文",
-      "field": "人物・物体インタラクション",
-      "url": "https://arxiv.org/abs/2604.04016",
-      "description": "人間と物体のインタラクション（掴む・持つ等）を含む動的シーンをGaussian Splattingで高品質再構成。接触による変形を明示的にモデリング。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "CGHair",
-      "type": "論文",
-      "field": "ヘア再構成",
-      "url": "https://arxiv.org/abs/2604.03716",
-      "description": "Gaussian Splattingを使った高品質ヘア再構成。カードクラスタリングにより再構成時間を4分の1に短縮し、メモリ使用量を200分の1以下に削減。CVPR 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "ADM-GS",
-      "type": "論文",
-      "field": "自動運転・外観分解",
-      "url": "https://arxiv.org/abs/2604.05908",
-      "description": "異なる照明・環境条件で撮影された複数回の走行データから一貫した3Dシーンを再構成。自動運転のデータ収集を大幅に効率化。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "3DTurboQuant",
-      "type": "論文",
-      "field": "圧縮・最適化",
-      "url": "https://arxiv.org/abs/2604.05366",
-      "description": "3DGS・NeRF・Transformerベース3D再構成モデルの圧縮に、学習不要（トレーニングフリー）の量子化手法を初めて実現。シーンごとの再学習が不要に。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "UNICA",
-      "type": "論文",
-      "field": "アバター生成",
-      "url": "https://arxiv.org/abs/2604.02799",
-      "description": "スケルトン（骨格）不要で全身アバターを制御できる統合フレームワーク。服の揺れや髪の動きも自然に表現。オープンソース公開。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "GA-GS",
-      "type": "論文",
-      "field": "静的シーン再構成",
-      "url": "https://arxiv.org/abs/2604.04331",
-      "description": "動く物体が映り込んだ動画から静的シーンだけを高精度に再構成。生成AIで隠れた背景領域を補完する革新的アプローチ。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "M2StyleGS",
-      "type": "論文",
-      "field": "スタイル転送",
-      "url": "https://arxiv.org/abs/2604.03773",
-      "description": "テキストまたは画像の両方でリアルタイムに3DGSシーンのスタイルを変換。CLIPを活用したマルチモーダルスタイル転送。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "PanopticQuery",
-      "type": "論文",
-      "field": "4DGS・言語理解",
-      "url": "https://arxiv.org/abs/2604.05638",
-      "description": "4DGSで動的シーンを再構成し、自然言語クエリで時空間的な物体を検索・理解できるフレームワーク。「赤い車が通過した場所を教えて」等の質問に対応。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "LSGS-Loc",
-      "type": "論文",
-      "field": "UAV・位置推定",
-      "url": "https://arxiv.org/abs/2604.05402",
-      "description": "大規模UAV（ドローン）シナリオでの3DGSベース視覚的位置推定。複雑な幾何学と環境変化に対応したロバストな自己位置推定。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "NavCrafter",
-      "type": "論文",
-      "field": "3Dシーン探索",
-      "url": "https://arxiv.org/abs/2604.02828",
-      "description": "1枚の写真から3Dシーンを探索できる動画を生成。カメラ軌跡を制御しながら新視点映像を合成し、3DGSで精緻化。ICRA 2026採択。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Niantic Spatial Scaniverse & VPS 2.0",
-      "type": "ニュース",
-      "field": "空間AI・マッピング",
-      "url": "https://www.nianticspatial.com/en/blog/scaniverse",
-      "description": "ポケモンGOのNianticが空間AI企業として大幅刷新。ScaniverseがGaussian Splat生成・VPS 2.0（事前スキャン不要の全世界対応位置推定）を統合。ロボット・建設・大型施設向けに展開。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "360 Gaussian v1.4",
-      "type": "ツール",
-      "field": "360度映像・3DGS",
-      "url": "https://radiancefields.com/360-gaussian-releases-v1.4",
-      "description": "360°カメラ映像から3DGSを生成するパイプライン「360 Gaussian」がv1.4にアップデート。GPS連動による長距離ルート対応、バンドル調整改善、クリップトリミング機能追加。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Khronos glTF Gaussian Splatting ウェビナー開催・資料公開",
-      "type": "ニュース",
-      "field": "標準化",
-      "url": "https://www.khronos.org/events/gaussian-splats-use-cases-next-steps-for-gltf-standardization",
-      "description": "4月7日開催のKhronos Group glTFウェビナー（Gaussian Splats標準化）の発表資料が公開。Cesium・XGRIDS・スミソニアン博物館が実用事例を発表。glTF標準化の具体的な進捗が明らかに。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Revopoint MetroY Ultra",
-      "type": "ハードウェア",
-      "field": "3Dスキャナー",
-      "url": "https://www.revopoint3d.com/blogs/news/revopoint-launches-metroy-ultra-with-metrology-grade-verification-and-starts-a-pop-4-kickstarter-campaign",
-      "description": "計測精度0.015mmの産業用3Dスキャナー「MetroY Ultra」が発表。3DGSによるフォトリアリスティックモデルエクスポート機能を搭載。4月7日より予約受付開始。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "A$AP Rocky「HELICOPTER」MV 4DGS使用",
-      "type": "コミュニティ",
-      "field": "音楽・エンタメ",
-      "url": "https://radiancefields.com",
-      "description": "ラッパーA$AP Rockyの新曲「HELICOPTER」のMVに4D Gaussian Splattingが使用され話題に。TikTokで「4DGSが音楽業界に浸透」と拡散。Corridor Crewも取り上げた。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Gauss Cannon Blender Plugin",
-      "type": "ツール",
-      "field": "Blenderプラグイン",
-      "url": "https://github.com/keshmirian/gauss-cannon",
-      "description": "Blenderから直接Gaussian Splattingのカメラパスと点群を生成できるオープンソースBlenderアドオン。LichtFeld Studio互換性を追加したバージョンが公開。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Lumina 3D 2.0",
-      "type": "ツール",
-      "field": "iPhoneアプリ",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1sdbzp4/lumina_3d_20_appstore_release/",
-      "description": "iPhoneのLiDARセンサーを使ってSfM処理なしで直接Gaussian Splattingデータを生成するアプリ「Lumina 3D」がv2.0でApp Storeに正式公開。PostShot・LightField Studioと直接連携。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "ViS-3DGS VSCode Extension",
-      "type": "ツール",
-      "field": "開発ツール",
-      "url": "https://marketplace.visualstudio.com/items?itemName=batuoz.vis-3dgs-viewer",
-      "description": "VSCode（Visual Studio Code）内で.ply・.splat・.gsplatファイルを直接プレビューできる拡張機能。SuperSplatビューアーを組み込み、開発者がコードを書きながらGSシーンを確認可能。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "Streaming Real-Time Rendered Scenes as 3D Gaussians",
-      "type": "論文",
-      "field": "ストリーミング",
-      "url": "https://arxiv.org/abs/2604.02851",
-      "description": "3DGSシーンをリアルタイムでストリーミング配信する新手法。従来の画像空間リプロジェクションではなく3Dガウシアン自体をストリーミングすることでレイテンシを大幅削減。",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "DualSplat",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "動的シーン再構成"
-    },
-    {
-      "name": "You Only Gaussian Once (YOGOS)",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "3DGS最適化"
-    },
-    {
-      "name": "WildSplatter",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "フィードフォワード3DGS"
-    },
-    {
-      "name": "GSCompleter",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "スパースビュー補完"
-    },
-    {
-      "name": "Gaussians on a Diet",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "メモリ効率化"
-    },
-    {
-      "name": "FluSplat",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "3D編集"
-    },
-    {
-      "name": "SketchFaceGS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "顔編集"
-    },
-    {
-      "name": "OT-UVGS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "UVマッピング"
-    },
-    {
-      "name": "AdaGScale",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "レンダリング高速化"
-    },
-    {
-      "name": "GS-STVSR",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "ビデオ超解像"
-    },
-    {
-      "name": "E3VS-Bench",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "ベンチマーク"
-    },
-    {
-      "name": "LAGS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "ドローン群"
-    },
-    {
-      "name": "Neural Gabor Splatting",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "高周波サーフェス"
-    },
-    {
-      "name": "GaussianFlow SLAM",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "SLAM"
-    },
-    {
-      "name": "GlobalSplat",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "フィードフォワード3DGS"
-    },
-    {
-      "name": "TokenGS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "フィードフォワード3DGS"
-    },
-    {
-      "name": "SSD-GS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "再照明"
-    },
-    {
-      "name": "HY-World 2.0",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "世界モデル"
-    },
-    {
-      "name": "ClipGStream",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "4DGS"
-    },
-    {
-      "name": "GeoRect4D",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "4DGS"
-    },
-    {
-      "name": "MUA: Mobile Ultra-detailed Animatable Avatars",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "アバター"
-    },
-    {
-      "name": "High-Fidelity 3D Gaussian Human Reconstruction",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "人体再構成"
-    },
-    {
-      "name": "GGD-SLAM",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "SLAM"
-    },
-    {
-      "name": "Habitat-GS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "Embodied AI"
-    },
-    {
-      "name": "NG-GS",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "セグメンテーション"
-    },
-    {
-      "name": "Sculpt4D",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "4D生成"
-    },
-    {
-      "name": "Vista4D",
-      "type": "論文",
-      "first_posted": "2026-04-25",
-      "field": "4DGS"
-    },
-    {
-      "name": "Preferred Networks × TBS日曜劇場GIFT 3DGS活用",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "映像制作"
-    },
-    {
-      "name": "XGRIDS PortalCam NAB 2026 4部門最優秀製品賞",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "ハードウェア"
-    },
-    {
-      "name": "Radiant Images Meridian 4DGS × 24台iPhone ビュレットタイムリグ",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "映像制作"
-    },
-    {
-      "name": "Antigravity Project ETERNAL",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "文化遺産"
-    },
-    {
-      "name": "Insta360 × Splatica パートナーシップ",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "ツール"
-    },
-    {
-      "name": "Tencent HY-World 2.0 オープンソース",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "世界モデル"
-    },
-    {
-      "name": "Microsoft TRELLIS.2",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "生成AI"
-    },
-    {
-      "name": "NVIDIA Lyra 2.0",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "生成AI"
-    },
-    {
-      "name": "Laval Virtual 2026 4DGS特集",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "XR"
-    },
-    {
-      "name": "Captures Studio V1.0",
-      "type": "ツール",
-      "first_posted": "2026-04-25",
-      "field": "プラットフォーム"
-    },
-    {
-      "name": "LichtFeld Studio v0.5.2",
-      "type": "ツール",
-      "first_posted": "2026-04-25",
-      "field": "処理ツール"
-    },
-    {
-      "name": "COLMAP Bridge アップデート",
-      "type": "ツール",
-      "first_posted": "2026-04-25",
-      "field": "ワークフロー"
-    },
-    {
-      "name": "Godot GDGSプラグイン",
-      "type": "ツール",
-      "first_posted": "2026-04-25",
-      "field": "ゲームエンジン"
-    },
-    {
-      "name": "PlayCanvas チュートリアル Gaussian Splat ゲーム化",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-25",
-      "field": "ゲームエンジン"
-    },
-    {
-      "name": "Clair Obscur Expedition 33 Gaussian Splat",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-25",
-      "field": "ゲーム"
-    },
-    {
-      "name": "LifeHacker Gaussian Splats記事",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "一般向け"
-    },
-    {
-      "name": "PFN TBS GIFT 日本語報道",
-      "type": "ニュース",
-      "first_posted": "2026-04-25",
-      "field": "映像制作"
-    },
-    {
-      "name": "YOGO (You Only Gaussian Once)",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "3DGS最適化・本番環境対応"
-    },
-    {
-      "name": "GraphiXS (Graphical X Splatting)",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "4DGS・不確実性モデリング"
-    },
-    {
-      "name": "WorldStereo",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "動画生成×3D再構成"
-    },
-    {
-      "name": "Splatography",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "4DGS・映画制作"
-    },
-    {
-      "name": "CryoSplat",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "科学応用・クライオ電子顕微鏡"
-    },
-    {
-      "name": "MS-Splatting (Multi-Spectral Gaussian Splatting)",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "マルチスペクトル・赤外線対応"
-    },
-    {
-      "name": "Splatica × Insta360 パートナーシップ The Verge報道",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "360度カメラ×3DGS普及"
-    },
-    {
-      "name": "Antigravity Project ETERNAL 文化財3DGS保存",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "文化財保存"
-    },
-    {
-      "name": "V-Ray 7 Update 3 Gaussian Splat再照明対応",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "レンダリングツール"
-    },
-    {
-      "name": "NVIDIA Asset Harvester 自動運転3Dアセット生成",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "自動運転シミュレーション"
-    },
-    {
-      "name": "Pixotope Volinga 3DGS統合 NAB 2026",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "ライブ放送・バーチャルプロダクション"
-    },
-    {
-      "name": "DroneDeploy Gaussian Splats ベータ公開",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "建設・測量"
-    },
-    {
-      "name": "KIRI Engine 4.2 3DGS to Mesh 3.0",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "3DGSメッシュ変換"
-    },
-    {
-      "name": "PlayCanvas SplatTransform CLIツール",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-27",
-      "field": "ゲーム開発"
-    },
-    {
-      "name": "VRChat Gaussian Splatting SH3対応アップデート",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-27",
-      "field": "VRコミュニティ"
-    },
-    {
-      "name": "360度動画Gaussian Splat仮想ツアー Spatial Studio検証",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-27",
-      "field": "仮想ツアー"
-    },
-    {
-      "name": "AirVis 大規模Gaussian Splatシーン クロスデバイス",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-27",
-      "field": "クロスデバイス3DGS閲覧"
-    },
-    {
-      "name": "Gaussian Splatting for VFX Houdini Nuke USD解説",
-      "type": "コミュニティ",
-      "first_posted": "2026-04-27",
-      "field": "VFXパイプライン"
-    },
-    {
-      "name": "Dehaze-then-Splat 煙霧環境3DGS",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "ロバスト3DGS・悪条件対応"
-    },
-    {
-      "name": "PropSplat RF電波伝搬3DGS DySPAN 2026",
-      "type": "論文",
-      "first_posted": "2026-04-27",
-      "field": "無線通信・RF場再構成"
-    },
-    {
-      "name": "XGRIDS 3DGS無料ウェビナー 4月28日",
-      "type": "ニュース",
-      "first_posted": "2026-04-27",
-      "field": "日本語教育コンテンツ"
-    }
+    {"name": "Matryoshka Gaussian Splatting (MGS)", "type": "論文", "first_posted": "2026-03-23", "field": "3DGS最適化"},
+    {"name": "GSPrior", "type": "論文", "first_posted": "2026-03-23", "field": "表面復元"},
+    {"name": "OnlinePG", "type": "論文", "first_posted": "2026-03-23", "field": "空間認識"},
+    {"name": "CrowdGaussian", "type": "論文", "first_posted": "2026-03-23", "field": "人物復元"},
+    {"name": "ReLaGS", "type": "論文", "first_posted": "2026-03-23", "field": "言語+3D"},
+    {"name": "Fourier Splatting", "type": "論文", "first_posted": "2026-03-23", "field": "新表現手法"},
+    {"name": "HUGE-Bench", "type": "論文", "first_posted": "2026-03-23", "field": "ドローン"},
+    {"name": "StreetForward", "type": "論文", "first_posted": "2026-03-23", "field": "自動運転"},
+    {"name": "GSMem", "type": "論文", "first_posted": "2026-03-23", "field": "ロボットAI"},
+    {"name": "GHOST", "type": "論文", "first_posted": "2026-03-23", "field": "手と物体"},
+    {"name": "AHOY!", "type": "論文", "first_posted": "2026-03-23", "field": "人物アニメーション"},
+    {"name": "Splat2BEV", "type": "論文", "first_posted": "2026-03-23", "field": "自動運転"},
+    {"name": "月面マッピング with 3DGS", "type": "論文", "first_posted": "2026-03-23", "field": "宇宙"},
+    {"name": "Polynomial Kernels for GS", "type": "論文", "first_posted": "2026-03-23", "field": "最適化"},
+    {"name": "SRGS", "type": "論文", "first_posted": "2026-03-23", "field": "超解像"},
+    {"name": "RetimeGS", "type": "論文", "first_posted": "2026-03-23", "field": "4DGS"},
+    {"name": "SpatioGS", "type": "論文", "first_posted": "2026-03-23", "field": "4DGS"},
+    {"name": "WorldSplat", "type": "論文", "first_posted": "2026-03-23", "field": "4DGS/自動運転"},
+    {"name": "ReconDrive", "type": "論文", "first_posted": "2026-03-23", "field": "4DGS/自動運転"},
+    {"name": "UniSem", "type": "論文", "first_posted": "2026-03-23", "field": "意味理解"},
+    {"name": "SMAL-pets", "type": "論文", "first_posted": "2026-03-23", "field": "動牗3D化"},
+    {"name": "3D-REGEN", "type": "論文", "first_posted": "2026-03-23", "field": "3D生成"},
+    {"name": "Voxelmaps サンノゼ都市デジタルツイン", "type": "ニュース", "first_posted": "2026-03-23", "field": "デジタルツイン"},
+    {"name": "Khronos glTF 3DGS標準化", "type": "ニュース", "first_posted": "2026-03-23", "field": "標準化"},
+    {"name": "NanoGS UE5プラグイン", "type": "ニュース", "first_posted": "2026-03-23", "field": "ゲームエンジン"},
+    {"name": "NVIDIA Omniverse NuRec", "type": "ニュース", "first_posted": "2026-03-23", "field": "シミュレーション"},
+    {"name": "LichtFeld-Studio", "type": "ニュース", "first_posted": "2026-03-23", "field": "開発ツール"},
+    {"name": "VentureBeat AIが物理世界を理解する3つの方法", "type": "ニュース", "first_posted": "2026-03-23", "field": "メディア報道"},
+    {"name": "France TV 映画制作を変革するリアルタイム3D", "type": "ニュース", "first_posted": "2026-03-23", "field": "映画"},
+    {"name": "Connect Tech エッジAIデジタルツイン", "type": "ニュース", "first_posted": "2026-03-23", "field": "デジタルツイン"},
+    {"name": "欧州投資家 GS関連スタートアップ投資", "type": "ニュース", "first_posted": "2026-03-23", "field": "投資"},
+    {"name": "峰瑞資本 3DGSハードウェア出資", "type": "ニュース", "first_posted": "2026-03-23", "field": "投資"},
+    {"name": "KIRI Engine 3DGS→メッシュ変換", "type": "コミュニティ", "first_posted": "2026-03-23", "field": "スマホアプリ"},
+    {"name": "SXSW 2026 4Dボリュメトリック映像", "type": "コミュニティ", "first_posted": "2026-03-23", "field": "4DGS"},
+    {"name": "DeoVR 3DGS対応予告", "type": "コミュニティ", "first_posted": "2026-03-23", "field": "VR"},
+    {"name": "fast-gaussian-rasterization", "type": "コミュニティ", "first_posted": "2026-03-23", "field": "高速化"},
+    {"name": "TikTok 3DGSデジタルツイン動画", "type": "コミュニティ", "first_posted": "2026-03-23", "field": "デジタルツイン"},
+    {"name": "Note.com 3D-REGEN/RetimeGS日本語解説", "type": "コミュニティ", "first_posted": "2026-03-23", "field": "日本語解説"},
+    {"name": "F4Splat", "type": "論文", "first_posted": "2026-03-24", "field": "3DGS最適化"},
+    {"name": "Camera-Agnostic Pruning", "type": "論文", "first_posted": "2026-03-24", "field": "3DGS圧縮・最適化"},
+    {"name": "GSA (Cross-Instance Registration)", "type": "論文", "first_posted": "2026-03-24", "field": "3DGS位置合わせ"},
+    {"name": "FreeArtGS", "type": "論文", "first_posted": "2026-03-24", "field": "関節物体の3D再構成"},
+    {"name": "GTSR (Translucent Surface Reconstruction)", "type": "論文", "first_posted": "2026-03-24", "field": "半透明物体の3D再構成"},
+    {"name": "GaussianSSC", "type": "論文", "first_posted": "2026-03-24", "field": "自動運転・セマンティック理解"},
+    {"name": "高忠実度アバター再構成 (Springer)", "type": "論文", "first_posted": "2026-03-24", "field": "アバター生成"},
+    {"name": "OpenUSD v26.03 Gaussian Splatsスキーマ", "type": "ニュース", "first_posted": "2026-03-24", "field": "標準化"},
+    {"name": "glTF KHR_gaussian_splatting拡張", "type": "ニュース", "first_posted": "2026-03-24", "field": "標準化"},
+    {"name": "NanoGS UE5 NaniteスタイルLoD", "type": "ニュース", "first_posted": "2026-03-24", "field": "ゲームエンジン"},
+    {"name": "51Vision 51Claw Embodied AI", "type": "ニュース", "first_posted": "2026-03-24", "field": "Embodied AI"},
+    {"name": "NAB Show GS in Production パネル", "type": "ニュース", "first_posted": "2026-03-24", "field": "映像制作"},
+    {"name": "GASP (GS + Genesis物理エンジン)", "type": "コミュニティ", "first_posted": "2026-03-24", "field": "物理シミュレーション"},
+    {"name": "Mobile-GS (モバイル116FPS)", "type": "コミュニティ", "first_posted": "2026-03-24", "field": "モバイル"},
+    {"name": "MLSLabsRenderer UE5プラグイン更新", "type": "コミュニティ", "first_posted": "2026-03-24", "field": "ゲームエンジン"},
+    {"name": "3DMakerpro 不動産GSツアー", "type": "コミュニティ", "first_posted": "2026-03-24", "field": "不動産"},
+    {"name": "What The Splat! 学習コース", "type": "コミュニティ", "first_posted": "2026-03-24", "field": "教育"},
+    {"name": "Sandy Ressler 5つのGS発表まとめ", "type": "コミュニティ", "first_posted": "2026-03-24", "field": "まとめ"},
+    {"name": "SpectralSplats", "type": "論文", "first_posted": "2026-03-27", "field": "3DGS追跡・最適化"},
+    {"name": "FilterGS", "type": "論文", "first_posted": "2026-03-27", "field": "大規模シーン・LoD"},
+    {"name": "AdvSplat", "type": "論文", "first_posted": "2026-03-27", "field": "セキュリティ・敵対的攻撃"},
+    {"name": "Stochastic Ray Tracing for 3DGS", "type": "論文", "first_posted": "2026-03-27", "field": "レンダリング品質向上"},
+    {"name": "Pose-Free Omnidirectional GS", "type": "論文", "first_posted": "2026-03-27", "field": "360度映像・VR"},
+    {"name": "Drop-In Perceptual Optimization for 3DGS", "type": "論文", "first_posted": "2026-03-27", "field": "画質最適化"},
+    {"name": "GTLR-GS", "type": "論文", "first_posted": "2026-03-27", "field": "LiDAR融合・シーン再構成"},
+    {"name": "RefracGS", "type": "論文", "first_posted": "2026-03-27", "field": "水面・屈折光学"},
+    {"name": "EmoTaG", "type": "論文", "first_posted": "2026-03-27", "field": "感情認識・トーキングヘッド"},
+    {"name": "Fast and Robust Deformable 3DGS", "type": "論文", "first_posted": "2026-03-27", "field": "動的シーン・変形"},
+    {"name": "Leveling3D", "type": "論文", "first_posted": "2026-03-27", "field": "3D再構成・生成"},
+    {"name": "GaussianPile", "type": "論文", "first_posted": "2026-03-27", "field": "医療・ボリューム再構成"},
+    {"name": "TRGS-SLAM", "type": "論文", "first_posted": "2026-03-27", "field": "SLAM・熱画像"},
+    {"name": "4DGS360", "type": "論文", "first_posted": "2026-03-27", "field": "4DGS・動的物体"},
+    {"name": "Inst4DGS", "type": "論文", "first_posted": "2026-03-27", "field": "4DGS・インスタンス分解"},
+    {"name": "EmbodiedSplat", "type": "論文", "first_posted": "2026-03-27", "field": "Embodied AI・意味理解"},
+    {"name": "Let it Snow!", "type": "論文", "first_posted": "2026-03-27", "field": "動的天気エフェクト・シーン編集"},
+    {"name": "Training-Free Instance-Aware 3D Scene Reconstruction", "type": "論文", "first_posted": "2026-03-27", "field": "インスタンス認識・シーン再構成"},
+    {"name": "Feed-forward Gaussian Registration for Head Avatar", "type": "論文", "first_posted": "2026-03-27", "field": "アバター・ヘッド"},
+    {"name": "Dual Diffusion Models for Multi-modal 3D Avatar Generation", "type": "論文", "first_posted": "2026-03-27", "field": "アバター生成"},
+    {"name": "Gaussian Splat Studio for Cinema 4D", "type": "ニュース", "first_posted": "2026-03-27", "field": "C4Dプラグイン・映像制作"},
+    {"name": "SplatRenderer Plugin for Unreal Engine", "type": "ニュース", "first_posted": "2026-03-27", "field": "UE5プラグイン・4DGS"},
+    {"name": "NVIDIA Omniverse NuRec GA（一般提供開始）", "type": "ニュース", "first_posted": "2026-03-27", "field": "シミュレーション・自動運転"},
+    {"name": "Miris 公開ベータ - 高忠実度3Dストリーミング", "type": "ニュース", "first_posted": "2026-03-27", "field": "3Dストリーミング"},
+    {"name": "Khronos Group glTF Gaussian Splatting ウェビナー（4月7日）", "type": "ニュース", "first_posted": "2026-03-27", "field": "標準化・ウェビナー"},
+    {"name": "SP-6M 世界最大の人間頭部スキャンデータセット", "type": "ニュース", "first_posted": "2026-03-27", "field": "データセット・アバター"},
+    {"name": "World Labs Gaussian Splatsで物理世界を理解するAI", "type": "ニュース", "first_posted": "2026-03-27", "field": "空間AI・World Models"},
+    {"name": "OpenUSD v26.03 正式リリース CG Channel報道", "type": "ニュース", "first_posted": "2026-03-27", "field": "標準化・業界報道"},
+    {"name": "SuperSplat Walk Mode", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "不動産・ブラウザビューア"},
+    {"name": "RadianceKit Apple Silicon Mac向けネイティブ3DGSアプリ", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "Macアプリ・ローカル処理"},
+    {"name": "4DGS360 Reddit話題", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "4DGS・コミュニティ"},
+    {"name": "NanoGS GUI Tool", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "開発ツール・最適化"},
+    {"name": "ColmapLiDAR App Update 1.2", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "iOSアプリ・LiDAR"},
+    {"name": "gsplat-unity", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "Unity・ゲームエンジン"},
+    {"name": "SplatKing iPhone向け無料GSキャプチャアプリ", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "iPhoneアプリ・キャプチャ"},
+    {"name": "Awesome-4D-Spatial-Intelligence", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "論文まとめ・リソース"},
+    {"name": "FastGS (CVPR 2026)", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "高速化・CVPR"},
+    {"name": "Gaussian Splat viewer on Rokid Glasses", "type": "コミュニティ", "first_posted": "2026-03-27", "field": "ARグラス・VR"},
+    {"name": "LGTM (Less Gaussians, Texture More)", "type": "論文", "first_posted": "2026-03-28", "field": "4K/フィードフォワード"},
+    {"name": "GaussFusion", "type": "論文", "first_posted": "2026-03-28", "field": "アーティファクト除去"},
+    {"name": "MoRGS", "type": "論文", "first_posted": "2026-03-28", "field": "4DGS/ストリーミング"},
+    {"name": "Learning Explicit Continuous Motion", "type": "論文", "first_posted": "2026-03-28", "field": "4DGS"},
+    {"name": "HyperGaussians", "type": "論文", "first_posted": "2026-03-28", "field": "アバター"},
+    {"name": "Confidence-Based Mesh Extraction (CoMe)", "type": "論文", "first_posted": "2026-03-28", "field": "メッシュ抽出"},
+    {"name": "AirSplat", "type": "論文", "first_posted": "2026-03-28", "field": "NVS"},
+    {"name": "PhotoAgent", "type": "論文", "first_posted": "2026-03-28", "field": "ロボット"},
+    {"name": "Instrument-Splatting++", "type": "論文", "first_posted": "2026-03-28", "field": "医療/ロボット"},
+    {"name": "Fast undersampled dynamic MRI with GS", "type": "論文", "first_posted": "2026-03-28", "field": "医療"},
+    {"name": "World Labs Marble 1億Splats", "type": "ニュース", "first_posted": "2026-03-28", "field": "生成AI"},
+    {"name": "Vine FX After the Flood S2", "type": "ニュース", "first_posted": "2026-03-28", "field": "映像制作"},
+    {"name": "Tencent HY3D Studio", "type": "ニュース", "first_posted": "2026-03-28", "field": "3D生成"},
+    {"name": "3Dasset.io 無料公開", "type": "ニュース", "first_posted": "2026-03-28", "field": "アセット"},
+    {"name": "SEI CMU 3DGS教育ブログ", "type": "ニュース", "first_posted": "2026-03-28", "field": "教育"},
+    {"name": "Core11 LichtFeld Studio 支援延長", "type": "ニュース", "first_posted": "2026-03-28", "field": "投資"},
+    {"name": "SplatViewer VR", "type": "コミュニティ", "first_posted": "2026-03-28", "field": "VRビューア"},
+    {"name": "Slice and Dice Tool", "type": "コミュニティ", "first_posted": "2026-03-28", "field": "開発ツール"},
+    {"name": "World Labs Marble × Meta AIグラス", "type": "コミュニティ", "first_posted": "2026-03-28", "field": "AR"},
+    {"name": "Note.com LFS MCMCハイブリッド解説", "type": "コミュニティ", "first_posted": "2026-03-28", "field": "日本語解説"},
+    {"name": "Apple ml-perceptual-3dgs コード公開", "type": "コミュニティ", "first_posted": "2026-03-28", "field": "オープンソース"},
+    {"name": "CVPR 2026 3DGS論文まとめ", "type": "コミュニティ", "first_posted": "2026-03-28", "field": "まとめ"},
+    {"name": "ViewSplat", "type": "論文", "first_posted": "2026-03-28", "field": "フィードフォワード"},
+    {"name": "2Xplat", "type": "論文", "first_posted": "2026-03-28", "field": "フィードフォワード"},
+    {"name": "SGAD-SLAM", "type": "論文", "first_posted": "2026-03-28", "field": "SLAM"},
+    {"name": "Predictive Photometric Uncertainty", "type": "論文", "first_posted": "2026-03-28", "field": "不確実性推定"},
+    {"name": "Relaxed Rigidity with Ray-based Grouping", "type": "論文", "first_posted": "2026-03-28", "field": "4DGS"},
+    {"name": "Accurate Point Measurement in 3DGS", "type": "論文", "first_posted": "2026-03-28", "field": "測量"},
+    {"name": "GEMM-GS", "type": "論文", "field": "高速化", "url": "https://arxiv.org/abs/2604.02120", "date": "2026-04-05"},
+    {"name": "TRiGS", "type": "論文", "field": "4DGS", "url": "https://arxiv.org/abs/2604.00538", "date": "2026-04-05"},
+    {"name": "F3DGS", "type": "論文", "field": "分散・マルチエージェント", "url": "https://arxiv.org/abs/2604.01605", "date": "2026-04-05"},
+    {"name": "Palette-Based Color Grading for 3DGS", "type": "論文", "field": "編集", "url": "https://arxiv.org/abs/2604.01551", "date": "2026-04-05"},
+    {"name": "ARGS", "type": "論文", "field": "生成", "url": "https://arxiv.org/abs/2604.00494", "date": "2026-04-05"},
+    {"name": "TRACE", "type": "論文", "field": "編集", "url": "https://arxiv.org/abs/2604.01207", "date": "2026-04-05"},
+    {"name": "Director", "type": "論文", "field": "4DGS・人物", "url": "https://arxiv.org/abs/2604.01678", "date": "2026-04-05"},
+    {"name": "MotionScale", "type": "論文", "field": "4DGS", "url": "https://arxiv.org/abs/2603.29296", "date": "2026-04-05"},
+    {"name": "Diff3R", "type": "論文", "field": "フィードフォワード3DGS", "url": "https://arxiv.org/abs/2604.01030", "date": "2026-04-05"},
+    {"name": "FaCT-GS", "type": "論文", "field": "医療・CT", "url": "https://arxiv.org/abs/2604.01844", "date": "2026-04-05"},
+    {"name": "GS^2", "type": "論文", "field": "圧縮・最適化", "url": "https://arxiv.org/abs/2604.01884", "date": "2026-04-05"},
+    {"name": "LESV", "type": "論文", "field": "言語+3D", "url": "https://arxiv.org/abs/2604.01388", "date": "2026-04-05"},
+    {"name": "GeoHCC", "type": "論文", "field": "圧縮", "url": "https://arxiv.org/abs/2603.28431", "date": "2026-04-05"},
+    {"name": "Coko-SLAM", "type": "論文", "field": "SLAM・ロボット", "url": "https://arxiv.org/abs/2604.00804", "date": "2026-04-05"},
+    {"name": "EgoSim", "type": "論文", "field": "ロボット・シミュレーション", "url": "https://arxiv.org/abs/2604.01001", "date": "2026-04-05"},
+    {"name": "ReSplat", "type": "論文", "field": "フィードフォワード3DGS", "url": "https://github.com/cvg/resplat", "date": "2026-04-05"},
+    {"name": "DJI Reality", "type": "ツール", "field": "ドローン・ビューアー", "url": "https://dronedj.com/2026/04/02/dji-reality-drone-3d-mapping/", "date": "2026-04-05"},
+    {"name": "DJI Avata 360", "type": "ハードウェア", "field": "ドローン", "url": "https://www.bhphotovideo.com/explora/video/news/dji-announces-the-avata-360-an-8k-360-degree-fpv-drone", "date": "2026-04-05"},
+    {"name": "PlayCanvas + Gracia 4DGS統合", "type": "ツール", "field": "4DGS・Webエンジン", "url": "https://80.lv/articles/playcanvas-can-now-load-gracia-s-4d-gaussian-splats", "date": "2026-04-05"},
+    {"name": "Gracia PortAventura 4DGS体験", "type": "ニュース", "field": "4DGS・エンターテインメント", "url": "https://radiancefields.com/gracia-launches-4dgs-experience-at-portaventura-park", "date": "2026-04-05"},
+    {"name": "Babylon.js V9.1", "type": "ツール", "field": "Webエンジン", "url": "https://radiancefields.com/babylon.js-releases-v9.1", "date": "2026-04-05"},
+    {"name": "World Labs Marble 1.1 / 1.1 Plus", "type": "ツール", "field": "3D世界生成", "url": "https://radiancefields.com/world-labs-releases-marble-1.1-and-marble-1.1-plus", "date": "2026-04-05"},
+    {"name": "SplatRenderer v1.1.0", "type": "ツール", "field": "UE5プラグイン・4DGS", "url": "https://radiancefields.com/splatrenderer-v1.1.0-adds-level-sequencer-for-4dgs-in-unreal-engine-5", "date": "2026-04-05"},
+    {"name": "SplataraScan on SideQuest", "type": "ツール", "field": "VR・スキャン", "url": "https://radiancefields.com/splatarascan-arrives-on-sidequest", "date": "2026-04-05"},
+    {"name": "Cesium KHR_gaussian_splatting実装", "type": "ニュース", "field": "標準化", "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia", "date": "2026-04-05"},
+    {"name": "Corridor Crew「THIS is the Biggest Thing Since CGI」", "type": "コミュニティ", "field": "YouTube・啓発", "url": "https://www.youtube.com/watch?v=X8yRlA7jqEQ", "date": "2026-04-05"},
+    {"name": "4DGS.jp（IZUTSUYA）", "type": "ニュース", "field": "日本・4DGS", "url": "https://prtimes.jp/main/html/rd/p/000000027.000138121.html", "date": "2026-04-05"},
+    {"name": "共同通信3DGS大分火災検証", "type": "ニュース", "field": "日本・報道", "url": "https://www.sanyonews.jp/article/1895966", "date": "2026-04-05"},
+    {"name": "大日本印刷 伏見稲荷大社3DGSメタバース化", "type": "ニュース", "field": "日本・文化財", "url": "https://www.newprinet.co.jp/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%8D%B0%E5%88%B7%E3%80%80%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%A7%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE%E3%82%92%E3%83%A1", "date": "2026-04-05"},
+    {"name": "Arcturus スポーツ放送ラジアンスフィールドインタビュー", "type": "ニュース", "field": "スポーツ放送", "url": "https://radiancefields.com/inside-arcturus-how-radiance-fields-are-reshaping-volumetric-sports-broadcasts", "date": "2026-04-05"},
+    {"name": "Blurry LoD Streaming", "type": "ツール", "field": "ストリーミング", "url": "https://radiancefields.com/blurry-adds-level-of-detail-streaming-and-revamps-pricing", "date": "2026-04-05"},
+    {"name": "AR Splat by AR Code", "type": "ツール", "field": "AR・QRコード", "url": "https://ar-code.com/blog/ar-splat-a-new-3d-scanning-to-augmented-reality-solution-based-on-gaussian-splatting", "date": "2026-04-05"},
+    {"name": "COLMAP 4.0", "type": "ツール", "field": "3D再構成", "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia", "date": "2026-04-05"},
+    {"name": "vkSplatting 2026.1", "type": "ツール", "field": "Vulkan・レンダリング", "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia", "date": "2026-04-05"},
+    {"name": "fVDB V0.4", "type": "ツール", "field": "NVIDIAライブラリ", "url": "https://radiancefields.substack.com/p/gaussian-splatting-in-march-nvidia", "date": "2026-04-05"},
+    {"name": "AvatarPointillist", "type": "論文", "field": "4DGS・アバター生成", "url": "https://arxiv.org/abs/2604.04787", "date": "2026-04-09"},
+    {"name": "4C4D", "type": "論文", "field": "4DGS・動的シーン", "url": "https://arxiv.org/abs/2604.04063", "date": "2026-04-09"},
+    {"name": "GaussianGrow", "type": "論文", "field": "3D生成・テキスト誤導", "url": "https://arxiv.org/abs/2604.05721", "date": "2026-04-09"},
+    {"name": "GP-4DGS", "type": "論文", "field": "4DGS・確率的モデリング", "url": "https://arxiv.org/abs/2604.02915", "date": "2026-04-09"},
+    {"name": "Flash-Mono", "type": "論文", "field": "SLAM・ロボット", "url": "https://arxiv.org/abs/2604.03092", "date": "2026-04-09"},
+    {"name": "GaussFly", "type": "論文", "field": "ロボット・ドローン", "url": "https://arxiv.org/abs/2604.05062", "date": "2026-04-09"},
+    {"name": "HOIGS", "type": "論文", "field": "人物・物体インタラクション", "url": "https://arxiv.org/abs/2604.04016", "date": "2026-04-09"},
+    {"name": "CGHair", "type": "論文", "field": "ヘア再構成", "url": "https://arxiv.org/abs/2604.03716", "date": "2026-04-09"},
+    {"name": "ADM-GS", "type": "論文", "field": "自動運転・外観分解", "url": "https://arxiv.org/abs/2604.05908", "date": "2026-04-09"},
+    {"name": "3DTurboQuant", "type": "論文", "field": "圧縮・最適化", "url": "https://arxiv.org/abs/2604.05366", "date": "2026-04-09"},
+    {"name": "UNICA", "type": "論文", "field": "アバター生成", "url": "https://arxiv.org/abs/2604.02799", "date": "2026-04-09"},
+    {"name": "GA-GS", "type": "論文", "field": "静的シーン再構成", "url": "https://arxiv.org/abs/2604.04331", "date": "2026-04-09"},
+    {"name": "M2StyleGS", "type": "論文", "field": "スタイル転送", "url": "https://arxiv.org/abs/2604.03773", "date": "2026-04-09"},
+    {"name": "PanopticQuery", "type": "論文", "field": "4DGS・言語理解", "url": "https://arxiv.org/abs/2604.05638", "date": "2026-04-09"},
+    {"name": "LSGS-Loc", "type": "論文", "field": "UAV・位置推定", "url": "https://arxiv.org/abs/2604.05402", "date": "2026-04-09"},
+    {"name": "NavCrafter", "type": "論文", "field": "3Dシーン探索", "url": "https://arxiv.org/abs/2604.02828", "date": "2026-04-09"},
+    {"name": "Niantic Spatial Scaniverse & VPS 2.0", "type": "ニュース", "field": "空間AI・マッピング", "url": "https://www.nianticspatial.com/en/blog/scaniverse", "date": "2026-04-09"},
+    {"name": "360 Gaussian v1.4", "type": "ツール", "field": "360度映像・3DGS", "url": "https://radiancefields.com/360-gaussian-releases-v1.4", "date": "2026-04-09"},
+    {"name": "Khronos glTF Gaussian Splatting ウェビナー開催・資料公開", "type": "ニュース", "field": "標準化", "url": "https://www.khronos.org/events/gaussian-splats-use-cases-next-steps-for-gltf-standardization", "date": "2026-04-09"},
+    {"name": "Revopoint MetroY Ultra", "type": "ハードウェア", "field": "3Dスキャナー", "url": "https://www.revopoint3d.com/blogs/news/revopoint-launches-metroy-ultra-with-metrology-grade-verification-and-starts-a-pop-4-kickstarter-campaign", "date": "2026-04-09"},
+    {"name": "A$AP Rocky「HELICOPTER」MV 4DGS使用", "type": "コミュニティ", "field": "音楽・エンタメ", "url": "https://radiancefields.com", "date": "2026-04-09"},
+    {"name": "Gauss Cannon Blender Plugin", "type": "ツール", "field": "Blenderプラグイン", "url": "https://github.com/keshmirian/gauss-cannon", "date": "2026-04-09"},
+    {"name": "Lumina 3D 2.0", "type": "ツール", "field": "iPhoneアプリ", "url": "https://www.reddit.com/r/GaussianSplatting/comments/1sdbzp4/lumina_3d_20_appstore_release/", "date": "2026-04-09"},
+    {"name": "ViS-3DGS VSCode Extension", "type": "ツール", "field": "開発ツール", "url": "https://marketplace.visualstudio.com/items?itemName=batuoz.vis-3dgs-viewer", "date": "2026-04-09"},
+    {"name": "Streaming Real-Time Rendered Scenes as 3D Gaussians", "type": "論文", "field": "ストリーミング", "url": "https://arxiv.org/abs/2604.02851", "date": "2026-04-09"},
+    {"name": "DualSplat", "type": "論文", "first_posted": "2026-04-25", "field": "動的シーン再構成"},
+    {"name": "You Only Gaussian Once (YOGOS)", "type": "論文", "first_posted": "2026-04-25", "field": "3DGS最適化"},
+    {"name": "WildSplatter", "type": "論文", "first_posted": "2026-04-25", "field": "フィードフォワード3DGS"},
+    {"name": "GSCompleter", "type": "論文", "first_posted": "2026-04-25", "field": "スパースビュー補完"},
+    {"name": "Gaussians on a Diet", "type": "論文", "first_posted": "2026-04-25", "field": "メモリ効率化"},
+    {"name": "FluSplat", "type": "論文", "first_posted": "2026-04-25", "field": "3D編集"},
+    {"name": "SketchFaceGS", "type": "論文", "first_posted": "2026-04-25", "field": "顔編集"},
+    {"name": "OT-UVGS", "type": "論文", "first_posted": "2026-04-25", "field": "UVマッピング"},
+    {"name": "AdaGScale", "type": "論文", "first_posted": "2026-04-25", "field": "レンダリング高速化"},
+    {"name": "GS-STVSR", "type": "論文", "first_posted": "2026-04-25", "field": "ビデオ超解像"},
+    {"name": "E3VS-Bench", "type": "論文", "first_posted": "2026-04-25", "field": "ベンチマーク"},
+    {"name": "LAGS", "type": "論文", "first_posted": "2026-04-25", "field": "ドローン群"},
+    {"name": "Neural Gabor Splatting", "type": "論文", "first_posted": "2026-04-25", "field": "高周波サーフェス"},
+    {"name": "GaussianFlow SLAM", "type": "論文", "first_posted": "2026-04-25", "field": "SLAM"},
+    {"name": "GlobalSplat", "type": "論文", "first_posted": "2026-04-25", "field": "フィードフォワード3DGS"},
+    {"name": "TokenGS", "type": "論文", "first_posted": "2026-04-25", "field": "フィードフォワード3DGS"},
+    {"name": "SSD-GS", "type": "論文", "first_posted": "2026-04-25", "field": "再照明"},
+    {"name": "HY-World 2.0", "type": "論文", "first_posted": "2026-04-25", "field": "世界モデル"},
+    {"name": "ClipGStream", "type": "論文", "first_posted": "2026-04-25", "field": "4DGS"},
+    {"name": "GeoRect4D", "type": "論文", "first_posted": "2026-04-25", "field": "4DGS"},
+    {"name": "MUA: Mobile Ultra-detailed Animatable Avatars", "type": "論文", "first_posted": "2026-04-25", "field": "アバター"},
+    {"name": "High-Fidelity 3D Gaussian Human Reconstruction", "type": "論文", "first_posted": "2026-04-25", "field": "人体再構成"},
+    {"name": "GGD-SLAM", "type": "論文", "first_posted": "2026-04-25", "field": "SLAM"},
+    {"name": "Habitat-GS", "type": "論文", "first_posted": "2026-04-25", "field": "Embodied AI"},
+    {"name": "NG-GS", "type": "論文", "first_posted": "2026-04-25", "field": "セグメンテーション"},
+    {"name": "Sculpt4D", "type": "論文", "first_posted": "2026-04-25", "field": "4D生成"},
+    {"name": "Vista4D", "type": "論文", "first_posted": "2026-04-25", "field": "4DGS"},
+    {"name": "Preferred Networks × TBS日曜劇場GIFT 3DGS活用", "type": "ニュース", "first_posted": "2026-04-25", "field": "映像制作"},
+    {"name": "XGRIDS PortalCam NAB 2026 4部門最優秀製品賞", "type": "ニュース", "first_posted": "2026-04-25", "field": "ハードウェア"},
+    {"name": "Radiant Images Meridian 4DGS × 24台iPhone ビュレットタイムリグ", "type": "ニュース", "first_posted": "2026-04-25", "field": "映像制作"},
+    {"name": "Antigravity Project ETERNAL", "type": "ニュース", "first_posted": "2026-04-25", "field": "文化遺産"},
+    {"name": "Insta360 × Splatica パートナーシップ", "type": "ニュース", "first_posted": "2026-04-25", "field": "ツール"},
+    {"name": "Tencent HY-World 2.0 オープンソース", "type": "ニュース", "first_posted": "2026-04-25", "field": "世界モデル"},
+    {"name": "Microsoft TRELLIS.2", "type": "ニュース", "first_posted": "2026-04-25", "field": "生成AI"},
+    {"name": "NVIDIA Lyra 2.0", "type": "ニュース", "first_posted": "2026-04-25", "field": "生成AI"},
+    {"name": "Laval Virtual 2026 4DGS特集", "type": "ニュース", "first_posted": "2026-04-25", "field": "XR"},
+    {"name": "Captures Studio V1.0", "type": "ツール", "first_posted": "2026-04-25", "field": "プラットフォーム"},
+    {"name": "LichtFeld Studio v0.5.2", "type": "ツール", "first_posted": "2026-04-25", "field": "処理ツール"},
+    {"name": "COLMAP Bridge アップデート", "type": "ツール", "first_posted": "2026-04-25", "field": "ワークフロー"},
+    {"name": "Godot GDGsプラグイン", "type": "ツール", "first_posted": "2026-04-25", "field": "ゲームエンジン"},
+    {"name": "PlayCanvas チュートリアル Gaussian Splat ゲーム化", "type": "コミュニティ", "first_posted": "2026-04-25", "field": "ゲームエンジン"},
+    {"name": "Clair Obscur Expedition 33 Gaussian Splat", "type": "コミュニティ", "first_posted": "2026-04-25", "field": "ゲーム"},
+    {"name": "LifeHacker Gaussian Splats記事", "type": "ニュース", "first_posted": "2026-04-25", "field": "一般向け"},
+    {"name": "PFN TBS GIFT 日本語報道", "type": "ニュース", "first_posted": "2026-04-25", "field": "映像制作"},
+    {"name": "YOGO (You Only Gaussian Once)", "type": "論文", "first_posted": "2026-04-27", "field": "3DGS最適化・本番環境対応"},
+    {"name": "GraphiXS (Graphical X Splatting)", "type": "論文", "first_posted": "2026-04-27", "field": "4DGS・不確実性モデリング"},
+    {"name": "WorldStereo", "type": "論文", "first_posted": "2026-04-27", "field": "動画生成×3D再構成"},
+    {"name": "Splatography", "type": "論文", "first_posted": "2026-04-27", "field": "4DGS・映画制作"},
+    {"name": "CryoSplat", "type": "論文", "first_posted": "2026-04-27", "field": "科学応用・クライオ電子顕微鏡"},
+    {"name": "MS-Splatting (Multi-Spectral Gaussian Splatting)", "type": "論文", "first_posted": "2026-04-27", "field": "マルチスペクトル・赤外線対応"},
+    {"name": "Splatica × Insta360 パートナーシップ The Verge報道", "type": "ニュース", "first_posted": "2026-04-27", "field": "360度カメラ×3DGS普及"},
+    {"name": "Antigravity Project ETERNAL 文化坁3DGS保存", "type": "ニュース", "first_posted": "2026-04-27", "field": "文化財保存"},
+    {"name": "V-Ray 7 Update 3 Gaussian Splat再照明対応", "type": "ニュース", "first_posted": "2026-04-27", "field": "レンダリングツール"},
+    {"name": "NVIDIA Asset Harvester 自動運転3Dアセット生成", "type": "ニュース", "first_posted": "2026-04-27", "field": "自動運転シミュレーション"},
+    {"name": "Pixotope Volinga 3DGS統合 NAB 2026", "type": "ニュース", "first_posted": "2026-04-27", "field": "ライブ放送・バーチャルプロダクション"},
+    {"name": "DroneDeploy Gaussian Splats ベータ公開", "type": "ニュース", "first_posted": "2026-04-27", "field": "建設・測量"},
+    {"name": "KIRI Engine 4.2 3DGS to Mesh 3.0", "type": "ニュース", "first_posted": "2026-04-27", "field": "3DGSメッシュ変換"},
+    {"name": "PlayCanvas SplatTransform CLIツール", "type": "コミュニティ", "first_posted": "2026-04-27", "field": "ゲーム開発"},
+    {"name": "VRChat Gaussian Splatting SH3対応アップデート", "type": "コミュニティ", "first_posted": "2026-04-27", "field": "VRコミュニティ"},
+    {"name": "360度動画Gaussian Splat仮想ツアー Spatial Studio検証", "type": "コミュニティ", "first_posted": "2026-04-27", "field": "仮想ツアー"},
+    {"name": "AirVis 大規模Gaussian Splatシーン クロスデバイス", "type": "コミュニティ", "first_posted": "2026-04-27", "field": "クロスデバイス3DGS閲覧"},
+    {"name": "Gaussian Splatting for VFX Houdini Nuke USD解説", "type": "コミュニティ", "first_posted": "2026-04-27", "field": "VFXパイプライン"},
+    {"name": "Dehaze-then-Splat 煙霧環境3DGS", "type": "論文", "first_posted": "2026-04-27", "field": "ロバス3DGS・悪条件対応"},
+    {"name": "PropSplat RF電波伝搭3DGS DySPAN 2026", "type": "論文", "first_posted": "2026-04-27", "field": "無線通信・RF場再構成"},
+    {"name": "XGRIDS 3DGS無料ウェビナー 4月28日", "type": "ニュース", "first_posted": "2026-04-27", "field": "日本語教育コンテンツ"},
+    {"name": "GETA-3DGS", "type": "論文", "first_posted": "2026-05-07", "field": "圧縮・最適化", "url": "https://arxiv.org/abs/2605.02086"},
+    {"name": "2D-SuGaR", "type": "論文", "first_posted": "2026-05-07", "field": "表面再構成・メッシュ変換", "url": "https://arxiv.org/abs/2605.00569"},
+    {"name": "FreeTimeGS++", "type": "論文", "first_posted": "2026-05-07", "field": "4DGS・原理解析", "url": "https://arxiv.org/abs/2605.03337"},
+    {"name": "ELoG-GS", "type": "論文", "first_posted": "2026-05-07", "field": "低照度3D再構成", "url": "https://arxiv.org/abs/2604.12592"},
+    {"name": "Light 'em Up", "type": "論文", "first_posted": "2026-05-07", "field": "低照度3DGS（Few-Shot）", "url": "https://arxiv.org/abs/2604.24053"},
+    {"name": "EvFlow-GS", "type": "論文", "first_posted": "2026-05-07", "field": "モーションブラー除去・イベントカメラ", "url": "https://arxiv.org/abs/2604.22183"},
+    {"name": "Splats in Splats++", "type": "論文", "first_posted": "2026-05-07", "field": "セキュリティ・ステガノグラフィ", "url": "https://arxiv.org/abs/2604.15862"},
+    {"name": "SFGS (Structure-Aware Fine-Grained GS Avatar)", "type": "論文", "first_posted": "2026-05-07", "field": "アバター生成", "url": "https://arxiv.org/abs/2604.09324"},
+    {"name": "Sparse-View 3DGS in the Wild", "type": "論文", "first_posted": "2026-05-07", "field": "スパースビュー3DGS", "url": "https://arxiv.org/abs/2604.27422"},
+    {"name": "Generalizable 3DGS Semantic Coding", "type": "論文", "first_posted": "2026-05-07", "field": "映像通信・意味的圧縮", "url": "https://arxiv.org/abs/2604.25330"},
+    {"name": "Instant Colorization of Gaussian Splats", "type": "論文", "first_posted": "2026-05-07", "field": "編集・再照明", "url": "https://arxiv.org/abs/2604.17155"},
+    {"name": "GS-2M (Eurographics 2026)", "type": "論文", "first_posted": "2026-05-07", "field": "材質対応メッシュ再構成", "url": "https://arxiv.org/abs/2509.22276"},
+    {"name": "Scene-Agnostic Object-Centric GS", "type": "論文", "first_posted": "2026-05-07", "field": "物体中心表現・Embodied AI", "url": "https://arxiv.org/abs/2604.09045"},
+    {"name": "Adobe Photoshop 27.6 Rotate Object", "type": "ニュース", "first_posted": "2026-05-07", "field": "主流化・GS商用化", "url": "https://www.cgchannel.com/2026/04/adobe-releases-photoshop-27-6/"},
+    {"name": "Cesium 3D Tiles LOD Gaussian Splats", "type": "ニュース", "first_posted": "2026-05-07", "field": "都市スケールLoDストリーミング", "url": "https://cesium.com/blog/2026/04/27/3d-gaussian-splats-lod/"},
+    {"name": "DNE × Gracia 4DGS streamable performance", "type": "ニュース", "first_posted": "2026-05-07", "field": "4DGS・エンターテインメント", "url": "https://www.cgchannel.com/2026/04/dne-and-gracia-release-4-minute-streamable-4dgs-performance/"},
+    {"name": "3DISE Conference Prague 2026", "type": "ニュース", "first_posted": "2026-05-07", "field": "カンファレンス", "url": "https://3dise.com/"},
+    {"name": "XGRIDS 新型カメラ Prague発表", "type": "ニュース", "first_posted": "2026-05-07", "field": "GS専用ハードウェア", "url": "https://www.xgrids.com/portalcam"},
+    {"name": "Arrival Space offline mode", "type": "コミュニティ", "first_posted": "2026-05-07", "field": "プラットフォーム・オフライン対応", "url": "https://radiancefields.com/platforms/arrival-space"},
+    {"name": "GS Official Codebase training speedup 2.7x", "type": "コミュニティ", "first_posted": "2026-05-07", "field": "高速化・公式コードベース", "url": "https://github.com/graphdeco-inria/gaussian-splatting"},
+    {"name": "Splats under Pressure", "type": "論文", "first_posted": "2026-05-07", "field": "エッジデバイス・電力効率", "url": "https://arxiv.org/abs/2604.07177"},
+    {"name": "OctaneRender 2026 GS path tracing", "type": "ニュース", "first_posted": "2026-05-07", "field": "プロレンダラー・GS対応", "url": "https://radiancefields.com/octanerender-2026-released-and-2027-roadmap-announced"}
   ]
 }
