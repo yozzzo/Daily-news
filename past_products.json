@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Lonvo-z (in vivo CRISPR HAE治療薬)",
+      "company": "Intellia Therapeutics",
+      "first_posted": "2026-05-07",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Joby Aviation S4 eVTOL",
+      "company": "Joby Aviation",
+      "first_posted": "2026-05-07",
+      "field": "ドローン・eVTOL"
+    },
+    {
+      "name": "i-NYS 植入式眼部神経刺激器",
+      "company": "超目科技（Chaomu Technology）",
+      "first_posted": "2026-05-07",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "AlkaLi Labs 微生物リチウムバイオマイニング",
+      "company": "AlkaLi Labs",
+      "first_posted": "2026-05-07",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Coefficient Bio（Anthropic買収）",
+      "company": "Anthropic / Coefficient Bio",
+      "first_posted": "2026-05-07",
+      "field": "生物×IT"
+    },
+    {
+      "name": "OTTAVA Surgical Robot",
+      "company": "Johnson & Johnson MedTech",
+      "first_posted": "2026-05-07",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Honeywell SAMURAI × Odys Laila 空中C-UAS",
+      "company": "Honeywell Aerospace / Odys Aviation",
+      "first_posted": "2026-05-07",
+      "field": "ドローン"
+    },
+    {
+      "name": "Science Corp バイオハイブリッド脳センサー",
+      "company": "Science Corporation",
+      "first_posted": "2026-05-07",
+      "field": "技術×バイオ / 脳波・BCI"
+    },
+    {
+      "name": "北脳一号（Beinao No.1）",
+      "company": "NeuCyber NeuroTech / CIBR",
+      "first_posted": "2026-05-07",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Genyro Sidewinder DNA合成プラットフォーム",
+      "company": "Genyro",
+      "first_posted": "2026-05-07",
+      "field": "生物×IT"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-07"
 }
