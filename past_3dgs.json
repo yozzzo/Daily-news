@@ -269,6 +269,19 @@
     {"name": "Arrival Space offline mode", "type": "コミュニティ", "first_posted": "2026-05-07", "field": "プラットフォーム・オフライン対応", "url": "https://radiancefields.com/platforms/arrival-space"},
     {"name": "GS Official Codebase training speedup 2.7x", "type": "コミュニティ", "first_posted": "2026-05-07", "field": "高速化・公式コードベース", "url": "https://github.com/graphdeco-inria/gaussian-splatting"},
     {"name": "Splats under Pressure", "type": "論文", "first_posted": "2026-05-07", "field": "エッジデバイス・電力効率", "url": "https://arxiv.org/abs/2604.07177"},
-    {"name": "OctaneRender 2026 GS path tracing", "type": "ニュース", "first_posted": "2026-05-07", "field": "プロレンダラー・GS対応", "url": "https://radiancefields.com/octanerender-2026-released-and-2027-roadmap-announced"}
+    {"name": "OctaneRender 2026 GS path tracing", "type": "ニュース", "first_posted": "2026-05-07", "field": "プロレンダラー・GS対応", "url": "https://radiancefields.com/octanerender-2026-released-and-2027-roadmap-announced"},
+    {"name": "Ground4D", "type": "論文", "first_posted": "2026-05-08", "field": "4DGS・オフロード再構成", "url": "https://arxiv.org/abs/2605.04435"},
+    {"name": "ArtifactWorld", "type": "論文", "first_posted": "2026-05-08", "field": "3DGSアーティファクト修復", "url": "https://arxiv.org/abs/2604.12251"},
+    {"name": "MesonGS++", "type": "論文", "first_posted": "2026-05-08", "field": "3DGS圧縮・ポストトレーニング", "url": "https://arxiv.org/abs/2604.26799"},
+    {"name": "ReconPhys", "type": "論文", "first_posted": "2026-05-08", "field": "物理特性再構成", "url": "https://arxiv.org/abs/2604.07882"},
+    {"name": "Flow4DGS-SLAM", "type": "論文", "first_posted": "2026-05-08", "field": "4DGS SLAM・動的シーン", "url": "https://arxiv.org/abs/2604.22339"},
+    {"name": "GaussianFlow SLAM", "type": "論文", "first_posted": "2026-05-08", "field": "単眼GS SLAM", "url": "https://arxiv.org/abs/2604.15612"},
+    {"name": "Hybrid 3D-4D Gaussian Splatting", "type": "論文", "first_posted": "2026-05-08", "field": "ハイブリッドGS・動的シーン", "url": "https://arxiv.org/abs/2505.13215"},
+    {"name": "Faster 3DGS Convergence via Structure-Aware Densification", "type": "論文", "first_posted": "2026-05-08", "field": "3DGS高速収束", "url": "https://arxiv.org/abs/2604.28016"},
+    {"name": "BiSplat-WRF (Planar GS for Wireless)", "type": "論文", "first_posted": "2026-05-08", "field": "ワイヤレス電波場3D化", "url": "https://arxiv.org/abs/2604.25945"},
+    {"name": "Unigine 2.21", "type": "ニュース", "first_posted": "2026-05-08", "field": "産業向けエンジン・GS強化", "url": "https://www.cgchannel.com/2026/04/unigine-2-21-is-out/"},
+    {"name": "GS FPS Browser Game (PlayCanvas)", "type": "コミュニティ", "first_posted": "2026-05-08", "field": "ゲーム・ブラウザ", "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/"},
+    {"name": "Hybrid 3D-4DGS GitHub Code Release", "type": "コミュニティ", "first_posted": "2026-05-08", "field": "オープンソース", "url": "https://github.com/ohsngjun/3D-4DGS"},
+    {"name": "FreeTimeGS++ コミュニティ注目継続", "type": "コミュニティ", "first_posted": "2026-05-08", "field": "4DGS・コミュニティ", "url": "https://arxiv.org/abs/2605.03337"}
   ]
 }
