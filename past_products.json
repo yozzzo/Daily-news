@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "CLASSIC（AI駆動型遺伝子回路設計）",
+      "company": "Rice University",
+      "first_posted": "2026-05-08",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Lamprey MMAUV（寄生型自律水中ドローン）",
+      "company": "Lockheed Martin",
+      "first_posted": "2026-05-08",
+      "field": "ドローン"
+    },
+    {
+      "name": "AVATAR 宇宙Organ-on-Chip実験",
+      "company": "Wyss Institute / Harvard / Emulate",
+      "first_posted": "2026-05-08",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "M-Optimus 生物学ワールドモデル",
+      "company": "Bioptimus",
+      "first_posted": "2026-05-08",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Beinao-1（備脳1号）半侵襲型ワイヤレスBCI",
+      "company": "NeuCyber NeuroTech / CIBR",
+      "first_posted": "2026-05-08",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Atlas 96機AI自律ドローンスウォーム",
+      "company": "CETC（中国電子科技集団）",
+      "first_posted": "2026-05-08",
+      "field": "ドローン"
+    },
+    {
+      "name": "Imagindairy 精密発酵カウフリー乳製品",
+      "company": "Imagindairy / Strauss Group",
+      "first_posted": "2026-05-08",
+      "field": "合成生物学"
+    },
+    {
+      "name": "MISSO AI膝関節置換ロボット",
+      "company": "Meril Life Sciences",
+      "first_posted": "2026-05-08",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "MySalvia Therapy 超薄型神経刺激インプラント",
+      "company": "Salvia BioElectronics",
+      "first_posted": "2026-05-08",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Ginkgo Cloud Lab / EstiMate AIエージェント自律ラボ",
+      "company": "Ginkgo Bioworks",
+      "first_posted": "2026-05-08",
+      "field": "合成生物学"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-08"
 }
