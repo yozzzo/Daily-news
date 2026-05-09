@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "OTTAVA Robotic Surgical System",
+      "company": "Johnson & Johnson MedTech",
+      "first_posted": "2026-05-09",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "CLASSIC AI Genetic Circuit Design Platform",
+      "company": "Rice University",
+      "first_posted": "2026-05-09",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Imagindairy Precision-Fermented Milk (Commercial Launch)",
+      "company": "Imagindairy / Strauss Group",
+      "first_posted": "2026-05-09",
+      "field": "合成生物学"
+    },
+    {
+      "name": "ARMD × Shield AI Hivemind AI自律飛行ドローン",
+      "company": "三菱重工 / Shield AI",
+      "first_posted": "2026-05-09",
+      "field": "ドローン"
+    },
+    {
+      "name": "AutoFlight Matrix 5トン級eVTOL",
+      "company": "AutoFlight",
+      "first_posted": "2026-05-09",
+      "field": "ドローン"
+    },
+    {
+      "name": "BIRSA 101 国産CRISPR遺伝子治療",
+      "company": "CSIR-IGIB / Serum Institute of India",
+      "first_posted": "2026-05-09",
+      "field": "合成生物学 / 技術×バイオ"
+    },
+    {
+      "name": "Atera 空間トランスクリプトームプラットフォーム",
+      "company": "10x Genomics",
+      "first_posted": "2026-05-09",
+      "field": "生物×IT"
+    },
+    {
+      "name": "ReForm 人工代謝系（CO2→化学物質変換）",
+      "company": "Stanford University / Northwestern University",
+      "first_posted": "2026-05-09",
+      "field": "合成生物学"
+    },
+    {
+      "name": "VITAL BELT ベルト型ミリ波バイタルセンシング",
+      "company": "D.O.N株式会社",
+      "first_posted": "2026-05-09",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "テラドローン モジュール型UAV（汎用型）",
+      "company": "テラドローン",
+      "first_posted": "2026-05-09",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-09"
 }
