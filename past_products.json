@@ -1746,7 +1746,77 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Amazon Bio Discovery (ABD)",
+      "company": "AWS",
+      "first_posted": "2026-05-10",
+      "field": "生物×IT",
+      "summary": "40以上のAI生物基盤モデルを統合したAIエージェント型創薬プラットフォーム。CROパートナーとのラボインザループで創薬を数週間に短縮。"
+    },
+    {
+      "name": "Sapient Perception ECHO 10Kセンサー",
+      "company": "Sapient Perception",
+      "first_posted": "2026-05-10",
+      "field": "ドローン",
+      "summary": "世界初のドローン専用10K解像度センサー。1億画素で従来100倍の面積をカバー。地雷検知等に応用。"
+    },
+    {
+      "name": "Distalmotion Dexter ハイブリッド手術ロボット",
+      "company": "Distalmotion",
+      "first_posted": "2026-05-10",
+      "field": "ロボティクス×バイオ",
+      "summary": "4分セットアップ、125平方フィートで稼働するハイブリッド手術ロボット。FDA承認3術式、3,000人以上治療済み。$150M調達。"
+    },
+    {
+      "name": "Beinao-1（贝脳-1）半侵襲型BCI",
+      "company": "清華大学等",
+      "first_posted": "2026-05-10",
+      "field": "脳波/BCI",
+      "summary": "硬膜上設置型128ch電極の半侵襲型BCI。7名の患者に埋込み済み。世界初BCI手術ライブ配信を実施。"
+    },
+    {
+      "name": "Starget Pharma AIスマートターゲットラジオリガンド（STR）",
+      "company": "Starget Pharma",
+      "first_posted": "2026-05-10",
+      "field": "技術×バイオ",
+      "summary": "世界初のAI駆動型放射性分子エンジニアリングプラットフォーム。セラノスティクスで診断→治療を同一分子で実現。$18M Series A。"
+    },
+    {
+      "name": "Airbound ロケット型1円ドローン配送",
+      "company": "Airbound",
+      "first_posted": "2026-05-10",
+      "field": "ドローン",
+      "summary": "20歳の創業者。テールシッター設計で配送1回0.01ドル目標。Narayana Healthと医療物流パイロット実施中。$8.65M調達。"
+    },
+    {
+      "name": "テラドローン モジュール型UAV（防衛装備庁受注）",
+      "company": "Terra Drone",
+      "first_posted": "2026-05-10",
+      "field": "ドローン",
+      "summary": "防衛装備庁より国産ドローン300式・1.15億円受注。GPS遮断下でもSLAM自律飛行。1台約38万円。"
+    },
+    {
+      "name": "Andromeda Surgical 自律手術ロボット",
+      "company": "Andromeda Surgical",
+      "first_posted": "2026-05-10",
+      "field": "ロボティクス×バイオ",
+      "summary": "世界初ロボット支援HoLEP実施。タブレット操作＋GPS様体内ナビ。YC出身の「手術界のテスラ」。"
+    },
+    {
+      "name": "Immunai AMICA-OS × AstraZeneca",
+      "company": "Immunai",
+      "first_posted": "2026-05-10",
+      "field": "生物×IT",
+      "summary": "単一細胞レベル免疫系AIモデル。AstraZenecaとの提携延長$37.5M。バイオマーカー発見・患者層別化・投与量最適化に活用。"
+    },
+    {
+      "name": "Taxa Technologics Swap（1週間持続デオドラント）",
+      "company": "Taxa Technologics",
+      "first_posted": "2026-05-10",
+      "field": "合成生物学",
+      "summary": "マイクロバイオーム遺伝子編集で1塗り1週間持続するデオドラント。体臭低減＋UV吸収＋蚊よけの多機能。"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-10"
 }
