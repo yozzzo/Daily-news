@@ -284,6 +284,23 @@
     {"name": "EA SEED mesh2splat", "type": "ツール", "first_posted": "2026-05-09", "field": "ゲーム開発・メッシュ→GS変換", "url": "https://github.com/electronicarts/mesh2splat"},
     {"name": "Eurographics 2026 3DGS採択論文リスト", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "カンファレンス・論文まとめ", "url": "https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/main/2026/Accepted.md"},
     {"name": "GaussianGPT Niessner Twitterデモ", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "SNS話題・3D生成", "url": "https://x.com/MattNiessner/status/2038563326167310507"},
-    {"name": "Wheat3DGS プロジェクトページ公開", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "農業AI・精密農業コミュニティ", "url": "https://zdwww.github.io/wheat3dgs/"}
+    {"name": "Wheat3DGS プロジェクトページ公開", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "農業AI・精密農業コミュニティ", "url": "https://zdwww.github.io/wheat3dgs/"},
+    {"name": "CoherentRaster", "type": "論文", "first_posted": "2026-05-10", "field": "ライトフィールドディスプレイ", "url": "https://arxiv.org/abs/2605.04509"},
+    {"name": "GOR-IS", "type": "論文", "first_posted": "2026-05-10", "field": "3D物体除去・シーン編集", "url": "https://arxiv.org/abs/2605.00498"},
+    {"name": "FieryGS", "type": "論文", "first_posted": "2026-05-10", "field": "炎・燃焼シミュレーション合成", "url": "https://openreview.net/forum?id=ziKFH7whvy"},
+    {"name": "Structure-Aware Densification", "type": "論文", "first_posted": "2026-05-10", "field": "3DGS高速収束", "url": "https://arxiv.org/abs/2604.28016"},
+    {"name": "Softmax-GS", "type": "論文", "first_posted": "2026-05-10", "field": "ビュー一貫性・境界品質改善", "url": "https://arxiv.org/abs/2604.27437"},
+    {"name": "Flow4DGS-SLAM", "type": "論文", "first_posted": "2026-05-10", "field": "光学フロー4D GS SLAM", "url": "https://arxiv.org/abs/2604.22339"},
+    {"name": "RU4D-SLAM", "type": "論文", "first_posted": "2026-05-10", "field": "4DGS SLAM・不確実性再重み", "url": "https://arxiv.org/abs/2602.20807"},
+    {"name": "PAGaS", "type": "論文", "first_posted": "2026-05-10", "field": "1DoF深度推定", "url": "https://arxiv.org/abs/2604.22129"},
+    {"name": "BiSplat-WRF", "type": "論文", "first_posted": "2026-05-10", "field": "無線電波場再構成", "url": "https://arxiv.org/abs/2604.25945"},
+    {"name": "Generative 3DGS for Atmospheric Forecasting", "type": "論文", "first_posted": "2026-05-10", "field": "天気予報AI", "url": "https://arxiv.org/abs/2604.07928"},
+    {"name": "Fake3DGS", "type": "論文", "first_posted": "2026-05-10", "field": "3D改ざん検出・セキュリティ", "url": "https://arxiv.org/abs/2604.27590"},
+    {"name": "In Depth We Trust", "type": "論文", "first_posted": "2026-05-10", "field": "単眼深度監督", "url": "https://arxiv.org/abs/2604.05715"},
+    {"name": "Snap & Grab ゲームがGSを採用", "type": "ニュース", "first_posted": "2026-05-10", "field": "ゲーム開発・商用GS採用", "url": "https://www.ingamenews.com/2026/05/gaussian-splatting-in-snap-grab-2026.html"},
+    {"name": "Emergent Vision Technologies NAB 2026 36カメラ4DGS", "type": "ニュース", "first_posted": "2026-05-10", "field": "4DGSボリュームキャプチャ・放送", "url": "https://www.tvtechnology.com/production/emergent-vision-unveils-4d-gaussian-splatting-and-high-speed-cameras"},
+    {"name": "AMD ROCm Street Gaussians対応", "type": "ニュース", "first_posted": "2026-05-10", "field": "AMD GPU対応・自動運転", "url": "https://rocm.blogs.amd.com/artificial-intelligence/street-gaussians/README.html"},
+    {"name": "SOG (Spatially Ordered Gaussians) PlayCanvas", "type": "コミュニティ", "first_posted": "2026-05-10", "field": "超圧縮GSフォーマット", "url": "https://blog.playcanvas.com/playcanvas-open-sources-sog-format-for-gaussian-splatting/"},
+    {"name": "GSAC Unity GS Avatar IEEE公式出版", "type": "コミュニティ", "first_posted": "2026-05-10", "field": "アバター生成・Unity統合", "url": "https://arxiv.org/abs/2504.12999"}
   ]
 }
