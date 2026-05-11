@@ -284,6 +284,23 @@
     {"name": "EA SEED mesh2splat", "type": "ツール", "first_posted": "2026-05-09", "field": "ゲーム開発・メッシュ→GS変換", "url": "https://github.com/electronicarts/mesh2splat"},
     {"name": "Eurographics 2026 3DGS採択論文リスト", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "カンファレンス・論文まとめ", "url": "https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/main/2026/Accepted.md"},
     {"name": "GaussianGPT Niessner Twitterデモ", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "SNS話題・3D生成", "url": "https://x.com/MattNiessner/status/2038563326167310507"},
-    {"name": "Wheat3DGS プロジェクトページ公開", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "農業AI・精密農業コミュニティ", "url": "https://zdwww.github.io/wheat3dgs/"}
+    {"name": "Wheat3DGS プロジェクトページ公開", "type": "コミュニティ", "first_posted": "2026-05-09", "field": "農業AI・精密農業コミュニティ", "url": "https://zdwww.github.io/wheat3dgs/"},
+    {"name": "CoherentRaster", "type": "論文", "first_posted": "2026-05-11", "field": "ライトフィールドディスプレイ・3DGS", "url": "https://arxiv.org/abs/2605.04509"},
+    {"name": "Faster 3DGS via Structure-Aware Densification", "type": "論文", "first_posted": "2026-05-11", "field": "3DGS高速化・密度制御", "url": "https://arxiv.org/abs/2604.28016"},
+    {"name": "EDGS: Eliminating Densification", "type": "論文", "first_posted": "2026-05-11", "field": "3DGS高速化・CVPR 2026", "url": "https://arxiv.org/abs/2504.13204"},
+    {"name": "Fake3DGS", "type": "論文", "first_posted": "2026-05-11", "field": "セキュリティ・フォレンジクス", "url": "https://arxiv.org/abs/2604.27590"},
+    {"name": "PAGaS", "type": "論文", "first_posted": "2026-05-11", "field": "深度推定・マルチビューステレオ", "url": "https://arxiv.org/abs/2604.22129"},
+    {"name": "GSsplat (Generalizable Semantic GS)", "type": "論文", "first_posted": "2026-05-11", "field": "汎用GS・意味理解", "url": "https://arxiv.org/abs/2505.04659"},
+    {"name": "GSSA-ViT (Generative 3DGS for Atmospheric Downscaling)", "type": "論文", "first_posted": "2026-05-11", "field": "気象科学・GS応用", "url": "https://arxiv.org/abs/2604.07928"},
+    {"name": "PlayCanvas SplatTransform 2.0", "type": "ツール", "first_posted": "2026-05-11", "field": "GS処理ツール・CLIライブラリ", "url": "https://digitalproduction.com/2026/05/11/playcanvas-updates-splattransform-to-2-0/"},
+    {"name": "Niantic SPZ V4.0", "type": "ツール", "first_posted": "2026-05-11", "field": "GS圧縮フォーマット", "url": "https://radiancefields.com/niantic-spatial-releases-spz-v4.0"},
+    {"name": "KIRI Engine 3DGS Blender addon v4.1", "type": "ツール", "first_posted": "2026-05-11", "field": "Blenderプラグイン・GS編集", "url": "https://radiancefields.com/kiri-engine-releases-v4-1-of-free-3dgs-blender-plugin"},
+    {"name": "Splatrograph API", "type": "ツール", "first_posted": "2026-05-11", "field": "GS APIサービス・クラウド処理", "url": "https://radiancefields.com/splatrograph-api-for-gaussian-splatting"},
+    {"name": "NVIDIA 3DGRUT + USDZ / Isaac Sim 5.0 beta", "type": "ニュース", "first_posted": "2026-05-11", "field": "ロボット開発・シミュレーション", "url": "https://radiancefields.com/nvidia-adds-usdz-support-to-3dgrut-and-beta-for-omniverse-and-isaac-sim"},
+    {"name": "NEC インフラ向けGS技術（日本初）", "type": "ニュース", "first_posted": "2026-05-11", "field": "インフラ管理・デジタルツイン・日本", "url": "https://jp.ibtimes.com/nec-develops-ai-technology-lighter-3d-infrastructure-models-100858"},
+    {"name": "3D Printing × Gaussian Splatting (DreamPrinting)", "type": "ニュース", "first_posted": "2026-05-11", "field": "製造・デジタルファブリケーション", "url": "https://radiancefields.com/3d-printing-gaussian-splatting"},
+    {"name": "SplatStream Vulkan GSレンダラー", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "GSレンダリング・オープンソース", "url": "https://radiancefields.com/splatstream-pushes-vulkan-based-gaussian-splatting-beyond-vkgs"},
+    {"name": "Snap & Grab ゲームGS採用", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "ゲーム開発・商業活用", "url": "https://www.ingamenews.com/2026/05/gaussian-splatting-in-snap-grab-2026.html"},
+    {"name": "PC Gamer Gaussian Splatting特集", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "メディア普及・コミュニティ拡大", "url": "https://www.pcgamer.com/hardware/gaussian-splatting-is-my-new-favourite-thing-so-i-hassled-an-ex-epic-artist-to-tell-me-everything-he-knows-about-the-low-cost-photo-real-rendering-technique/"}
   ]
 }
