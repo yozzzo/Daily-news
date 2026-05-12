@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "lonvo-z (lonvoguran ziclumeran)",
+      "company": "Intellia Therapeutics",
+      "first_posted": "2026-05-12",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Subsense ナノ粒子BCI",
+      "company": "Subsense, Inc.",
+      "first_posted": "2026-05-12",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "MIT サテライト肝臓",
+      "company": "MIT (Sangeeta Bhatia研究室)",
+      "first_posted": "2026-05-12",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Colossal ダイアウルフ復活（繁殖年齢到達）",
+      "company": "Colossal Biosciences",
+      "first_posted": "2026-05-12",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Firestorm Labs xCell / Tempest",
+      "company": "Firestorm Labs",
+      "first_posted": "2026-05-12",
+      "field": "ドローン"
+    },
+    {
+      "name": "Vivtex GI-ORIS",
+      "company": "Vivtex Corporation / Novo Nordisk",
+      "first_posted": "2026-05-12",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "量子×富岳タンパク質シミュレーション",
+      "company": "Cleveland Clinic / RIKEN / IBM",
+      "first_posted": "2026-05-12",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Genyro Sidewinder",
+      "company": "Genyro (Caltechスピンオフ)",
+      "first_posted": "2026-05-12",
+      "field": "合成生物学"
+    },
+    {
+      "name": "OTTAVA 手術ロボット",
+      "company": "Johnson & Johnson",
+      "first_posted": "2026-05-12",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "SetPoint Medical MS治療（迷走神経刺激）",
+      "company": "SetPoint Medical",
+      "first_posted": "2026-05-12",
+      "field": "脳波/BCI"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-12"
 }
