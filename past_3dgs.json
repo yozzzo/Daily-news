@@ -301,6 +301,17 @@
     {"name": "3D Printing × Gaussian Splatting (DreamPrinting)", "type": "ニュース", "first_posted": "2026-05-11", "field": "製造・デジタルファブリケーション", "url": "https://radiancefields.com/3d-printing-gaussian-splatting"},
     {"name": "SplatStream Vulkan GSレンダラー", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "GSレンダリング・オープンソース", "url": "https://radiancefields.com/splatstream-pushes-vulkan-based-gaussian-splatting-beyond-vkgs"},
     {"name": "Snap & Grab ゲームGS採用", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "ゲーム開発・商業活用", "url": "https://www.ingamenews.com/2026/05/gaussian-splatting-in-snap-grab-2026.html"},
-    {"name": "PC Gamer Gaussian Splatting特集", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "メディア普及・コミュニティ拡大", "url": "https://www.pcgamer.com/hardware/gaussian-splatting-is-my-new-favourite-thing-so-i-hassled-an-ex-epic-artist-to-tell-me-everything-he-knows-about-the-low-cost-photo-real-rendering-technique/"}
+    {"name": "PC Gamer Gaussian Splatting特集", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "メディア普及・コミュニティ拡大", "url": "https://www.pcgamer.com/hardware/gaussian-splatting-is-my-new-favourite-thing-so-i-hassled-an-ex-epic-artist-to-tell-me-everything-he-knows-about-the-low-cost-photo-real-rendering-technique/"},
+    {"name": "MAGS-SLAM", "type": "論文", "first_posted": "2026-05-12", "field": "SLAM・マルチエージェント", "url": "https://arxiv.org/abs/2605.10760"},
+    {"name": "AdpSplit", "type": "論文", "first_posted": "2026-05-12", "field": "3DGS高速化・適応分割", "url": "https://arxiv.org/abs/2605.06876"},
+    {"name": "Flow4DGS-SLAM", "type": "論文", "first_posted": "2026-05-12", "field": "4DGS・動的SLAM", "url": "https://arxiv.org/abs/2604.22339"},
+    {"name": "Sony XYN Spatial Capture Solution", "type": "ニュース", "first_posted": "2026-05-12", "field": "バーチャルプロダクション・GS商品化", "url": "https://radiancefields.com/sony-xyn-launches-spatial-capture-solution-with-gaussian-splatting"},
+    {"name": "World Labs Spark 2.0", "type": "ツール", "first_posted": "2026-05-12", "field": "WebストリーミングGS・THREE.js", "url": "https://www.worldlabs.ai/blog/spark-2.0"},
+    {"name": "Framestore Superman 4DGS商業映画初採用", "type": "ニュース", "first_posted": "2026-05-12", "field": "映画VFX・4DGS", "url": "https://beforesandafters.com/2026/02/13/framestore-showcases-the-4d-gaussian-splatting-used-for-superman/"},
+    {"name": "Wicked Engine ネイティブGS対応", "type": "ニュース", "first_posted": "2026-05-12", "field": "OSSゲームエンジン・GS", "url": "https://radiancefields.com/wicked-engine-adds-native-gaussian-splat-rendering"},
+    {"name": "Atlux lambda 2.1 Live", "type": "ツール", "first_posted": "2026-05-12", "field": "UE5・GSパイプライン", "url": "https://www.cgchannel.com/2026/03/unreal-engine-visualization-plugin-atlux-%CE%BB-2-adds-atlux-%CE%BB-live/"},
+    {"name": "SuperSplat PWA対応アップデート", "type": "ツール", "first_posted": "2026-05-12", "field": "GSエディタ・PWA", "url": "https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/"},
+    {"name": "ブラウザGS-FPSゲームデモ (Yakov/PlayCanvas)", "type": "コミュニティ", "first_posted": "2026-05-12", "field": "ゲーム開発・コミュニティ", "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/"},
+    {"name": "The New Yorker GS journalism", "type": "コミュニティ", "first_posted": "2026-05-12", "field": "ジャーナリズム・GS活用", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"}
   ]
 }
