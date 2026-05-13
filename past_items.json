@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "deepseek-v4-pro-release-2026-04-24",
+      "title": "DeepSeek V4 Pro リリース — GPT-5.5レベルの性能を1/10のコストで（1.6兆パラメーター・1Mコンテキスト・OSS）",
+      "company": "DeepSeek（中国）",
+      "date": "2026-04-24",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "openai-gpt55-spud-release-2026-04-23",
+      "title": "OpenAI「GPT-5.5（Spud）」リリース — 自律エージェント特化の次世代フロンティアモデル、Terminal-Bench 2.0で82.7%",
+      "company": "OpenAI（米国）",
+      "date": "2026-04-23",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "google-android-show-gemini-intelligence-googlebook-2026-05-12",
+      "title": "Google「Gemini Intelligence」発表 — AndroidがOSから「知能システム」へ進化、Googlebook（Gemini搭載ノートPC）も今秋発売",
+      "company": "Google（米国）",
+      "date": "2026-05-12",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "anthropic-claude-opus47-release-2026-04-16",
+      "title": "Anthropic「Claude Opus 4.7」リリース — 高解像度ビジョン（2576px）・1Mコンテキスト・SWE-Bench最高スコア更新",
+      "company": "Anthropic（米国）",
+      "date": "2026-04-16",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "github-copilot-usage-based-billing-june-2026",
+      "title": "GitHub Copilot、6月1日からトークン課金制に移行 — Copilot Chat・CLI・エージェントが従量課金へ、Opus多重化係数27倍",
+      "company": "GitHub / Microsoft（米国）",
+      "date": "2026-04-27",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "google-io-2026-gemini4-preview-may19",
+      "title": "Google I/O 2026（5月19日）— Gemini 4発表が確実視・ARC-AGI2で84.6%達成・2Mトークンコンテキスト",
+      "company": "Google DeepMind（米国）",
+      "date": "2026-05-11",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "genesis-ai-gene265-full-stack-robotics-2026-05-06",
+      "title": "Genesis AI「GENE-26.5」発表 — 人間レベルの手指操作（卵割り・ピアノ演奏等）を実現するロボット脳、$105Mシード調達",
+      "company": "Genesis AI（米国）",
+      "date": "2026-05-06",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "xai-grok43-computer-use-tts-stt-apis-2026-05-07",
+      "title": "xAI「Grok 4.3 Computer Use」— GrokがPC制御エージェントに進化、TTS/STT APIも同時リリース",
+      "company": "xAI（米国）",
+      "date": "2026-05-07",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "openai-gpt55-instant-free-default-2026-05-05",
+      "title": "OpenAI「GPT-5.5 Instant」— 全無料ユーザーのデフォルトモデルに昇格、幻覚52.5%削減・返答30%簡潔化",
+      "company": "OpenAI（米国）",
+      "date": "2026-05-05",
+      "delivered": "2026-05-13"
+    },
+    {
+      "id": "google-ai-zero-day-weaponization-detected-2026-05-12",
+      "title": "Google、AIを使ったゼロデイ悪用攻撃を初検出・遮断 — 犯罪者によるAI活用サイバー攻撃の自動化が現実に",
+      "company": "Google Threat Intelligence Group（米国）",
+      "date": "2026-05-12",
+      "delivered": "2026-05-13"
     }
   ]
 }
