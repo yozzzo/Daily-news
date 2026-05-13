@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Robeauté 脳内自走マイクロロボット",
+      "company": "Robeauté",
+      "first_posted": "2026-05-13",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Ec19（19アミノ酸AI設計大腸菌）",
+      "company": "Columbia大学 / MIT / Harvard",
+      "first_posted": "2026-05-13",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Symani REMIND（アルツハイマー病ロボット微小手術）",
+      "company": "MMI (Medical Microinstruments)",
+      "first_posted": "2026-05-13",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "C2S-Scale 27B（遺伝子発現LLM）",
+      "company": "Google DeepMind / Yale大学",
+      "first_posted": "2026-05-13",
+      "field": "生物×IT"
+    },
+    {
+      "name": "ProtAIDe-Dx（6認知症鑑別AI血液検査）",
+      "company": "Lund大学",
+      "first_posted": "2026-05-13",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Fermeate 光遺伝学発酵プラットフォーム",
+      "company": "Fermeate",
+      "first_posted": "2026-05-13",
+      "field": "合成生物学"
+    },
+    {
+      "name": "BrainWhisperer（脳→テキスト変換AI）",
+      "company": "Tether Evo",
+      "first_posted": "2026-05-13",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "HTX Drone Box System（全島ドローン防衛網）",
+      "company": "HTX (Home Team Science and Technology Agency)",
+      "first_posted": "2026-05-13",
+      "field": "ドローン"
+    },
+    {
+      "name": "全金属生分解性マイクロロボット",
+      "company": "Johns Hopkins大学",
+      "first_posted": "2026-05-13",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "NemoCare Raksha（新生児モニタリング靴下）",
+      "company": "NemoCare Wellness",
+      "first_posted": "2026-05-13",
+      "field": "技術×バイオ"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-13"
 }
