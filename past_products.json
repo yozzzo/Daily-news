@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Science Corporation バイオハイブリッドBCIセンサー",
+      "company": "Science Corporation",
+      "first_posted": "2026-05-14",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Lonvo-z (in vivo CRISPR遺伝子編集治療薬)",
+      "company": "Intellia Therapeutics",
+      "first_posted": "2026-05-14",
+      "field": "技術×バイオ / 合成生物学"
+    },
+    {
+      "name": "NTU サイボーグ昆虫自動組立ファクトリーライン",
+      "company": "南洋理工大学 (NTU Singapore)",
+      "first_posted": "2026-05-14",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Ginkgo Bioworks × OpenAI GPT-5 自律型クラウドラボ",
+      "company": "Ginkgo Bioworks / OpenAI",
+      "first_posted": "2026-05-14",
+      "field": "合成生物学"
+    },
+    {
+      "name": "JHU 生分解性全金属マイクロロボット",
+      "company": "Johns Hopkins University",
+      "first_posted": "2026-05-14",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "STX-1150 ELXR エピジェネティック・サイレンシング療法",
+      "company": "Scribe Therapeutics",
+      "first_posted": "2026-05-14",
+      "field": "生物×IT"
+    },
+    {
+      "name": "IREM-W2MS3 自己再生型マルチモーダル汗センサー",
+      "company": "UC Irvine",
+      "first_posted": "2026-05-14",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Wisk Aero Generation 6 自律型eVTOL",
+      "company": "Wisk Aero (Boeing)",
+      "first_posted": "2026-05-14",
+      "field": "ドローン"
+    },
+    {
+      "name": "Synplogen × imec 半導体チップ上DNA合成技術",
+      "company": "Synplogen / imec",
+      "first_posted": "2026-05-14",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Neurosoft SOFT TINNIT 耳鳴り治療用BCIインプラント",
+      "company": "Neurosoft Bioelectronics",
+      "first_posted": "2026-05-14",
+      "field": "脳波/BCI"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-14"
 }
