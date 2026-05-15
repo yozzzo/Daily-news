@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Maholo LabDroid 完全無人医薬研究ラボ",
+      "company": "東京科学大学 × 安川電機 × AIST",
+      "first_posted": "2026-05-15",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Firestorm Labs xCell（3Dプリントドローン工場）",
+      "company": "Firestorm Labs",
+      "first_posted": "2026-05-15",
+      "field": "ドローン"
+    },
+    {
+      "name": "FLOATES 浮遊ワイヤDBS",
+      "company": "Carnegie Mellon University",
+      "first_posted": "2026-05-15",
+      "field": "技術×バイオ / 脳波・BCI"
+    },
+    {
+      "name": "全金属性生分解マイクロロボット",
+      "company": "Johns Hopkins University",
+      "first_posted": "2026-05-15",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Latent-Y（自律的抗体デザインAIエージェント）",
+      "company": "Latent Labs",
+      "first_posted": "2026-05-15",
+      "field": "生物×IT"
+    },
+    {
+      "name": "DynoCapsids（Dyno-yp2 / Dyno-bn8）",
+      "company": "Dyno Therapeutics",
+      "first_posted": "2026-05-15",
+      "field": "合成生物学"
+    },
+    {
+      "name": "DARPA XRQ-73 ハイブリッド電動ステルスドローン",
+      "company": "Northrop Grumman / DARPA",
+      "first_posted": "2026-05-15",
+      "field": "ドローン"
+    },
+    {
+      "name": "VentriGel Next-Gen（静脈注射型バイオマテリアル）",
+      "company": "UC San Diego",
+      "first_posted": "2026-05-15",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "ETX101（ドラベ症候群遺伝子療法）",
+      "company": "Encoded Therapeutics",
+      "first_posted": "2026-05-15",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Wraith Shield（AIカウンタードローン戦術無線）",
+      "company": "L3Harris Technologies",
+      "first_posted": "2026-05-15",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-15"
 }
