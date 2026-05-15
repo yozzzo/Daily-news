@@ -302,6 +302,8 @@
     {"name": "SplatStream Vulkan GSレンダラー", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "GSレンダリング・オープンソース", "url": "https://radiancefields.com/splatstream-pushes-vulkan-based-gaussian-splatting-beyond-vkgs"},
     {"name": "Snap & Grab ゲームGS採用", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "ゲーム開発・商業活用", "url": "https://www.ingamenews.com/2026/05/gaussian-splatting-in-snap-grab-2026.html"},
     {"name": "PC Gamer Gaussian Splatting特集", "type": "コミュニティ", "first_posted": "2026-05-11", "field": "メディア普及・コミュニティ拡大", "url": "https://www.pcgamer.com/hardware/gaussian-splatting-is-my-new-favourite-thing-so-i-hassled-an-ex-epic-artist-to-tell-me-everything-he-knows-about-the-low-cost-photo-real-rendering-technique/"},
+    {"name": "SuperSplat Studio 2.0", "type": "コミュニティ", "first_posted": "2026-05-13", "field": "ブラウザ型GS制作ツール・WebXR", "url": "https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/"},
+    {"name": "OpenSplat on Mac (MPS GPU加速)", "type": "コミュニティ", "first_posted": "2026-05-13", "field": "Mac対応・オープンソースGS学習", "url": "https://radiancefields.com/opensplat-3dgs-now-on-mac"},
     {"name": "AdpSplit", "type": "論文", "first_posted": "2026-05-13", "field": "3DGS高速化・適応分割", "url": "https://arxiv.org/abs/2605.06876"},
     {"name": "Relightable GS for Virtual Production", "type": "論文", "first_posted": "2026-05-13", "field": "バーチャルプロダクション・再照明", "url": "https://arxiv.org/abs/2605.09024"},
     {"name": "TIGAS (Thin-Client Interactive GS Streaming)", "type": "論文", "first_posted": "2026-05-13", "field": "シンクライアント・HTTP/3ストリーミング", "url": "https://arxiv.org/abs/2605.08699"},
@@ -311,7 +313,18 @@
     {"name": "SimActive Correlator3D Version 11", "type": "ニュース", "first_posted": "2026-05-13", "field": "測量・フォトグラメトリー・GS統合", "url": "https://dronelife.com/2026/05/12/gaussian-splatting-photogrammetry-simactive-correlator3d/"},
     {"name": "BlendSplat", "type": "コミュニティ", "first_posted": "2026-05-13", "field": "Blenderネイティブ・Geometry Nodes", "url": "https://radiancefields.com/blendsplat-gaussian-splatting-in-blender-natively"},
     {"name": "GaussianSplats3D 2DGS対応 (Three.js)", "type": "コミュニティ", "first_posted": "2026-05-13", "field": "WebブラウザGS・2DGS対応", "url": "https://github.com/mkkellogg/GaussianSplats3D"},
-    {"name": "SuperSplat Studio 2.0", "type": "コミュニティ", "first_posted": "2026-05-13", "field": "ブラウザ型GS制作ツール・WebXR", "url": "https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/"},
-    {"name": "OpenSplat on Mac (MPS GPU加速)", "type": "コミュニティ", "first_posted": "2026-05-13", "field": "Mac対応・オープンソースGS学習", "url": "https://radiancefields.com/opensplat-3dgs-now-on-mac"}
+    {"name": "MAGS-SLAM", "type": "論文", "first_posted": "2026-05-15", "field": "SLAM・マルチエージェント・ロボット", "url": "https://arxiv.org/abs/2605.10760"},
+    {"name": "AnySplat", "type": "論文", "first_posted": "2026-05-15", "field": "フィードフォワード3DGS・ポーズフリー", "url": "https://arxiv.org/abs/2505.23716"},
+    {"name": "PanoPlane", "type": "論文", "first_posted": "2026-05-15", "field": "スパースビュー・パノラマ補完・室内3DGS", "url": "https://arxiv.org/abs/2605.14135"},
+    {"name": "SparseOIT", "type": "論文", "first_posted": "2026-05-15", "field": "透明・半透明材質3DGS", "url": "https://arxiv.org/abs/2605.13855"},
+    {"name": "AV1 Motion Vectors for Enhanced GS", "type": "論文", "first_posted": "2026-05-15", "field": "高速化・SfM効率化", "url": "https://arxiv.org/abs/2605.14629"},
+    {"name": "Faster-GS (CVPR 2026) コード公開", "type": "論文", "first_posted": "2026-05-15", "field": "高速化・最適化・CVPR", "url": "https://arxiv.org/abs/2602.09999"},
+    {"name": "XFreq-GS", "type": "論文", "first_posted": "2026-05-15", "field": "電波場・通信応用・クロス周波数", "url": "https://arxiv.org/abs/2605.11432"},
+    {"name": "World Labs Spark 2.0 オープンソース", "type": "ニュース", "first_posted": "2026-05-15", "field": "WebGSストリーミング・オープンソース・MIT", "url": "https://www.worldlabs.ai/blog/spark-2.0"},
+    {"name": "Autodesk VRED 2027 × BSH Gaussian Splatting", "type": "ニュース", "first_posted": "2026-05-15", "field": "製造業・設計レビュー・Autodesk", "url": "https://blogs.autodesk.com/design-studio/2026/05/08/bsh-adopts-gaussian-splats-in-vred-2027-for-high-fidelity-visualization/"},
+    {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
+    {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
+    {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
   ]
 }
