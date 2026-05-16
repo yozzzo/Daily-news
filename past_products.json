@@ -1746,7 +1746,87 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "SetPoint System",
+      "company": "SetPoint Medical",
+      "country": "米国",
+      "first_posted": "2026-05-16",
+      "field": "技術×バイオ / バイオエレクトロニクス",
+      "summary": "世界初のFDA承認バイオエレクトロニクス医薬。迷走神経を電気刺激して免疫調整し関節リウマチを治療。"
+    },
+    {
+      "name": "Unitree GD01",
+      "company": "Unitree Robotics",
+      "country": "中国",
+      "first_posted": "2026-05-16",
+      "field": "ロボティクス×バイオ",
+      "summary": "世界初の量産型搭乗メカロボット。二足⇔四足変形可能。約9,700万円。"
+    },
+    {
+      "name": "Science Tokyo 完全無人ロボット実験室",
+      "company": "東京科学大学 / AIST / 安川電機",
+      "country": "日本",
+      "first_posted": "2026-05-16",
+      "field": "ロボティクス×バイオ",
+      "summary": "ヒューマノイドロボット10体が人間ゼロで1日1000実験を自律遂行する世界初の完全無人ラボ。"
+    },
+    {
+      "name": "Prolific Machines Photomolecular Platform",
+      "company": "Prolific Machines",
+      "country": "米国",
+      "first_posted": "2026-05-16",
+      "field": "合成生物学",
+      "summary": "光遺伝学で抗体生産21 g/Lの業界記録達成。従来の2倍以上の生産性。"
+    },
+    {
+      "name": "DARPA Autonomous Constellation",
+      "company": "DARPA",
+      "country": "米国",
+      "first_posted": "2026-05-16",
+      "field": "ドローン",
+      "summary": "コンテナ型500機ドローンスウォーム自律展開システム。GPS否認環境対応。"
+    },
+    {
+      "name": "Bioptimus M-Optimus & STELA",
+      "company": "Bioptimus / 10x Genomics / Broad Clinical Labs",
+      "country": "フランス",
+      "first_posted": "2026-05-16",
+      "field": "生物×IT",
+      "summary": "初のマルチモーダル生物学基盤モデル。10万検体の空間生物学アトラス構築。"
+    },
+    {
+      "name": "eGenesis 遺伝子編集ブタ腎臓移植",
+      "company": "eGenesis",
+      "country": "米国",
+      "first_posted": "2026-05-16",
+      "field": "合成生物学 / 異種移植",
+      "summary": "CRISPR編集ブタ腎臓が人体で数ヶ月間機能。FDA臨床試験拡大承認。"
+    },
+    {
+      "name": "Synplogen DNAマイクロチップ合成プラットフォーム",
+      "company": "株式会社シンプロジェン",
+      "country": "日本",
+      "first_posted": "2026-05-16",
+      "field": "合成生物学 / DNA合成",
+      "summary": "OGAB技術のマイクロチップ化で創薬時間短縮。Merck・富士フイルム・imecと提携。"
+    },
+    {
+      "name": "Wyss Institute 骨髄オルガンチップ × Artemis II",
+      "company": "Wyss Institute (Harvard) / NASA",
+      "country": "米国",
+      "first_posted": "2026-05-16",
+      "field": "技術×バイオ / 宇宙医学",
+      "summary": "宇宙飛行士細胞由来の骨髄オルガンチップがArtemis IIで宇宙環境影響を実測。"
+    },
+    {
+      "name": "Sheshnaag 150 スウォームドローン",
+      "company": "インド防衛産業",
+      "country": "インド",
+      "first_posted": "2026-05-16",
+      "field": "ドローン",
+      "summary": "射程1,000kmの深攻撃用スウォームドローン。World Defense Show 2026で公開。"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-16"
 }
