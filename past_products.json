@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Science Corp バイオハイブリッド脳センサー",
+      "company": "Science Corporation",
+      "first_posted": "2026-05-17",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Penn/UMich 世界最小自律型マイクロロボット",
+      "company": "University of Pennsylvania / University of Michigan",
+      "first_posted": "2026-05-17",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Stylus Medicine in vivo遺伝子治療プラットフォーム",
+      "company": "Stylus Medicine",
+      "first_posted": "2026-05-17",
+      "field": "合成生物学"
+    },
+    {
+      "name": "JISDA 白羽（Shiraha）木製ドローン",
+      "company": "JISDA Corporation",
+      "first_posted": "2026-05-17",
+      "field": "ドローン"
+    },
+    {
+      "name": "LiquidTME 腫瘍微小環境リキッドバイオプシー",
+      "company": "LiquidCell Dx / Mayo Clinic / Stanford",
+      "first_posted": "2026-05-17",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Ultimion フォトンカウンティングCT",
+      "company": "キヤノンメディカルシステムズ",
+      "first_posted": "2026-05-17",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Symani REMIND アルツハイマー向けロボ微細外科",
+      "company": "MMI (Medical Microinstruments)",
+      "first_posted": "2026-05-17",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "プリンテッド人工ニューロン",
+      "company": "Northwestern University",
+      "first_posted": "2026-05-17",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "DARPA XRQ-73 SHEPARD",
+      "company": "DARPA / Northrop Grumman",
+      "first_posted": "2026-05-17",
+      "field": "ドローン"
+    },
+    {
+      "name": "注射型ECMナノ粒子バイオマテリアル",
+      "company": "Ventrix Bio / UC San Diego",
+      "first_posted": "2026-05-17",
+      "field": "技術×バイオ"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-17"
 }
