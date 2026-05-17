@@ -325,6 +325,21 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "AmbiSuR（光学的あいまいさ解消サーフェス再構成）", "type": "論文", "first_posted": "2026-05-17", "field": "サーフェス再構成・幾何", "url": "https://arxiv.org/abs/2605.12494"},
+    {"name": "PG-3DGS（物理ガイド3DGS生成）", "type": "論文", "first_posted": "2026-05-17", "field": "物理シミュレーション×3DGS生成", "url": "https://arxiv.org/html/2605.11266v1"},
+    {"name": "FieryGS（物理統合炎合成 ICLR 2026）", "type": "論文", "first_posted": "2026-05-17", "field": "物理統合・炎合成", "url": "https://pku-vcl-geometry.github.io/FieryGS/"},
+    {"name": "PhysHead（シミュレーション対応Gaussianヘッドアバター CVPR 2026）", "type": "論文", "first_posted": "2026-05-17", "field": "アバター・物理シミュレーション", "url": "https://arxiv.org/abs/2604.06467"},
+    {"name": "AnchorSplat（3D幾何事前情報フィードフォワード CVPR 2026）", "type": "論文", "first_posted": "2026-05-17", "field": "フィードフォワード3DGS・幾何整合", "url": "https://arxiv.org/abs/2604.07053"},
+    {"name": "In Depth We Trust（信頼性高い単眼深度監督 CVPR 2026）", "type": "論文", "first_posted": "2026-05-17", "field": "深度監督・品質向上", "url": "https://arxiv.org/abs/2604.05715"},
+    {"name": "Geo Week 2026 GS 2大セッション", "type": "ニュース", "first_posted": "2026-05-17", "field": "AEC・GIS・カンファレンス", "url": "https://radiancefields.com/gaussian-splatting-at-geo-week-2026"},
+    {"name": "Esri Site Scan Q2 2026 クラウドGS生成・1万枚対応", "type": "ニュース", "first_posted": "2026-05-17", "field": "測量・GIS・クラウド", "url": "https://community.esri.com/t5/site-scan-blog/site-scan-q2-2026-faster-reality-mapping-at-scale/ba-p/1691379"},
+    {"name": "Esri ArcGIS Reality May 2026 GS品質改善", "type": "ニュース", "first_posted": "2026-05-17", "field": "測量・GIS", "url": "https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/generate-gaussian-splats-using-arcgis-reality-mapping.htm"},
+    {"name": "Plattipus houdini-gsplat（Houdini 21 USD GS オープンソースプラグイン）", "type": "ニュース", "first_posted": "2026-05-17", "field": "VFXツール・USD統合", "url": "https://forum.aousd.org/t/gaussian-splat-rendering-for-houdini-solaris-built-on-usd-v26-03/2921"},
+    {"name": "Veesus × SolidWorks GS可視化統合", "type": "ニュース", "first_posted": "2026-05-17", "field": "CAD・製造業・GS統合", "url": "https://www.veesus.com/point-cloud-plugins/"},
+    {"name": "glTF KHR_gaussian_splatting Q2 2026 正式承認目前", "type": "ニュース", "first_posted": "2026-05-17", "field": "標準化・正式承認", "url": "https://www.khronos.org/news/press/gltf-gaussian-splatting-press-release"},
+    {"name": "SuperSplat 2.5（色調整ツール + MITライセンスビューア）", "type": "ツール", "first_posted": "2026-05-17", "field": "ブラウザGS編集ツール・オープンソース", "url": "https://radiancefields.com/supersplat-2-5-released"},
+    {"name": "Gaussian Splatting Morphing Tool（Felix Hirt）", "type": "ツール", "first_posted": "2026-05-17", "field": "GS間モーフィング・インタラクティブ可視化", "url": "https://radiancefields.com/gaussian-splatting-morphing-tool-to-blend-between-3dgs-captures"},
+    {"name": "3DVista 2026.0 Total VR Mode（GS完全VR対応）", "type": "ツール", "first_posted": "2026-05-17", "field": "バーチャルツアー・VR・GS統合", "url": "https://www.3dvista.com/en/blog/update-2026-0-total-vr-mode/"}
   ]
 }
