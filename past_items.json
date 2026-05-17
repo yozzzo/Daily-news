@@ -776,80 +776,70 @@
       "date": "2026-04-03",
       "title": "Anthropic、バイオテックAIスタートアップCoefficient Bioを4億ドルで買収",
       "company": "Anthropic",
-      "country": "米国",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
+      "country": "米国"
     },
     {
       "id": "anthropic-openclaw-subscription-ban-2026-04-04",
       "date": "2026-04-04",
       "title": "AnthropicがClaude Pro/MaxサブスクからOpenClaw等サードパーティツールを締め出し",
       "company": "Anthropic",
-      "country": "米国",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
+      "country": "米国"
     },
     {
       "id": "anthropic-claude-functional-emotions-171-vectors-2026-04-02",
       "date": "2026-04-02",
       "title": "Anthropic、Claude Sonnet 4.5に機能的感情171種類を発見——絶望ベクトルが逸脱行動を引き起こす",
       "company": "Anthropic",
-      "country": "米国",
-      "url": "https://transformer-circuits.pub/2026/emotions/index.html"
+      "country": "米国"
     },
     {
       "id": "openai-codex-payg-chatgpt-business-price-cut-2026-04-02",
       "date": "2026-04-02",
       "title": "OpenAI、Codexを従量課金制に移行——ChatGPT Businessも月額$20に値下げ",
       "company": "OpenAI",
-      "country": "米国",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/"
+      "country": "米国"
     },
     {
       "id": "microsoft-copilot-entertainment-only-tos-2026-04-02",
       "date": "2026-04-02",
       "title": "Microsoft Copilot利用規約に「エンターテイメント目的のみ」と明記——業務利用は自己責任",
       "company": "Microsoft",
-      "country": "米国",
-      "url": "https://www.theregister.com/2026/04/02/copilot_terms_of_service/"
+      "country": "米国"
     },
     {
       "id": "musk-spacex-ipo-grok-subscription-mandate-2026-04-03",
       "date": "2026-04-03",
       "title": "Elon Musk、SpaceX IPO参加の銀行・法律事務所にGrokサブスクリプション購入を義務付け",
       "company": "xAI / SpaceX",
-      "country": "米国",
-      "url": "https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/"
+      "country": "米国"
     },
     {
       "id": "meta-mercor-data-breach-litellm-supply-chain-2026-04-03",
       "date": "2026-04-03",
       "title": "MetaがMercorのデータ侵害でAI業界機密が流出——LiteLLMサプライチェーン攻撃",
       "company": "Meta / Mercor",
-      "country": "米国",
-      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+      "country": "米国"
     },
     {
       "id": "google-anthropic-texas-datacenter-5b-500mw-2026-04-01",
       "date": "2026-04-01",
       "title": "Google、AnthropicのテキサスAIデータセンターに50億ドルを融資——500MW稼働・最終7.7GWへ",
       "company": "Google / Anthropic",
-      "country": "米国",
-      "url": "https://www.msn.com/en-us/money/other/google-plans-to-back-5b-data-center-for-anthropic-report/ar-AA1ZBXip"
+      "country": "米国"
     },
     {
       "id": "nexthop-ai-500m-series-b-4-2b-valuation-2026-03-28",
       "date": "2026-03-28",
       "title": "Nexthop AI、シリーズBで5億ドル調達——評価額42億ドルでAIデータセンターネットワーキングを革新",
       "company": "Nexthop AI",
-      "country": "米国",
-      "url": "https://inforcapital.com/news/nexthop-ai-raises-500m-series-b-at-42b-valuation-for-ai-data-center-networking/"
+      "country": "米国"
     },
     {
       "id": "meta-superintelligence-labs-hardware-team-rui-xu-2026-04-04",
       "date": "2026-04-04",
       "title": "Meta Superintelligence Labs、AIハードウェアチームを新設——AI搭載デバイス開発へ",
       "company": "Meta",
-      "country": "米国",
-      "url": "https://winbuzzer.com/2026/04/04/meta-superintelligence-labs-builds-hardware-team-ai-push-xcxwbn/"
+      "country": "米国"
     },
     {
       "id": "openai-gpt-image-2-leaked-lmarena-2026-04-04",
@@ -999,156 +989,6 @@
       "delivered": "2026-04-07"
     },
     {
-      "id": "deepseek-v4-huawei-ascend-release-2026-04-07",
-      "title": "DeepSeek V4、Huawei Ascend 950PRチップで近日リリース — 中国AI自給自足の転換点",
-      "company": "DeepSeek / Huawei",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "meta-avocado-mango-open-source-plan-2026-04-07",
-      "title": "Meta、次世代AIモデル「Avocado」「Mango」のオープンソース化計画 — Llama 4不振後の戦略転換",
-      "company": "Meta",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "agibot-10000-humanoids-90days-2026-04-01",
-      "title": "AgiBot（智元ロボット）、90日間で5,000台出荷・累計10,000台達成 — ヒューマノイド量産時代の到来",
-      "company": "AgiBot",
-      "date": "2026-04-01",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "eclipse-13b-physical-ai-fund-2026-04-07",
-      "title": "Eclipse VC、フィジカルAIスタートアップ向け13億ドルファンド設立 — ロボティクス投資の加速",
-      "company": "Eclipse VC",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "generalist-ai-gen1-99pct-robotics-2026-04-02",
-      "title": "Generalist AI「GEN-1」汎用ロボットモデルが99%成功率達成 — 汎用ロボットAIの実用化",
-      "company": "Generalist AI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "us-china-humanoid-robot-ban-bill-2026-04-07",
-      "title": "米国、中国製ヒューマノイドロボット連邦調達禁止法案 — AI地政学の新局面",
-      "company": "米国議会",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "xai-grok-420-palantir-aip-2026-04-07",
-      "title": "xAI「Grok 4.20」がPalantir AIPで正式利用可能に — エンタープライズAI統合の加速",
-      "company": "xAI",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "mistral-small-4-multimodal-apache2-2026-03-16",
-      "title": "Mistral Small 4 — 119B MoE・マルチモーダル・Apache 2.0 — オープンソースAIの新基準",
-      "company": "Mistral AI",
-      "date": "2026-03-16",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "openai-ipo-cfo-concerns-altman-2026-04-07",
-      "title": "OpenAI CFO Sarah FriarがIPO計画に懸念表明 — AI業界最大企業の内部緊張",
-      "company": "OpenAI",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "meta-muse-spark-superintelligence-labs-2026-04-08",
-      "title": "Meta「Muse Spark」発表 — Meta Superintelligence Labs初の主要LLM",
-      "company": "Meta",
-      "date": "2026-04-08",
-      "category": "model_release",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/"
-    },
-    {
-      "id": "anthropic-30b-arr-claude-mythos-glasswing-2026-04-08",
-      "title": "Anthropic、年間収益ランレート$30B突破 — Claude Mythos PreviewがApple・Microsoft・Googleと協力してゼロデイ脆弱性を自律発見",
-      "company": "Anthropic",
-      "date": "2026-04-08",
-      "category": "business_milestone",
-      "url": "https://sherwood.news/tech/anthropics-revenue-run-rate-just-topped-usd30-billion-thats-ahead-of-openai/"
-    },
-    {
-      "id": "zai-glm-5-1-8hour-autonomous-coding-2026-04-08",
-      "title": "Z.ai「GLM-5.1」リリース — 8時間自律コーディング・SWE-Bench Pro世界3位",
-      "company": "Z.ai",
-      "date": "2026-04-08",
-      "category": "model_release",
-      "url": "https://z.ai/blog/glm-5.1"
-    },
-    {
-      "id": "openai-codex-3m-users-enterprise-ai-next-phase-2026-04-08",
-      "title": "OpenAI Codex、週間アクティブユーザー300万人突破 — エンタープライズAI次フェーズを宣言",
-      "company": "OpenAI",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://openai.com/index/next-phase-of-enterprise-ai/"
-    },
-    {
-      "id": "deepseek-fast-expert-mode-v4-preview-2026-04-08",
-      "title": "DeepSeek、「Fast Mode」「Expert Mode」を追加 — V4（1兆パラメータ）リリース直前の大型UI刷新",
-      "company": "DeepSeek",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release"
-    },
-    {
-      "id": "nvidia-rubin-r100-mass-production-2026-04-08",
-      "title": "NVIDIA「Rubin R100」、予定前倒しで量産開始 — Vera Rubinプラットフォームが本格稼働",
-      "company": "NVIDIA",
-      "date": "2026-04-08",
-      "category": "hardware",
-      "url": "https://www.financialcontent.com/article/marketminute-2026-4-8-nvidia-accelerates-the-future-rubin-r100-enters-mass-production-ahead-of-schedule"
-    },
-    {
-      "id": "x-grok-auto-translation-photo-editing-global-2026-04-08",
-      "title": "X（Twitter）、Grok搭載の自動翻訳・AI写真編集をグローバル展開",
-      "company": "xAI / X",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/"
-    },
-    {
-      "id": "alibaba-group-tech-committee-ai-restructure-2026-04-08",
-      "title": "Alibaba、グループレベルのAI技術委員会を設立 — CEO Eddie Wu主導でAI組織を全社横断再編",
-      "company": "Alibaba",
-      "date": "2026-04-08",
-      "category": "business_strategy",
-      "url": "https://finance.biggo.com/news/zlahbZ0B-x-dxYpboRKy"
-    },
-    {
-      "id": "d-robotics-150m-series-b2-embodied-ai-2026-04-08",
-      "title": "D-Robotics（地平线机器人）、シリーズB2で$1.5億調達 — 累計$2.7億でEmbodied AIチップ開発加速",
-      "company": "D-Robotics",
-      "date": "2026-04-08",
-      "category": "funding",
-      "url": "https://autonews.gasgoo.com/articles/icv/d-robotics-secures-150-million-to-accelerate-embodied-ai-ecosystem-with-horizon-robotics-2041759438526922753"
-    },
-    {
-      "id": "github-copilot-eclipse-open-source-mit-2026-04-08",
-      "title": "GitHub Copilot for Eclipse、MITライセンスでオープンソース化",
-      "company": "GitHub / Microsoft",
-      "date": "2026-04-08",
-      "category": "open_source",
-      "url": "https://devblogs.microsoft.com/java/ghc-eclipse-is-going-open-source/"
-    },
-    {
-      "id": "anthropic-project-glasswing-claude-mythos-2026-04-09",
-      "title": "Anthropic「Project Glasswing」発表——Claude Mythosが数千のゼロデイ脆弱性を自律発見",
-      "company": "Anthropic",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
       "id": "openai-cyber-model-trusted-access-2026-04-09",
       "title": "OpenAIもサイバーセキュリティ特化モデルを限定公開へ——「Trusted Access for Cyber」プログラム",
       "company": "OpenAI",
@@ -1156,7 +996,7 @@
       "delivered": "2026-04-09"
     },
     {
-      "id": "meta-muse-spark-superintelligence-labs-2026-04-09",
+      "id": "meta-muse-spark-superintelligence-labs-2026-04-08",
       "title": "Meta「Muse Spark」発表——Superintelligence Labs初の成果、30億人規模に展開",
       "company": "Meta",
       "date": "2026-04-08",
@@ -1191,25 +1031,81 @@
       "delivered": "2026-04-09"
     },
     {
-      "id": "nebius-ai21-labs-acquisition-2026-04-09",
-      "title": "Nebius Group、イスラエルAIスタートアップAI21 Labsの買収交渉——評価額14億ドル規模",
-      "company": "Nebius Group / AI21 Labs",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "xai-grok-auto-translation-image-editing-2026-04-09",
-      "title": "X（旧Twitter）、Grok搭載の自動翻訳とAI画像編集ツールをグローバル展開",
-      "company": "xAI / X",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
       "id": "lg-exaone-45-multimodal-2026-04-09",
       "title": "LG、次世代マルチモーダルAI「EXAONE 4.5」発表——GPT-5 mini超えを主張",
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "openai-gpt-5-5-release-2026-04-23",
+      "title": "OpenAI「GPT-5.5」リリース — 14ベンチマークSOTA、エージェントコーディング・コンピュータ操作を大幅強化",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "google-io-2026-gemini-spark-android-xr-2026-05-19",
+      "title": "Google I/O 2026が5月19〜20日開幕——Gemini Spark・Googlebook・Android XRグラス発表予定",
+      "company": "Google DeepMind",
+      "date": "2026-05-17",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "google-anthropic-40b-investment-5gw-tpu-2026-04-24",
+      "title": "Google、Anthropicに最大400億ドル（約6兆円）投資 + 5GWのTPU計算資源も提供",
+      "company": "Google / Anthropic",
+      "date": "2026-04-24",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "anthropic-dreaming-agents-self-improvement-2026-05-06",
+      "title": "Anthropic、AIエージェントに「夢を見る」自己改善機能を追加——タスク完了率が最大6倍に",
+      "company": "Anthropic",
+      "date": "2026-05-06",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "anthropic-claude-opus-47-xhigh-2026-04-16",
+      "title": "Anthropic「Claude Opus 4.7」正式リリース——xhigh推論レベル追加・Opus 4.6比+14%",
+      "company": "Anthropic",
+      "date": "2026-04-16",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "mistral-medium-35-128b-swe-bench-77-2026-04-29",
+      "title": "Mistral「Medium 3.5 128B」オープンウェイト公開——SWE-Bench 77.6%・クラウド非同期コーディング対応",
+      "company": "Mistral AI",
+      "date": "2026-04-29",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "pwc-anthropic-30k-certified-claude-code-2026-05-15",
+      "title": "PwC、3万人をClaude Code認定——Anthropicと提携で36万人規模のAIファースト会計法人へ変革",
+      "company": "PwC / Anthropic",
+      "date": "2026-05-15",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "thinking-machines-lab-interaction-models-0-4s-2026-05-12",
+      "title": "元OpenAI CTO Mira Murati率いるThinking Machines、0.4秒応答の「インタラクションモデル」発表",
+      "company": "Thinking Machines Lab",
+      "date": "2026-05-12",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "deepseek-china-state-fund-50b-valuation-2026-05-16",
+      "title": "DeepSeek、中国国家AIファンドが最大40億ドル出資——評価額500億ドルでOpenAIに地政学的対抗",
+      "company": "DeepSeek",
+      "date": "2026-05-16",
+      "delivered": "2026-05-17"
+    },
+    {
+      "id": "openai-codex-mobile-ios-android-2026-05-14",
+      "title": "OpenAI Codex、iOS・Android対応——スマートフォンがデスクトップCodexの「リモコン」として利用可能",
+      "company": "OpenAI",
+      "date": "2026-05-14",
+      "delivered": "2026-05-17"
     }
   ]
 }
