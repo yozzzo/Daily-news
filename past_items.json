@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "openai-gpt-55-agentic-flagship-2026-04-23",
+      "title": "OpenAI GPT-5.5 リリース——エージェント・コーディング向け最強旗艦モデル、5月5日に全ユーザーへデフォルト展開",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "deepseek-v4-open-source-huawei-mit-2026-04-24",
+      "title": "DeepSeek V4 オープンソースリリース——1.6兆パラメータ・MITライセンス・$0.14/Mトークン・Huawei Ascend動作",
+      "company": "DeepSeek",
+      "date": "2026-04-24",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "google-anthropic-40b-investment-5gw-tpu-2026-04-24",
+      "title": "Google、Anthropicに最大400億ドル投資——評価額3500億ドル・5年間で5GWのTPU計算資源を提供",
+      "company": "Google / Anthropic",
+      "date": "2026-04-24",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "anthropic-claude-opus-47-release-2026-04-16",
+      "title": "Claude Opus 4.7 正式リリース——高難度コーディング強化・2576px高解像度ビジョン・同価格で大幅改善",
+      "company": "Anthropic",
+      "date": "2026-04-16",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "pentagon-ai-il6-il7-8companies-anthropic-excluded-2026-05-01",
+      "title": "米国防総省、AI8社と機密ネットワーク展開協定締結——NVIDIA・Microsoft・AWS・Google・OpenAI等、Anthropicは自律兵器禁止条項で除外",
+      "company": "NVIDIA / Microsoft / AWS / Google / OpenAI 他",
+      "date": "2026-05-01",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "cursor-composer-25-kimi-k25-79-8pct-swebench-2026-05-18",
+      "title": "Cursor Composer 2.5 リリース——SWE-Bench多言語79.8%・GPT-5.5並の性能を$0.50/M入力で実現",
+      "company": "Cursor / Anysphere",
+      "date": "2026-05-18",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "xai-grok-build-terminal-agent-2m-context-2026-05-14",
+      "title": "xAI Grok Build ローンチ——Claude Code対抗・16エージェント並列・2Mコンテキストのターミナル型コーディングエージェント",
+      "company": "xAI",
+      "date": "2026-05-14",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "openai-gpt55-cyber-trusted-access-2026-05-07",
+      "title": "OpenAI GPT-5.5-Cyber 限定公開——Trusted Access for Cyberプログラムで審査済みサイバーセキュリティチームへ展開",
+      "company": "OpenAI",
+      "date": "2026-05-07",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "nvidia-gr00t-n17-cosmos3-physical-ai-global-2026-05",
+      "title": "NVIDIA フィジカルAI グローバル展開——GR00T N1.7・Cosmos 3・Alpamayo 1.5が商用ライセンスで実ロボットへ本格投入",
+      "company": "NVIDIA",
+      "date": "2026-05-01",
+      "delivered": "2026-05-18"
+    },
+    {
+      "id": "google-io-2026-gemini-omni-android-xr-preview-2026-05-19",
+      "title": "Google I/O 2026（5月19〜20日）：Gemini Omni・Android XRグラス・Gemini Spark・Aluminium OSが発表予定",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-05-18"
     }
   ]
 }
