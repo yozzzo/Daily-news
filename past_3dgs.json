@@ -325,6 +325,16 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "PG-3DGS", "type": "論文", "first_posted": "2026-05-18", "field": "物理シミュレーション×3DGS", "url": "https://arxiv.org/abs/2605.11266"},
+    {"name": "AmbiSuR (Revisiting Photometric Ambiguity)", "type": "論文", "first_posted": "2026-05-18", "field": "表面再構成・光度曖昧性解決", "url": "https://arxiv.org/abs/2605.12494"},
+    {"name": "Hybrid 3D-4D Gaussian Splatting", "type": "論文", "first_posted": "2026-05-18", "field": "4DGS・静動ハイブリッド・ICLR 2026", "url": "https://arxiv.org/abs/2505.13215"},
+    {"name": "CLM-GS (CPU Offloading for 3DGS)", "type": "論文", "first_posted": "2026-05-18", "field": "大規模3DGS・CPU Offloading・ASPLOS 2026", "url": "https://arxiv.org/abs/2511.04951"},
+    {"name": "Gaussian Blending (AAAI 2026)", "type": "論文", "first_posted": "2026-05-18", "field": "レンダリング・アルファブレンディング再設計", "url": "https://github.com/1207koo/gaussian_blending"},
+    {"name": "Esri ArcGIS Reality May 2026 + Site Scan Q2 2026", "type": "ニュース", "first_posted": "2026-05-18", "field": "GIS・測量・ドローン・Esri", "url": "https://community.esri.com/t5/site-scan-blog/site-scan-q2-2026-faster-reality-mapping-at-scale/ba-p/1691379"},
+    {"name": "Plattipus houdini-gsplat", "type": "ツール", "first_posted": "2026-05-18", "field": "Houdini 21 Solaris・VFXパイプライン・MIT", "url": "https://github.com/plattipus/houdini-gsplat"},
+    {"name": "Veesus × SolidWorks GS統合", "type": "ニュース", "first_posted": "2026-05-18", "field": "CAD設計・製造業・SolidWorks", "url": "https://www.veesus.com/point-cloud-plugins/"},
+    {"name": "Gaussian Splat Morpher (feel3x)", "type": "コミュニティ", "first_posted": "2026-05-18", "field": "モーフィングツール・MIT License", "url": "https://github.com/feel3x/Gaussian_Splat_Morpher"},
+    {"name": "CVPR 2026直前コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-18", "field": "CVPR 2026・コード公開・論文まとめ", "url": "https://github.com/nyu-systems/CLM-GS"}
   ]
 }
