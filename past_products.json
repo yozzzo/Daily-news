@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Robeaute 脳内マイクロロボット",
+      "company": "Robeaute",
+      "first_posted": "2026-05-18",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "SetPoint System 迷走神経刺激デバイス",
+      "company": "SetPoint Medical",
+      "first_posted": "2026-05-18",
+      "field": "脳波/BCI・技術×バイオ"
+    },
+    {
+      "name": "合成バクテリオファージ工学システム",
+      "company": "New England Biolabs / Yale University",
+      "first_posted": "2026-05-18",
+      "field": "合成生物学"
+    },
+    {
+      "name": "生分解性全金属マイクロロボット",
+      "company": "Johns Hopkins University",
+      "first_posted": "2026-05-18",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "ReForm Pathway 人工代謝CO2変換",
+      "company": "Northwestern University / Stanford University",
+      "first_posted": "2026-05-18",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Xpeng AeroHT 陸上空母",
+      "company": "Xpeng AeroHT (小鵬匯天)",
+      "first_posted": "2026-05-18",
+      "field": "ドローン・eVTOL"
+    },
+    {
+      "name": "CRADLE-1 タンパク質自動最適化AI",
+      "company": "Cradle Bio",
+      "first_posted": "2026-05-18",
+      "field": "生物×IT"
+    },
+    {
+      "name": "西安電子科技大学 マイクロ波飛行中給電",
+      "company": "西安電子科技大学 (Xidian University)",
+      "first_posted": "2026-05-18",
+      "field": "ドローン"
+    },
+    {
+      "name": "STELA 空間生物学アトラス",
+      "company": "Bioptimus",
+      "first_posted": "2026-05-18",
+      "field": "生物×IT"
+    },
+    {
+      "name": "NextSense Smartbuds EEGイヤホン",
+      "company": "NextSense",
+      "first_posted": "2026-05-18",
+      "field": "脳波/BCI"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-18"
 }
