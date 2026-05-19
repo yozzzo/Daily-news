@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "中国128チャネル完全埋め込み型BCI 多施設臨床試験",
+      "company": "北京天壇病院（主導）",
+      "first_posted": "2026-05-19",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Benchling Model Hub",
+      "company": "Benchling",
+      "first_posted": "2026-05-19",
+      "field": "生物×IT / 合成生物学"
+    },
+    {
+      "name": "Chai Discovery Chai-2 × Eli Lilly 抗体設計パートナーシップ",
+      "company": "Chai Discovery / Eli Lilly",
+      "first_posted": "2026-05-19",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Starget Pharma Smart Targeted Radioligands (STRs)",
+      "company": "Starget Pharma",
+      "first_posted": "2026-05-19",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "J&J OTTAVA ロボット手術システム",
+      "company": "Johnson & Johnson",
+      "first_posted": "2026-05-19",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Immunai AMICA-OS",
+      "company": "Immunai",
+      "first_posted": "2026-05-19",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Northrop Grumman YFQ-48A Talon Blue",
+      "company": "Northrop Grumman",
+      "first_posted": "2026-05-19",
+      "field": "ドローン"
+    },
+    {
+      "name": "AstraZeneca × CSPC $18.5B AI肥満薬ディール",
+      "company": "AstraZeneca / CSPC Pharmaceutical Group",
+      "first_posted": "2026-05-19",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Manna Aero ドローン配送ネットワーク",
+      "company": "Manna",
+      "first_posted": "2026-05-19",
+      "field": "ドローン"
+    },
+    {
+      "name": "Beinao-1（脳瑙1号）BCI",
+      "company": "NeuCyber Neurotech",
+      "first_posted": "2026-05-19",
+      "field": "脳波/BCI"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-19"
 }
