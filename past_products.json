@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "CRISPR Cas12a2 がん・ウイルス細胞破壊技術",
+      "company": "ユタ州立大学・ユタ大学",
+      "first_posted": "2026-05-20",
+      "field": "合成生物学"
+    },
+    {
+      "name": "リハート & アムシェプリ（iPS再生医療製品）",
+      "company": "クオリプス / 住友ファーマ",
+      "first_posted": "2026-05-20",
+      "field": "技術×バイオ / 再生医療"
+    },
+    {
+      "name": "生分解性全金属マイクロロボット",
+      "company": "Johns Hopkins University",
+      "first_posted": "2026-05-20",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Terra A2 固定翼迎撃ドローン",
+      "company": "テラドローン × WinnyLab",
+      "first_posted": "2026-05-20",
+      "field": "ドローン"
+    },
+    {
+      "name": "OTTAVA 手術支援ロボット",
+      "company": "Johnson & Johnson",
+      "first_posted": "2026-05-20",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Kanvas Biosciences マイクロバイオームAIプラットフォーム",
+      "company": "Kanvas Biosciences",
+      "first_posted": "2026-05-20",
+      "field": "生物×IT"
+    },
+    {
+      "name": "IREM-W2MS3 ワイヤレス汗バイオセンサー",
+      "company": "UC Irvine",
+      "first_posted": "2026-05-20",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "SAM リサイクル可能タンパク質繊維",
+      "company": "ワシントン大学セントルイス校",
+      "first_posted": "2026-05-20",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Atalef 国産FPVドローン",
+      "company": "IDF / イスラエル防衛産業",
+      "first_posted": "2026-05-20",
+      "field": "ドローン"
+    },
+    {
+      "name": "プロドローン攻撃用ドローン（SHIELD構想）",
+      "company": "プロドローン（PRODRONE）",
+      "first_posted": "2026-05-20",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-20"
 }
