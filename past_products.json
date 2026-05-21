@@ -1746,7 +1746,77 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Wildtype 培養サーモン",
+      "company": "Wildtype",
+      "first_posted": "2026-05-21",
+      "field": "合成生物学",
+      "country": "米国"
+    },
+    {
+      "name": "Archer Midnight eVTOL",
+      "company": "Archer Aviation",
+      "first_posted": "2026-05-21",
+      "field": "ドローン / eVTOL",
+      "country": "米国"
+    },
+    {
+      "name": "IRMO M1 ビジョン知覚エクソスケルトン",
+      "company": "IRMO / Hangmo Robot Co., Ltd.",
+      "first_posted": "2026-05-21",
+      "field": "ロボティクス×バイオ",
+      "country": "中国"
+    },
+    {
+      "name": "Neurosoft Brain Interface Platform",
+      "company": "Neurosoft Bioelectronics",
+      "first_posted": "2026-05-21",
+      "field": "脳波/BCI",
+      "country": "スイス / 米国"
+    },
+    {
+      "name": "Atlas Drone Swarm System",
+      "company": "CETC（中国電子科技集団公司）",
+      "first_posted": "2026-05-21",
+      "field": "ドローン",
+      "country": "中国"
+    },
+    {
+      "name": "Tamar Robotics 神経内視鏡ロボット",
+      "company": "Tamar Robotics",
+      "first_posted": "2026-05-21",
+      "field": "ロボティクス×バイオ",
+      "country": "イスラエル"
+    },
+    {
+      "name": "Variant Bio Inference",
+      "company": "Variant Bio",
+      "first_posted": "2026-05-21",
+      "field": "生物×IT",
+      "country": "米国"
+    },
+    {
+      "name": "Elegen GEN II Cell-Free DNA Production Platform",
+      "company": "Elegen",
+      "first_posted": "2026-05-21",
+      "field": "合成生物学",
+      "country": "米国"
+    },
+    {
+      "name": "Epiminder Minder",
+      "company": "Epiminder",
+      "first_posted": "2026-05-21",
+      "field": "脳波/BCI",
+      "country": "オーストラリア / 米国"
+    },
+    {
+      "name": "Cala kIQ Plus",
+      "company": "Cala Health",
+      "first_posted": "2026-05-21",
+      "field": "技術×バイオ",
+      "country": "米国"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-21"
 }
