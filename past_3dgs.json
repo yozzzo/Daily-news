@@ -325,6 +325,18 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "LeGS (Learnable Density Control via RL)", "type": "論文", "first_posted": "2026-05-21", "field": "3DGS密度制御・強化学習", "url": "https://arxiv.org/abs/2605.00408"},
+    {"name": "FaceParts (GS Avatar Face Segmentation & Editing)", "type": "論文", "first_posted": "2026-05-21", "field": "アバター・顔パーツ分解・編集", "url": "https://arxiv.org/abs/2605.13853"},
+    {"name": "CLM-GS (ASPLOS 2026)", "type": "論文", "first_posted": "2026-05-21", "field": "CPU活用・大規模GS学習・メモリ効率化", "url": "https://arxiv.org/abs/2511.04951"},
+    {"name": "gs-embedding (ICLR 2026)", "type": "論文", "first_posted": "2026-05-21", "field": "3DGS統一表現・ニューラルネット統合", "url": "https://arxiv.org/abs/2509.22917"},
+    {"name": "Geo Week 2026 GS特集セッション", "type": "ニュース", "first_posted": "2026-05-21", "field": "測量・GIS・デジタルツイン・業界カンファレンス", "url": "https://radiancefields.com/gaussian-splatting-at-geo-week-2026"},
+    {"name": "ArcGIS Reality Studio May 2026 GS品質向上", "type": "ニュース", "first_posted": "2026-05-21", "field": "商用GIS・クラウドワークフロー・企業向け", "url": "https://www.esri.com/arcgis-blog/products/arcgisrealitystudio/imagery/whats-new-in-arcgis-reality-studio-may-2026"},
+    {"name": "Esri Site Scan May 2026 クラウドGS生成", "type": "ニュース", "first_posted": "2026-05-21", "field": "ドローン測量・クラウドGS・1万枚対応", "url": "https://www.esri.com/arcgis-blog/products/arcgisrealitystudio/imagery/whats-new-in-arcgis-reality-studio-may-2026"},
+    {"name": "Hexagon CityMapper-3 City Splatter", "type": "ニュース", "first_posted": "2026-05-21", "field": "航空マッピング・デジタルツイン・GS搭載センサー", "url": "https://hexagon.com/company/newsroom/press-releases/2026/next-gen-leica-citymapper-3-increases-efficiency-for-airborne-urban-and-regional-mapping"},
+    {"name": "Plattipus houdini-gsplat", "type": "ツール", "first_posted": "2026-05-21", "field": "Houdini 21・OpenUSD v26.03・VFXパイプライン", "url": "https://github.com/plattipus/houdini-gsplat"},
+    {"name": "SuperSplat Software Attribution + Collision + GPU Histogram", "type": "ツール", "first_posted": "2026-05-21", "field": "GS編集ツール・コリジョン生成・ワークフロー改善", "url": "https://blog.playcanvas.com/new-in-supersplat-software-attribution-collision-generation-and-histogram/"},
+    {"name": "Gaussian Splat Morpher", "type": "コミュニティ", "first_posted": "2026-05-21", "field": "GS補間・モーフィング・オープンソースCLI", "url": "https://github.com/feel3x/Gaussian_Splat_Morpher"},
+    {"name": "3DVista SPZ圧縮GS対応アップデート", "type": "コミュニティ", "first_posted": "2026-05-21", "field": "バーチャルツアー・圧縮GS・モバイル最適化", "url": "https://radiancefields.com/3dvista-adds-compressed-3dgs-and-spz-support"}
   ]
 }
