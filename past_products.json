@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "生分解性金属マイクロロボット (Biodegradable All-Metal Microrobots)",
+      "company": "Johns Hopkins University",
+      "first_posted": "2026-05-22",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Prophetic Dual 超音波明晰夢ヘッドバンド",
+      "company": "Prophetic AI",
+      "first_posted": "2026-05-22",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Flatiron Telescope",
+      "company": "Flatiron Health (Roche Group)",
+      "first_posted": "2026-05-22",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Beinao No.1 128チャネル完全埋込型BCI",
+      "company": "NeuCyber NeuroTech / CIBR",
+      "first_posted": "2026-05-22",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Pentasweet ブラゼイン",
+      "company": "Pentasweet",
+      "first_posted": "2026-05-22",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Skylight 手術支援プラットフォーム",
+      "company": "Illuminant Surgical",
+      "first_posted": "2026-05-22",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "水素の心臓 (Hydrogen Heart) ドローン燃料電池",
+      "company": "中国科学院 大連化学物理研究所 (DICP)",
+      "first_posted": "2026-05-22",
+      "field": "ドローン"
+    },
+    {
+      "name": "OTTAVA 手術ロボット",
+      "company": "Johnson & Johnson MedTech",
+      "first_posted": "2026-05-22",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Neurosoft 伸縮性BCI",
+      "company": "Neurosoft Bioelectronics",
+      "first_posted": "2026-05-22",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Tondo Smart Drone IQ",
+      "company": "Tondo Smart",
+      "first_posted": "2026-05-22",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-22"
 }
