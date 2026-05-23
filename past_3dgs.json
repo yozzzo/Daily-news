@@ -151,7 +151,7 @@
     {"name": "Corridor Crew「THIS is the Biggest Thing Since CGI」", "type": "コミュニティ", "field": "YouTube・啓発", "url": "https://www.youtube.com/watch?v=X8yRlA7jqEQ", "date": "2026-04-05"},
     {"name": "4DGS.jp（IZUTSUYA）", "type": "ニュース", "field": "日本・4DGS", "url": "https://prtimes.jp/main/html/rd/p/000000027.000138121.html", "date": "2026-04-05"},
     {"name": "共同通信3DGS大分火災検証", "type": "ニュース", "field": "日本・報道", "url": "https://www.sanyonews.jp/article/1895966", "date": "2026-04-05"},
-    {"name": "大日本印刷 伏見稲荷大社3DGSメタバース化", "type": "ニュース", "field": "日本・文化財", "url": "https://www.newprinet.co.jp/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%8D%B0%E5%88%B7%E3%80%80%E5%A4%A7%E9%98%AA%E3%83%BB%E9%96%A2%E8%A5%BF%E4%B8%87%E5%8D%9A%E3%81%A7%E4%BC%8F%E8%A6%8B%E7%A8%B2%E8%8D%B7%E5%A4%A7%E7%A4%BE%E3%82%92%E3%83%A1", "date": "2026-04-05"},
+    {"name": "大日本印刷 伏見稲荷大社3DGSメタバース化", "type": "ニュース", "field": "日本・文化財", "url": "https://www.newprinet.co.jp/", "date": "2026-04-05"},
     {"name": "Arcturus スポーツ放送ラジアンスフィールドインタビュー", "type": "ニュース", "field": "スポーツ放送", "url": "https://radiancefields.com/inside-arcturus-how-radiance-fields-are-reshaping-volumetric-sports-broadcasts", "date": "2026-04-05"},
     {"name": "Blurry LoD Streaming", "type": "ツール", "field": "ストリーミング", "url": "https://radiancefields.com/blurry-adds-level-of-detail-streaming-and-revamps-pricing", "date": "2026-04-05"},
     {"name": "AR Splat by AR Code", "type": "ツール", "field": "AR・QRコード", "url": "https://ar-code.com/blog/ar-splat-a-new-3d-scanning-to-augmented-reality-solution-based-on-gaussian-splatting", "date": "2026-04-05"},
@@ -177,7 +177,7 @@
     {"name": "Niantic Spatial Scaniverse & VPS 2.0", "type": "ニュース", "field": "空間AI・マッピング", "url": "https://www.nianticspatial.com/en/blog/scaniverse", "date": "2026-04-09"},
     {"name": "360 Gaussian v1.4", "type": "ツール", "field": "360度映像・3DGS", "url": "https://radiancefields.com/360-gaussian-releases-v1.4", "date": "2026-04-09"},
     {"name": "Khronos glTF Gaussian Splatting ウェビナー開催・資料公開", "type": "ニュース", "field": "標準化", "url": "https://www.khronos.org/events/gaussian-splats-use-cases-next-steps-for-gltf-standardization", "date": "2026-04-09"},
-    {"name": "Revopoint MetroY Ultra", "type": "ハードウェア", "field": "3Dスキャナー", "url": "https://www.revopoint3d.com/blogs/news/revopoint-launches-metroy-ultra-with-metrology-grade-verification-and-starts-a-pop-4-kickstarter-campaign", "date": "2026-04-09"},
+    {"name": "Revopoint MetroY Ultra", "type": "ハードウェア", "field": "3Dスキャナー", "url": "https://www.revopoint3d.com/blogs/news/revopoint-launches-metroy-ultra", "date": "2026-04-09"},
     {"name": "A$AP Rocky「HELICOPTER」MV 4DGS使用", "type": "コミュニティ", "field": "音楽・エンタメ", "url": "https://radiancefields.com", "date": "2026-04-09"},
     {"name": "Gauss Cannon Blender Plugin", "type": "ツール", "field": "Blenderプラグイン", "url": "https://github.com/keshmirian/gauss-cannon", "date": "2026-04-09"},
     {"name": "Lumina 3D 2.0", "type": "ツール", "field": "iPhoneアプリ", "url": "https://www.reddit.com/r/GaussianSplatting/comments/1sdbzp4/lumina_3d_20_appstore_release/", "date": "2026-04-09"},
@@ -325,6 +325,19 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "TideGS", "type": "論文", "first_posted": "2026-05-23", "field": "スケーラブル3DGS・超大規模学習", "url": "https://arxiv.org/abs/2605.20150"},
+    {"name": "GS Transcoding from Plenoptic Point Cloud/Mesh", "type": "論文", "first_posted": "2026-05-23", "field": "既存3DモデルのGS変換", "url": "https://arxiv.org/abs/2605.21051"},
+    {"name": "SCOUP (Sparse Code Uplifting for 3D Language GS)", "type": "論文", "first_posted": "2026-05-23", "field": "言語理解3DGS効率化", "url": "https://arxiv.org/abs/2605.13600"},
+    {"name": "GenWildSplat", "type": "論文", "first_posted": "2026-05-23", "field": "制約なし野外写真からGS・CVPR 2026", "url": "https://arxiv.org/abs/2604.28193"},
+    {"name": "SparseSplat", "type": "論文", "first_posted": "2026-05-23", "field": "超スパースフィードフォワード3DGS・CVPR 2026", "url": "https://arxiv.org/abs/2604.03069"},
+    {"name": "PhysGM (Large Physical Gaussian Model)", "type": "論文", "first_posted": "2026-05-23", "field": "物理的4D生成・CVPR 2026 Highlight", "url": "https://arxiv.org/abs/2508.13911"},
+    {"name": "Samsung Galaxy XR × Google Maps × GS", "type": "ニュース", "first_posted": "2026-05-23", "field": "XRデバイス・GS一般消費者展開", "url": "https://radiancefields.com/samsung-galaxy-xr-to-support-gaussian-splatting-through-google-maps"},
+    {"name": "Esri ArcGIS Reality Studio May 2026", "type": "ニュース", "first_posted": "2026-05-23", "field": "測量・建設GS精度向上", "url": "https://www.esri.com/arcgis-blog/products/arcgisrealitystudio/imagery/whats-new-in-arcgis-reality-studio-may-2026"},
+    {"name": "Esri Site Scan for ArcGIS May 2026", "type": "ニュース", "first_posted": "2026-05-23", "field": "クラウドGS生成・1万枚対応", "url": "https://www.esri.com/arcgis-blog/products/arcgis/imagery/whats-new-in-reality-mapping-may-2026"},
+    {"name": "XGRIDS LCC Cloud 商用化", "type": "ニュース", "first_posted": "2026-05-23", "field": "クラウドGS処理・商用SaaS", "url": "https://xgrids.com/lcc"},
+    {"name": "Real Horizons Spatial Studio AI Reframe", "type": "コミュニティ", "first_posted": "2026-05-23", "field": "不動産GS・AI仮想ステージング", "url": "https://radiancefields.com/spatial-studio-adds-ai-authoring-layer"},
+    {"name": "houdini-gsplat (Plattipus)", "type": "コミュニティ", "first_posted": "2026-05-23", "field": "HoudiniSolaris・USD v26.03 GS統合", "url": "https://github.com/plattipus/houdini-gsplat"},
+    {"name": "Gauss Cannon v1.2.0", "type": "コミュニティ", "first_posted": "2026-05-23", "field": "BlenderGSプラグイン・World-Space BVH", "url": "https://github.com/keshmirian/gauss-cannon"}
   ]
 }
