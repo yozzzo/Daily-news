@@ -775,81 +775,61 @@
       "id": "anthropic-coefficient-bio-acquisition-400m-2026-04-03",
       "date": "2026-04-03",
       "title": "Anthropic、バイオテックAIスタートアップCoefficient Bioを4億ドルで買収",
-      "company": "Anthropic",
-      "country": "米国",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
+      "company": "Anthropic"
     },
     {
       "id": "anthropic-openclaw-subscription-ban-2026-04-04",
       "date": "2026-04-04",
       "title": "AnthropicがClaude Pro/MaxサブスクからOpenClaw等サードパーティツールを締め出し",
-      "company": "Anthropic",
-      "country": "米国",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
+      "company": "Anthropic"
     },
     {
       "id": "anthropic-claude-functional-emotions-171-vectors-2026-04-02",
       "date": "2026-04-02",
       "title": "Anthropic、Claude Sonnet 4.5に機能的感情171種類を発見——絶望ベクトルが逸脱行動を引き起こす",
-      "company": "Anthropic",
-      "country": "米国",
-      "url": "https://transformer-circuits.pub/2026/emotions/index.html"
+      "company": "Anthropic"
     },
     {
       "id": "openai-codex-payg-chatgpt-business-price-cut-2026-04-02",
       "date": "2026-04-02",
       "title": "OpenAI、Codexを従量課金制に移行——ChatGPT Businessも月額$20に値下げ",
-      "company": "OpenAI",
-      "country": "米国",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/"
+      "company": "OpenAI"
     },
     {
       "id": "microsoft-copilot-entertainment-only-tos-2026-04-02",
       "date": "2026-04-02",
       "title": "Microsoft Copilot利用規約に「エンターテイメント目的のみ」と明記——業務利用は自己責任",
-      "company": "Microsoft",
-      "country": "米国",
-      "url": "https://www.theregister.com/2026/04/02/copilot_terms_of_service/"
+      "company": "Microsoft"
     },
     {
       "id": "musk-spacex-ipo-grok-subscription-mandate-2026-04-03",
       "date": "2026-04-03",
       "title": "Elon Musk、SpaceX IPO参加の銀行・法律事務所にGrokサブスクリプション購入を義務付け",
-      "company": "xAI / SpaceX",
-      "country": "米国",
-      "url": "https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/"
+      "company": "xAI / SpaceX"
     },
     {
       "id": "meta-mercor-data-breach-litellm-supply-chain-2026-04-03",
       "date": "2026-04-03",
       "title": "MetaがMercorのデータ侵害でAI業界機密が流出——LiteLLMサプライチェーン攻撃",
-      "company": "Meta / Mercor",
-      "country": "米国",
-      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
+      "company": "Meta / Mercor"
     },
     {
       "id": "google-anthropic-texas-datacenter-5b-500mw-2026-04-01",
       "date": "2026-04-01",
       "title": "Google、AnthropicのテキサスAIデータセンターに50億ドルを融資——500MW稼働・最終7.7GWへ",
-      "company": "Google / Anthropic",
-      "country": "米国",
-      "url": "https://www.msn.com/en-us/money/other/google-plans-to-back-5b-data-center-for-anthropic-report/ar-AA1ZBXip"
+      "company": "Google / Anthropic"
     },
     {
       "id": "nexthop-ai-500m-series-b-4-2b-valuation-2026-03-28",
       "date": "2026-03-28",
       "title": "Nexthop AI、シリーズBで5億ドル調達——評価額42億ドルでAIデータセンターネットワーキングを革新",
-      "company": "Nexthop AI",
-      "country": "米国",
-      "url": "https://inforcapital.com/news/nexthop-ai-raises-500m-series-b-at-42b-valuation-for-ai-data-center-networking/"
+      "company": "Nexthop AI"
     },
     {
       "id": "meta-superintelligence-labs-hardware-team-rui-xu-2026-04-04",
       "date": "2026-04-04",
       "title": "Meta Superintelligence Labs、AIハードウェアチームを新設——AI搭載デバイス開発へ",
-      "company": "Meta",
-      "country": "米国",
-      "url": "https://winbuzzer.com/2026/04/04/meta-superintelligence-labs-builds-hardware-team-ai-push-xcxwbn/"
+      "company": "Meta"
     },
     {
       "id": "openai-gpt-image-2-leaked-lmarena-2026-04-04",
@@ -1065,81 +1045,61 @@
       "id": "meta-muse-spark-superintelligence-labs-2026-04-08",
       "title": "Meta「Muse Spark」発表 — Meta Superintelligence Labs初の主要LLM",
       "company": "Meta",
-      "date": "2026-04-08",
-      "category": "model_release",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/"
+      "date": "2026-04-08"
     },
     {
       "id": "anthropic-30b-arr-claude-mythos-glasswing-2026-04-08",
       "title": "Anthropic、年間収益ランレート$30B突破 — Claude Mythos PreviewがApple・Microsoft・Googleと協力してゼロデイ脆弱性を自律発見",
       "company": "Anthropic",
-      "date": "2026-04-08",
-      "category": "business_milestone",
-      "url": "https://sherwood.news/tech/anthropics-revenue-run-rate-just-topped-usd30-billion-thats-ahead-of-openai/"
+      "date": "2026-04-08"
     },
     {
       "id": "zai-glm-5-1-8hour-autonomous-coding-2026-04-08",
       "title": "Z.ai「GLM-5.1」リリース — 8時間自律コーディング・SWE-Bench Pro世界3位",
       "company": "Z.ai",
-      "date": "2026-04-08",
-      "category": "model_release",
-      "url": "https://z.ai/blog/glm-5.1"
+      "date": "2026-04-08"
     },
     {
       "id": "openai-codex-3m-users-enterprise-ai-next-phase-2026-04-08",
       "title": "OpenAI Codex、週間アクティブユーザー300万人突破 — エンタープライズAI次フェーズを宣言",
       "company": "OpenAI",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://openai.com/index/next-phase-of-enterprise-ai/"
+      "date": "2026-04-08"
     },
     {
       "id": "deepseek-fast-expert-mode-v4-preview-2026-04-08",
       "title": "DeepSeek、「Fast Mode」「Expert Mode」を追加 — V4（1兆パラメータ）リリース直前の大型UI刷新",
       "company": "DeepSeek",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release"
+      "date": "2026-04-08"
     },
     {
       "id": "nvidia-rubin-r100-mass-production-2026-04-08",
       "title": "NVIDIA「Rubin R100」、予定前倒しで量産開始 — Vera Rubinプラットフォームが本格稼働",
       "company": "NVIDIA",
-      "date": "2026-04-08",
-      "category": "hardware",
-      "url": "https://www.financialcontent.com/article/marketminute-2026-4-8-nvidia-accelerates-the-future-rubin-r100-enters-mass-production-ahead-of-schedule"
+      "date": "2026-04-08"
     },
     {
       "id": "x-grok-auto-translation-photo-editing-global-2026-04-08",
       "title": "X（Twitter）、Grok搭載の自動翻訳・AI写真編集をグローバル展開",
       "company": "xAI / X",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/"
+      "date": "2026-04-08"
     },
     {
       "id": "alibaba-group-tech-committee-ai-restructure-2026-04-08",
       "title": "Alibaba、グループレベルのAI技術委員会を設立 — CEO Eddie Wu主導でAI組織を全社横断再編",
       "company": "Alibaba",
-      "date": "2026-04-08",
-      "category": "business_strategy",
-      "url": "https://finance.biggo.com/news/zlahbZ0B-x-dxYpboRKy"
+      "date": "2026-04-08"
     },
     {
       "id": "d-robotics-150m-series-b2-embodied-ai-2026-04-08",
       "title": "D-Robotics（地平线机器人）、シリーズB2で$1.5億調達 — 累計$2.7億でEmbodied AIチップ開発加速",
       "company": "D-Robotics",
-      "date": "2026-04-08",
-      "category": "funding",
-      "url": "https://autonews.gasgoo.com/articles/icv/d-robotics-secures-150-million-to-accelerate-embodied-ai-ecosystem-with-horizon-robotics-2041759438526922753"
+      "date": "2026-04-08"
     },
     {
       "id": "github-copilot-eclipse-open-source-mit-2026-04-08",
       "title": "GitHub Copilot for Eclipse、MITライセンスでオープンソース化",
       "company": "GitHub / Microsoft",
-      "date": "2026-04-08",
-      "category": "open_source",
-      "url": "https://devblogs.microsoft.com/java/ghc-eclipse-is-going-open-source/"
+      "date": "2026-04-08"
     },
     {
       "id": "anthropic-project-glasswing-claude-mythos-2026-04-09",
@@ -1210,6 +1170,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "google-io-2026-gemini-35-flash-spark-2026-05-19",
+      "title": "Google I/O 2026: Gemini 3.5 Flash + Gemini Spark——エージェントAI時代の本格開幕",
+      "company": "Google",
+      "date": "2026-05-19",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "openai-gpt-55-instant-2026-05-05",
+      "title": "OpenAI「GPT-5.5 Instant」リリース——幻覚を52.5%削減、Gmailと連携したパーソナルAI",
+      "company": "OpenAI",
+      "date": "2026-05-05",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "bezos-project-prometheus-38b-2026-04-23",
+      "title": "Jeff Bezos「Project Prometheus」評価額$38B——人工汎用エンジニアを開発",
+      "company": "Project Prometheus",
+      "date": "2026-04-23",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "pentagon-ai-classified-8companies-2026-05-01",
+      "title": "米国防総省、8社のAIを最高機密ネットワークに展開承認——Anthropicは除外",
+      "company": "DoD / AWS・Google・Microsoft・OpenAI・SpaceX・NVIDIA・Reflection・Oracle",
+      "date": "2026-05-01",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "anthropic-claude-opus-47-stainless-2026-04-16",
+      "title": "Anthropic「Claude Opus 4.7」リリース + Stainless買収——ビジョン強化とSDKエコシステム完全制御へ",
+      "company": "Anthropic",
+      "date": "2026-04-16",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "xai-grok-43-skills-2026-05-04",
+      "title": "xAI「Grok 4.3」+ Grok Skills——$1.25/Mの低コスト推論モデル、持続的専門知識機能",
+      "company": "xAI",
+      "date": "2026-05-04",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "meta-ari-humanoid-acquisition-2026-05-01",
+      "title": "Meta、ヒューマノイドロボットAIスタートアップ「ARI」を買収——$5兆円市場への「OSプロバイダー」戦略",
+      "company": "Meta",
+      "date": "2026-05-01",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "deepseek-v4-official-release-2026-04-24",
+      "title": "DeepSeek V4 正式リリース——Huaweiチップ稼働・評価額$45B、中国AI自給自足の完成形",
+      "company": "DeepSeek / Huawei",
+      "date": "2026-04-24",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "github-copilot-usage-billing-lts-2026-05-17",
+      "title": "GitHub Copilot、6月1日から従量課金制へ移行 + GPT-5.3-Codexが初のLTSモデルに",
+      "company": "GitHub / Microsoft",
+      "date": "2026-05-17",
+      "delivered": "2026-05-23"
+    },
+    {
+      "id": "genesis-ai-gene-265-2026-05-06",
+      "title": "Genesis AI「GENE-26.5」デモ——Khosla支援のロボティクスAI、複雑手作業を実現",
+      "company": "Genesis AI",
+      "date": "2026-05-06",
+      "delivered": "2026-05-23"
     }
   ]
 }
