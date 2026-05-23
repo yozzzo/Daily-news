@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "SeroTab（嚥下型ペンギンソフトロボット）",
+      "company": "University of Twente TechMed Center",
+      "first_posted": "2026-05-23",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Joby Aviation NYC eVTOL実証飛行",
+      "company": "Joby Aviation / Skyports Infrastructure",
+      "first_posted": "2026-05-23",
+      "field": "ドローン / eVTOL"
+    },
+    {
+      "name": "Science Corp バイオハイブリッド脳センサー",
+      "company": "Science Corporation",
+      "first_posted": "2026-05-23",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "XtalPi × DoveTree AI創薬60億ドル契約",
+      "company": "XtalPi（晶泰科技）× DoveTree",
+      "first_posted": "2026-05-23",
+      "field": "生物×IT / AI創薬"
+    },
+    {
+      "name": "AirKamuy 150（段ボール製使い捨てドローン）",
+      "company": "AirKamuy（エアカムイ）",
+      "first_posted": "2026-05-23",
+      "field": "ドローン"
+    },
+    {
+      "name": "ProtAIDe-Dx（血液1検体6種認知症同時診断）",
+      "company": "Lund University / BioFINDER Study / GNPC",
+      "first_posted": "2026-05-23",
+      "field": "生物×IT / AIプロテオミクス"
+    },
+    {
+      "name": "Carbios 酵素PETバイオリサイクル工場",
+      "company": "Carbios / Wankai",
+      "first_posted": "2026-05-23",
+      "field": "合成生物学 / バイオリサイクル"
+    },
+    {
+      "name": "Cornerstone Sentire（AI自律手術タスク）",
+      "company": "Cornerstone Robotics",
+      "first_posted": "2026-05-23",
+      "field": "ロボティクス×バイオ / AI手術"
+    },
+    {
+      "name": "Eve 自己バランス型パーソナル外骨格",
+      "company": "Wandercraft",
+      "first_posted": "2026-05-23",
+      "field": "ロボティクス×バイオ / 外骨格"
+    },
+    {
+      "name": "Logomix Geno-Writing（メガベースゲノム編集）",
+      "company": "Logomix株式会社",
+      "first_posted": "2026-05-23",
+      "field": "合成生物学 / ゲノム編集"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-23"
 }
