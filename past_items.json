@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "google-io-2026-gemini35-spark-omni-2026-05-19",
+      "title": "Google I/O 2026 — Gemini 3.5 Flash・Gemini Spark・Gemini Omni 三連発",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "openai-gpt-5-5-spud-release-2026-04-23",
+      "title": "OpenAI GPT-5.5「Spud」正式リリース — SWE-bench 88.7%・統合マルチモーダルアーキテクチャ",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "anthropic-claude-opus-47-release-2026-04-16",
+      "title": "Anthropic Claude Opus 4.7 リリース — SWE-bench +7pt・コーディング性能が大幅向上",
+      "company": "Anthropic",
+      "date": "2026-04-16",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "anthropic-claude-managed-agents-dreaming-2026-05-06",
+      "title": "Anthropic「Dreaming」— AIエージェントが過去セッションから自律学習する記憶システム",
+      "company": "Anthropic",
+      "date": "2026-05-06",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "figure-ai-81-hours-autonomous-helix02-2026-05-15",
+      "title": "Figure AI — ヒューマノイドが81時間・101,391個のパッケージを無人で仕分け完了",
+      "company": "Figure AI",
+      "date": "2026-05-15",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "xai-grok-build-0-1-coding-agent-2026-05-14",
+      "title": "xAI「Grok Build 0.1」— ローカルファースト・8並列サブエージェントのコーディングCLI",
+      "company": "xAI",
+      "date": "2026-05-14",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "pentagon-ai-deals-8-companies-classified-networks-2026-05-01",
+      "title": "米国防総省、NVIDIA・Microsoft・AWS等8社のAIを機密ネットワークに展開承認",
+      "company": "NVIDIA / Microsoft / AWS / Reflection AI / Oracle 他",
+      "date": "2026-05-01",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "meta-acquires-assured-robot-intelligence-humanoid-2026-05-01",
+      "title": "Meta、ロボットAIスタートアップ「Assured Robot Intelligence」を買収——ヒューマノイド開発を加速",
+      "company": "Meta",
+      "date": "2026-05-01",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "unitree-gd01-manned-mecha-world-first-2026-05-12",
+      "title": "Unitree「GD01」— 世界初の量産型搭乗可能変形メカ、二足↔四足を切り替え",
+      "company": "Unitree Robotics",
+      "date": "2026-05-12",
+      "delivered": "2026-05-24"
+    },
+    {
+      "id": "jal-haneda-humanoid-robot-trial-2026-05-01",
+      "title": "日本航空、羽田空港でヒューマノイドロボット実証実験を開始——日本の空港初",
+      "company": "日本航空（JAL）× GMO AI&ロボティクス",
+      "date": "2026-05-01",
+      "delivered": "2026-05-24"
     }
   ]
 }
