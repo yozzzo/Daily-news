@@ -1746,7 +1746,97 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 1,
+      "name": "アムシェプリ（iPS細胞由来パーキンソン病治療薬）",
+      "company": "住友ファーマ",
+      "country": "日本",
+      "field": "技術×バイオ / 再生医療",
+      "url": "https://www.nikkei.com/article/DGXZQOUA121XD0S6A510C2000000/"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 2,
+      "name": "BioForge（合成ゲノムSyn61 非天然アミノ酸ペプチド製造）",
+      "company": "Constructive Bio",
+      "country": "イギリス",
+      "field": "合成生物学",
+      "url": "https://constructive.bio/news/constructive-bio-58m-series-a-fermentation-peptide-manufacturing-ncaa"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 3,
+      "name": "Prophetic Dual（明晰夢誘導ヘッドバンド）",
+      "company": "Prophetic AI",
+      "country": "米国",
+      "field": "脳波/BCI",
+      "url": "https://www.prophetic.com/"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 4,
+      "name": "Biodegradable All-Metal Microrobots（生分解性金属マイクロロボット）",
+      "company": "Johns Hopkins University",
+      "country": "米国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://medicalxpress.com/news/2026-05-biodegradable-metal-microrobots-drug-delivery.html"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 5,
+      "name": "PathAI（AI病理プラットフォーム買収）",
+      "company": "Roche / PathAI",
+      "country": "スイス / 米国",
+      "field": "生物×IT",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-05-07"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 6,
+      "name": "Joby Aviation NYC eVTOL実証飛行",
+      "company": "Joby Aviation",
+      "country": "米国",
+      "field": "ドローン / eVTOL",
+      "url": "https://edc.nyc/press-release/nycedc-joby-aviation-partners-hold-evtol-demonstration-flights-nyc"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 7,
+      "name": "50kb Clonal DNA（世界最長完全合成DNA）",
+      "company": "Ansa Biotechnologies",
+      "country": "米国",
+      "field": "合成生物学",
+      "url": "https://ansabio.com/blog/what-if-you-could-build-without-limits-with-50-kb-dna-now-you-can/"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 8,
+      "name": "Intelligent Artificial Muscle（知能型人工筋肉）",
+      "company": "Seoul National University",
+      "country": "韓国",
+      "field": "ロボティクス×バイオ",
+      "url": "https://techxplore.com/news/2026-05-artificial-muscle-merges-movement-humanoid.html"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 9,
+      "name": "Proliv Rx（FDA承認在宅脳神経調節療法）",
+      "company": "Neurolief (BrainsWay)",
+      "country": "イスラエル",
+      "field": "脳波/BCI",
+      "url": "https://www.hcplive.com/view/fda-approves-proliv-rx-first-home-neuromodulation-mdd"
+    },
+    {
+      "date": "2026-05-24",
+      "rank": 10,
+      "name": "Hivemind / LUCAS（AIドローンスウォーム）",
+      "company": "Shield AI / Pentagon",
+      "country": "米国",
+      "field": "ドローン",
+      "url": "https://defensescoop.com/2026/05/20/pentagon-selects-shield-ai-to-plug-swarm-software-into-lucas-drone-company-says/"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-24"
 }
