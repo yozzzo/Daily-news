@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "SWARM Biotactics Cyborg Insect Swarms",
+      "company": "SWARM Biotactics",
+      "first_posted": "2026-05-25",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Neuralink Blindsight",
+      "company": "Neuralink",
+      "first_posted": "2026-05-25",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "TacnIQ.ai Tactile Foundation Models",
+      "company": "TacnIQ.ai",
+      "first_posted": "2026-05-25",
+      "field": "技術×バイオ / ロボティクス"
+    },
+    {
+      "name": "Found Energy Aluminium Fuel System",
+      "company": "Found Energy",
+      "first_posted": "2026-05-25",
+      "field": "技術×バイオ / エネルギー"
+    },
+    {
+      "name": "MeeBio 光制御バイオ生産プラットフォーム",
+      "company": "株式会社ミーバイオ",
+      "first_posted": "2026-05-25",
+      "field": "生物×IT / 合成生物学"
+    },
+    {
+      "name": "Stem Cell Derived Mini-Brains",
+      "company": "FinalSpark (など)",
+      "first_posted": "2026-05-25",
+      "field": "合成生物学 / 脳波/BCI"
+    },
+    {
+      "name": "Tsingke & iGeneTech SynBio Platform",
+      "company": "Tsingke Biotech / iGeneTech",
+      "first_posted": "2026-05-25",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Zeroth Jupiter Humanoid",
+      "company": "Zeroth",
+      "first_posted": "2026-05-25",
+      "field": "ロボティクス"
+    },
+    {
+      "name": "DEEP Robotics Robot Horse",
+      "company": "DEEP Robotics",
+      "first_posted": "2026-05-25",
+      "field": "ロボティクス"
+    },
+    {
+      "name": "Skylo Satellite Deep Tech Link",
+      "company": "Skylo Technologies",
+      "first_posted": "2026-05-25",
+      "field": "技術×バイオ / IoT"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-25"
 }
