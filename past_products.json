@@ -1746,7 +1746,67 @@
       "company": "Cartography Biosciences",
       "first_posted": "2026-05-01",
       "field": "技術×バイオ / AI創薬・がん免疫"
+    },
+    {
+      "name": "Neuralink Blindsight S2チップ",
+      "company": "Neuralink",
+      "first_posted": "2026-05-25",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "NanoForge AIナノ送達プラットフォーム",
+      "company": "METiS TechBio",
+      "first_posted": "2026-05-25",
+      "field": "生物×IT"
+    },
+    {
+      "name": "50kb Clonal DNA",
+      "company": "Ansa Biotechnologies",
+      "first_posted": "2026-05-25",
+      "field": "合成生物学"
+    },
+    {
+      "name": "OTTAVA手術ロボット",
+      "company": "Johnson & Johnson MedTech",
+      "first_posted": "2026-05-25",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "高次皮質BCIインプラント",
+      "company": "UCHealth / Feinstein Institutes",
+      "first_posted": "2026-05-25",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "羽ばたき翼ロボット（鷹瞰智翼）",
+      "company": "ESD",
+      "first_posted": "2026-05-25",
+      "field": "ドローン"
+    },
+    {
+      "name": "iPSC由来血小板 臨床輸血",
+      "company": "Renerval Therapeutics",
+      "first_posted": "2026-05-25",
+      "field": "合成生物学 / 技術×バイオ"
+    },
+    {
+      "name": "AVA Emulation System",
+      "company": "Emulate, Inc.",
+      "first_posted": "2026-05-25",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "伸縮性BCI",
+      "company": "Neurosoft Bioelectronics",
+      "first_posted": "2026-05-25",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "XTEND AI Drone OS",
+      "company": "XTEND",
+      "first_posted": "2026-05-25",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-01"
+  "last_updated": "2026-05-25"
 }
