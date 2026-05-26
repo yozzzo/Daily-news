@@ -325,6 +325,27 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "TideGS", "type": "論文", "first_posted": "2026-05-26", "field": "大規模シーン・Out-of-Core最適化", "url": "https://arxiv.org/abs/2605.20150"},
+    {"name": "RxGS", "type": "論文", "first_posted": "2026-05-26", "field": "無線通信・RF場再構成", "url": "https://arxiv.org/abs/2605.24290"},
+    {"name": "OctCGS", "type": "論文", "first_posted": "2026-05-26", "field": "無線通信・チャンネルナレッジマップ", "url": "https://arxiv.org/abs/2605.22961"},
+    {"name": "AIR (Amortized Image Reconstruction)", "type": "論文", "first_posted": "2026-05-26", "field": "2DGS・フィードフォワード", "url": "https://arxiv.org/abs/2605.20820"},
+    {"name": "Transcoding 3DGS from Point Cloud or Mesh", "type": "論文", "first_posted": "2026-05-26", "field": "GS変換・互換性", "url": "https://arxiv.org/abs/2605.21051"},
+    {"name": "LiDAR-Guided Semantic 3DGS for Forest Digital Twins", "type": "論文", "first_posted": "2026-05-26", "field": "農業・精密林業・デジタルツイン", "url": "https://www.mdpi.com/2072-4292/18/11/1696"},
+    {"name": "HarmoGS", "type": "論文", "first_posted": "2026-05-26", "field": "実環境3DGS・勾配ハーモナイゼーション"},
+    {"name": "AdaptSplat", "type": "論文", "first_posted": "2026-05-26", "field": "Foundation Models・フィードフォワード3DGS", "url": "https://arxiv.org/abs/2605.10239"},
+    {"name": "SDTalk", "type": "論文", "first_posted": "2026-05-26", "field": "トーキングヘッド・顔アバター", "url": "https://arxiv.org/abs/2605.09956"},
+    {"name": "ConFixGS", "type": "論文", "first_posted": "2026-05-26", "field": "自動運転・GS補完", "url": "https://arxiv.org/abs/2605.09688"},
+    {"name": "Esri ArcGIS Reality Studio May 2026", "type": "ニュース", "first_posted": "2026-05-26", "field": "GIS・測量・3DGS品質改善", "url": "https://www.esri.com/arcgis-blog/products/arcgisrealitystudio/imagery/whats-new-in-arcgis-reality-studio-may-2026"},
+    {"name": "Esri Site Scan for ArcGIS May 2026", "type": "ニュース", "first_posted": "2026-05-26", "field": "クラウドGS・ドローン測量", "url": "https://www.esri.com/arcgis-blog/products/arcgis/imagery/whats-new-in-reality-mapping-may-2026"},
+    {"name": "Veesus SolidWorks GS May 2026", "type": "ニュース", "first_posted": "2026-05-26", "field": "CAD統合・製造業", "url": "https://radiancefields.com/veesus-adds-solidworks-gaussian-splatting-support-in-may-update"},
+    {"name": "3DVista 2026.0 Total VR Mode", "type": "ニュース", "first_posted": "2026-05-26", "field": "バーチャルツアー・VR", "url": "https://www.3dvista.com/en/blog/update-2026-0-total-vr-mode/"},
+    {"name": "XGRIDS LCC Cloud 商用化", "type": "ニュース", "first_posted": "2026-05-26", "field": "クラウドサービス・SLAM+GS", "url": "https://radiancefields.com/xgrids-releases-new-lcc-studio-lcc-scan-and-portalcam-firmware"},
+    {"name": "Netflix Berlin × Volinga GS LED Production", "type": "ニュース", "first_posted": "2026-05-26", "field": "映像制作・バーチャルプロダクション", "url": "https://web.volinga.ai"},
+    {"name": "NHM Vienna × Geofront 宝石復元 70万Splats", "type": "ニュース", "first_posted": "2026-05-26", "field": "文化財・デジタル修復"},
+    {"name": "houdini-gsplat (Plattipus)", "type": "コミュニティ", "first_posted": "2026-05-26", "field": "VFX・USD・Houdini Solaris", "url": "https://github.com/plattipus/houdini-gsplat"},
+    {"name": "Gaussian Splat Morphing Tool (Felix Hirt)", "type": "コミュニティ", "first_posted": "2026-05-26", "field": "編集ツール・モーフィング", "url": "https://github.com/feel3x/Gaussian_Splat_Morpher"},
+    {"name": "PlayCanvas SOG (Spatially Ordered Gaussians)", "type": "コミュニティ", "first_posted": "2026-05-26", "field": "Webフォーマット・圧縮", "url": "https://blog.playcanvas.com/playcanvas-open-sources-sog-format-for-gaussian-splatting/"},
+    {"name": "ShorterSplatting CVPR 2026 コード公開", "type": "コミュニティ", "first_posted": "2026-05-26", "field": "高速化・CVPR・オープンソース", "url": "https://github.com/MachinePerceptionLab/ShorterSplatting"}
   ]
 }
