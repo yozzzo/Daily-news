@@ -1806,7 +1806,67 @@
       "company": "Skylo Technologies",
       "first_posted": "2026-05-25",
       "field": "技術×バイオ / IoT"
+    },
+    {
+      "name": "Intellia lonvo-z（体内CRISPR遺伝子編集療法）",
+      "company": "Intellia Therapeutics",
+      "first_posted": "2026-05-26",
+      "field": "生物×IT / 合成生物学"
+    },
+    {
+      "name": "Guardant360 Liquid CDx 新版（740遺伝子液体生検）",
+      "company": "Guardant Health",
+      "first_posted": "2026-05-26",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Joby Aviation NYC eVTOL（JFK→マンハッタン7分）",
+      "company": "Joby Aviation",
+      "first_posted": "2026-05-26",
+      "field": "ドローン / eVTOL"
+    },
+    {
+      "name": "SLEUTH DNA-guided CRISPR",
+      "company": "香港科技大学（HKUST）",
+      "first_posted": "2026-05-26",
+      "field": "合成生物学"
+    },
+    {
+      "name": "全金属製生分解性マイクロロボット",
+      "company": "Johns Hopkins University",
+      "first_posted": "2026-05-26",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Neurosoft Bioelectronics 伸縮性BCI",
+      "company": "Neurosoft Bioelectronics",
+      "first_posted": "2026-05-26",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "美団 M-Drone 4L Winch（索降型配達ドローン）",
+      "company": "美団（Meituan）",
+      "first_posted": "2026-05-26",
+      "field": "ドローン"
+    },
+    {
+      "name": "Prolific Machines 光制御mAb 21g/L",
+      "company": "Prolific Machines",
+      "first_posted": "2026-05-26",
+      "field": "合成生物学"
+    },
+    {
+      "name": "UC Irvine IREM-W2MS3（バッテリー不要汗センサー）",
+      "company": "University of California, Irvine",
+      "first_posted": "2026-05-26",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Amazon Bio Discovery（AI創薬エージェント）",
+      "company": "Amazon Web Services",
+      "first_posted": "2026-05-26",
+      "field": "生物×IT"
     }
   ],
-  "last_updated": "2026-05-25"
+  "last_updated": "2026-05-26"
 }
