@@ -1808,5 +1808,66 @@
       "field": "技術×バイオ / IoT"
     }
   ],
-  "last_updated": "2026-05-25"
+    {
+      "name": "StrainX Precision Fermentation Platform",
+      "company": "StrainX Bioworks",
+      "first_posted": "2026-05-27",
+      "field": "合成生物学"
+    },
+    {
+      "name": "NEO System (Commercial Approval)",
+      "company": "Shanghai Borui (Neuracle Medical)",
+      "first_posted": "2026-05-27",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Self-Healing Human Skin Robot",
+      "company": "東京大学 / Institute of Science Tokyo",
+      "first_posted": "2026-05-27",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Cognixion ONE (Vision Pro Integration)",
+      "company": "Cognixion",
+      "first_posted": "2026-05-27",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "GDU S400 / Mobile Docking Solution",
+      "company": "GDU Technology",
+      "first_posted": "2026-05-27",
+      "field": "ドローン"
+    },
+    {
+      "name": "Capsyra & Ewigbyte Long-term Data Storage",
+      "company": "Capsyra / Ewigbyte",
+      "first_posted": "2026-05-27",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "MicroCyto Synthetic Biology Financing",
+      "company": "MicroCyto",
+      "first_posted": "2026-05-27",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Anovo Surgical System (Clinical Registry)",
+      "company": "Momentis Surgical",
+      "first_posted": "2026-05-27",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Soft Brain Implants (Tissue Matching)",
+      "company": "Neurosoft Bioelectronics",
+      "first_posted": "2026-05-27",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "AeroLion Autonomous Docking UAV",
+      "company": "AeroLion Technologies",
+      "first_posted": "2026-05-27",
+      "field": "ドローン"
+    }
+  ],
+  "last_updated": "2026-05-27"
 }
