@@ -1806,7 +1806,77 @@
       "company": "Skylo Technologies",
       "first_posted": "2026-05-25",
       "field": "技術×バイオ / IoT"
+    },
+    {
+      "name": "Glucotrack CBGM",
+      "company": "Glucotrack",
+      "first_posted": "2026-05-27",
+      "field": "技術×バイオ",
+      "country": "イスラエル/米国"
+    },
+    {
+      "name": "IARPA 生分解性ドローンエンジン構想 (RFI-26-01)",
+      "company": "IARPA",
+      "first_posted": "2026-05-27",
+      "field": "ドローン × 合成生物学",
+      "country": "米国"
+    },
+    {
+      "name": "Natrion Cirrus/Stratus",
+      "company": "Natrion",
+      "first_posted": "2026-05-27",
+      "field": "ドローン × 技術",
+      "country": "米国"
+    },
+    {
+      "name": "iOrganBio CellForge",
+      "company": "iOrganBio",
+      "first_posted": "2026-05-27",
+      "field": "合成生物学 × 生物×IT",
+      "country": "米国"
+    },
+    {
+      "name": "DenovAI デノボ抗体設計プラットフォーム",
+      "company": "DenovAI Biotech",
+      "first_posted": "2026-05-27",
+      "field": "生物×IT",
+      "country": "ドイツ/イスラエル"
+    },
+    {
+      "name": "Starget Pharma 次世代放射性リガンド療法",
+      "company": "Starget Pharma",
+      "first_posted": "2026-05-27",
+      "field": "生物×IT × 技術×バイオ",
+      "country": "イスラエル"
+    },
+    {
+      "name": "GDU K05 車載型自律ドローンシステム",
+      "company": "GDU Technology",
+      "first_posted": "2026-05-27",
+      "field": "ドローン",
+      "country": "中国"
+    },
+    {
+      "name": "Benchling Biologics / One-Click Ordering",
+      "company": "Benchling",
+      "first_posted": "2026-05-27",
+      "field": "合成生物学 × 生物×IT",
+      "country": "米国"
+    },
+    {
+      "name": "Tamarind Bio AI創薬推論プラットフォーム",
+      "company": "Tamarind Bio",
+      "first_posted": "2026-05-27",
+      "field": "生物×IT",
+      "country": "米国"
+    },
+    {
+      "name": "Singzyme PALバイオコンジュゲーション技術",
+      "company": "Singzyme",
+      "first_posted": "2026-05-27",
+      "field": "技術×バイオ × 合成生物学",
+      "country": "シンガポール"
     }
   ],
-  "last_updated": "2026-05-25"
+  "last_updated": "2026-05-27"
 }
