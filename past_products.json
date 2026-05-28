@@ -1806,8 +1806,7 @@
       "company": "Skylo Technologies",
       "first_posted": "2026-05-25",
       "field": "技術×バイオ / IoT"
-    }
-  ],
+    },
     {
       "name": "StrainX Precision Fermentation Platform",
       "company": "StrainX Bioworks",
@@ -1867,7 +1866,67 @@
       "company": "AeroLion Technologies",
       "first_posted": "2026-05-27",
       "field": "ドローン"
+    },
+    {
+      "name": "NTU 5-in-1 Seed-Sized Surgical Robot",
+      "company": "Nanyang Technological University (NTU Singapore)",
+      "first_posted": "2026-05-28",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "IsoDDE (Isomorphic Labs Drug Design Engine)",
+      "company": "Isomorphic Labs",
+      "first_posted": "2026-05-28",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Prolific Machines Phoromolecular Platform",
+      "company": "Prolific Machines",
+      "first_posted": "2026-05-28",
+      "field": "合成生物学"
+    },
+    {
+      "name": "NextSense Smartbuds (Wireless EEG Earbuds)",
+      "company": "NextSense (Alphabet/Google X spinout)",
+      "first_posted": "2026-05-28",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "YDHB-NS01 Cerebrovascular Intervention Robot",
+      "company": "Yuandao Health Technology / PUMCH",
+      "first_posted": "2026-05-28",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "NASA MoonFall Lunar Hopping Drones",
+      "company": "NASA JPL / Firefly Aerospace",
+      "first_posted": "2026-05-28",
+      "field": "ドローン"
+    },
+    {
+      "name": "Pentasweet Brazzein Sweet Protein Factory",
+      "company": "Pentasweet",
+      "first_posted": "2026-05-28",
+      "field": "合成生物学"
+    },
+    {
+      "name": "IREM-W2MS3 Wearable Sweat Biosensor",
+      "company": "UC Irvine",
+      "first_posted": "2026-05-28",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Blitz / BlitzBox Drone Swarm System",
+      "company": "DZYNE Technologies",
+      "first_posted": "2026-05-28",
+      "field": "ドローン"
+    },
+    {
+      "name": "Synplogen × imec Chip DNA Synthesis Platform",
+      "company": "Synplogen / imec",
+      "first_posted": "2026-05-28",
+      "field": "合成生物学"
     }
   ],
-  "last_updated": "2026-05-27"
+  "last_updated": "2026-05-28"
 }
