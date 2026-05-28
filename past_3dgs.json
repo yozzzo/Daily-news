@@ -325,6 +325,26 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "TideGS", "type": "論文", "first_posted": "2026-05-28", "field": "大規模GS最適化・ICML 2026", "url": "https://arxiv.org/abs/2605.20150"},
+    {"name": "SCOUP (Sparse Code Uplifting)", "type": "論文", "first_posted": "2026-05-28", "field": "言語+3D・高速化", "url": "https://arxiv.org/abs/2605.13600"},
+    {"name": "RxGS", "type": "論文", "first_posted": "2026-05-28", "field": "RF場再構成・無線通信", "url": "https://arxiv.org/abs/2605.24290"},
+    {"name": "GuardMarkGS", "type": "論文", "first_posted": "2026-05-28", "field": "セキュリティ・著作権保護", "url": "https://arxiv.org/abs/2605.12919"},
+    {"name": "Underwater360", "type": "論文", "first_posted": "2026-05-28", "field": "水中3DGS・全方位", "url": "https://arxiv.org/abs/2605.26447"},
+    {"name": "Transcoding 3DGS from Plenoptic Point Cloud or Mesh", "type": "論文", "first_posted": "2026-05-28", "field": "アセット変換・3DGS生成", "url": "https://arxiv.org/abs/2605.21051"},
+    {"name": "GScomp-QA", "type": "論文", "first_posted": "2026-05-28", "field": "圧縮GS品質評価・データセット", "url": "https://arxiv.org/abs/2605.26880"},
+    {"name": "FaceParts (GS Face Segmentation & Swapping)", "type": "論文", "first_posted": "2026-05-28", "field": "アバター顔編集・教師なし分割"},
+    {"name": "SpAItial Echo-2", "type": "ニュース", "first_posted": "2026-05-28", "field": "3D世界生成・ブラウザ対応", "url": "https://radiancefields.com/spaitial-ai-announces-new-model-echo-2"},
+    {"name": "Esri ArcGIS Site Scan May 2026 GS強化", "type": "ニュース", "first_posted": "2026-05-28", "field": "測量・GIS・クラウドGS生成", "url": "https://www.esri.com/arcgis-blog/products/site-scan/imagery/whats-new-in-site-scan-for-arcgis-q2-2026"},
+    {"name": "Esri ArcGIS Reality for ArcGIS Pro May 2026", "type": "ニュース", "first_posted": "2026-05-28", "field": "測量・GIS・品質向上"},
+    {"name": "Netflix Berlin and the Lady with an Ermine × Volinga GS", "type": "ニュース", "first_posted": "2026-05-28", "field": "映像制作・バーチャルプロダクション", "url": "https://web.volinga.ai/"},
+    {"name": "XGRIDS LCC Cloud 商用化", "type": "ニュース", "first_posted": "2026-05-28", "field": "クラウドGSサービス・商用化", "url": "https://lcc-cloud.xgrids.com/"},
+    {"name": "Veesus SolidWorks GS統合", "type": "ニュース", "first_posted": "2026-05-28", "field": "CAD・製造・デジタルツイン", "url": "https://novedge.com/blogs/design-news/veesus-may-2026-updates"},
+    {"name": "geofront NHM Vienna宝石ブーケ3D復元", "type": "ニュース", "first_posted": "2026-05-28", "field": "文化財・博物館・デジタルアーカイブ", "url": "https://www.geofront.eu/"},
+    {"name": "PlayCanvas Engine 2.13", "type": "ツール", "first_posted": "2026-05-28", "field": "WebGSレンダリング・SH動的再評価", "url": "https://radiancefields.com/playcanvas-engine-2-13-expands-unified-gsplat-performance-and-customization"},
+    {"name": "Houdini-gsplat (Plattipus)", "type": "ツール", "first_posted": "2026-05-28", "field": "VFX・HoudiniSolaris・USDネイティブGS", "url": "https://github.com/plattipus/houdini-gsplat"},
+    {"name": "GS公式コードベース新機能 (sparse_adam・アンチエイリアス・TopView)", "type": "ツール", "first_posted": "2026-05-28", "field": "公式コードベース・学習高速化", "url": "https://radiancefields.com/gaussian-splatting-codebase-adds-new-features"},
+    {"name": "XGRIDS LCCフォーマットOSS公開", "type": "コミュニティ", "first_posted": "2026-05-28", "field": "フォーマット標準化・オープンソース", "url": "https://radiancefields.com/xgrids-open-sources-its-lcc-file-format-aims-to-standardize-3dgs-pipelines"},
+    {"name": "Gaussian Splatting: From Billion-Scale Worlds to Intelligent Robot Hands 記事", "type": "コミュニティ", "first_posted": "2026-05-28", "field": "まとめ・SNS拡散", "url": "https://scipapermill.com/2026/05/23/gaussian-splatting-from-billion-scale-worlds-to-intelligent-robot-hands/"}
   ]
 }
