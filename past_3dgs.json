@@ -325,6 +325,27 @@
     {"name": "PIX4Dmatic Pro GS統合", "type": "ニュース", "first_posted": "2026-05-15", "field": "測量・GIS・ドローン・PIX4D", "url": "https://www.geoweeknews.com/sponsored/pix4d-closes-the-loop-with-gaussian-splatting-in-pix4dmatic"},
     {"name": "The New Yorker × Gaussian Splatting Portrait", "type": "ニュース", "first_posted": "2026-05-15", "field": "報道・メディア・文化・ジャーナリズム", "url": "https://radiancefields.com/gaussian-splatting-at-the-new-yorker"},
     {"name": "Postshot V1.1 VRプレビュー・測光補正", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "3DGS処理ツール・VR対応", "url": "https://www.jawset.com"},
-    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver 3DGS論文50件以上", "type": "コミュニティ", "first_posted": "2026-05-15", "field": "カンファレンス・コード公開・論文", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "Eulerian Gaussian Splatting using Hashed Probability Pyramids", "type": "論文", "first_posted": "2026-05-29", "field": "3DGS最適化・確率論的アプローチ", "url": "https://arxiv.org/abs/2605.29136"},
+    {"name": "PG-3DGS", "type": "論文", "first_posted": "2026-05-29", "field": "物理制約付き3DGS", "url": "https://arxiv.org/html/2605.11266v1"},
+    {"name": "AIR (Amortized Image Reconstruction for 2DGS)", "type": "論文", "first_posted": "2026-05-29", "field": "2DGS・フィードフォワード", "url": "https://arxiv.org/abs/2605.20820"},
+    {"name": "FaceParts", "type": "論文", "first_posted": "2026-05-29", "field": "顔GS・パーツ編集", "url": "https://arxiv.org/abs/2605.13853"},
+    {"name": "DSGS (A Single Atlas is All You Need)", "type": "論文", "first_posted": "2026-05-29", "field": "没入型ビデオ・デコーダサイドGS", "url": "https://arxiv.org/abs/2605.17002"},
+    {"name": "Underwater360", "type": "論文", "first_posted": "2026-05-29", "field": "水中3DGS・パノラマ", "url": "https://arxiv.org/abs/2605.26447"},
+    {"name": "RxGS (Receiver-Generalizable RF GS)", "type": "論文", "first_posted": "2026-05-29", "field": "RF信号・通信応用", "url": "https://arxiv.org/abs/2605.24290"},
+    {"name": "GScomp-QA", "type": "論文", "first_posted": "2026-05-29", "field": "GS圧縮品質評価", "url": "https://arxiv.org/abs/2605.26880"},
+    {"name": "ShorterSplatting (CVPR 2026)", "type": "論文", "first_posted": "2026-05-29", "field": "3DGS高速化・CVPR", "url": "https://arxiv.org/abs/2603.09277"},
+    {"name": "Chaos Corona 15 GI for Gaussian Splats", "type": "ニュース", "first_posted": "2026-05-29", "field": "商用CGレンダラー・GI統合", "url": "https://radiancefields.com/corona-15-makes-gaussian-splats-participate-in-global-illumination"},
+    {"name": "Manycore Tech Aholo Viewer OSS 10億スプラット対応", "type": "ニュース", "first_posted": "2026-05-29", "field": "OSSビューア・大規模GS", "url": "https://www.prnewswire.com/news-releases/manycore-tech-open-sources-3d-gaussian-viewer-ushering-in-the-era-of-the-3d-internet-302781474.html"},
+    {"name": "XGRIDS LCC Cloud 商用化 年$800", "type": "ニュース", "first_posted": "2026-05-29", "field": "SLAM+GS・クラウド処理商用化", "url": "https://xgrids.com/lcc"},
+    {"name": "Netflix × Volinga GS バーチャルプロダクション", "type": "ニュース", "first_posted": "2026-05-29", "field": "映像制作・Netflix・LED Volume", "url": "https://web.volinga.ai/how-to-use-gaussian-splats-for-virtual-production/"},
+    {"name": "Geofront × NHM Vienna 宝石花束 70万スプラット", "type": "ニュース", "first_posted": "2026-05-29", "field": "文化財保存・デジタル修復"},
+    {"name": "Esri ArcGIS Reality & Site Scan May 2026 GS強化", "type": "ニュース", "first_posted": "2026-05-29", "field": "GIS・測量・地理空間", "url": "https://www.esri.com/arcgis-blog/products/arcgisrealitystudio/imagery/whats-new-in-arcgis-reality-studio-may-2026/"},
+    {"name": "Veesus SolidWorks GS対応 May 2026", "type": "ニュース", "first_posted": "2026-05-29", "field": "CAD・製造業・GS統合", "url": "https://radiancefields.com/veesus-adds-solidworks-gaussian-splatting-support-in-may-update"},
+    {"name": "houdini-gsplat USD-native GS Houdini Solaris", "type": "コミュニティ", "first_posted": "2026-05-29", "field": "VFXツール・Houdini・USD", "url": "https://forum.aousd.org/t/gaussian-splat-rendering-for-houdini-solaris-built-on-usd-v26-03/2921"},
+    {"name": "大塚商会 × STUDIO55 3DGS建設DXワークショップ大阪", "type": "コミュニティ", "first_posted": "2026-05-29", "field": "日本・建設業・GS実務", "url": "https://www.otsuka-shokai.co.jp/event/region/26/w0521cad/"},
+    {"name": "TREND-POINT 3DGS出力オプション 6月16日リリース予告", "type": "コミュニティ", "first_posted": "2026-05-29", "field": "日本・測量・点群処理", "url": "https://ascii.jp/elem/000/004/402/4402852/"},
+    {"name": "GS From Billion-Scale Worlds to Intelligent Robot Hands 解説記事", "type": "コミュニティ", "first_posted": "2026-05-29", "field": "技術解説・SNS拡散", "url": "https://scipapermill.com/2026/05/23/gaussian-splatting-from-billion-scale-worlds-to-intelligent-robot-hands/"},
+    {"name": "Splatware エンドツーエンドGSプラットフォーム", "type": "コミュニティ", "first_posted": "2026-05-29", "field": "GSプラットフォーム・マーケットプレイス", "url": "https://splatware.com/"}
   ]
 }
