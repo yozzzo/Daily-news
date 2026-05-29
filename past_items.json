@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "google-io-2026-gemini35-spark-xr-glasses-omni-2026-05-19",
+      "title": "Google I/O 2026 大型発表 — Gemini 3.5 Flash・Gemini Spark・Android XR Glasses・Gemini Omni",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "anthropic-claude-opus48-dynamic-workflows-mythos-2026-05-28",
+      "title": "Anthropic「Claude Opus 4.8」正式リリース — Dynamic Workflows・Effort Control・Mythos-Class予告",
+      "company": "Anthropic",
+      "date": "2026-05-28",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "openai-gpt55-gpt55-instant-longcontext-hallucination-2026-04-23",
+      "title": "OpenAI「GPT-5.5」フラッグシップ + 「GPT-5.5 Instant」— 長文脈推論74%・幻覚52.5%削減",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "xai-grok-build-grok-computer-custom-skills-2026-05-14",
+      "title": "xAI「Grok Build」コーディングエージェント + 「Grok Computer」+ Custom Skills",
+      "company": "xAI",
+      "date": "2026-05-14",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "nvidia-vera-rubin-7chips-full-production-2026-05",
+      "title": "NVIDIA「Vera Rubin」プラットフォーム — 7チップ全量産開始・推論コスト10分の1",
+      "company": "NVIDIA",
+      "date": "2026-05-01",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "microsoft-build-2026-windows-ai-agent-platform-2026-06-02",
+      "title": "Microsoft Build 2026 — WindowsをAIエージェントOSに転換・自社コーディングモデル発表予定",
+      "company": "Microsoft",
+      "date": "2026-05-27",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "microsoft-engineers-claude-code-copilot-cli-ai-credits-2026-05-15",
+      "title": "Microsoft、自社エンジニアのClaude Code廃止→GitHub Copilot CLI強制移行 + AI Credits課金制",
+      "company": "Microsoft / GitHub",
+      "date": "2026-05-15",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "genesis-ai-gene265-robotics-fullstack-demo-2026-05-06",
+      "title": "Genesis AI「GENE-26.5」— フルスタックロボティクス基盤モデル公開",
+      "company": "Genesis AI",
+      "date": "2026-05-06",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "anthropic-milan-seoul-office-japan-banks-mythos-2026-05-27",
+      "title": "Anthropic、ミラノ・ソウルオフィス開設 + 日本メガバンク3行にMythos早期アクセス",
+      "company": "Anthropic",
+      "date": "2026-05-27",
+      "delivered": "2026-05-29"
+    },
+    {
+      "id": "nvidia-chip-smuggling-japan-china-2026-05-27",
+      "title": "NVIDIAチップ 日本経由で中国に密輸 — AI半導体サプライチェーンの地政学リスク",
+      "company": "台湾 / 中国 / 日本",
+      "date": "2026-05-27",
+      "delivered": "2026-05-29"
     }
   ]
 }
