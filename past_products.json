@@ -1806,8 +1806,7 @@
       "company": "Skylo Technologies",
       "first_posted": "2026-05-25",
       "field": "技術×バイオ / IoT"
-    }
-  ],
+    },
     {
       "name": "StrainX Precision Fermentation Platform",
       "company": "StrainX Bioworks",
@@ -1867,7 +1866,67 @@
       "company": "AeroLion Technologies",
       "first_posted": "2026-05-27",
       "field": "ドローン"
+    },
+    {
+      "name": "Robeauté",
+      "company": "Robeauté",
+      "first_posted": "2026-05-29",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "CryoBio",
+      "company": "CryoBio",
+      "first_posted": "2026-05-29",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Aquit",
+      "company": "Aquit",
+      "first_posted": "2026-05-29",
+      "field": "生物×IT"
+    },
+    {
+      "name": "JOUAV CW-25H",
+      "company": "JOUAV",
+      "first_posted": "2026-05-29",
+      "field": "ドローン"
+    },
+    {
+      "name": "Palmless",
+      "company": "C16 Biosciences",
+      "first_posted": "2026-05-29",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Adamant Health",
+      "company": "Adamant Health",
+      "first_posted": "2026-05-29",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Onward Medical",
+      "company": "Onward Medical",
+      "first_posted": "2026-05-29",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "PRIMA",
+      "company": "Science Corporation",
+      "first_posted": "2026-05-29",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Melt&Marble",
+      "company": "Melt&Marble",
+      "first_posted": "2026-05-29",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Fermeleta",
+      "company": "Fermeleta",
+      "first_posted": "2026-05-29",
+      "field": "合成生物学"
     }
   ],
-  "last_updated": "2026-05-27"
+  "last_updated": "2026-05-29"
 }
