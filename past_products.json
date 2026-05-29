@@ -1806,8 +1806,7 @@
       "company": "Skylo Technologies",
       "first_posted": "2026-05-25",
       "field": "技術×バイオ / IoT"
-    }
-  ],
+    },
     {
       "name": "StrainX Precision Fermentation Platform",
       "company": "StrainX Bioworks",
@@ -1867,7 +1866,67 @@
       "company": "AeroLion Technologies",
       "first_posted": "2026-05-27",
       "field": "ドローン"
+    },
+    {
+      "name": "Noetik TARIO-2",
+      "company": "Noetik × Agenus",
+      "first_posted": "2026-05-29",
+      "field": "生物×IT"
+    },
+    {
+      "name": "DZYNE Blitz / BlitzBox",
+      "company": "DZYNE Technologies",
+      "first_posted": "2026-05-29",
+      "field": "ドローン"
+    },
+    {
+      "name": "Medtronic Hugo RAS (FDA Clearance)",
+      "company": "Medtronic",
+      "first_posted": "2026-05-29",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "NPU Space BCI（軌道上ワイヤレスBCI検証）",
+      "company": "Northwestern Polytechnical University",
+      "first_posted": "2026-05-29",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Trinity Biotech CGM+",
+      "company": "Trinity Biotech",
+      "first_posted": "2026-05-29",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Nutromics Lab-on-a-Patch",
+      "company": "Nutromics",
+      "first_posted": "2026-05-29",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Anthropic × Coefficient Bio（AI創薬買収）",
+      "company": "Anthropic / Coefficient Bio",
+      "first_posted": "2026-05-29",
+      "field": "生物×IT"
+    },
+    {
+      "name": "J&J OTTAVA Robotic Surgical System",
+      "company": "Johnson & Johnson MedTech",
+      "first_posted": "2026-05-29",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Benchling Model Hub / Biologics",
+      "company": "Benchling",
+      "first_posted": "2026-05-29",
+      "field": "合成生物学"
+    },
+    {
+      "name": "EAVISION J150",
+      "company": "EAVISION",
+      "first_posted": "2026-05-29",
+      "field": "ドローン"
     }
   ],
-  "last_updated": "2026-05-27"
+  "last_updated": "2026-05-29"
 }
