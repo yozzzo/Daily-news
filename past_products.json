@@ -1926,7 +1926,67 @@
       "company": "Fermeleta",
       "first_posted": "2026-05-29",
       "field": "合成生物学"
+    },
+    {
+      "name": "培養皮膚を纏った自律修復型ロボット",
+      "company": "東京大学 竹内昌治教授チーム",
+      "first_posted": "2026-05-30",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "バイオ・コンピューティング・チップ",
+      "company": "The Biological Computing Company (TBC)",
+      "first_posted": "2026-05-30",
+      "field": "生物×IT"
+    },
+    {
+      "name": "極小脳インターフェース (BCI) チップ",
+      "company": "MintNeuro",
+      "first_posted": "2026-05-30",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "子宮内膜症の非侵襲診断 MetriDx",
+      "company": "Hera Biotech",
+      "first_posted": "2026-05-30",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "自律型大型貨物ドローン",
+      "company": "AiR EV & ST Engineering",
+      "first_posted": "2026-05-30",
+      "field": "ドローン"
+    },
+    {
+      "name": "エピジェネティック遺伝子治療",
+      "company": "Tune Therapeutics",
+      "first_posted": "2026-05-30",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "合成生物学による生分解性プラスチック PHA",
+      "company": "Bluepha",
+      "first_posted": "2026-05-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "食品廃棄物のバイオ変換ユニット",
+      "company": "Entomal Biotech",
+      "first_posted": "2026-05-30",
+      "field": "合成生物学 / 環境"
+    },
+    {
+      "name": "AI駆動の次世代肥満治療薬",
+      "company": "Kailera Therapeutics",
+      "first_posted": "2026-05-30",
+      "field": "生物×IT"
+    },
+    {
+      "name": "細胞スケール治療ロボット",
+      "company": "Biohybrid Microrobots",
+      "first_posted": "2026-05-30",
+      "field": "ロボティクス×バイオ"
     }
   ],
-  "last_updated": "2026-05-29"
+  "last_updated": "2026-05-30"
 }
