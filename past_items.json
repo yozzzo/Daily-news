@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-opus48-65b-series-h-2026-05-28",
+      "title": "Anthropic、$650億調達で評価額$9,650億——Claude Opus 4.8 + Dynamic Workflows同日リリース",
+      "company": "Anthropic",
+      "date": "2026-05-28",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "google-io-2026-gemini-35-flash-spark-omni-2026-05-19",
+      "title": "Google I/O 2026: Gemini 3.5 Flash + Gemini Spark + Gemini Omni——エージェントAI時代の幕開け",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "deepseek-v4-pro-75pct-permanent-price-cut-2026-05-25",
+      "title": "DeepSeek V4 Pro、75%値下げを永久化——AI価格戦争が新局面へ",
+      "company": "DeepSeek",
+      "date": "2026-05-25",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "openai-gpt-rosalind-biodefense-2026-05-29",
+      "title": "OpenAI「GPT-Rosalind」+ Rosalind Biodefenseプログラム——生命科学特化AIを政府向け無償提供",
+      "company": "OpenAI",
+      "date": "2026-05-29",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "mistral-medium-35-vibe-remote-agents-2026-05-02",
+      "title": "Mistral「Medium 3.5」リリース——128B MITライセンス・SWE-Bench 77.6%・Vibeリモートエージェント搭載",
+      "company": "Mistral AI",
+      "date": "2026-05-02",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "xai-grok-43-build-01-custom-skills-2026-05-04",
+      "title": "xAI「Grok 4.3」+「Grok Build 0.1」+ Custom Skills——推論内蔵・1Mコンテキスト・コーディング特化モデル",
+      "company": "xAI",
+      "date": "2026-05-04",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "github-copilot-usage-billing-gemini-removed-2026-05",
+      "title": "GitHub Copilot、6月1日から従量課金制移行 + 全Geminiモデル削除",
+      "company": "GitHub / Microsoft",
+      "date": "2026-05-20",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "jal-haneda-humanoid-robot-deployment-2026-05",
+      "title": "日本航空（JAL）、羽田空港にヒューマノイドロボット正式導入——3年間の運用契約",
+      "company": "Japan Airlines / GMO AI & Robotics / Unitree Robotics",
+      "date": "2026-05-01",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "microsoft-nvidia-gtc2026-fairwater-vera-rubin-2026-05",
+      "title": "Microsoft × NVIDIA GTC 2026——FairwaterスーパーファクトリーにVera Rubin NVL72導入・Azure AI大型統合",
+      "company": "Microsoft / NVIDIA",
+      "date": "2026-05-19",
+      "delivered": "2026-05-30"
+    },
+    {
+      "id": "enterprise-ai-cost-rising-model-strategy-2026-05",
+      "title": "エンタープライズAIコストが逆転上昇——モデル選定戦略が企業競争力の鍵に",
+      "company": "業界全体",
+      "date": "2026-05-28",
+      "delivered": "2026-05-30"
     }
   ]
 }
