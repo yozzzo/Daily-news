@@ -1986,6 +1986,66 @@
       "company": "Biohybrid Microrobots",
       "first_posted": "2026-05-30",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "GalaxyVS（銀河虚擬篩選）",
+      "company": "清華大学 × 天津国家スーパーコンピューターセンター",
+      "first_posted": "2026-05-30",
+      "field": "生物×IT"
+    },
+    {
+      "name": "MOTE（超小型無線神経インプラント）",
+      "company": "Cornell大学 × NTU Singapore",
+      "first_posted": "2026-05-30",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "Prolific Machines 光制御バイオ生産プラットフォーム",
+      "company": "Prolific Machines",
+      "first_posted": "2026-05-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "DZYNE Blitz / BlitzBox",
+      "company": "DZYNE Technologies",
+      "first_posted": "2026-05-30",
+      "field": "ドローン"
+    },
+    {
+      "name": "Microsure MUSA-3",
+      "company": "Microsure",
+      "first_posted": "2026-05-30",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Kanvas Biosciences マイクロバイオーム創薬",
+      "company": "Kanvas Biosciences",
+      "first_posted": "2026-05-30",
+      "field": "合成生物学"
+    },
+    {
+      "name": "DenovAI AlphaDesign",
+      "company": "DenovAI",
+      "first_posted": "2026-05-30",
+      "field": "生物×IT"
+    },
+    {
+      "name": "Sentrycs Scout",
+      "company": "Sentrycs",
+      "first_posted": "2026-05-30",
+      "field": "ドローン"
+    },
+    {
+      "name": "DARPA XRQ-73",
+      "company": "DARPA / Northrop Grumman",
+      "first_posted": "2026-05-30",
+      "field": "ドローン"
+    },
+    {
+      "name": "Wandercraft Eve",
+      "company": "Wandercraft",
+      "first_posted": "2026-05-30",
+      "field": "ロボティクス×バイオ"
     }
   ],
   "last_updated": "2026-05-30"
