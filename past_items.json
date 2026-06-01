@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-opus48-65b-series-h-2026-05-28",
+      "title": "Anthropic「Claude Opus 4.8」リリース + 5B Series H調達——評価額65BでOpenAIを超え史上最高額スタートアップに",
+      "company": "Anthropic",
+      "date": "2026-05-28",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "google-io-2026-gemini35-flash-jules-antigravity2-2026-05-19",
+      "title": "Google I/O 2026——Gemini 3.5 Flash（フロンティア比4倍速）+ Jules非同期コーディングエージェント + Antigravity 2.0 IDE発表",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "openai-gpt55-spud-release-agentic-architecture-2026-04-23",
+      "title": "OpenAI「GPT-5.5（Spud）」正式リリース——エージェント指向アーキテクチャ・1Mコンテキスト・Terminal-Bench 82.7%",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-windows-ai-pc-2026-05-31",
+      "title": "NVIDIA「RTX Spark」スーパーチップ発表——128GB統合メモリ・120Bパラメーターモデルをローカル実行・WindowsをAIエージェントOSに",
+      "company": "NVIDIA / Microsoft",
+      "date": "2026-05-31",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "microsoft-build-2026-windows-agent-platform-project-polaris-2026-06-02",
+      "title": "Microsoft Build 2026——Windows AI Agent Platform化・Project PolarisでCopilotのGPT-4を自社モデルに置き換え（8月）",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "deepseek-v4-huawei-ascend-open-source-2026-04-24",
+      "title": "DeepSeek V4リリース——Huawei Ascend 950チップで動くオープンソースAI・中国AI自給自足の象徴的マイルストーン",
+      "company": "DeepSeek / Huawei",
+      "date": "2026-04-24",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "openai-codex-computer-use-windows-goal-mode-ga-2026-05-29",
+      "title": "OpenAI Codex「Computer Use」Windows完全対応 + Goal Mode GA——画面ロック中も継続・スマホからトリガー可能",
+      "company": "OpenAI",
+      "date": "2026-05-29",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "xai-grok4-grok43-grok-build-connectors-2026-05",
+      "title": "xAI「Grok 4 / Grok 4.3」+ Grok Buildコーディングモデル + Connectors——エンタープライズ統合とエージェントコーディング強化",
+      "company": "xAI",
+      "date": "2026-05-14",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "meta-avocado-closed-source-pivot-llama-end-2026",
+      "title": "Meta「Avocado」——Llamaのオープンソース路線を終了し完全クローズドソース・有料モデルへ転換",
+      "company": "Meta",
+      "date": "2026-05-01",
+      "delivered": "2026-06-01"
+    },
+    {
+      "id": "apple-wwdc-2026-siri-20-ios27-third-party-ai-2026-06-08",
+      "title": "Apple WWDC 2026（6/8開幕）プレビュー——iOS 27でSiri 2.0全面刷新・Claude/Geminiのサードパーティ統合「Extensions」機能",
+      "company": "Apple",
+      "date": "2026-06-08",
+      "delivered": "2026-06-01"
     }
   ]
 }
