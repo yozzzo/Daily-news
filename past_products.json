@@ -1986,6 +1986,66 @@
       "company": "Biohybrid Microrobots",
       "first_posted": "2026-05-30",
       "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Alex Conley Mind Drone Control",
+      "company": "Neuralink",
+      "first_posted": "2026-06-01",
+      "field": "脳波/BCI"
+    },
+    {
+      "name": "MetriDx",
+      "company": "Hera Biotech",
+      "first_posted": "2026-06-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "nia F01",
+      "company": "YZi Labs",
+      "first_posted": "2026-06-01",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "Bio-hybrid Exoskeleton",
+      "company": "Tel Aviv University",
+      "first_posted": "2026-06-01",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "EMBC Unit",
+      "company": "Entomal Biotech",
+      "first_posted": "2026-06-01",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Gene-tuning Therapy",
+      "company": "Tune Therapeutics",
+      "first_posted": "2026-06-01",
+      "field": "合成生物学"
+    },
+    {
+      "name": "Crustacean Abdomen Robot",
+      "company": "Royal Marine / Bio-hybrid",
+      "first_posted": "2026-06-01",
+      "field": "ロボティクス×バイオ"
+    },
+    {
+      "name": "DJI Lito X1",
+      "company": "DJI",
+      "first_posted": "2026-06-01",
+      "field": "ドローン"
+    },
+    {
+      "name": "FAST-PASE",
+      "company": "ATANIS Biotech",
+      "first_posted": "2026-06-01",
+      "field": "技術×バイオ"
+    },
+    {
+      "name": "Ocean Mortadella",
+      "company": "NewFish",
+      "first_posted": "2026-06-01",
+      "field": "合成生物学"
     }
   ],
   "last_updated": "2026-05-30"
