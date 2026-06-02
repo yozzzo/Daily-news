@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-computex-2026-06-01",
+      "title": "NVIDIA RTX Spark スーパーチップ発表 — ARMベースPCでパーソナルAIエージェント元年",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "microsoft-build-2026-ai-agents-windows-2026-06-02",
+      "title": "Microsoft Build 2026 — Windows を AI エージェントのための OS に再定義",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "google-io-2026-gemini35-flash-antigravity2-2026-05-19",
+      "title": "Google I/O 2026 — Gemini 3.5 Flash + Antigravity 2.0 でアジェンティックAI全面展開",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "openai-gpt55-spud-official-release-2026-04-23",
+      "title": "OpenAI GPT-5.5（Spud）正式リリース — SWE-bench 88.7%、幻覚60%削減",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "deepseek-v4-open-weights-mit-release-2026-04-24",
+      "title": "DeepSeek V4 オープンウェイトリリース — 1.6Tパラメータ × MITライセンス × 1Mコンテキスト",
+      "company": "DeepSeek",
+      "date": "2026-04-24",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "anthropic-claude-opus47-release-2026-04-16",
+      "title": "Anthropic Claude Opus 4.7 正式リリース — コーディング13%向上、Cyber Verification Program開始",
+      "company": "Anthropic",
+      "date": "2026-04-16",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "xai-grok-v9-medium-training-complete-2026-05-28",
+      "title": "xAI Grok V9-Medium — 1.5Tパラメータ × Cursorワークフロー学習、6月中旬リリース予定",
+      "company": "xAI",
+      "date": "2026-05-28",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "sony-ai-project-ace-nature-robotics-2026-05-14",
+      "title": "Sony AI Project Ace — 世界初、プロの卓球選手を倒した自律ロボット、Nature掲載",
+      "company": "Sony AI",
+      "date": "2026-05-14",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "apple-wwdc-2026-siri-ios27-ai-overhaul-2026-06-02",
+      "title": "Apple WWDC 2026 — Siri全面リニューアルとiOS 27サードパーティAI開放を発表予定",
+      "company": "Apple",
+      "date": "2026-06-02",
+      "delivered": "2026-06-02"
+    },
+    {
+      "id": "meta-avocado-closed-source-pivot-2026-06-01",
+      "title": "Meta Avocado — オープンソース路線を離脱、クローズドソース有料APIモデルへ転換",
+      "company": "Meta",
+      "date": "2026-06-01",
+      "delivered": "2026-06-02"
     }
   ]
 }
