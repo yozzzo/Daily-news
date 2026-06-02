@@ -1,2052 +1,2092 @@
 {
-  "description": "過去に配信済みのプロダクト一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
-  "products": [
-    {
-      "name": "Synchron Stentrode",
-      "company": "Synchron",
-      "first_posted": "2026-03-24",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "Anthrobots",
-      "company": "Tufts大学 / Harvard Wyss Institute",
-      "first_posted": "2026-03-24",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Organoid Intelligence",
-      "company": "Johns Hopkins大学 / Cortical Labs",
-      "first_posted": "2026-03-24",
-      "field": "バイオコンピューティング"
-    },
-    {
-      "name": "Axoft Fleuron",
-      "company": "Axoft",
-      "first_posted": "2026-03-24",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "Smellicopter",
-      "company": "米空軍 / ワシントン大学",
-      "first_posted": "2026-03-24",
-      "field": "ドローン×バイオ"
-    },
-    {
-      "name": "AQEMIA",
-      "company": "AQEMIA",
-      "first_posted": "2026-03-24",
-      "field": "AI創薬"
-    },
-    {
-      "name": "Iridia",
-      "company": "Iridia",
-      "first_posted": "2026-03-24",
-      "field": "DNAストレージ"
-    },
-    {
-      "name": "InBrain Neuroelectronics",
-      "company": "InBrain Neuroelectronics",
-      "first_posted": "2026-03-24",
-      "field": "脳インプラント"
-    },
-    {
-      "name": "SkyDrive SD-05",
-      "company": "SkyDrive",
-      "first_posted": "2026-03-24",
-      "field": "eVTOL・ドローン"
-    },
-    {
-      "name": "Bluepha",
-      "company": "Bluepha",
-      "first_posted": "2026-03-24",
-      "field": "合成生物学"
-    },
-    {
-      "name": "NEO（侵襲型BCI）",
-      "company": "Neuracle Medical Technology",
-      "first_posted": "2026-03-25",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "Magnetically Controlled Liquid Metal Robots",
-      "company": "Sun Yat-sen University",
-      "first_posted": "2026-03-25",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "SpliceBio Gene Therapy Platform",
-      "company": "SpliceBio",
-      "first_posted": "2026-03-25",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Revolutionary Artificial Muscle",
-      "company": "UNIST（蔚山科学技術院）",
-      "first_posted": "2026-03-25",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Pain Perception Sharing Technology",
-      "company": "NTTドコモ & PaMeLa Inc.",
-      "first_posted": "2026-03-25",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "Non-invasive Blood Glucose Sensor",
-      "company": "Light Touch Technology (LTT) Inc.",
-      "first_posted": "2026-03-25",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Zipline Autonomous Medical Delivery",
-      "company": "Zipline",
-      "first_posted": "2026-03-25",
-      "field": "ドローン"
-    },
-    {
-      "name": "Xsensio Lab-on-Skin Wearable Chip",
-      "company": "Xsensio",
-      "first_posted": "2026-03-25",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Allozymes Next-gen Enzyme Engineering Platform",
-      "company": "Allozymes",
-      "first_posted": "2026-03-25",
-      "field": "合成生物学"
-    },
-    {
-      "name": "MetriDx™ Endometriosis Diagnostic Test",
-      "company": "Hera Biotech",
-      "first_posted": "2026-03-25",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Wearable Ultrasound Imaging System",
-      "company": "MIT / Nanyang Technological University / National University of Singapore",
-      "first_posted": "2026-03-25",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Festo BionicBee",
-      "company": "Festo",
-      "first_posted": "2026-03-25",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "HAL BCI外骨格",
-      "company": "Cyberdyne Corporation",
-      "first_posted": "2026-03-25",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "Spiber Brewed Protein",
-      "company": "Spiber, Inc.",
-      "first_posted": "2026-03-25",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Microneedle Wearable Platform",
-      "company": "Technion-Israel Institute of Technology",
-      "first_posted": "2026-03-25",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "String Bio Methane-to-Protein",
-      "company": "String Bio",
-      "first_posted": "2026-03-25",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Neural Drone Swarms (BCI制御)",
-      "company": "Israel Defense Ministry (DDR&D)",
-      "first_posted": "2026-03-25",
-      "field": "ドローン×BCI"
-    },
-    {
-      "name": "GrowHR Shape-Shifting Humanoid Robot",
-      "company": "Southern University of Science and Technology",
-      "first_posted": "2026-03-25",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Mammoth Biosciences CRISPR Diagnostics",
-      "company": "Mammoth Biosciences",
-      "first_posted": "2026-03-25",
-      "field": "生物×IT"
-    },
-    {
-      "name": "SPYDER Ship-Climbing Robot",
-      "company": "ST Engineering / HTX / Singapore Police Coast Guard",
-      "first_posted": "2026-03-25",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Living Pancreas Implant（生きた人工膵臓）",
-      "company": "Technion – Israel Institute of Technology",
-      "first_posted": "2026-03-26",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "X-Cell Virtual Cell Model",
-      "company": "Xaira Therapeutics",
-      "first_posted": "2026-03-26",
-      "field": "生物×IT"
-    },
-    {
-      "name": "LIFESCAPES 治療用BMI",
-      "company": "株式会社LIFESCAPES",
-      "first_posted": "2026-03-26",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Gestala 非侵襲型超音波BCI",
-      "company": "Gestala",
-      "first_posted": "2026-03-26",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "OstraBot 自己訓練筋肉駆動水泳ロボット",
-      "company": "National University of Singapore",
-      "first_posted": "2026-03-26",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "多関節バイオハイブリッドロボット",
-      "company": "東京大学大学院情報理工学系研究科",
-      "first_posted": "2026-03-26",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "AVATAAR 空中・水中両用ドローン",
-      "company": "AquaAirX Autonomous Systems",
-      "first_posted": "2026-03-26",
-      "field": "ドローン"
-    },
-    {
-      "name": "Melt&Marble デザイナー脂肪",
-      "company": "Melt&Marble",
-      "first_posted": "2026-03-26",
-      "field": "合成生物学"
-    },
-    {
-      "name": "SSi Mantra 手術ロボット",
-      "company": "SS Innovations International",
-      "first_posted": "2026-03-26",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Sniffbot バッタ触角搭載バイオハイブリッドロボット",
-      "company": "Tel Aviv University",
-      "first_posted": "2026-03-26",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "NEO 侵襲型BCI（商業承認）",
-      "company": "Neuracle Medical Technology（博睿康医疗科技）",
-      "first_posted": "2026-03-27",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Kairo-CONAN",
-      "company": "東京大学医科学研究所",
-      "first_posted": "2026-03-27",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Everdrone E3",
-      "company": "Everdrone",
-      "first_posted": "2026-03-27",
-      "field": "ドローン"
-    },
-    {
-      "name": "Precision Neuroscience Layer 7",
-      "company": "Precision Neuroscience",
-      "first_posted": "2026-03-27",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "ETH Zurich Magnetic Microrobots",
-      "company": "ETH Zurich",
-      "first_posted": "2026-03-27",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "NHS Liquid Biopsy（ctDNA）",
-      "company": "NHS England",
-      "first_posted": "2026-03-27",
-      "field": "生物×IT"
-    },
-    {
-      "name": "XAG P150 Max",
-      "company": "XAG（極飞科技）",
-      "first_posted": "2026-03-27",
-      "field": "ドローン"
-    },
-    {
-      "name": "JiMED wiBMI",
-      "company": "JiMED Inc.",
-      "first_posted": "2026-03-27",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "InkSight",
-      "company": "TUM-LMU Munich",
-      "first_posted": "2026-03-27",
-      "field": "合成生物学"
-    },
-    {
-      "name": "MicroPort MedBot Toumai",
-      "company": "MicroPort MedBot（微创机器人）",
-      "first_posted": "2026-03-27",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Matricelf バイオエンジニアリング脊髄インプラント",
-      "company": "Matricelf / Tel Aviv University",
-      "first_posted": "2026-03-28",
-      "field": "ロボティクス×バイオ / 技術×バイオ"
-    },
-    {
-      "name": "Merge Labs 超音波非侵襲型BCI",
-      "company": "Merge Labs",
-      "first_posted": "2026-03-28",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "BISC（Biological Interface System to Cortex）",
-      "company": "Kampto Neurotech / Columbia University / Stanford University",
-      "first_posted": "2026-03-28",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Earendil Labs AI生物製剤設計プラットフォーム",
-      "company": "Earendil Labs",
-      "first_posted": "2026-03-28",
-      "field": "生物×IT"
-    },
-    {
-      "name": "東京大学×早稲田大学 バイオハイブリッドハンド",
-      "company": "東京大学・早稲田大学",
-      "first_posted": "2026-03-28",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Iambic Therapeutics AI低分子創薬プラットフォーム",
-      "company": "Iambic Therapeutics",
-      "first_posted": "2026-03-28",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Biomemory × Catalog Technologies DNAデータストレージ",
-      "company": "Biomemory / Catalog Technologies",
-      "first_posted": "2026-03-28",
-      "field": "合成生物学"
-    },
-    {
-      "name": "JOUAV CW-25H 水素燃料電池VTOLドローン",
-      "company": "JOUAV",
-      "first_posted": "2026-03-28",
-      "field": "ドローン"
-    },
-    {
-      "name": "iLiNP® 脂質ナノ粒子製造システム",
-      "company": "信越化学工業 × 北海道大学",
-      "first_posted": "2026-03-28",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "GBrain Phin Stim 完全埋め込み型神経刺激システム",
-      "company": "GBrain",
-      "first_posted": "2026-03-28",
-      "field": "技術×バイオ / 脳波/BCI"
-    },
-    {
-      "name": "Insilico Medicine × Eli Lilly AI創薬ディール",
-      "company": "Insilico Medicine / Eli Lilly",
-      "first_posted": "2026-03-29",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Science Corp. PRIMA 網膜インプラント",
-      "company": "Science Corporation",
-      "first_posted": "2026-03-29",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Cortical Labs CL1 脳細胞データセンター",
-      "company": "Cortical Labs",
-      "first_posted": "2026-03-29",
-      "field": "合成生物学 / バイオコンピューティング"
-    },
-    {
-      "name": "HOBIT 体内生きた薬局インプラント",
-      "company": "Rice大学 / Carnegie Mellon大学 / Northwestern大学",
-      "first_posted": "2026-03-29",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "NUS AI遺伝子編集ツール（SsdAtox強化版）",
-      "company": "NUS Medicine",
-      "first_posted": "2026-03-29",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Versius Plus 手術ロボット",
-      "company": "CMR Surgical",
-      "first_posted": "2026-03-29",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Senti Biosciences SENTI-202 遺伝子回路",
-      "company": "Senti Biosciences",
-      "first_posted": "2026-03-29",
-      "field": "合成生物学"
-    },
-    {
-      "name": "東京理科大 汗発電ウェアラブルパッチ",
-      "company": "東京理科大学",
-      "first_posted": "2026-03-29",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "DrN-600 eVTOLドローン",
-      "company": "AIR × ST Engineering",
-      "first_posted": "2026-03-29",
-      "field": "ドローン"
-    },
-    {
-      "name": "インド 人間搭乗型ドローン救急車",
-      "company": "アンドラ・プラデーシュ州政府 × アンナ大学",
-      "first_posted": "2026-03-29",
-      "field": "ドローン"
-    },
-    {
-      "name": "Element Biosciences VITARI",
-      "company": "Element Biosciences",
-      "first_posted": "2026-03-30",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Generate Biomedicines",
-      "company": "Generate Biomedicines",
-      "first_posted": "2026-03-30",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Rubi Laboratories",
-      "company": "Rubi Laboratories",
-      "first_posted": "2026-03-30",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Strand Therapeutics STX-001",
-      "company": "Strand Therapeutics",
-      "first_posted": "2026-03-30",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Tune Therapeutics TUNE-401",
-      "company": "Tune Therapeutics",
-      "first_posted": "2026-03-30",
-      "field": "合成生物学"
-    },
-    {
-      "name": "EHang EH216-S",
-      "company": "EHang",
-      "first_posted": "2026-03-30",
-      "field": "ドローン"
-    },
-    {
-      "name": "bit.bio",
-      "company": "bit.bio",
-      "first_posted": "2026-03-30",
-      "field": "合成生物学"
-    },
-    {
-      "name": "inne Minilab",
-      "company": "inne",
-      "first_posted": "2026-03-30",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "LumiMind",
-      "company": "LumiMind",
-      "first_posted": "2026-03-30",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "MOLCURE",
-      "company": "MOLCURE Inc.",
-      "first_posted": "2026-03-30",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Flow Neuroscience FL-100",
-      "company": "Flow Neuroscience",
-      "first_posted": "2026-03-31",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Cellino Biotech Nebula",
-      "company": "Cellino Biotech",
-      "first_posted": "2026-03-31",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "CRISPR Therapeutics CTX310",
-      "company": "CRISPR Therapeutics",
-      "first_posted": "2026-03-31",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Basecamp Research Trillion Gene Atlas",
-      "company": "Basecamp Research",
-      "first_posted": "2026-03-31",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Maholo Cellafa Bioscience",
-      "company": "Cellafa Bioscience",
-      "first_posted": "2026-03-31",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Naqi Neural Earbuds",
-      "company": "Naqi Logix",
-      "first_posted": "2026-03-31",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Ruten Swallow Autopilot",
-      "company": "Ruten Inc.",
-      "first_posted": "2026-03-31",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "AeroVironment Red Dragon",
-      "company": "AeroVironment",
-      "first_posted": "2026-03-31",
-      "field": "ドローン"
-    },
-    {
-      "name": "EPFL Optovolution",
-      "company": "EPFL",
-      "first_posted": "2026-03-31",
-      "field": "合成生物学"
-    },
-    {
-      "name": "ReWalk Personal Exoskeleton",
-      "company": "Lifeward",
-      "first_posted": "2026-03-31",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "AlphaGenome",
-      "company": "Google DeepMind",
-      "first_posted": "2026-04-01",
-      "field": "生物×IT"
-    },
-    {
-      "name": "腸脳インプラント（Gut-Brain Implant）",
-      "company": "Dartmouth Engineering / University of Cambridge",
-      "first_posted": "2026-04-01",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Neuralink N1 implant",
-      "company": "Neuralink",
-      "first_posted": "2026-04-01",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Impli 体内埋め込み型ホルモンセンサー",
-      "company": "Impli",
-      "first_posted": "2026-04-01",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "光合成性生体材料（Photosynthetic Living Material）",
-      "company": "ETH Zurich関連研究者ら（多国籍）",
-      "first_posted": "2026-04-01",
-      "field": "合成生物学"
-    },
-    {
-      "name": "AutoFlight V2000CG CarryAll",
-      "company": "AutoFlight",
-      "first_posted": "2026-04-01",
-      "field": "ドローン"
-    },
-    {
-      "name": "NeuroXess BCIインプラント",
-      "company": "NeuroXess",
-      "first_posted": "2026-04-01",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "ETH Zurich 筋骨格バイオハイブリッドシステム",
-      "company": "ETH Zurich Soft Robotics Lab / IBEC Barcelona",
-      "first_posted": "2026-04-01",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "ふじのくにHOPEオンコパネル",
-      "company": "エスアールエル / 静岡がんセンター",
-      "first_posted": "2026-04-01",
-      "field": "生物×IT"
-    },
-    {
-      "name": "PROPEL",
-      "company": "EUコンソーシアム（EIC Pathfinder）",
-      "first_posted": "2026-04-01",
-      "field": "合成生物学"
-    },
-    {
-      "name": "MIT Myoneural Actuator（MNA）",
-      "company": "MIT Media Lab / K. Lisa Yang Center for Bionics",
-      "first_posted": "2026-04-02",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Epia Neuro",
-      "company": "Epia Neuro",
-      "first_posted": "2026-04-02",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "フィジオロガス・テクノロジーズ 給水不要在宅透析装置",
-      "company": "フィジオロガス・テクノロジーズ株式会社",
-      "first_posted": "2026-04-02",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Epoch Biodesign",
-      "company": "Epoch Biodesign",
-      "first_posted": "2026-04-02",
-      "field": "合成生物学"
-    },
-    {
-      "name": "StairMed Technology",
-      "company": "StairMed Technology（阶梯医疗）",
-      "first_posted": "2026-04-02",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "LEM Surgical Dynamis",
-      "company": "LEM Surgical",
-      "first_posted": "2026-04-02",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Sensofusion Tactical Drone Factory",
-      "company": "Sensofusion",
-      "first_posted": "2026-04-02",
-      "field": "ドローン"
-    },
-    {
-      "name": "Mid-America Transplant 臓器輸送ドローン回廊",
-      "company": "Mid-America Transplant × Valkyrie UAS Solutions × Missouri S&T",
-      "first_posted": "2026-04-02",
-      "field": "ドローン"
-    },
-    {
-      "name": "ARAYA × Fluent BCI 音声デコーディングBCI",
-      "company": "株式会社ARAYA × Fluent BCI",
-      "first_posted": "2026-04-02",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Vaxxas HD-MAP",
-      "company": "Vaxxas",
-      "first_posted": "2026-04-02",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Neurobots",
-      "company": "Wyss Institute (Harvard) × Tufts大学",
-      "first_posted": "2026-04-03",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "MeMed BV Flex",
-      "company": "MeMed",
-      "first_posted": "2026-04-03",
-      "field": "生物×IT"
-    },
-    {
-      "name": "BRAIN.Q Home Stroke Recovery",
-      "company": "BrainQ Technologies",
-      "first_posted": "2026-04-03",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "アセロラ由来ナノ小胞CRISPR/Cas9脳送達",
-      "company": "東京医科大学",
-      "first_posted": "2026-04-03",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Waterloo Magnetic Soft Robot (Kidney Stone)",
-      "company": "University of Waterloo",
-      "first_posted": "2026-04-03",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "MSU TriMag Microrobots",
-      "company": "Michigan State University × Henry Ford Health",
-      "first_posted": "2026-04-03",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Zenith Genomics",
-      "company": "Natera",
-      "first_posted": "2026-04-03",
-      "field": "生物×IT"
-    },
-    {
-      "name": "AIR ONE eVTOL",
-      "company": "AIR",
-      "first_posted": "2026-04-03",
-      "field": "ドローン・eVTOL"
-    },
-    {
-      "name": "Brain Interchange System",
-      "company": "CorTec GmbH",
-      "first_posted": "2026-04-03",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "ARPA-H Delphi Program",
-      "company": "ARPA-H",
-      "first_posted": "2026-04-03",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "CL1 Biological Data Centre",
-      "company": "Cortical Labs",
-      "first_posted": "2026-04-04",
-      "field": "合成生物学 / バイオコンピューティング"
-    },
-    {
-      "name": "RegCell Treg Cell Therapy Platform",
-      "company": "RegCell Inc.",
-      "first_posted": "2026-04-04",
-      "field": "生物×IT / 細胞療法"
-    },
-    {
-      "name": "Terra A1 Interceptor Drone",
-      "company": "Terra Drone × Amazing Drones",
-      "first_posted": "2026-04-04",
-      "field": "ドローン（防衛・迎撃）"
-    },
-    {
-      "name": "AI AutoVision",
-      "company": "Diagens Biotechnology",
-      "first_posted": "2026-04-04",
-      "field": "生物×IT / AI診断"
-    },
-    {
-      "name": "Guardian DFR Drone",
-      "company": "BRINC",
-      "first_posted": "2026-04-04",
-      "field": "ドローン（緊急対応）"
-    },
-    {
-      "name": "DOT Therapeutic BCI",
-      "company": "Motif Neurotech",
-      "first_posted": "2026-04-04",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "LIBERTY Endovascular Robot",
-      "company": "Microbot Medical",
-      "first_posted": "2026-04-04",
-      "field": "ロボティクス×バイオ（血管内手術）"
-    },
-    {
-      "name": "AI Liquid Biopsy for Liver Fibrosis",
-      "company": "Johns Hopkins Medicine",
-      "first_posted": "2026-04-04",
-      "field": "生物×IT / 液体生検"
-    },
-    {
-      "name": "EvORanker",
-      "company": "Hebrew University of Jerusalem",
-      "first_posted": "2026-04-04",
-      "field": "生物×IT / 希少疾患診断"
-    },
-    {
-      "name": "Ceglu Organoid Collaborative Research Platform",
-      "company": "積水化学工業 × ニコン",
-      "first_posted": "2026-04-04",
-      "field": "技術×バイオ / オルガノイド"
-    },
-    {
-      "name": "Anduril YFQ-44A Fury",
-      "company": "Anduril Industries",
-      "first_posted": "2026-04-05",
-      "field": "防衛ドローン"
-    },
-    {
-      "name": "Skycutter SkyFall Shrike 10 Fiber",
-      "company": "Skycutter / SkyFall",
-      "first_posted": "2026-04-05",
-      "field": "防衛ドローン"
-    },
-    {
-      "name": "Form Energy Iron Air Battery 30GWh",
-      "company": "Form Energy",
-      "first_posted": "2026-04-05",
-      "field": "エネルギー貯蔵"
-    },
-    {
-      "name": "Vast Haven-1",
-      "company": "Vast Space",
-      "first_posted": "2026-04-05",
-      "field": "宇宙インフラ"
-    },
-    {
-      "name": "EPFL CSEM Perovskite Triple Junction 30.02%",
-      "company": "EPFL / CSEM",
-      "first_posted": "2026-04-05",
-      "field": "クリーンエネルギー"
-    },
-    {
-      "name": "Starlab Commercial Space Station",
-      "company": "Starlab Space (Voyager Space x Airbus)",
-      "first_posted": "2026-04-05",
-      "field": "宇宙インフラ"
-    },
-    {
-      "name": "Mach Industries Divergent Venom",
-      "company": "Mach Industries / Divergent Technologies",
-      "first_posted": "2026-04-05",
-      "field": "防衛ドローン"
-    },
-    {
-      "name": "Quaise Energy Project Obsidian",
-      "company": "Quaise Energy",
-      "first_posted": "2026-04-05",
-      "field": "クリーンエネルギー"
-    },
-    {
-      "name": "Rondo Energy Covestro Heat Battery",
-      "company": "Rondo Energy / Covestro",
-      "first_posted": "2026-04-05",
-      "field": "クリーンエネルギー"
-    },
-    {
-      "name": "Isar Aerospace Spectrum Onward and Upward",
-      "company": "Isar Aerospace",
-      "first_posted": "2026-04-05",
-      "field": "宇宙輸送"
-    },
-    {
-      "name": "StemEdit (clinical gene editing services)",
-      "company": "REPROCELL",
-      "first_posted": "2026-04-06",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "AI-Powered Autonomous Drone Swarm Technology",
-      "company": "SIRBAI",
-      "first_posted": "2026-04-06",
-      "field": "ドローン"
-    },
-    {
-      "name": "独自のAI品種開発プロセス",
-      "company": "株式会社CULTA",
-      "first_posted": "2026-04-06",
-      "field": "合成生物学"
-    },
-    {
-      "name": "AlphaFold-powered drug design engine",
-      "company": "Isomorphic Labs (Alphabet/Google DeepMind spinout)",
-      "first_posted": "2026-04-06",
-      "field": "生物×IT"
-    },
-    {
-      "name": "医療用医薬品のドローン本格配送サービス",
-      "company": "そらいいな株式会社",
-      "first_posted": "2026-04-06",
-      "field": "ドローン"
-    },
-    {
-      "name": "Trojan Horse delivery platform",
-      "company": "Trogenix",
-      "first_posted": "2026-04-06",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Heavy-Duty Drones",
-      "company": "ABZ Innovation",
-      "first_posted": "2026-04-06",
-      "field": "ドローン"
-    },
-    {
-      "name": "Exai-1",
-      "company": "Exai Bio",
-      "first_posted": "2026-04-06",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Hybrid Drone Propulsion System",
-      "company": "Elbit Systems / Lowental Hybrid Ltd.",
-      "first_posted": "2026-04-06",
-      "field": "ドローン"
-    },
-    {
-      "name": "Genomic screening platform (VNARs)",
-      "company": "Elasmogen",
-      "first_posted": "2026-04-06",
-      "field": "合成生物学"
-    },
-    {
-      "name": "PRIMA BCI Retinal Implant",
-      "company": "Science Corporation",
-      "first_posted": "2026-04-07",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "West China Hospital International Remote Robotic Surgery Center",
-      "company": "Sichuan University West China Hospital",
-      "first_posted": "2026-04-07",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Generare Microbial Genome Drug Discovery Platform",
-      "company": "Generare",
-      "first_posted": "2026-04-07",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Biolinq Shine Needle-Free CGM",
-      "company": "Biolinq",
-      "first_posted": "2026-04-07",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Organ-on-a-Chip Aging Acceleration System",
-      "company": "UC Berkeley Stahl Lab",
-      "first_posted": "2026-04-07",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "ScalaOS AI Protein Design Platform",
-      "company": "Scala Biodesign",
-      "first_posted": "2026-04-07",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Merops Counter-Drone AI System",
-      "company": "Perennial Autonomy",
-      "first_posted": "2026-04-07",
-      "field": "ドローン"
-    },
-    {
-      "name": "Living Sensor Display",
-      "company": "University of Tokyo",
-      "first_posted": "2026-04-07",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "TigerShark Autonomous Deep Strike Drone",
-      "company": "MGI Engineering",
-      "first_posted": "2026-04-07",
-      "field": "ドローン"
-    },
-    {
-      "name": "Cell-Free Hyaluronic Acid Production",
-      "company": "Enzymit",
-      "first_posted": "2026-04-07",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Cancerguard",
-      "company": "Exact Sciences",
-      "first_posted": "2026-04-08",
-      "field": "生物×IT"
-    },
-    {
-      "name": "rentosertib",
-      "company": "Insilico Medicine",
-      "first_posted": "2026-04-08",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Aspect Biosystems Bioprinted Cell Therapy",
-      "company": "Aspect Biosystems",
-      "first_posted": "2026-04-08",
-      "field": "合成生物学"
-    },
-    {
-      "name": "NEO BCI",
-      "company": "Borui Kang Medical Technology / Neuracle",
-      "first_posted": "2026-04-08",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "MIT Myoneural Actuator (MNA)",
-      "company": "MIT Media Lab",
-      "first_posted": "2026-04-08",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "JUV-161",
-      "company": "Juvena Therapeutics",
-      "first_posted": "2026-04-08",
-      "field": "生物×IT"
-    },
-    {
-      "name": "ENV-294",
-      "company": "Enveda Therapeutics",
-      "first_posted": "2026-04-08",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Arrive Points",
-      "company": "Arrive AI",
-      "first_posted": "2026-04-08",
-      "field": "ドローン"
-    },
-    {
-      "name": "BB-EIT",
-      "company": "理化学研究所",
-      "first_posted": "2026-04-08",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Jellyfish Stinging Capsule Biohybrid Microrobot",
-      "company": "Tel Aviv University / Haifa University",
-      "first_posted": "2026-04-08",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "BISC (Biological Interface System to Cortex)",
-      "company": "Columbia University / Stanford University / University of Pennsylvania / Kampto Neurotech",
-      "first_posted": "2026-04-09",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Personalized RNA drug (ASO技術) - GNAO1治療",
-      "company": "Sheba Medical Center",
-      "first_posted": "2026-04-09",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Viva Kompact",
-      "company": "Vivance (旧AWAK Technologies)",
-      "first_posted": "2026-04-09",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Compostable Soft Robotic System",
-      "company": "Seoul National University / Sogang University / Johannes Kepler University Linz",
-      "first_posted": "2026-04-09",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Xsensio Lab-on-Skin Sensing Platform",
-      "company": "Xsensio",
-      "first_posted": "2026-04-09",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Spiber Brewed Protein fiber",
-      "company": "Spiber Inc.",
-      "first_posted": "2026-04-09",
-      "field": "合成生物学"
-    },
-    {
-      "name": "ProFerm",
-      "company": "Perfect Day",
-      "first_posted": "2026-04-09",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Walking Biohybrid Robot with Embedded Conductive Fibers",
-      "company": "Northwestern University / Georgia Tech / Carnegie Mellon / University of Notre Dame",
-      "first_posted": "2026-04-09",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "CyberneX XHOLOS Ear Brain Interface",
-      "company": "株式会社CyberneX",
-      "first_posted": "2026-04-09",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "新型バイオ3Dプリンタ (サイフューズ×NSK)",
-      "company": "株式会社サイフューズ × NSK（日本精工）",
-      "first_posted": "2026-04-09",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "TRG-035 (Tooth Regrowing Drug)",
-      "company": "京都大学病院",
-      "country": "日本",
-      "field": "技術×バイオ",
-      "date": "2026-04-10",
-      "summary": "USAG-1タンパク質を阻害することで歯の再生を促す薬剤。マウスとフェレットでの動物実験で成功し、現在京都大学病院でヒト臨床試験中。2030年までの実用化を目指す。",
-      "urls": [
-        "https://www.instagram.com/p/DW7lto0CQwu/"
-      ],
-      "score": 9
-    },
-    {
-      "name": "Genos",
-      "company": "BGI Research",
-      "country": "中国",
-      "field": "生物×IT",
-      "date": "2026-04-10",
-      "summary": "世界初の100億パラメータのオープンソースHuman-Centricゲノム基盤モデル。非コード領域の分析を改善し、単一塩基分解能でシグナルを特定する。",
-      "urls": [
-        "https://en.genomics.cn/en-news-7477.html"
-      ],
-      "score": 9
-    },
-    {
-      "name": "MIMIC™ AI Drug Discovery Platform",
-      "company": "Metaphore Biotechnologies",
-      "country": "米国",
-      "field": "生物×IT",
-      "date": "2026-04-10",
-      "summary": "生体内の「機能」を起点に抗体を設計する独自のAI創薬プラットフォーム。大規模な機能データと動的なタンパク質相互作用情報をAIで統合解析し、アゴニスト抗体や多機能抗体などの創出が可能。",
-      "urls": [
-        "https://prtimes.jp/main/html/rd/p/000000578.000047342.html"
-      ],
-      "score": 9
-    },
-    {
-      "name": "Guardant Reveal",
-      "company": "Guardant Health",
-      "country": "米国",
-      "field": "生物×IT",
-      "date": "2026-04-10",
-      "summary": "最小残存病変（MRD）モニタリング中に新たな原発性悪性腫瘍を特定するのに役立つ液体生検技術。",
-      "urls": [
-        "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Present-28-Abstracts-Highlighting-Advances-in-Tumor-Typing-Therapy-Selection-and-Expanded-Utility-of-Multiomic-Tissue-and-Liquid-Biopsy-Testing-at-AACR-2026/default.aspx"
-      ],
-      "score": 9
-    },
-    {
-      "name": "GEBRA",
-      "company": "3billion",
-      "country": "米国（グローバル）",
-      "field": "生物×IT",
-      "date": "2026-04-10",
-      "summary": "AIを活用した希少疾患診断プラットフォーム。大規模なゲノムデータをリアルタイムで分析し、潜在的な診断候補を優先順位付けする。",
-      "urls": [
-        "https://3billion.io/news/3billion-showcases-ai-powered-variant-interpretation-innovation-at-acmg-2026"
-      ],
-      "score": 9
-    },
-    {
-      "name": "UNITED 2.0",
-      "company": "National Cancer Centre Singapore / A*STAR",
-      "country": "シンガポール",
-      "field": "生物×IT",
-      "date": "2026-04-10",
-      "summary": "AIと高度なゲノムシーケンシングを組み合わせた次世代の癌プロファイリングテストを開発するS$600万の研究イニシアチブ。WESとWTSを導入し、より包括的な分子プロファイルを提供する。",
-      "urls": [
-        "https://opengovasia.com/singapore-ai-genomics-to-advance-precision-cancer-diagnostics/"
-      ],
-      "score": 9
-    },
-    {
-      "name": "Cancer Genome Interpreter (CGI)",
-      "company": "IRB Barcelona / CGI-Clinics consortium",
-      "country": "ヨーロッパ（スペイン主導）",
-      "field": "生物×IT",
-      "date": "2026-04-10",
-      "summary": "欧州の10以上の病院と共同で作成された、癌ゲノムの変異を解釈するための高度なバイオインフォマティクスツール。機械学習を活用し、複雑なゲノムデータを精密腫瘍学における実用的な情報に変換する。",
-      "urls": [
-        "https://www.eurekalert.org/news-releases/1121059"
-      ],
-      "score": 9
-    },
-    {
-      "name": "China's New Stealth Drone (72-hour endurance)",
-      "company": "（中国機関・非公開）",
-      "country": "中国",
-      "field": "ドローン",
-      "date": "2026-04-10",
-      "summary": "72時間連続飛行が可能なステルスドローン。高度な空力特性、軽量素材、効率的な推進システム、洗練されたセンサーペイロードを特徴とする。",
-      "urls": [
-        "https://www.ozsite.com.au/chinas-new-stealth-drone-can-fly-for-72-hours-straight-without-landing/"
-      ],
-      "score": 9
-    },
-    {
-      "name": "DJI Avata 360",
-      "company": "DJI",
-      "country": "中国",
-      "field": "ドローン",
-      "date": "2026-04-10",
-      "summary": "8K/60fps HDR動画撮影が可能な360°FPVドローン。O4+映像伝送システムと障害物検知機能を搭載し、没入感のある飛行体験を提供。",
-      "urls": [
-        "https://prtimes.jp/main/html/rd/p/000000404.000015765.html"
-      ],
-      "score": 9
-    },
-    {
-      "name": "YSuit Full-Body Wearable Garment",
-      "company": "Nature Sensors (Silvia Conti)",
-      "country": "グローバル",
-      "field": "技術×バイオ",
-      "date": "2026-04-10",
-      "summary": "軽量で通気性があり、洗濯可能な全身ウェアラブルガーメント。38個のテキスタイルセンサーを搭載し、13の関節と39の自由度を追跡。個々の体型に合わせてカスタマイズ可能で、リアルタイムのデータ送信を最大1週間サポート。",
-      "urls": [
-        "https://www.nature.com/articles/s44460-026-00063-x"
-      ],
-      "score": 9
-    },
-    {
-      "name": "GPT-Rosalind",
-      "company": "OpenAI",
-      "country": "米国",
-      "first_posted": "2026-04-24",
-      "field": "生物×IT",
-      "summary": "OpenAIが発表したライフサイエンス専用フロンティア推論モデル。薬物探索・ゲノム解析・タンパク質推論・トランスレーショナル医学を加速するために設計。",
-      "urls": [
-        "https://openai.com/index/introducing-gpt-rosalind/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-launches-ai-model-gpt-rosalind-life-sciences-research-2026-04-16/"
-      ],
-      "score": 10
-    },
-    {
-      "name": "JASPER Platform（世界初完全ロボット白内障手術）",
-      "company": "ForSight Robotics",
-      "country": "イスラエル",
-      "first_posted": "2026-04-24",
-      "field": "ロボティクス×バイオ",
-      "summary": "世界初の完全ロボット支援白内障手術を人間患者で成功させたプラットフォーム。全身麻酔なしで手術を最初から最後まで完遂。",
-      "urls": [
-        "https://www.businesswire.com/news/home/20260406526545/en/ForSight-Robotics-Makes-History-with-the-Worlds-First-in-Human-Fully-Robot-Assisted-Cataract-Surgery",
-        "https://innovatopia.jp/healthcare/healthcare-news/95221/"
-      ],
-      "score": 10
-    },
-    {
-      "name": "Brainless Microrobots（脳なし3Dプリントマイクロロボット）",
-      "company": "Leiden University（Daniela Kraft研究室）",
-      "country": "オランダ",
-      "first_posted": "2026-04-24",
-      "field": "ロボティクス×バイオ",
-      "summary": "センサー・ソフトウェア・外部制御なしで泳ぎ、障害物を回避できる3Dプリント製マイクロロボット。2026年3月27日PNAS掲載。",
-      "urls": [
-        "https://www.universiteitleiden.nl/en/news/2026/03/alive-or-not-tiny-3d-printed-robots-without-a-brain-that-swim-and-navigate-just-like-animals",
-        "https://gigazine.net/news/20260406-3d-print-robot-size-single-cell-organism/"
-      ],
-      "score": 9
-    },
-    {
-      "name": "Mayo Clinic × Goodfire 遺伝子変異AI解析システム",
-      "company": "Mayo Clinic / Goodfire",
-      "country": "米国",
-      "first_posted": "2026-04-24",
-      "field": "生物×IT",
-      "summary": "ClinVar登録の420万件の遺伝子変異について疾患原因変異を特定し、生物学的メカニズムを説明するAIシステム。",
-      "urls": [
-        "https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/",
-        "https://www.goodfire.ai/research/evee-explaining-genetic-variants"
-      ],
-      "score": 9
-    },
-    {
-      "name": "NeuStim™（AI誘導型脳体インターフェース）",
-      "company": "Neuvotion",
-      "country": "米国",
-      "first_posted": "2026-04-24",
-      "field": "脳波/BCI",
-      "summary": "FDA認可済みの非侵襲型高解像度電気筋肉刺激デバイス。脳卒中・脊髄損傷後の手の動き回復を支援するAI誘導型脳体インターフェース。",
-      "urls": [
-        "https://www.prnewswire.com/news-releases/neuvotion-announces-the-launch-of-neustim-as-part-of-its-ai-guided-brain-body-interface-platform-for-recovery-after-stroke-or-injury-302751267.html",
-        "https://www.massdevice.com/neuvotion-launches-neurostim-post-stroke-recovery/"
-      ],
-      "score": 9
-    },
-    {
-      "name": "Edge Medical 遠隔手術ロボット（7,000km超遠隔手術）",
-      "company": "Edge Medical（深圳）",
-      "country": "中国",
-      "first_posted": "2026-04-24",
-      "field": "ロボティクス×バイオ",
-      "summary": "中国から約7,000km離れたポーランドの医療機関に対し遠隔手術を成功。ネットワーク遅延わずか30ミリ秒。",
-      "urls": [
-        "https://j.people.com.cn/n3/2026/0325/c95952-20439694.html",
-        "https://spap.jst.go.jp/china/news/260304/topic_6_05.html"
-      ],
-      "score": 9
-    },
-    {
-      "name": "Ignite 3.0 高スループット遺伝子合成プラットフォーム",
-      "company": "Beijing Tsingke Biotech × iGeneTech Bioscience",
-      "country": "中国",
-      "first_posted": "2026-04-24",
-      "field": "合成生物学",
-      "summary": "4k〜1Mのオリゴプールを処理可能な高スループット遺伝子合成システム。精密医療・バイオ育種・遺伝子編集の研究開発を加速。",
-      "urls": [
-        "https://www.prnewswire.com/news-releases/tsingke-biotech-and-igenetech-forge-strategic-partnership-to-lead-synthetic-biology-advancements-302707927.html"
-      ],
-      "score": 8
-    },
-    {
-      "name": "ZenaDrone Interceptor P-1",
-      "company": "ZenaTech / ZenaDrone",
-      "country": "米国",
-      "first_posted": "2026-04-24",
-      "field": "ドローン",
-      "summary": "5,000ドル以下での販売を目標とした使い捨て自律迎撃ドローン。カウンターUASシステムの一部として開発。",
-      "urls": [
-        "https://www.zenatech.com/zenatechs-zenadrone-interceptor-p-1-single-use-autonomous-interceptor-drone-targeted-to-sell-for-under-5000-usd/"
-      ],
-      "score": 8
-    },
-    {
-      "name": "BiCAM（3D培養骨格筋細胞バイオハイブリッドロボット）",
-      "company": "東京大学・大阪大学",
-      "country": "日本",
-      "first_posted": "2026-04-24",
-      "field": "ロボティクス×バイオ",
-      "summary": "3D培養骨格筋細胞を搭載したバイオハイブリッドロボット用アクチュエータ。特定条件下で収縮力が約2倍向上することを確認。",
-      "urls": [
-        "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1778864/full"
-      ],
-      "score": 8
-    },
-    {
-      "name": "Capra Biosciences バイオフィルム型疎水性化学物質生産プラットフォーム",
-      "company": "Capra Biosciences",
-      "country": "米国",
-      "first_posted": "2026-04-24",
-      "field": "合成生物学",
-      "summary": "バイオフィルムを活用した独自バイオリアクター技術により、レチノール・サリチル酸などの疎水性高機能化学物質をバイオベースで生産。",
-      "urls": [
-        "https://www.caprabiosciences.com/"
-      ],
-      "score": 7
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 1,
-      "name": "SSi Vimana Aero",
-      "company": "SS Innovations International",
-      "country": "インド",
-      "field": "ロボティクス×バイオ / ドローン",
-      "url": "https://www.massdevice.com/ss-innovations-unveils-drone-surgical-robot/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 2,
-      "name": "Imagined Speech BCI",
-      "company": "Georgia Tech & Emory University",
-      "country": "米国",
-      "field": "脳波/BCI",
-      "url": "https://www.gatech.edu/news/2026/01/28/better-brain-machine-interfaces-could-allow-paralyzed-communicate-again"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 3,
-      "name": "Heartseed HS-005",
-      "company": "Heartseed",
-      "country": "日本",
-      "field": "技術×バイオ / 再生医療",
-      "url": "https://cuorips.co.jp/en/news/2026/03/06/512/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 4,
-      "name": "Converge Bio AI Antibody Platform",
-      "company": "Converge Bio",
-      "country": "イスラエル/米国",
-      "field": "生物×IT",
-      "url": "https://converge-bio.com/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 5,
-      "name": "Aleph Cuts (培養牛肉)",
-      "company": "Aleph Farms",
-      "country": "イスラエル",
-      "field": "合成生物学 / 代替食品",
-      "url": "https://aleph-farms.com/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 6,
-      "name": "hinotori（ヒノトリ）",
-      "company": "メディカロイド",
-      "country": "日本",
-      "field": "ロボティクス×バイオ",
-      "url": "https://www.medicaroid.com/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 7,
-      "name": "Epistra Accelerate",
-      "company": "Epistra",
-      "country": "日本",
-      "field": "生物×IT / 技術×バイオ",
-      "url": "https://epistra.jp/en/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 8,
-      "name": "Stendr AI Counter-Drone System",
-      "company": "Stendr",
-      "country": "ノルウェー",
-      "field": "ドローン（防衛・検知）",
-      "url": "https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 9,
-      "name": "BluJ Aerospace REACH VTOL",
-      "company": "BluJ Aerospace",
-      "country": "インド",
-      "field": "ドローン",
-      "url": "https://blujaero.com/product/"
-    },
-    {
-      "date": "2026-04-25",
-      "rank": 10,
-      "name": "Wearable Sweat Patch (12疾患診断)",
-      "company": "National University of Singapore",
-      "country": "シンガポール",
-      "field": "技術×バイオ / ウェアラブル",
-      "url": "https://www.linkedin.com/posts/sumeet-chandna-171ab522_singapore-scientists-developed-sweat-patch-activity-7420308430571139072--uyX"
-    },
-    {
-      "name": "Evo 2 ゲノム設計AIモデル（Nature掲載）",
-      "company": "Arc Institute × NVIDIA",
-      "first_posted": "2026-04-26",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Formation Bio AIクリニカルトライアル加速プラットフォーム",
-      "company": "Formation Bio",
-      "first_posted": "2026-04-26",
-      "field": "生物×IT"
-    },
-    {
-      "name": "Changying-8（長鷹-8）大型貨物ドローン",
-      "company": "NORINCO（中国北方工業公司）",
-      "first_posted": "2026-04-26",
-      "field": "ドローン"
-    },
-    {
-      "name": "StairMed 侵襲型BMIシステム（Alibaba・Tencent出資）",
-      "company": "StairMed Technology（上海）",
-      "first_posted": "2026-04-26",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Technion 体内薬物生成バクテリア（マイクロニードルパッチ）",
-      "company": "Technion（イスラエル工科大学）",
-      "first_posted": "2026-04-26",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "慶應義塾大学 BCI運動イメージ訓練（脳状態可視化）",
-      "company": "慶應義塾大学・JST",
-      "first_posted": "2026-04-26",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Agtonomy × Kubota 自律農業トラクター（Kubota出資）",
-      "company": "Agtonomy × Kubota",
-      "first_posted": "2026-04-26",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "10x Science AIタンパク質解析プラットフォーム",
-      "company": "10x Science (YC W26)",
-      "first_posted": "2026-04-26",
-      "field": "生物×IT"
-    },
-    {
-      "name": "イスラエル国家ドローンプロジェクト（第1フェーズ完了）",
-      "company": "イスラエル運輸省",
-      "first_posted": "2026-04-26",
-      "field": "ドローン"
-    },
-    {
-      "name": "NUS マイクロニードル植物用バイオ肥料送達システム",
-      "company": "シンガポール国立大学（NUS）",
-      "first_posted": "2026-04-26",
-      "field": "技術×バイオ"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 1,
-      "name": "Sabi BCI ビーニー",
-      "company": "Sabi",
-      "country": "米国",
-      "field": "脳波/BCI",
-      "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 2,
-      "name": "NASA × UNOS 臓器輸送ドローン（CERTAIN計画）",
-      "company": "NASA Langley / UNOS",
-      "country": "米国",
-      "field": "ドローン",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 3,
-      "name": "RevolKa RevoAb® 抗体設計AIサービス",
-      "company": "RevolKa",
-      "country": "日本",
-      "field": "生物×IT",
-      "url": "https://www.revolka.com/en/news/corporate-20260401/"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 4,
-      "name": "Peri 更年期前期専用ウェアラブル",
-      "company": "Peri / MyPeri",
-      "country": "アイルランド",
-      "field": "技術×バイオ",
-      "url": "https://www.fastcompany.com/91519154/finally-a-wearable-designed-for-women-approaching-menopause"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 5,
-      "name": "Naox Link 耳型EEGデバイス（FDA 510(k)認可）",
-      "company": "Naox Technologies",
-      "country": "フランス",
-      "field": "脳波/BCI",
-      "url": "https://www.massdevice.com/naox-technologies-wins-fda-clearance-for-earbud-based-eeg/"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 6,
-      "name": "UC San Diego AI駆動ロボット脊椎手術（西海岸初）",
-      "company": "UC San Diego Health",
-      "country": "米国",
-      "field": "ロボティクス×バイオ",
-      "url": "https://health.ucsd.edu/news/press-releases/2026-04-27-uc-san-diego-health-performs-first-west-coast-ai-robotic-spine-surgery/"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 7,
-      "name": "Phylo Biomni Lab（AIエージェント生物学研究環境）",
-      "company": "Phylo",
-      "country": "米国",
-      "field": "生物×IT",
-      "url": "https://www.synbiobeta.com/read/phylo-launches-biomni-lab-and-secures-13.5m-seed-round"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 8,
-      "name": "ファーメランタ 発酵生産パイロット工場（2026年5月竣工）",
-      "company": "ファーメランタ株式会社",
-      "country": "日本",
-      "field": "合成生物学",
-      "url": "https://fermelanta.com/posts-1/qdvV0Mjr"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 9,
-      "name": "Elroy Air Chaparral 自律貨物ドローン（USDOT eIPP選定）",
-      "company": "Elroy Air",
-      "country": "米国",
-      "field": "ドローン",
-      "url": "https://www.businesswire.com/news/home/20260311112442/en/Elroy-Air-selected-to-provide-autonomous-aerial-cargo-delivery-as-part-of-new-White-House-program"
-    },
-    {
-      "date": "2026-04-27",
-      "rank": 10,
-      "name": "Superwing ZR-300 武装eVTOL",
-      "company": "Superwing Technology Group",
-      "country": "中国",
-      "field": "ドローン",
-      "url": "https://armyrecognition.com/news/aerospace-news/2026/china-develops-superwing-zr-300-armed-evtol-aircraft-with-missile-launcher-for-urban-security-missions"
-    },
-    {
-      "name": "ABS-101",
-      "company": "Absci",
-      "first_posted": "2026-04-28",
-      "field": "生物×IT / AI創薬"
-    },
-    {
-      "name": "OpenCRISPR-1",
-      "company": "Profluent",
-      "first_posted": "2026-04-28",
-      "field": "技術×バイオ / 合成生物学"
-    },
-    {
-      "name": "RTX-117 / XtalPi AI+Robotics Drug Discovery Engine",
-      "company": "ReviR Therapeutics × XtalPi",
-      "first_posted": "2026-04-28",
-      "field": "技術×バイオ / AIロボティクス創薬"
-    },
-    {
-      "name": "Connexus BCI / Connect-One Study",
-      "company": "Paradromics",
-      "first_posted": "2026-04-28",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "ARC-BCI Therapy",
-      "company": "ONWARD Medical",
-      "first_posted": "2026-04-28",
-      "field": "脳波/BCI / 神経リハビリ"
-    },
-    {
-      "name": "TuneLab",
-      "company": "Eli Lilly",
-      "first_posted": "2026-04-28",
-      "field": "生物×IT / AI創薬"
-    },
-    {
-      "name": "ESM3 / Forge protein design platform",
-      "company": "EvolutionaryScale",
-      "first_posted": "2026-04-28",
-      "field": "生物×IT / タンパク質生成AI"
-    },
-    {
-      "name": "H2D55 / Z1 Hydrogen Drone",
-      "company": "Heven AeroTech / Heven Drones",
-      "first_posted": "2026-04-28",
-      "field": "ドローン"
-    },
-    {
-      "name": "Skydio R10",
-      "company": "Skydio",
-      "first_posted": "2026-04-28",
-      "field": "ドローン / 公共安全"
-    },
-    {
-      "name": "Reshape robotic microbiology platform",
-      "company": "Reshape Biotech",
-      "first_posted": "2026-04-28",
-      "field": "技術×バイオ / ラボ自動化"
-    },
-    {
-      "name": "Starfish BCI chip",
-      "company": "Starfish Neuroscience",
-      "first_posted": "2026-04-29",
-      "field": "脳波・BCI"
-    },
-    {
-      "name": "Robot-assisted transcatheter mitral valve replacement",
-      "company": "Capstan Medical",
-      "first_posted": "2026-04-29",
-      "field": "ロボティクス×バイオ / 心臓治療"
-    },
-    {
-      "name": "RNA Edge",
-      "company": "Asimov",
-      "first_posted": "2026-04-29",
-      "field": "技術×バイオ / 合成生物学"
-    },
-    {
-      "name": "CGX-926",
-      "company": "Congruence Therapeutics",
-      "first_posted": "2026-04-29",
-      "field": "生物×IT / AI創薬"
-    },
-    {
-      "name": "Carina modular robotic surgery platform",
-      "company": "Ronovo Surgical",
-      "first_posted": "2026-04-29",
-      "field": "ロボティクス×バイオ / 手術支援"
-    },
-    {
-      "name": "Xcell Portfolio",
-      "company": "NewBiologix",
-      "first_posted": "2026-04-29",
-      "field": "合成生物学 / 遺伝子治療製造"
-    },
-    {
-      "name": "Engineered Cytocaf Proteins",
-      "company": "MarraBio",
-      "first_posted": "2026-04-29",
-      "field": "合成生物学 / 細胞培養"
-    },
-    {
-      "name": "BioChatter V0.9.0",
-      "company": "The Hyve / Open-source community",
-      "first_posted": "2026-04-29",
-      "field": "生物×IT / バイオLLM"
-    },
-    {
-      "name": "Skin Booster Bio-Fermented Serum with ÄIO RedOil",
-      "company": "ÄIO × tilk!",
-      "first_posted": "2026-04-29",
-      "field": "技術×バイオ / 精密発酵素材"
-    },
-    {
-      "name": "SciData XLerate v1.0",
-      "company": "Boulder BioComputing",
-      "first_posted": "2026-04-29",
-      "field": "生物×IT / 研究データ基盤"
-    },
-    {
-      "name": "AURA automated IVF lab",
-      "company": "Conceivable Life Sciences",
-      "first_posted": "2026-05-01",
-      "field": "生物×IT / ロボティクス×バイオ"
-    },
-    {
-      "name": "Scientific Superintelligence Platform / AI Science Factory",
-      "company": "Lila Sciences",
-      "first_posted": "2026-05-01",
-      "field": "生物×IT / 自律実験"
-    },
-    {
-      "name": "HX-2 AI Strike Drone / Altra swarm integration",
-      "company": "Helsing",
-      "first_posted": "2026-05-01",
-      "field": "ドローン / 防衛AI"
-    },
-    {
-      "name": "MW75 Neuro LT",
-      "company": "Neurable",
-      "first_posted": "2026-05-01",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "ROHand / OHand tactile robotic hand",
-      "company": "OYMotion",
-      "first_posted": "2026-05-01",
-      "field": "ロボティクス×バイオ / BCI周辺"
-    },
-    {
-      "name": "Firefly Petunia",
-      "company": "Light Bio",
-      "first_posted": "2026-05-01",
-      "field": "合成生物学"
-    },
-    {
-      "name": "ELIOS 3 Smart Return-to-Home / UT Payload",
-      "company": "Flyability",
-      "first_posted": "2026-05-01",
-      "field": "ドローン / 産業検査"
-    },
-    {
-      "name": "BeeHero Pollination Insight Platform 2.0",
-      "company": "BeeHero",
-      "first_posted": "2026-05-01",
-      "field": "技術×バイオ / 農業AI"
-    },
-    {
-      "name": "Biohybrid robotic jellyfish",
-      "company": "Caltech / Dabiri Lab",
-      "first_posted": "2026-05-01",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "CBI-1214 T-cell engager",
-      "company": "Cartography Biosciences",
-      "first_posted": "2026-05-01",
-      "field": "技術×バイオ / AI創薬・がん免疫"
-    },
-    {
-      "name": "SWARM Biotactics Cyborg Insect Swarms",
-      "company": "SWARM Biotactics",
-      "first_posted": "2026-05-25",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Neuralink Blindsight",
-      "company": "Neuralink",
-      "first_posted": "2026-05-25",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "TacnIQ.ai Tactile Foundation Models",
-      "company": "TacnIQ.ai",
-      "first_posted": "2026-05-25",
-      "field": "技術×バイオ / ロボティクス"
-    },
-    {
-      "name": "Found Energy Aluminium Fuel System",
-      "company": "Found Energy",
-      "first_posted": "2026-05-25",
-      "field": "技術×バイオ / エネルギー"
-    },
-    {
-      "name": "MeeBio 光制御バイオ生産プラットフォーム",
-      "company": "株式会社ミーバイオ",
-      "first_posted": "2026-05-25",
-      "field": "生物×IT / 合成生物学"
-    },
-    {
-      "name": "Stem Cell Derived Mini-Brains",
-      "company": "FinalSpark (など)",
-      "first_posted": "2026-05-25",
-      "field": "合成生物学 / 脳波/BCI"
-    },
-    {
-      "name": "Tsingke & iGeneTech SynBio Platform",
-      "company": "Tsingke Biotech / iGeneTech",
-      "first_posted": "2026-05-25",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Zeroth Jupiter Humanoid",
-      "company": "Zeroth",
-      "first_posted": "2026-05-25",
-      "field": "ロボティクス"
-    },
-    {
-      "name": "DEEP Robotics Robot Horse",
-      "company": "DEEP Robotics",
-      "first_posted": "2026-05-25",
-      "field": "ロボティクス"
-    },
-    {
-      "name": "Skylo Satellite Deep Tech Link",
-      "company": "Skylo Technologies",
-      "first_posted": "2026-05-25",
-      "field": "技術×バイオ / IoT"
-    },
-    {
-      "name": "StrainX Precision Fermentation Platform",
-      "company": "StrainX Bioworks",
-      "first_posted": "2026-05-27",
-      "field": "合成生物学"
-    },
-    {
-      "name": "NEO System (Commercial Approval)",
-      "company": "Shanghai Borui (Neuracle Medical)",
-      "first_posted": "2026-05-27",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Self-Healing Human Skin Robot",
-      "company": "東京大学 / Institute of Science Tokyo",
-      "first_posted": "2026-05-27",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Cognixion ONE (Vision Pro Integration)",
-      "company": "Cognixion",
-      "first_posted": "2026-05-27",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "GDU S400 / Mobile Docking Solution",
-      "company": "GDU Technology",
-      "first_posted": "2026-05-27",
-      "field": "ドローン"
-    },
-    {
-      "name": "Capsyra & Ewigbyte Long-term Data Storage",
-      "company": "Capsyra / Ewigbyte",
-      "first_posted": "2026-05-27",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "MicroCyto Synthetic Biology Financing",
-      "company": "MicroCyto",
-      "first_posted": "2026-05-27",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Anovo Surgical System (Clinical Registry)",
-      "company": "Momentis Surgical",
-      "first_posted": "2026-05-27",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Soft Brain Implants (Tissue Matching)",
-      "company": "Neurosoft Bioelectronics",
-      "first_posted": "2026-05-27",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "AeroLion Autonomous Docking UAV",
-      "company": "AeroLion Technologies",
-      "first_posted": "2026-05-27",
-      "field": "ドローン"
-    },
-    {
-      "name": "Robeauté",
-      "company": "Robeauté",
-      "first_posted": "2026-05-29",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "CryoBio",
-      "company": "CryoBio",
-      "first_posted": "2026-05-29",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Aquit",
-      "company": "Aquit",
-      "first_posted": "2026-05-29",
-      "field": "生物×IT"
-    },
-    {
-      "name": "JOUAV CW-25H",
-      "company": "JOUAV",
-      "first_posted": "2026-05-29",
-      "field": "ドローン"
-    },
-    {
-      "name": "Palmless",
-      "company": "C16 Biosciences",
-      "first_posted": "2026-05-29",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Adamant Health",
-      "company": "Adamant Health",
-      "first_posted": "2026-05-29",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Onward Medical",
-      "company": "Onward Medical",
-      "first_posted": "2026-05-29",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "PRIMA",
-      "company": "Science Corporation",
-      "first_posted": "2026-05-29",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "Melt&Marble",
-      "company": "Melt&Marble",
-      "first_posted": "2026-05-29",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Fermeleta",
-      "company": "Fermeleta",
-      "first_posted": "2026-05-29",
-      "field": "合成生物学"
-    },
-    {
-      "name": "培養皮膚を纏った自律修復型ロボット",
-      "company": "東京大学 竹内昌治教授チーム",
-      "first_posted": "2026-05-30",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "バイオ・コンピューティング・チップ",
-      "company": "The Biological Computing Company (TBC)",
-      "first_posted": "2026-05-30",
-      "field": "生物×IT"
-    },
-    {
-      "name": "極小脳インターフェース (BCI) チップ",
-      "company": "MintNeuro",
-      "first_posted": "2026-05-30",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "子宮内膜症の非侵襲診断 MetriDx",
-      "company": "Hera Biotech",
-      "first_posted": "2026-05-30",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "自律型大型貨物ドローン",
-      "company": "AiR EV & ST Engineering",
-      "first_posted": "2026-05-30",
-      "field": "ドローン"
-    },
-    {
-      "name": "エピジェネティック遺伝子治療",
-      "company": "Tune Therapeutics",
-      "first_posted": "2026-05-30",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "合成生物学による生分解性プラスチック PHA",
-      "company": "Bluepha",
-      "first_posted": "2026-05-30",
-      "field": "合成生物学"
-    },
-    {
-      "name": "食品廃棄物のバイオ変換ユニット",
-      "company": "Entomal Biotech",
-      "first_posted": "2026-05-30",
-      "field": "合成生物学 / 環境"
-    },
-    {
-      "name": "AI駆動の次世代肥満治療薬",
-      "company": "Kailera Therapeutics",
-      "first_posted": "2026-05-30",
-      "field": "生物×IT"
-    },
-    {
-      "name": "細胞スケール治療ロボット",
-      "company": "Biohybrid Microrobots",
-      "first_posted": "2026-05-30",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Alex Conley Mind Drone Control",
-      "company": "Neuralink",
-      "first_posted": "2026-06-01",
-      "field": "脳波/BCI"
-    },
-    {
-      "name": "MetriDx",
-      "company": "Hera Biotech",
-      "first_posted": "2026-06-01",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "nia F01",
-      "company": "YZi Labs",
-      "first_posted": "2026-06-01",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "Bio-hybrid Exoskeleton",
-      "company": "Tel Aviv University",
-      "first_posted": "2026-06-01",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "EMBC Unit",
-      "company": "Entomal Biotech",
-      "first_posted": "2026-06-01",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Gene-tuning Therapy",
-      "company": "Tune Therapeutics",
-      "first_posted": "2026-06-01",
-      "field": "合成生物学"
-    },
-    {
-      "name": "Crustacean Abdomen Robot",
-      "company": "Royal Marine / Bio-hybrid",
-      "first_posted": "2026-06-01",
-      "field": "ロボティクス×バイオ"
-    },
-    {
-      "name": "DJI Lito X1",
-      "company": "DJI",
-      "first_posted": "2026-06-01",
-      "field": "ドローン"
-    },
-    {
-      "name": "FAST-PASE",
-      "company": "ATANIS Biotech",
-      "first_posted": "2026-06-01",
-      "field": "技術×バイオ"
-    },
-    {
-      "name": "Ocean Mortadella",
-      "company": "NewFish",
-      "first_posted": "2026-06-01",
-      "field": "合成生物学"
-    }
-  ],
-  "last_updated": "2026-05-30"
+    "description": "過去に配信済みのプロダクト一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
+    "products": [
+        {
+            "name": "Synchron Stentrode",
+            "company": "Synchron",
+            "first_posted": "2026-03-24",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "Anthrobots",
+            "company": "Tufts大学 / Harvard Wyss Institute",
+            "first_posted": "2026-03-24",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Organoid Intelligence",
+            "company": "Johns Hopkins大学 / Cortical Labs",
+            "first_posted": "2026-03-24",
+            "field": "バイオコンピューティング"
+        },
+        {
+            "name": "Axoft Fleuron",
+            "company": "Axoft",
+            "first_posted": "2026-03-24",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "Smellicopter",
+            "company": "米空軍 / ワシントン大学",
+            "first_posted": "2026-03-24",
+            "field": "ドローン×バイオ"
+        },
+        {
+            "name": "AQEMIA",
+            "company": "AQEMIA",
+            "first_posted": "2026-03-24",
+            "field": "AI創薬"
+        },
+        {
+            "name": "Iridia",
+            "company": "Iridia",
+            "first_posted": "2026-03-24",
+            "field": "DNAストレージ"
+        },
+        {
+            "name": "InBrain Neuroelectronics",
+            "company": "InBrain Neuroelectronics",
+            "first_posted": "2026-03-24",
+            "field": "脳インプラント"
+        },
+        {
+            "name": "SkyDrive SD-05",
+            "company": "SkyDrive",
+            "first_posted": "2026-03-24",
+            "field": "eVTOL・ドローン"
+        },
+        {
+            "name": "Bluepha",
+            "company": "Bluepha",
+            "first_posted": "2026-03-24",
+            "field": "合成生物学"
+        },
+        {
+            "name": "NEO（侵襲型BCI）",
+            "company": "Neuracle Medical Technology",
+            "first_posted": "2026-03-25",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "Magnetically Controlled Liquid Metal Robots",
+            "company": "Sun Yat-sen University",
+            "first_posted": "2026-03-25",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "SpliceBio Gene Therapy Platform",
+            "company": "SpliceBio",
+            "first_posted": "2026-03-25",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Revolutionary Artificial Muscle",
+            "company": "UNIST（蔚山科学技術院）",
+            "first_posted": "2026-03-25",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Pain Perception Sharing Technology",
+            "company": "NTTドコモ & PaMeLa Inc.",
+            "first_posted": "2026-03-25",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "Non-invasive Blood Glucose Sensor",
+            "company": "Light Touch Technology (LTT) Inc.",
+            "first_posted": "2026-03-25",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Zipline Autonomous Medical Delivery",
+            "company": "Zipline",
+            "first_posted": "2026-03-25",
+            "field": "ドローン"
+        },
+        {
+            "name": "Xsensio Lab-on-Skin Wearable Chip",
+            "company": "Xsensio",
+            "first_posted": "2026-03-25",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Allozymes Next-gen Enzyme Engineering Platform",
+            "company": "Allozymes",
+            "first_posted": "2026-03-25",
+            "field": "合成生物学"
+        },
+        {
+            "name": "MetriDx™ Endometriosis Diagnostic Test",
+            "company": "Hera Biotech",
+            "first_posted": "2026-03-25",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Wearable Ultrasound Imaging System",
+            "company": "MIT / Nanyang Technological University / National University of Singapore",
+            "first_posted": "2026-03-25",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Festo BionicBee",
+            "company": "Festo",
+            "first_posted": "2026-03-25",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "HAL BCI外骨格",
+            "company": "Cyberdyne Corporation",
+            "first_posted": "2026-03-25",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "Spiber Brewed Protein",
+            "company": "Spiber, Inc.",
+            "first_posted": "2026-03-25",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Microneedle Wearable Platform",
+            "company": "Technion-Israel Institute of Technology",
+            "first_posted": "2026-03-25",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "String Bio Methane-to-Protein",
+            "company": "String Bio",
+            "first_posted": "2026-03-25",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Neural Drone Swarms (BCI制御)",
+            "company": "Israel Defense Ministry (DDR&D)",
+            "first_posted": "2026-03-25",
+            "field": "ドローン×BCI"
+        },
+        {
+            "name": "GrowHR Shape-Shifting Humanoid Robot",
+            "company": "Southern University of Science and Technology",
+            "first_posted": "2026-03-25",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Mammoth Biosciences CRISPR Diagnostics",
+            "company": "Mammoth Biosciences",
+            "first_posted": "2026-03-25",
+            "field": "生物×IT"
+        },
+        {
+            "name": "SPYDER Ship-Climbing Robot",
+            "company": "ST Engineering / HTX / Singapore Police Coast Guard",
+            "first_posted": "2026-03-25",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Living Pancreas Implant（生きた人工膵臓）",
+            "company": "Technion – Israel Institute of Technology",
+            "first_posted": "2026-03-26",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "X-Cell Virtual Cell Model",
+            "company": "Xaira Therapeutics",
+            "first_posted": "2026-03-26",
+            "field": "生物×IT"
+        },
+        {
+            "name": "LIFESCAPES 治療用BMI",
+            "company": "株式会社LIFESCAPES",
+            "first_posted": "2026-03-26",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Gestala 非侵襲型超音波BCI",
+            "company": "Gestala",
+            "first_posted": "2026-03-26",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "OstraBot 自己訓練筋肉駆動水泳ロボット",
+            "company": "National University of Singapore",
+            "first_posted": "2026-03-26",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "多関節バイオハイブリッドロボット",
+            "company": "東京大学大学院情報理工学系研究科",
+            "first_posted": "2026-03-26",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "AVATAAR 空中・水中両用ドローン",
+            "company": "AquaAirX Autonomous Systems",
+            "first_posted": "2026-03-26",
+            "field": "ドローン"
+        },
+        {
+            "name": "Melt&Marble デザイナー脂肪",
+            "company": "Melt&Marble",
+            "first_posted": "2026-03-26",
+            "field": "合成生物学"
+        },
+        {
+            "name": "SSi Mantra 手術ロボット",
+            "company": "SS Innovations International",
+            "first_posted": "2026-03-26",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Sniffbot バッタ触角搭載バイオハイブリッドロボット",
+            "company": "Tel Aviv University",
+            "first_posted": "2026-03-26",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "NEO 侵襲型BCI（商業承認）",
+            "company": "Neuracle Medical Technology（博睿康医疗科技）",
+            "first_posted": "2026-03-27",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Kairo-CONAN",
+            "company": "東京大学医科学研究所",
+            "first_posted": "2026-03-27",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Everdrone E3",
+            "company": "Everdrone",
+            "first_posted": "2026-03-27",
+            "field": "ドローン"
+        },
+        {
+            "name": "Precision Neuroscience Layer 7",
+            "company": "Precision Neuroscience",
+            "first_posted": "2026-03-27",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "ETH Zurich Magnetic Microrobots",
+            "company": "ETH Zurich",
+            "first_posted": "2026-03-27",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "NHS Liquid Biopsy（ctDNA）",
+            "company": "NHS England",
+            "first_posted": "2026-03-27",
+            "field": "生物×IT"
+        },
+        {
+            "name": "XAG P150 Max",
+            "company": "XAG（極飞科技）",
+            "first_posted": "2026-03-27",
+            "field": "ドローン"
+        },
+        {
+            "name": "JiMED wiBMI",
+            "company": "JiMED Inc.",
+            "first_posted": "2026-03-27",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "InkSight",
+            "company": "TUM-LMU Munich",
+            "first_posted": "2026-03-27",
+            "field": "合成生物学"
+        },
+        {
+            "name": "MicroPort MedBot Toumai",
+            "company": "MicroPort MedBot（微创机器人）",
+            "first_posted": "2026-03-27",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Matricelf バイオエンジニアリング脊髄インプラント",
+            "company": "Matricelf / Tel Aviv University",
+            "first_posted": "2026-03-28",
+            "field": "ロボティクス×バイオ / 技術×バイオ"
+        },
+        {
+            "name": "Merge Labs 超音波非侵襲型BCI",
+            "company": "Merge Labs",
+            "first_posted": "2026-03-28",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "BISC（Biological Interface System to Cortex）",
+            "company": "Kampto Neurotech / Columbia University / Stanford University",
+            "first_posted": "2026-03-28",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Earendil Labs AI生物製剤設計プラットフォーム",
+            "company": "Earendil Labs",
+            "first_posted": "2026-03-28",
+            "field": "生物×IT"
+        },
+        {
+            "name": "東京大学×早稲田大学 バイオハイブリッドハンド",
+            "company": "東京大学・早稲田大学",
+            "first_posted": "2026-03-28",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Iambic Therapeutics AI低分子創薬プラットフォーム",
+            "company": "Iambic Therapeutics",
+            "first_posted": "2026-03-28",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Biomemory × Catalog Technologies DNAデータストレージ",
+            "company": "Biomemory / Catalog Technologies",
+            "first_posted": "2026-03-28",
+            "field": "合成生物学"
+        },
+        {
+            "name": "JOUAV CW-25H 水素燃料電池VTOLドローン",
+            "company": "JOUAV",
+            "first_posted": "2026-03-28",
+            "field": "ドローン"
+        },
+        {
+            "name": "iLiNP® 脂質ナノ粒子製造システム",
+            "company": "信越化学工業 × 北海道大学",
+            "first_posted": "2026-03-28",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "GBrain Phin Stim 完全埋め込み型神経刺激システム",
+            "company": "GBrain",
+            "first_posted": "2026-03-28",
+            "field": "技術×バイオ / 脳波/BCI"
+        },
+        {
+            "name": "Insilico Medicine × Eli Lilly AI創薬ディール",
+            "company": "Insilico Medicine / Eli Lilly",
+            "first_posted": "2026-03-29",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Science Corp. PRIMA 網膜インプラント",
+            "company": "Science Corporation",
+            "first_posted": "2026-03-29",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Cortical Labs CL1 脳細胞データセンター",
+            "company": "Cortical Labs",
+            "first_posted": "2026-03-29",
+            "field": "合成生物学 / バイオコンピューティング"
+        },
+        {
+            "name": "HOBIT 体内生きた薬局インプラント",
+            "company": "Rice大学 / Carnegie Mellon大学 / Northwestern大学",
+            "first_posted": "2026-03-29",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "NUS AI遺伝子編集ツール（SsdAtox強化版）",
+            "company": "NUS Medicine",
+            "first_posted": "2026-03-29",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Versius Plus 手術ロボット",
+            "company": "CMR Surgical",
+            "first_posted": "2026-03-29",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Senti Biosciences SENTI-202 遺伝子回路",
+            "company": "Senti Biosciences",
+            "first_posted": "2026-03-29",
+            "field": "合成生物学"
+        },
+        {
+            "name": "東京理科大 汗発電ウェアラブルパッチ",
+            "company": "東京理科大学",
+            "first_posted": "2026-03-29",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "DrN-600 eVTOLドローン",
+            "company": "AIR × ST Engineering",
+            "first_posted": "2026-03-29",
+            "field": "ドローン"
+        },
+        {
+            "name": "インド 人間搭乗型ドローン救急車",
+            "company": "アンドラ・プラデーシュ州政府 × アンナ大学",
+            "first_posted": "2026-03-29",
+            "field": "ドローン"
+        },
+        {
+            "name": "Element Biosciences VITARI",
+            "company": "Element Biosciences",
+            "first_posted": "2026-03-30",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Generate Biomedicines",
+            "company": "Generate Biomedicines",
+            "first_posted": "2026-03-30",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Rubi Laboratories",
+            "company": "Rubi Laboratories",
+            "first_posted": "2026-03-30",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Strand Therapeutics STX-001",
+            "company": "Strand Therapeutics",
+            "first_posted": "2026-03-30",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Tune Therapeutics TUNE-401",
+            "company": "Tune Therapeutics",
+            "first_posted": "2026-03-30",
+            "field": "合成生物学"
+        },
+        {
+            "name": "EHang EH216-S",
+            "company": "EHang",
+            "first_posted": "2026-03-30",
+            "field": "ドローン"
+        },
+        {
+            "name": "bit.bio",
+            "company": "bit.bio",
+            "first_posted": "2026-03-30",
+            "field": "合成生物学"
+        },
+        {
+            "name": "inne Minilab",
+            "company": "inne",
+            "first_posted": "2026-03-30",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "LumiMind",
+            "company": "LumiMind",
+            "first_posted": "2026-03-30",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "MOLCURE",
+            "company": "MOLCURE Inc.",
+            "first_posted": "2026-03-30",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Flow Neuroscience FL-100",
+            "company": "Flow Neuroscience",
+            "first_posted": "2026-03-31",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Cellino Biotech Nebula",
+            "company": "Cellino Biotech",
+            "first_posted": "2026-03-31",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "CRISPR Therapeutics CTX310",
+            "company": "CRISPR Therapeutics",
+            "first_posted": "2026-03-31",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Basecamp Research Trillion Gene Atlas",
+            "company": "Basecamp Research",
+            "first_posted": "2026-03-31",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Maholo Cellafa Bioscience",
+            "company": "Cellafa Bioscience",
+            "first_posted": "2026-03-31",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Naqi Neural Earbuds",
+            "company": "Naqi Logix",
+            "first_posted": "2026-03-31",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Ruten Swallow Autopilot",
+            "company": "Ruten Inc.",
+            "first_posted": "2026-03-31",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "AeroVironment Red Dragon",
+            "company": "AeroVironment",
+            "first_posted": "2026-03-31",
+            "field": "ドローン"
+        },
+        {
+            "name": "EPFL Optovolution",
+            "company": "EPFL",
+            "first_posted": "2026-03-31",
+            "field": "合成生物学"
+        },
+        {
+            "name": "ReWalk Personal Exoskeleton",
+            "company": "Lifeward",
+            "first_posted": "2026-03-31",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "AlphaGenome",
+            "company": "Google DeepMind",
+            "first_posted": "2026-04-01",
+            "field": "生物×IT"
+        },
+        {
+            "name": "腸脳インプラント（Gut-Brain Implant）",
+            "company": "Dartmouth Engineering / University of Cambridge",
+            "first_posted": "2026-04-01",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Neuralink N1 implant",
+            "company": "Neuralink",
+            "first_posted": "2026-04-01",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Impli 体内埋め込み型ホルモンセンサー",
+            "company": "Impli",
+            "first_posted": "2026-04-01",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "光合成性生体材料（Photosynthetic Living Material）",
+            "company": "ETH Zurich関連研究者ら（多国籍）",
+            "first_posted": "2026-04-01",
+            "field": "合成生物学"
+        },
+        {
+            "name": "AutoFlight V2000CG CarryAll",
+            "company": "AutoFlight",
+            "first_posted": "2026-04-01",
+            "field": "ドローン"
+        },
+        {
+            "name": "NeuroXess BCIインプラント",
+            "company": "NeuroXess",
+            "first_posted": "2026-04-01",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "ETH Zurich 筋骨格バイオハイブリッドシステム",
+            "company": "ETH Zurich Soft Robotics Lab / IBEC Barcelona",
+            "first_posted": "2026-04-01",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "ふじのくにHOPEオンコパネル",
+            "company": "エスアールエル / 静岡がんセンター",
+            "first_posted": "2026-04-01",
+            "field": "生物×IT"
+        },
+        {
+            "name": "PROPEL",
+            "company": "EUコンソーシアム（EIC Pathfinder）",
+            "first_posted": "2026-04-01",
+            "field": "合成生物学"
+        },
+        {
+            "name": "MIT Myoneural Actuator（MNA）",
+            "company": "MIT Media Lab / K. Lisa Yang Center for Bionics",
+            "first_posted": "2026-04-02",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Epia Neuro",
+            "company": "Epia Neuro",
+            "first_posted": "2026-04-02",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "フィジオロガス・テクノロジーズ 給水不要在宅透析装置",
+            "company": "フィジオロガス・テクノロジーズ株式会社",
+            "first_posted": "2026-04-02",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Epoch Biodesign",
+            "company": "Epoch Biodesign",
+            "first_posted": "2026-04-02",
+            "field": "合成生物学"
+        },
+        {
+            "name": "StairMed Technology",
+            "company": "StairMed Technology（阶梯医疗）",
+            "first_posted": "2026-04-02",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "LEM Surgical Dynamis",
+            "company": "LEM Surgical",
+            "first_posted": "2026-04-02",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Sensofusion Tactical Drone Factory",
+            "company": "Sensofusion",
+            "first_posted": "2026-04-02",
+            "field": "ドローン"
+        },
+        {
+            "name": "Mid-America Transplant 臓器輸送ドローン回廊",
+            "company": "Mid-America Transplant × Valkyrie UAS Solutions × Missouri S&T",
+            "first_posted": "2026-04-02",
+            "field": "ドローン"
+        },
+        {
+            "name": "ARAYA × Fluent BCI 音声デコーディングBCI",
+            "company": "株式会社ARAYA × Fluent BCI",
+            "first_posted": "2026-04-02",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Vaxxas HD-MAP",
+            "company": "Vaxxas",
+            "first_posted": "2026-04-02",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Neurobots",
+            "company": "Wyss Institute (Harvard) × Tufts大学",
+            "first_posted": "2026-04-03",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "MeMed BV Flex",
+            "company": "MeMed",
+            "first_posted": "2026-04-03",
+            "field": "生物×IT"
+        },
+        {
+            "name": "BRAIN.Q Home Stroke Recovery",
+            "company": "BrainQ Technologies",
+            "first_posted": "2026-04-03",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "アセロラ由来ナノ小胞CRISPR/Cas9脳送達",
+            "company": "東京医科大学",
+            "first_posted": "2026-04-03",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Waterloo Magnetic Soft Robot (Kidney Stone)",
+            "company": "University of Waterloo",
+            "first_posted": "2026-04-03",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "MSU TriMag Microrobots",
+            "company": "Michigan State University × Henry Ford Health",
+            "first_posted": "2026-04-03",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Zenith Genomics",
+            "company": "Natera",
+            "first_posted": "2026-04-03",
+            "field": "生物×IT"
+        },
+        {
+            "name": "AIR ONE eVTOL",
+            "company": "AIR",
+            "first_posted": "2026-04-03",
+            "field": "ドローン・eVTOL"
+        },
+        {
+            "name": "Brain Interchange System",
+            "company": "CorTec GmbH",
+            "first_posted": "2026-04-03",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "ARPA-H Delphi Program",
+            "company": "ARPA-H",
+            "first_posted": "2026-04-03",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "CL1 Biological Data Centre",
+            "company": "Cortical Labs",
+            "first_posted": "2026-04-04",
+            "field": "合成生物学 / バイオコンピューティング"
+        },
+        {
+            "name": "RegCell Treg Cell Therapy Platform",
+            "company": "RegCell Inc.",
+            "first_posted": "2026-04-04",
+            "field": "生物×IT / 細胞療法"
+        },
+        {
+            "name": "Terra A1 Interceptor Drone",
+            "company": "Terra Drone × Amazing Drones",
+            "first_posted": "2026-04-04",
+            "field": "ドローン（防衛・迎撃）"
+        },
+        {
+            "name": "AI AutoVision",
+            "company": "Diagens Biotechnology",
+            "first_posted": "2026-04-04",
+            "field": "生物×IT / AI診断"
+        },
+        {
+            "name": "Guardian DFR Drone",
+            "company": "BRINC",
+            "first_posted": "2026-04-04",
+            "field": "ドローン（緊急対応）"
+        },
+        {
+            "name": "DOT Therapeutic BCI",
+            "company": "Motif Neurotech",
+            "first_posted": "2026-04-04",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "LIBERTY Endovascular Robot",
+            "company": "Microbot Medical",
+            "first_posted": "2026-04-04",
+            "field": "ロボティクス×バイオ（血管内手術）"
+        },
+        {
+            "name": "AI Liquid Biopsy for Liver Fibrosis",
+            "company": "Johns Hopkins Medicine",
+            "first_posted": "2026-04-04",
+            "field": "生物×IT / 液体生検"
+        },
+        {
+            "name": "EvORanker",
+            "company": "Hebrew University of Jerusalem",
+            "first_posted": "2026-04-04",
+            "field": "生物×IT / 希少疾患診断"
+        },
+        {
+            "name": "Ceglu Organoid Collaborative Research Platform",
+            "company": "積水化学工業 × ニコン",
+            "first_posted": "2026-04-04",
+            "field": "技術×バイオ / オルガノイド"
+        },
+        {
+            "name": "Anduril YFQ-44A Fury",
+            "company": "Anduril Industries",
+            "first_posted": "2026-04-05",
+            "field": "防衛ドローン"
+        },
+        {
+            "name": "Skycutter SkyFall Shrike 10 Fiber",
+            "company": "Skycutter / SkyFall",
+            "first_posted": "2026-04-05",
+            "field": "防衛ドローン"
+        },
+        {
+            "name": "Form Energy Iron Air Battery 30GWh",
+            "company": "Form Energy",
+            "first_posted": "2026-04-05",
+            "field": "エネルギー貯蔵"
+        },
+        {
+            "name": "Vast Haven-1",
+            "company": "Vast Space",
+            "first_posted": "2026-04-05",
+            "field": "宇宙インフラ"
+        },
+        {
+            "name": "EPFL CSEM Perovskite Triple Junction 30.02%",
+            "company": "EPFL / CSEM",
+            "first_posted": "2026-04-05",
+            "field": "クリーンエネルギー"
+        },
+        {
+            "name": "Starlab Commercial Space Station",
+            "company": "Starlab Space (Voyager Space x Airbus)",
+            "first_posted": "2026-04-05",
+            "field": "宇宙インフラ"
+        },
+        {
+            "name": "Mach Industries Divergent Venom",
+            "company": "Mach Industries / Divergent Technologies",
+            "first_posted": "2026-04-05",
+            "field": "防衛ドローン"
+        },
+        {
+            "name": "Quaise Energy Project Obsidian",
+            "company": "Quaise Energy",
+            "first_posted": "2026-04-05",
+            "field": "クリーンエネルギー"
+        },
+        {
+            "name": "Rondo Energy Covestro Heat Battery",
+            "company": "Rondo Energy / Covestro",
+            "first_posted": "2026-04-05",
+            "field": "クリーンエネルギー"
+        },
+        {
+            "name": "Isar Aerospace Spectrum Onward and Upward",
+            "company": "Isar Aerospace",
+            "first_posted": "2026-04-05",
+            "field": "宇宙輸送"
+        },
+        {
+            "name": "StemEdit (clinical gene editing services)",
+            "company": "REPROCELL",
+            "first_posted": "2026-04-06",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "AI-Powered Autonomous Drone Swarm Technology",
+            "company": "SIRBAI",
+            "first_posted": "2026-04-06",
+            "field": "ドローン"
+        },
+        {
+            "name": "独自のAI品種開発プロセス",
+            "company": "株式会社CULTA",
+            "first_posted": "2026-04-06",
+            "field": "合成生物学"
+        },
+        {
+            "name": "AlphaFold-powered drug design engine",
+            "company": "Isomorphic Labs (Alphabet/Google DeepMind spinout)",
+            "first_posted": "2026-04-06",
+            "field": "生物×IT"
+        },
+        {
+            "name": "医療用医薬品のドローン本格配送サービス",
+            "company": "そらいいな株式会社",
+            "first_posted": "2026-04-06",
+            "field": "ドローン"
+        },
+        {
+            "name": "Trojan Horse delivery platform",
+            "company": "Trogenix",
+            "first_posted": "2026-04-06",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Heavy-Duty Drones",
+            "company": "ABZ Innovation",
+            "first_posted": "2026-04-06",
+            "field": "ドローン"
+        },
+        {
+            "name": "Exai-1",
+            "company": "Exai Bio",
+            "first_posted": "2026-04-06",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Hybrid Drone Propulsion System",
+            "company": "Elbit Systems / Lowental Hybrid Ltd.",
+            "first_posted": "2026-04-06",
+            "field": "ドローン"
+        },
+        {
+            "name": "Genomic screening platform (VNARs)",
+            "company": "Elasmogen",
+            "first_posted": "2026-04-06",
+            "field": "合成生物学"
+        },
+        {
+            "name": "PRIMA BCI Retinal Implant",
+            "company": "Science Corporation",
+            "first_posted": "2026-04-07",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "West China Hospital International Remote Robotic Surgery Center",
+            "company": "Sichuan University West China Hospital",
+            "first_posted": "2026-04-07",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Generare Microbial Genome Drug Discovery Platform",
+            "company": "Generare",
+            "first_posted": "2026-04-07",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Biolinq Shine Needle-Free CGM",
+            "company": "Biolinq",
+            "first_posted": "2026-04-07",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Organ-on-a-Chip Aging Acceleration System",
+            "company": "UC Berkeley Stahl Lab",
+            "first_posted": "2026-04-07",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "ScalaOS AI Protein Design Platform",
+            "company": "Scala Biodesign",
+            "first_posted": "2026-04-07",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Merops Counter-Drone AI System",
+            "company": "Perennial Autonomy",
+            "first_posted": "2026-04-07",
+            "field": "ドローン"
+        },
+        {
+            "name": "Living Sensor Display",
+            "company": "University of Tokyo",
+            "first_posted": "2026-04-07",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "TigerShark Autonomous Deep Strike Drone",
+            "company": "MGI Engineering",
+            "first_posted": "2026-04-07",
+            "field": "ドローン"
+        },
+        {
+            "name": "Cell-Free Hyaluronic Acid Production",
+            "company": "Enzymit",
+            "first_posted": "2026-04-07",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Cancerguard",
+            "company": "Exact Sciences",
+            "first_posted": "2026-04-08",
+            "field": "生物×IT"
+        },
+        {
+            "name": "rentosertib",
+            "company": "Insilico Medicine",
+            "first_posted": "2026-04-08",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Aspect Biosystems Bioprinted Cell Therapy",
+            "company": "Aspect Biosystems",
+            "first_posted": "2026-04-08",
+            "field": "合成生物学"
+        },
+        {
+            "name": "NEO BCI",
+            "company": "Borui Kang Medical Technology / Neuracle",
+            "first_posted": "2026-04-08",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "MIT Myoneural Actuator (MNA)",
+            "company": "MIT Media Lab",
+            "first_posted": "2026-04-08",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "JUV-161",
+            "company": "Juvena Therapeutics",
+            "first_posted": "2026-04-08",
+            "field": "生物×IT"
+        },
+        {
+            "name": "ENV-294",
+            "company": "Enveda Therapeutics",
+            "first_posted": "2026-04-08",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Arrive Points",
+            "company": "Arrive AI",
+            "first_posted": "2026-04-08",
+            "field": "ドローン"
+        },
+        {
+            "name": "BB-EIT",
+            "company": "理化学研究所",
+            "first_posted": "2026-04-08",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Jellyfish Stinging Capsule Biohybrid Microrobot",
+            "company": "Tel Aviv University / Haifa University",
+            "first_posted": "2026-04-08",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "BISC (Biological Interface System to Cortex)",
+            "company": "Columbia University / Stanford University / University of Pennsylvania / Kampto Neurotech",
+            "first_posted": "2026-04-09",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Personalized RNA drug (ASO技術) - GNAO1治療",
+            "company": "Sheba Medical Center",
+            "first_posted": "2026-04-09",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Viva Kompact",
+            "company": "Vivance (旧AWAK Technologies)",
+            "first_posted": "2026-04-09",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Compostable Soft Robotic System",
+            "company": "Seoul National University / Sogang University / Johannes Kepler University Linz",
+            "first_posted": "2026-04-09",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Xsensio Lab-on-Skin Sensing Platform",
+            "company": "Xsensio",
+            "first_posted": "2026-04-09",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Spiber Brewed Protein fiber",
+            "company": "Spiber Inc.",
+            "first_posted": "2026-04-09",
+            "field": "合成生物学"
+        },
+        {
+            "name": "ProFerm",
+            "company": "Perfect Day",
+            "first_posted": "2026-04-09",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Walking Biohybrid Robot with Embedded Conductive Fibers",
+            "company": "Northwestern University / Georgia Tech / Carnegie Mellon / University of Notre Dame",
+            "first_posted": "2026-04-09",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "CyberneX XHOLOS Ear Brain Interface",
+            "company": "株式会社CyberneX",
+            "first_posted": "2026-04-09",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "新型バイオ3Dプリンタ (サイフューズ×NSK)",
+            "company": "株式会社サイフューズ × NSK（日本精工）",
+            "first_posted": "2026-04-09",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "TRG-035 (Tooth Regrowing Drug)",
+            "company": "京都大学病院",
+            "country": "日本",
+            "field": "技術×バイオ",
+            "date": "2026-04-10",
+            "summary": "USAG-1タンパク質を阻害することで歯の再生を促す薬剤。マウスとフェレットでの動物実験で成功し、現在京都大学病院でヒト臨床試験中。2030年までの実用化を目指す。",
+            "urls": [
+                "https://www.instagram.com/p/DW7lto0CQwu/"
+            ],
+            "score": 9
+        },
+        {
+            "name": "Genos",
+            "company": "BGI Research",
+            "country": "中国",
+            "field": "生物×IT",
+            "date": "2026-04-10",
+            "summary": "世界初の100億パラメータのオープンソースHuman-Centricゲノム基盤モデル。非コード領域の分析を改善し、単一塩基分解能でシグナルを特定する。",
+            "urls": [
+                "https://en.genomics.cn/en-news-7477.html"
+            ],
+            "score": 9
+        },
+        {
+            "name": "MIMIC™ AI Drug Discovery Platform",
+            "company": "Metaphore Biotechnologies",
+            "country": "米国",
+            "field": "生物×IT",
+            "date": "2026-04-10",
+            "summary": "生体内の「機能」を起点に抗体を設計する独自のAI創薬プラットフォーム。大規模な機能データと動的なタンパク質相互作用情報をAIで統合解析し、アゴニスト抗体や多機能抗体などの創出が可能。",
+            "urls": [
+                "https://prtimes.jp/main/html/rd/p/000000578.000047342.html"
+            ],
+            "score": 9
+        },
+        {
+            "name": "Guardant Reveal",
+            "company": "Guardant Health",
+            "country": "米国",
+            "field": "生物×IT",
+            "date": "2026-04-10",
+            "summary": "最小残存病変（MRD）モニタリング中に新たな原発性悪性腫瘍を特定するのに役立つ液体生検技術。",
+            "urls": [
+                "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Present-28-Abstracts-Highlighting-Advances-in-Tumor-Typing-Therapy-Selection-and-Expanded-Utility-of-Multiomic-Tissue-and-Liquid-Biopsy-Testing-at-AACR-2026/default.aspx"
+            ],
+            "score": 9
+        },
+        {
+            "name": "GEBRA",
+            "company": "3billion",
+            "country": "米国（グローバル）",
+            "field": "生物×IT",
+            "date": "2026-04-10",
+            "summary": "AIを活用した希少疾患診断プラットフォーム。大規模なゲノムデータをリアルタイムで分析し、潜在的な診断候補を優先順位付けする。",
+            "urls": [
+                "https://3billion.io/news/3billion-showcases-ai-powered-variant-interpretation-innovation-at-acmg-2026"
+            ],
+            "score": 9
+        },
+        {
+            "name": "UNITED 2.0",
+            "company": "National Cancer Centre Singapore / A*STAR",
+            "country": "シンガポール",
+            "field": "生物×IT",
+            "date": "2026-04-10",
+            "summary": "AIと高度なゲノムシーケンシングを組み合わせた次世代の癌プロファイリングテストを開発するS$600万の研究イニシアチブ。WESとWTSを導入し、より包括的な分子プロファイルを提供する。",
+            "urls": [
+                "https://opengovasia.com/singapore-ai-genomics-to-advance-precision-cancer-diagnostics/"
+            ],
+            "score": 9
+        },
+        {
+            "name": "Cancer Genome Interpreter (CGI)",
+            "company": "IRB Barcelona / CGI-Clinics consortium",
+            "country": "ヨーロッパ（スペイン主導）",
+            "field": "生物×IT",
+            "date": "2026-04-10",
+            "summary": "欧州の10以上の病院と共同で作成された、癌ゲノムの変異を解釈するための高度なバイオインフォマティクスツール。機械学習を活用し、複雑なゲノムデータを精密腫瘍学における実用的な情報に変換する。",
+            "urls": [
+                "https://www.eurekalert.org/news-releases/1121059"
+            ],
+            "score": 9
+        },
+        {
+            "name": "China's New Stealth Drone (72-hour endurance)",
+            "company": "（中国機関・非公開）",
+            "country": "中国",
+            "field": "ドローン",
+            "date": "2026-04-10",
+            "summary": "72時間連続飛行が可能なステルスドローン。高度な空力特性、軽量素材、効率的な推進システム、洗練されたセンサーペイロードを特徴とする。",
+            "urls": [
+                "https://www.ozsite.com.au/chinas-new-stealth-drone-can-fly-for-72-hours-straight-without-landing/"
+            ],
+            "score": 9
+        },
+        {
+            "name": "DJI Avata 360",
+            "company": "DJI",
+            "country": "中国",
+            "field": "ドローン",
+            "date": "2026-04-10",
+            "summary": "8K/60fps HDR動画撮影が可能な360°FPVドローン。O4+映像伝送システムと障害物検知機能を搭載し、没入感のある飛行体験を提供。",
+            "urls": [
+                "https://prtimes.jp/main/html/rd/p/000000404.000015765.html"
+            ],
+            "score": 9
+        },
+        {
+            "name": "YSuit Full-Body Wearable Garment",
+            "company": "Nature Sensors (Silvia Conti)",
+            "country": "グローバル",
+            "field": "技術×バイオ",
+            "date": "2026-04-10",
+            "summary": "軽量で通気性があり、洗濯可能な全身ウェアラブルガーメント。38個のテキスタイルセンサーを搭載し、13の関節と39の自由度を追跡。個々の体型に合わせてカスタマイズ可能で、リアルタイムのデータ送信を最大1週間サポート。",
+            "urls": [
+                "https://www.nature.com/articles/s44460-026-00063-x"
+            ],
+            "score": 9
+        },
+        {
+            "name": "GPT-Rosalind",
+            "company": "OpenAI",
+            "country": "米国",
+            "first_posted": "2026-04-24",
+            "field": "生物×IT",
+            "summary": "OpenAIが発表したライフサイエンス専用フロンティア推論モデル。薬物探索・ゲノム解析・タンパク質推論・トランスレーショナル医学を加速するために設計。",
+            "urls": [
+                "https://openai.com/index/introducing-gpt-rosalind/",
+                "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-launches-ai-model-gpt-rosalind-life-sciences-research-2026-04-16/"
+            ],
+            "score": 10
+        },
+        {
+            "name": "JASPER Platform（世界初完全ロボット白内障手術）",
+            "company": "ForSight Robotics",
+            "country": "イスラエル",
+            "first_posted": "2026-04-24",
+            "field": "ロボティクス×バイオ",
+            "summary": "世界初の完全ロボット支援白内障手術を人間患者で成功させたプラットフォーム。全身麻酔なしで手術を最初から最後まで完遂。",
+            "urls": [
+                "https://www.businesswire.com/news/home/20260406526545/en/ForSight-Robotics-Makes-History-with-the-Worlds-First-in-Human-Fully-Robot-Assisted-Cataract-Surgery",
+                "https://innovatopia.jp/healthcare/healthcare-news/95221/"
+            ],
+            "score": 10
+        },
+        {
+            "name": "Brainless Microrobots（脳なし3Dプリントマイクロロボット）",
+            "company": "Leiden University（Daniela Kraft研究室）",
+            "country": "オランダ",
+            "first_posted": "2026-04-24",
+            "field": "ロボティクス×バイオ",
+            "summary": "センサー・ソフトウェア・外部制御なしで泳ぎ、障害物を回避できる3Dプリント製マイクロロボット。2026年3月27日PNAS掲載。",
+            "urls": [
+                "https://www.universiteitleiden.nl/en/news/2026/03/alive-or-not-tiny-3d-printed-robots-without-a-brain-that-swim-and-navigate-just-like-animals",
+                "https://gigazine.net/news/20260406-3d-print-robot-size-single-cell-organism/"
+            ],
+            "score": 9
+        },
+        {
+            "name": "Mayo Clinic × Goodfire 遺伝子変異AI解析システム",
+            "company": "Mayo Clinic / Goodfire",
+            "country": "米国",
+            "first_posted": "2026-04-24",
+            "field": "生物×IT",
+            "summary": "ClinVar登録の420万件の遺伝子変異について疾患原因変異を特定し、生物学的メカニズムを説明するAIシステム。",
+            "urls": [
+                "https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/",
+                "https://www.goodfire.ai/research/evee-explaining-genetic-variants"
+            ],
+            "score": 9
+        },
+        {
+            "name": "NeuStim™（AI誘導型脳体インターフェース）",
+            "company": "Neuvotion",
+            "country": "米国",
+            "first_posted": "2026-04-24",
+            "field": "脳波/BCI",
+            "summary": "FDA認可済みの非侵襲型高解像度電気筋肉刺激デバイス。脳卒中・脊髄損傷後の手の動き回復を支援するAI誘導型脳体インターフェース。",
+            "urls": [
+                "https://www.prnewswire.com/news-releases/neuvotion-announces-the-launch-of-neustim-as-part-of-its-ai-guided-brain-body-interface-platform-for-recovery-after-stroke-or-injury-302751267.html",
+                "https://www.massdevice.com/neuvotion-launches-neurostim-post-stroke-recovery/"
+            ],
+            "score": 9
+        },
+        {
+            "name": "Edge Medical 遠隔手術ロボット（7,000km超遠隔手術）",
+            "company": "Edge Medical（深圳）",
+            "country": "中国",
+            "first_posted": "2026-04-24",
+            "field": "ロボティクス×バイオ",
+            "summary": "中国から約7,000km離れたポーランドの医療機関に対し遠隔手術を成功。ネットワーク遅延わずか30ミリ秒。",
+            "urls": [
+                "https://j.people.com.cn/n3/2026/0325/c95952-20439694.html",
+                "https://spap.jst.go.jp/china/news/260304/topic_6_05.html"
+            ],
+            "score": 9
+        },
+        {
+            "name": "Ignite 3.0 高スループット遺伝子合成プラットフォーム",
+            "company": "Beijing Tsingke Biotech × iGeneTech Bioscience",
+            "country": "中国",
+            "first_posted": "2026-04-24",
+            "field": "合成生物学",
+            "summary": "4k〜1Mのオリゴプールを処理可能な高スループット遺伝子合成システム。精密医療・バイオ育種・遺伝子編集の研究開発を加速。",
+            "urls": [
+                "https://www.prnewswire.com/news-releases/tsingke-biotech-and-igenetech-forge-strategic-partnership-to-lead-synthetic-biology-advancements-302707927.html"
+            ],
+            "score": 8
+        },
+        {
+            "name": "ZenaDrone Interceptor P-1",
+            "company": "ZenaTech / ZenaDrone",
+            "country": "米国",
+            "first_posted": "2026-04-24",
+            "field": "ドローン",
+            "summary": "5,000ドル以下での販売を目標とした使い捨て自律迎撃ドローン。カウンターUASシステムの一部として開発。",
+            "urls": [
+                "https://www.zenatech.com/zenatechs-zenadrone-interceptor-p-1-single-use-autonomous-interceptor-drone-targeted-to-sell-for-under-5000-usd/"
+            ],
+            "score": 8
+        },
+        {
+            "name": "BiCAM（3D培養骨格筋細胞バイオハイブリッドロボット）",
+            "company": "東京大学・大阪大学",
+            "country": "日本",
+            "first_posted": "2026-04-24",
+            "field": "ロボティクス×バイオ",
+            "summary": "3D培養骨格筋細胞を搭載したバイオハイブリッドロボット用アクチュエータ。特定条件下で収縮力が約2倍向上することを確認。",
+            "urls": [
+                "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1778864/full"
+            ],
+            "score": 8
+        },
+        {
+            "name": "Capra Biosciences バイオフィルム型疎水性化学物質生産プラットフォーム",
+            "company": "Capra Biosciences",
+            "country": "米国",
+            "first_posted": "2026-04-24",
+            "field": "合成生物学",
+            "summary": "バイオフィルムを活用した独自バイオリアクター技術により、レチノール・サリチル酸などの疎水性高機能化学物質をバイオベースで生産。",
+            "urls": [
+                "https://www.caprabiosciences.com/"
+            ],
+            "score": 7
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 1,
+            "name": "SSi Vimana Aero",
+            "company": "SS Innovations International",
+            "country": "インド",
+            "field": "ロボティクス×バイオ / ドローン",
+            "url": "https://www.massdevice.com/ss-innovations-unveils-drone-surgical-robot/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 2,
+            "name": "Imagined Speech BCI",
+            "company": "Georgia Tech & Emory University",
+            "country": "米国",
+            "field": "脳波/BCI",
+            "url": "https://www.gatech.edu/news/2026/01/28/better-brain-machine-interfaces-could-allow-paralyzed-communicate-again"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 3,
+            "name": "Heartseed HS-005",
+            "company": "Heartseed",
+            "country": "日本",
+            "field": "技術×バイオ / 再生医療",
+            "url": "https://cuorips.co.jp/en/news/2026/03/06/512/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 4,
+            "name": "Converge Bio AI Antibody Platform",
+            "company": "Converge Bio",
+            "country": "イスラエル/米国",
+            "field": "生物×IT",
+            "url": "https://converge-bio.com/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 5,
+            "name": "Aleph Cuts (培養牛肉)",
+            "company": "Aleph Farms",
+            "country": "イスラエル",
+            "field": "合成生物学 / 代替食品",
+            "url": "https://aleph-farms.com/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 6,
+            "name": "hinotori（ヒノトリ）",
+            "company": "メディカロイド",
+            "country": "日本",
+            "field": "ロボティクス×バイオ",
+            "url": "https://www.medicaroid.com/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 7,
+            "name": "Epistra Accelerate",
+            "company": "Epistra",
+            "country": "日本",
+            "field": "生物×IT / 技術×バイオ",
+            "url": "https://epistra.jp/en/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 8,
+            "name": "Stendr AI Counter-Drone System",
+            "company": "Stendr",
+            "country": "ノルウェー",
+            "field": "ドローン（防衛・検知）",
+            "url": "https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 9,
+            "name": "BluJ Aerospace REACH VTOL",
+            "company": "BluJ Aerospace",
+            "country": "インド",
+            "field": "ドローン",
+            "url": "https://blujaero.com/product/"
+        },
+        {
+            "date": "2026-04-25",
+            "rank": 10,
+            "name": "Wearable Sweat Patch (12疾患診断)",
+            "company": "National University of Singapore",
+            "country": "シンガポール",
+            "field": "技術×バイオ / ウェアラブル",
+            "url": "https://www.linkedin.com/posts/sumeet-chandna-171ab522_singapore-scientists-developed-sweat-patch-activity-7420308430571139072--uyX"
+        },
+        {
+            "name": "Evo 2 ゲノム設計AIモデル（Nature掲載）",
+            "company": "Arc Institute × NVIDIA",
+            "first_posted": "2026-04-26",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Formation Bio AIクリニカルトライアル加速プラットフォーム",
+            "company": "Formation Bio",
+            "first_posted": "2026-04-26",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Changying-8（長鷹-8）大型貨物ドローン",
+            "company": "NORINCO（中国北方工業公司）",
+            "first_posted": "2026-04-26",
+            "field": "ドローン"
+        },
+        {
+            "name": "StairMed 侵襲型BMIシステム（Alibaba・Tencent出資）",
+            "company": "StairMed Technology（上海）",
+            "first_posted": "2026-04-26",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Technion 体内薬物生成バクテリア（マイクロニードルパッチ）",
+            "company": "Technion（イスラエル工科大学）",
+            "first_posted": "2026-04-26",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "慶應義塾大学 BCI運動イメージ訓練（脳状態可視化）",
+            "company": "慶應義塾大学・JST",
+            "first_posted": "2026-04-26",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Agtonomy × Kubota 自律農業トラクター（Kubota出資）",
+            "company": "Agtonomy × Kubota",
+            "first_posted": "2026-04-26",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "10x Science AIタンパク質解析プラットフォーム",
+            "company": "10x Science (YC W26)",
+            "first_posted": "2026-04-26",
+            "field": "生物×IT"
+        },
+        {
+            "name": "イスラエル国家ドローンプロジェクト（第1フェーズ完了）",
+            "company": "イスラエル運輸省",
+            "first_posted": "2026-04-26",
+            "field": "ドローン"
+        },
+        {
+            "name": "NUS マイクロニードル植物用バイオ肥料送達システム",
+            "company": "シンガポール国立大学（NUS）",
+            "first_posted": "2026-04-26",
+            "field": "技術×バイオ"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 1,
+            "name": "Sabi BCI ビーニー",
+            "company": "Sabi",
+            "country": "米国",
+            "field": "脳波/BCI",
+            "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 2,
+            "name": "NASA × UNOS 臓器輸送ドローン（CERTAIN計画）",
+            "company": "NASA Langley / UNOS",
+            "country": "米国",
+            "field": "ドローン",
+            "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 3,
+            "name": "RevolKa RevoAb® 抗体設計AIサービス",
+            "company": "RevolKa",
+            "country": "日本",
+            "field": "生物×IT",
+            "url": "https://www.revolka.com/en/news/corporate-20260401/"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 4,
+            "name": "Peri 更年期前期専用ウェアラブル",
+            "company": "Peri / MyPeri",
+            "country": "アイルランド",
+            "field": "技術×バイオ",
+            "url": "https://www.fastcompany.com/91519154/finally-a-wearable-designed-for-women-approaching-menopause"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 5,
+            "name": "Naox Link 耳型EEGデバイス（FDA 510(k)認可）",
+            "company": "Naox Technologies",
+            "country": "フランス",
+            "field": "脳波/BCI",
+            "url": "https://www.massdevice.com/naox-technologies-wins-fda-clearance-for-earbud-based-eeg/"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 6,
+            "name": "UC San Diego AI駆動ロボット脊椎手術（西海岸初）",
+            "company": "UC San Diego Health",
+            "country": "米国",
+            "field": "ロボティクス×バイオ",
+            "url": "https://health.ucsd.edu/news/press-releases/2026-04-27-uc-san-diego-health-performs-first-west-coast-ai-robotic-spine-surgery/"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 7,
+            "name": "Phylo Biomni Lab（AIエージェント生物学研究環境）",
+            "company": "Phylo",
+            "country": "米国",
+            "field": "生物×IT",
+            "url": "https://www.synbiobeta.com/read/phylo-launches-biomni-lab-and-secures-13.5m-seed-round"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 8,
+            "name": "ファーメランタ 発酵生産パイロット工場（2026年5月竣工）",
+            "company": "ファーメランタ株式会社",
+            "country": "日本",
+            "field": "合成生物学",
+            "url": "https://fermelanta.com/posts-1/qdvV0Mjr"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 9,
+            "name": "Elroy Air Chaparral 自律貨物ドローン（USDOT eIPP選定）",
+            "company": "Elroy Air",
+            "country": "米国",
+            "field": "ドローン",
+            "url": "https://www.businesswire.com/news/home/20260311112442/en/Elroy-Air-selected-to-provide-autonomous-aerial-cargo-delivery-as-part-of-new-White-House-program"
+        },
+        {
+            "date": "2026-04-27",
+            "rank": 10,
+            "name": "Superwing ZR-300 武装eVTOL",
+            "company": "Superwing Technology Group",
+            "country": "中国",
+            "field": "ドローン",
+            "url": "https://armyrecognition.com/news/aerospace-news/2026/china-develops-superwing-zr-300-armed-evtol-aircraft-with-missile-launcher-for-urban-security-missions"
+        },
+        {
+            "name": "ABS-101",
+            "company": "Absci",
+            "first_posted": "2026-04-28",
+            "field": "生物×IT / AI創薬"
+        },
+        {
+            "name": "OpenCRISPR-1",
+            "company": "Profluent",
+            "first_posted": "2026-04-28",
+            "field": "技術×バイオ / 合成生物学"
+        },
+        {
+            "name": "RTX-117 / XtalPi AI+Robotics Drug Discovery Engine",
+            "company": "ReviR Therapeutics × XtalPi",
+            "first_posted": "2026-04-28",
+            "field": "技術×バイオ / AIロボティクス創薬"
+        },
+        {
+            "name": "Connexus BCI / Connect-One Study",
+            "company": "Paradromics",
+            "first_posted": "2026-04-28",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "ARC-BCI Therapy",
+            "company": "ONWARD Medical",
+            "first_posted": "2026-04-28",
+            "field": "脳波/BCI / 神経リハビリ"
+        },
+        {
+            "name": "TuneLab",
+            "company": "Eli Lilly",
+            "first_posted": "2026-04-28",
+            "field": "生物×IT / AI創薬"
+        },
+        {
+            "name": "ESM3 / Forge protein design platform",
+            "company": "EvolutionaryScale",
+            "first_posted": "2026-04-28",
+            "field": "生物×IT / タンパク質生成AI"
+        },
+        {
+            "name": "H2D55 / Z1 Hydrogen Drone",
+            "company": "Heven AeroTech / Heven Drones",
+            "first_posted": "2026-04-28",
+            "field": "ドローン"
+        },
+        {
+            "name": "Skydio R10",
+            "company": "Skydio",
+            "first_posted": "2026-04-28",
+            "field": "ドローン / 公共安全"
+        },
+        {
+            "name": "Reshape robotic microbiology platform",
+            "company": "Reshape Biotech",
+            "first_posted": "2026-04-28",
+            "field": "技術×バイオ / ラボ自動化"
+        },
+        {
+            "name": "Starfish BCI chip",
+            "company": "Starfish Neuroscience",
+            "first_posted": "2026-04-29",
+            "field": "脳波・BCI"
+        },
+        {
+            "name": "Robot-assisted transcatheter mitral valve replacement",
+            "company": "Capstan Medical",
+            "first_posted": "2026-04-29",
+            "field": "ロボティクス×バイオ / 心臓治療"
+        },
+        {
+            "name": "RNA Edge",
+            "company": "Asimov",
+            "first_posted": "2026-04-29",
+            "field": "技術×バイオ / 合成生物学"
+        },
+        {
+            "name": "CGX-926",
+            "company": "Congruence Therapeutics",
+            "first_posted": "2026-04-29",
+            "field": "生物×IT / AI創薬"
+        },
+        {
+            "name": "Carina modular robotic surgery platform",
+            "company": "Ronovo Surgical",
+            "first_posted": "2026-04-29",
+            "field": "ロボティクス×バイオ / 手術支援"
+        },
+        {
+            "name": "Xcell Portfolio",
+            "company": "NewBiologix",
+            "first_posted": "2026-04-29",
+            "field": "合成生物学 / 遺伝子治療製造"
+        },
+        {
+            "name": "Engineered Cytocaf Proteins",
+            "company": "MarraBio",
+            "first_posted": "2026-04-29",
+            "field": "合成生物学 / 細胞培養"
+        },
+        {
+            "name": "BioChatter V0.9.0",
+            "company": "The Hyve / Open-source community",
+            "first_posted": "2026-04-29",
+            "field": "生物×IT / バイオLLM"
+        },
+        {
+            "name": "Skin Booster Bio-Fermented Serum with ÄIO RedOil",
+            "company": "ÄIO × tilk!",
+            "first_posted": "2026-04-29",
+            "field": "技術×バイオ / 精密発酵素材"
+        },
+        {
+            "name": "SciData XLerate v1.0",
+            "company": "Boulder BioComputing",
+            "first_posted": "2026-04-29",
+            "field": "生物×IT / 研究データ基盤"
+        },
+        {
+            "name": "AURA automated IVF lab",
+            "company": "Conceivable Life Sciences",
+            "first_posted": "2026-05-01",
+            "field": "生物×IT / ロボティクス×バイオ"
+        },
+        {
+            "name": "Scientific Superintelligence Platform / AI Science Factory",
+            "company": "Lila Sciences",
+            "first_posted": "2026-05-01",
+            "field": "生物×IT / 自律実験"
+        },
+        {
+            "name": "HX-2 AI Strike Drone / Altra swarm integration",
+            "company": "Helsing",
+            "first_posted": "2026-05-01",
+            "field": "ドローン / 防衛AI"
+        },
+        {
+            "name": "MW75 Neuro LT",
+            "company": "Neurable",
+            "first_posted": "2026-05-01",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "ROHand / OHand tactile robotic hand",
+            "company": "OYMotion",
+            "first_posted": "2026-05-01",
+            "field": "ロボティクス×バイオ / BCI周辺"
+        },
+        {
+            "name": "Firefly Petunia",
+            "company": "Light Bio",
+            "first_posted": "2026-05-01",
+            "field": "合成生物学"
+        },
+        {
+            "name": "ELIOS 3 Smart Return-to-Home / UT Payload",
+            "company": "Flyability",
+            "first_posted": "2026-05-01",
+            "field": "ドローン / 産業検査"
+        },
+        {
+            "name": "BeeHero Pollination Insight Platform 2.0",
+            "company": "BeeHero",
+            "first_posted": "2026-05-01",
+            "field": "技術×バイオ / 農業AI"
+        },
+        {
+            "name": "Biohybrid robotic jellyfish",
+            "company": "Caltech / Dabiri Lab",
+            "first_posted": "2026-05-01",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "CBI-1214 T-cell engager",
+            "company": "Cartography Biosciences",
+            "first_posted": "2026-05-01",
+            "field": "技術×バイオ / AI創薬・がん免疫"
+        },
+        {
+            "name": "SWARM Biotactics Cyborg Insect Swarms",
+            "company": "SWARM Biotactics",
+            "first_posted": "2026-05-25",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Neuralink Blindsight",
+            "company": "Neuralink",
+            "first_posted": "2026-05-25",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "TacnIQ.ai Tactile Foundation Models",
+            "company": "TacnIQ.ai",
+            "first_posted": "2026-05-25",
+            "field": "技術×バイオ / ロボティクス"
+        },
+        {
+            "name": "Found Energy Aluminium Fuel System",
+            "company": "Found Energy",
+            "first_posted": "2026-05-25",
+            "field": "技術×バイオ / エネルギー"
+        },
+        {
+            "name": "MeeBio 光制御バイオ生産プラットフォーム",
+            "company": "株式会社ミーバイオ",
+            "first_posted": "2026-05-25",
+            "field": "生物×IT / 合成生物学"
+        },
+        {
+            "name": "Stem Cell Derived Mini-Brains",
+            "company": "FinalSpark (など)",
+            "first_posted": "2026-05-25",
+            "field": "合成生物学 / 脳波/BCI"
+        },
+        {
+            "name": "Tsingke & iGeneTech SynBio Platform",
+            "company": "Tsingke Biotech / iGeneTech",
+            "first_posted": "2026-05-25",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Zeroth Jupiter Humanoid",
+            "company": "Zeroth",
+            "first_posted": "2026-05-25",
+            "field": "ロボティクス"
+        },
+        {
+            "name": "DEEP Robotics Robot Horse",
+            "company": "DEEP Robotics",
+            "first_posted": "2026-05-25",
+            "field": "ロボティクス"
+        },
+        {
+            "name": "Skylo Satellite Deep Tech Link",
+            "company": "Skylo Technologies",
+            "first_posted": "2026-05-25",
+            "field": "技術×バイオ / IoT"
+        },
+        {
+            "name": "StrainX Precision Fermentation Platform",
+            "company": "StrainX Bioworks",
+            "first_posted": "2026-05-27",
+            "field": "合成生物学"
+        },
+        {
+            "name": "NEO System (Commercial Approval)",
+            "company": "Shanghai Borui (Neuracle Medical)",
+            "first_posted": "2026-05-27",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Self-Healing Human Skin Robot",
+            "company": "東京大学 / Institute of Science Tokyo",
+            "first_posted": "2026-05-27",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Cognixion ONE (Vision Pro Integration)",
+            "company": "Cognixion",
+            "first_posted": "2026-05-27",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "GDU S400 / Mobile Docking Solution",
+            "company": "GDU Technology",
+            "first_posted": "2026-05-27",
+            "field": "ドローン"
+        },
+        {
+            "name": "Capsyra & Ewigbyte Long-term Data Storage",
+            "company": "Capsyra / Ewigbyte",
+            "first_posted": "2026-05-27",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "MicroCyto Synthetic Biology Financing",
+            "company": "MicroCyto",
+            "first_posted": "2026-05-27",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Anovo Surgical System (Clinical Registry)",
+            "company": "Momentis Surgical",
+            "first_posted": "2026-05-27",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Soft Brain Implants (Tissue Matching)",
+            "company": "Neurosoft Bioelectronics",
+            "first_posted": "2026-05-27",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "AeroLion Autonomous Docking UAV",
+            "company": "AeroLion Technologies",
+            "first_posted": "2026-05-27",
+            "field": "ドローン"
+        },
+        {
+            "name": "Robeauté",
+            "company": "Robeauté",
+            "first_posted": "2026-05-29",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "CryoBio",
+            "company": "CryoBio",
+            "first_posted": "2026-05-29",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Aquit",
+            "company": "Aquit",
+            "first_posted": "2026-05-29",
+            "field": "生物×IT"
+        },
+        {
+            "name": "JOUAV CW-25H",
+            "company": "JOUAV",
+            "first_posted": "2026-05-29",
+            "field": "ドローン"
+        },
+        {
+            "name": "Palmless",
+            "company": "C16 Biosciences",
+            "first_posted": "2026-05-29",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Adamant Health",
+            "company": "Adamant Health",
+            "first_posted": "2026-05-29",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Onward Medical",
+            "company": "Onward Medical",
+            "first_posted": "2026-05-29",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "PRIMA",
+            "company": "Science Corporation",
+            "first_posted": "2026-05-29",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Melt&Marble",
+            "company": "Melt&Marble",
+            "first_posted": "2026-05-29",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Fermeleta",
+            "company": "Fermeleta",
+            "first_posted": "2026-05-29",
+            "field": "合成生物学"
+        },
+        {
+            "name": "培養皮膚を纏った自律修復型ロボット",
+            "company": "東京大学 竹内昌治教授チーム",
+            "first_posted": "2026-05-30",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "バイオ・コンピューティング・チップ",
+            "company": "The Biological Computing Company (TBC)",
+            "first_posted": "2026-05-30",
+            "field": "生物×IT"
+        },
+        {
+            "name": "極小脳インターフェース (BCI) チップ",
+            "company": "MintNeuro",
+            "first_posted": "2026-05-30",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "子宮内膜症の非侵襲診断 MetriDx",
+            "company": "Hera Biotech",
+            "first_posted": "2026-05-30",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "自律型大型貨物ドローン",
+            "company": "AiR EV & ST Engineering",
+            "first_posted": "2026-05-30",
+            "field": "ドローン"
+        },
+        {
+            "name": "エピジェネティック遺伝子治療",
+            "company": "Tune Therapeutics",
+            "first_posted": "2026-05-30",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "合成生物学による生分解性プラスチック PHA",
+            "company": "Bluepha",
+            "first_posted": "2026-05-30",
+            "field": "合成生物学"
+        },
+        {
+            "name": "食品廃棄物のバイオ変換ユニット",
+            "company": "Entomal Biotech",
+            "first_posted": "2026-05-30",
+            "field": "合成生物学 / 環境"
+        },
+        {
+            "name": "AI駆動の次世代肥満治療薬",
+            "company": "Kailera Therapeutics",
+            "first_posted": "2026-05-30",
+            "field": "生物×IT"
+        },
+        {
+            "name": "細胞スケール治療ロボット",
+            "company": "Biohybrid Microrobots",
+            "first_posted": "2026-05-30",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Alex Conley Mind Drone Control",
+            "company": "Neuralink",
+            "first_posted": "2026-06-01",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "MetriDx",
+            "company": "Hera Biotech",
+            "first_posted": "2026-06-01",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "nia F01",
+            "company": "YZi Labs",
+            "first_posted": "2026-06-01",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Bio-hybrid Exoskeleton",
+            "company": "Tel Aviv University",
+            "first_posted": "2026-06-01",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "EMBC Unit",
+            "company": "Entomal Biotech",
+            "first_posted": "2026-06-01",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Gene-tuning Therapy",
+            "company": "Tune Therapeutics",
+            "first_posted": "2026-06-01",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Crustacean Abdomen Robot",
+            "company": "Royal Marine / Bio-hybrid",
+            "first_posted": "2026-06-01",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "DJI Lito X1",
+            "company": "DJI",
+            "first_posted": "2026-06-01",
+            "field": "ドローン"
+        },
+        {
+            "name": "FAST-PASE",
+            "company": "ATANIS Biotech",
+            "first_posted": "2026-06-01",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Ocean Mortadella",
+            "company": "NewFish",
+            "first_posted": "2026-06-01",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Heven Drones Raider",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "OstraBot",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "Ming視 植入式视觉重建系统",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "Fermelanta 高付加価値植物由来化合物生産プラットフォーム",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "Zhonghua 高通量双方向植入式脳控外骨格システム",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "Skyeton Hydrogen-powered Raybird",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "FlyingBasket FB3",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "Shenxin 高通量神経信号収集刺激チップ",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "Dechang NeuMap",
+            "date": "2026-06-02"
+        },
+        {
+            "name": "LanzaTech カーボンネガティブ・バイオ製造",
+            "date": "2026-06-02"
+        }
+    ],
+    "last_updated": "2026-05-30"
 }
