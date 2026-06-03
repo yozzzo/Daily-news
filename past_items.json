@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-ipo-s1-opus48-965b-valuation-2026-06-01",
+      "title": "Anthropic、SEC機密S-1提出でIPO申請——評価額9,650億ドル・ARR470億ドル・Claude Opus 4.8も投入",
+      "company": "Anthropic",
+      "date": "2026-06-01",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "trump-ai-executive-order-30day-review-2026-06-02",
+      "title": "トランプ大統領、AI規制大統領令に署名——フロンティアモデルの政府事前レビュー30日間（任意）を要求",
+      "company": "米国政府",
+      "date": "2026-06-02",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "openai-gpt55-spud-release-2026-04-23",
+      "title": "OpenAI「GPT-5.5（Spud）」リリース——GPT-4.5以来の完全再学習ベースモデル、Terminal-Bench 82.7%",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "google-gemini-35-flash-io2026-2026-05-19",
+      "title": "Google「Gemini 3.5 Flash」GA——Google I/O 2026でGemini 3.1 Proを性能・速度・コストすべてで上回る",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "github-copilot-metered-billing-pricing-shock-2026-06-01",
+      "title": "GitHub Copilot、従量課金制へ移行——ヘビーユーザーのコストが最大25倍に急増",
+      "company": "GitHub / Microsoft",
+      "date": "2026-06-01",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-computex-2026-06-02",
+      "title": "NVIDIA「RTX Spark Superchip」発表——128GBユニファイドメモリ搭載のAI PCチップ（Computex 2026）",
+      "company": "NVIDIA",
+      "date": "2026-06-02",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "microsoft-build-2026-mai-thinking1-coding-2026-06-02",
+      "title": "Microsoft Build 2026 + MAI-Thinking-1発表——自社推論モデルでSWE-bench 53%、OpenAI依存脱却を加速",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "humanoid-robots-factories-nvidia-unitree-2026-06-01",
+      "title": "ヒューマノイドロボット、実工場・空港へ大規模展開——NVIDIA×Unitree連携で研究者アクセスも開放",
+      "company": "NVIDIA / Unitree / Figure AI / JAL",
+      "date": "2026-06-01",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "xai-grok-build-43-imagine-video-15-2026-05-31",
+      "title": "xAI「Grok 4.3」+「Grok Build 0.1」+「Grok Imagine Video 1.5」——3連発でコーディング・動画AIに本格参入",
+      "company": "xAI",
+      "date": "2026-05-31",
+      "delivered": "2026-06-03"
+    },
+    {
+      "id": "mistral-medium-35-cloud-agents-2026-05-22",
+      "title": "Mistral「Medium 3.5」+ クラウドリモートエージェント——128B密結合モデル、完了通知型バックグラウンド実行",
+      "company": "Mistral AI",
+      "date": "2026-05-22",
+      "delivered": "2026-06-03"
     }
   ]
 }
