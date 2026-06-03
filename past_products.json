@@ -2086,7 +2086,67 @@
         {
             "name": "LanzaTech カーボンネガティブ・バイオ製造",
             "date": "2026-06-02"
+        },
+        {
+            "name": "Galaxy Space Capsule",
+            "company": "Galbot",
+            "first_posted": "2026-06-03",
+            "field": "ロボティクス×バイオ/サービス"
+        },
+        {
+            "name": "Toumai (Telesurgery Success)",
+            "company": "MicroPort MedBot",
+            "first_posted": "2026-06-03",
+            "field": "ロボティクス×バイオ/医療"
+        },
+        {
+            "name": "Phantom X",
+            "company": "Phantom Neuro",
+            "first_posted": "2026-06-03",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Science Foundry",
+            "company": "Science Corporation",
+            "first_posted": "2026-06-03",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Home Companion Humanoid",
+            "company": "UBTECH",
+            "first_posted": "2026-06-03",
+            "field": "ロボティクス×バイオ/家庭用"
+        },
+        {
+            "name": "Lotus (tFUS device)",
+            "company": "Sanmai Technologies",
+            "first_posted": "2026-06-03",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Brain-Body Circuit Modulator",
+            "company": "Nilo Therapeutics",
+            "first_posted": "2026-06-03",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Saros Z70",
+            "company": "Roborock",
+            "first_posted": "2026-06-03",
+            "field": "ロボティクス×バイオ/家電"
+        },
+        {
+            "name": "Hivemind AI-Piloted Drones",
+            "company": "Shield AI",
+            "first_posted": "2026-06-03",
+            "field": "ドローン"
+        },
+        {
+            "name": "Mini Human Brains (Stem Cells)",
+            "company": "Hello Tomorrow Finalist",
+            "first_posted": "2026-06-03",
+            "field": "生物×IT/バイオ"
         }
     ],
-    "last_updated": "2026-05-30"
+    "last_updated": "2026-06-03"
 }
