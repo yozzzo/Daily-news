@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-opus48-dynamic-workflows-65b-ipo-2026-05-28",
+      "title": "Anthropic Claude Opus 4.8リリース＋$65B調達＋IPO S-1申請 — AI業界最大の三冠達成",
+      "company": "Anthropic",
+      "date": "2026-05-28",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-computex-2026-06-01",
+      "title": "NVIDIA RTX Sparkスーパーチップ発表（Computex 2026）— Arm CPU+Blackwell GPU+128GB統合メモリでAI PC革命",
+      "company": "NVIDIA / Microsoft",
+      "date": "2026-06-01",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "google-io-2026-gemini-spark-35flash-omni-2026-05-19",
+      "title": "Google I/O 2026 — Gemini Spark 24/7パーソナルAIエージェント・Gemini 3.5 Flash・Omni同時発表",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "microsoft-build-2026-mai-code-1-flash-polaris-copilot-2026-06-02",
+      "title": "Microsoft Build 2026 — MAI-Code-1-Flash発表＋Project PolarisがGitHub Copilotデフォルトへ、OpenAI独占解消",
+      "company": "Microsoft / GitHub",
+      "date": "2026-06-02",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "openai-gpt55-instant-hallucination-reduction-2026-04-23",
+      "title": "OpenAI GPT-5.5＋GPT-5.5 Instant — 幻覚52.5%減、全ChatGPTユーザーのデフォルトモデルに",
+      "company": "OpenAI",
+      "date": "2026-04-23",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "deepseek-v4-preview-1-6t-huawei-ascend-2026-04-24",
+      "title": "DeepSeek V4 Preview — 1.6兆パラメータオープンウェイト、Huawei製チップで中国AI自給自足の転換点",
+      "company": "DeepSeek",
+      "date": "2026-04-24",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "xai-grok-43-1m-context-video-computer-use-2026-05-04",
+      "title": "xAI Grok 4.3 — 1Mコンテキスト＋ネイティブ動画入力＋コンピュータ使用、Intelligenceスコア53点",
+      "company": "xAI",
+      "date": "2026-05-04",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "anthropic-claude-security-enterprise-beta-2026-05-01",
+      "title": "Anthropic Claude Securityエンタープライズ公開ベータ — AIが数十年見逃されてきた脆弱性500件超を発見",
+      "company": "Anthropic",
+      "date": "2026-05-01",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "alibaba-qwen37-max-35hour-autonomous-agent-2026-05-20",
+      "title": "Alibaba Qwen3.7-Max — 35時間の自律エージェント動作、1,000回超のツール呼び出しで推論10倍速化",
+      "company": "Alibaba Cloud",
+      "date": "2026-05-20",
+      "delivered": "2026-06-04"
+    },
+    {
+      "id": "jal-haneda-humanoid-robot-unitree-2026-04-29",
+      "title": "JAL、羽田空港にヒューマノイドロボットを商業展開 — 日本初・空港グランドハンドリングへの長期導入",
+      "company": "JAL / GMO AI & Robotics / Unitree Robotics",
+      "date": "2026-04-29",
+      "delivered": "2026-06-04"
     }
   ]
 }
