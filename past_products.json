@@ -2146,6 +2146,66 @@
             "company": "Hello Tomorrow Finalist",
             "first_posted": "2026-06-03",
             "field": "生物×IT/バイオ"
+        },
+        {
+            "name": "Zipline Platform 2",
+            "company": "Zipline",
+            "first_posted": "2026-06-04",
+            "field": "ドローン"
+        },
+        {
+            "name": "Unitree G1",
+            "company": "Unitree",
+            "first_posted": "2026-06-04",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Cortical Labs CL1",
+            "company": "Cortical Labs",
+            "first_posted": "2026-06-04",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Matricelf Spinal Implant",
+            "company": "Matricelf",
+            "first_posted": "2026-06-04",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "String Bio SIMP",
+            "company": "String Bio",
+            "first_posted": "2026-06-04",
+            "field": "合成生物学"
+        },
+        {
+            "name": "NTU Oscar",
+            "company": "NTU Singapore",
+            "first_posted": "2026-06-04",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "GITAI R1 Rover",
+            "company": "GITAI",
+            "first_posted": "2026-06-04",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Bluepha PHA",
+            "company": "Bluepha",
+            "first_posted": "2026-06-04",
+            "field": "合成生物学"
+        },
+        {
+            "name": "F-drones Heavy Lift",
+            "company": "F-drones",
+            "first_posted": "2026-06-04",
+            "field": "ドローン"
+        },
+        {
+            "name": "Sea6 Energy Farm",
+            "company": "Sea6 Energy",
+            "first_posted": "2026-06-04",
+            "field": "合成生物学"
         }
     ],
     "last_updated": "2026-06-03"

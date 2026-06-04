@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Zipline Platform 2",
+        "company": "Zipline",
+        "field": "ドローン",
+        "region": "USA/India",
+        "desc": "自律型ドロイドによる精密家庭配送。2026年に本格展開。",
+        "links": [
+            "https://www.zipline.com/",
+            "https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company)"
+        ]
+    },
+    {
+        "name": "Unitree G1",
+        "company": "Unitree",
+        "field": "ロボティクス×バイオ",
+        "region": "China",
+        "desc": "1.6万ドルの量産型ヒューマノイド。2026年に2万台生産目標。",
+        "links": [
+            "https://www.forbes.com/sites/jonmarkman/2026/04/27/unitree-g1-humanoid-robots-are-reshaping-the-robotics-investment-stack/",
+            "https://www.therobotreport.com/unitree-robotics-unveils-g1-humanoid-for-16k/"
+        ]
+    },
+    {
+        "name": "Cortical Labs CL1",
+        "company": "Cortical Labs",
+        "field": "ロボティクス×バイオ",
+        "region": "Australia",
+        "desc": "世界初の商用バイオコンピュータ。20万個のヒトニューロンを搭載。",
+        "links": [
+            "https://corticallabs.com/",
+            "https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484"
+        ]
+    },
+    {
+        "name": "Matricelf Spinal Implant",
+        "company": "Matricelf",
+        "field": "技術×バイオ",
+        "region": "Israel",
+        "desc": "ヒトへの脊髄インプラント臨床試験を2026年に開始。麻痺治療を目指す。",
+        "links": [
+            "https://matricelf.com/",
+            "https://finance.yahoo.com/news/matricelf-ltd-tase-mtlf-reports-120000257.html"
+        ]
+    },
+    {
+        "name": "String Bio SIMP",
+        "company": "String Bio",
+        "field": "合成生物学",
+        "region": "India",
+        "desc": "メタンガスを家畜用タンパク質に変換する技術。商業規模拡大。",
+        "links": [
+            "https://tracxn.com/d/companies/stringbio/__SwmFeI7fCjwEarC4i3qJI1ZoD0y8nqGs7AFJBv9G3Zg",
+            "https://www.hbs.edu/environment/blog/post/IFC-India-2026-StringBio"
+        ]
+    },
+    {
+        "name": "NTU Oscar",
+        "company": "NTU Singapore",
+        "field": "ロボティクス×バイオ",
+        "region": "Singapore",
+        "desc": "4.4mmの超小型バイオハイブリッドロボット。生体組織を使用。",
+        "links": [
+            "https://www.instagram.com/p/DY64yuwmtY5/",
+            "https://www.instagram.com/reel/DUYZPSZjKgA/"
+        ]
+    },
+    {
+        "name": "GITAI R1 Rover",
+        "company": "GITAI",
+        "field": "ロボティクス×バイオ",
+        "region": "Japan",
+        "desc": "2026年に月面でのロボットミッション（S3）を予定。",
+        "links": [
+            "https://gitai.tech/",
+            "https://www.instagram.com/reel/DYfJ7uiPetn/"
+        ]
+    },
+    {
+        "name": "Bluepha PHA",
+        "company": "Bluepha",
+        "field": "合成生物学",
+        "region": "China",
+        "desc": "生分解性プラスチックの商業生産。Biohybrid 1.0技術。",
+        "links": [
+            "https://www.plasticsnews.com/news/bluepha-launches-commercial-pha-portfolio/",
+            "https://www.linkedin.com/pulse/pha-bioproduction-reimagined-bluepha-reaches-over-300gl-yield-sx4ue"
+        ]
+    },
+    {
+        "name": "F-drones Heavy Lift",
+        "company": "F-drones",
+        "field": "ドローン",
+        "region": "Singapore",
+        "desc": "100kg積載・100km航行可能な船舶配送ドローン。2026年商用化。",
+        "links": [
+            "https://www.edb.gov.sg/en/business-insights/insights/singapore-s-first-drone-delivery-service-takes-flight.html",
+            "https://www.commercialuavnews.com/infrastructure/f-drones-cost-delivery-boat-drones"
+        ]
+    },
+    {
+        "name": "Sea6 Energy Farm",
+        "company": "Sea6 Energy",
+        "field": "合成生物学",
+        "region": "India",
+        "desc": "世界初の機械化熱帯海藻農場。バイオ燃料原料。",
+        "links": [
+            "https://www.sea6energy.com/",
+            "https://www.basf.com/global/en/media/news-releases/2022/08/p-22-312"
+        ]
+    }
+]
