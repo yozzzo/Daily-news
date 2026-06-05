@@ -2206,7 +2206,61 @@
             "company": "Sea6 Energy",
             "first_posted": "2026-06-04",
             "field": "合成生物学"
+        },
+        {
+            "name": "Neurobot",
+            "company": "Harvard Wyss Institute",
+            "first_posted": "2026-06-05",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "3D Picking with AI Vision",
+            "company": "Eureka Robotics",
+            "first_posted": "2026-06-05",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "BotLab Drone Swarm",
+            "company": "BotLab Dynamics",
+            "first_posted": "2026-06-05",
+            "field": "ドローン"
+        },
+        {
+            "name": "BrainQ BCI Therapy",
+            "company": "BrainQ",
+            "first_posted": "2026-06-05",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "AlloSure Plus",
+            "company": "CareDx",
+            "first_posted": "2026-06-05",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Fermelanta",
+            "company": "Fermelanta",
+            "first_posted": "2026-06-05",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Eon Space Labs Thermal Imaging",
+            "company": "Eon Space Labs",
+            "first_posted": "2026-06-05",
+            "field": "ドローン"
+        },
+        {
+            "name": "Accutar Biotech AI Drug Discovery",
+            "company": "Accutar Biotech",
+            "first_posted": "2026-06-05",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Regenerative Spinal Implant",
+            "company": "Matricelf",
+            "first_posted": "2026-06-05",
+            "field": "技術×バイオ"
         }
     ],
-    "last_updated": "2026-06-03"
+    "last_updated": "2026-06-05"
 }
