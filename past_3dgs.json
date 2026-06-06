@@ -345,6 +345,27 @@
     {"name": "Gaussian Splatting Unity VR Plugin", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "Unity VR対応GS", "url": "https://radiancefields.com/gaussian-splatting-unity-plugin-gets-vr-support"},
     {"name": "3DVista 2026.0 Total VR Mode", "type": "コ���ュニティ", "first_posted": "2026-05-30", "field": "バーチャルツアー・完全VR対応", "url": "https://www.3dvista.com/en/blog/update-2026-0-total-vr-mode/"},
     {"name": "Gaussian Splatting Morphing Tool", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "GS編集ツール・モーフィング", "url": "https://radiancefields.com/gaussian-splatting-morphing-tool-to-blend-between-3dgs-captures"},
-    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "Selfi", "type": "論文", "first_posted": "2026-06-06", "field": "3DGS再構成・自己教師あり", "url": "https://arxiv.org/abs/2512.08930"},
+    {"name": "MoVieS", "type": "論文", "first_posted": "2026-06-06", "field": "4DGS・高速合成", "url": "https://arxiv.org/abs/2507.10065"},
+    {"name": "HiGS", "type": "論文", "first_posted": "2026-06-06", "field": "3DGS高速化・レンダリング", "url": "https://arxiv.org/abs/2606.00352"},
+    {"name": "Gaussian Point Splatting", "type": "論文", "first_posted": "2026-06-06", "field": "SIGGRAPH・確率的レンダリング", "url": "https://momentsingraphics.de/Siggraph2026.html"},
+    {"name": "DSD-GS", "type": "論文", "first_posted": "2026-06-06", "field": "4DGS・動的静的分解", "url": "https://arxiv.org/html/2605.30863v1"},
+    {"name": "GaussianDWM", "type": "論文", "first_posted": "2026-06-06", "field": "自動運転・世界モデル", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "Diff4Splat", "type": "論文", "first_posted": "2026-06-06", "field": "4D生成・テキスト制御", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "NimbusGS", "type": "論文", "first_posted": "2026-06-06", "field": "悪天候3DGS", "url": "https://arxiv.org/pdf/2603.27228"},
+    {"name": "AeroDGS", "type": "論文", "first_posted": "2026-06-06", "field": "空撮4D再構成", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "BEAST3D", "type": "論文", "first_posted": "2026-06-06", "field": "生命科学・動物行動分析", "url": "https://arxiv.org/abs/2606.02937"},
+    {"name": "AtlasGS", "type": "論文", "first_posted": "2026-06-06", "field": "医療・脳MRI", "url": "https://arxiv.org/abs/2606.02961"},
+    {"name": "SparseStreet", "type": "論文", "first_posted": "2026-06-06", "field": "自動運転・街路GS", "url": "https://arxiv.org/html/2606.03909v1"},
+    {"name": "HRGS", "type": "論文", "first_posted": "2026-06-06", "field": "高解像度・省メモリ", "url": "https://arxiv.org/abs/2506.14229"},
+    {"name": "PersistGS", "type": "論文", "first_posted": "2026-06-06", "field": "物理4DGS・物体永続性", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "CVPR 2026 Denver 開催", "type": "ニュース", "first_posted": "2026-06-06", "field": "カンファレンス", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "glTF KHR_gaussian_splatting Q2批准直前", "type": "ニュース", "first_posted": "2026-06-06", "field": "標準化", "url": "https://www.khronos.org/news/press/gltf-gaussian-splatting-press-release"},
+    {"name": "Netflix GS採用強化", "type": "ニュース", "first_posted": "2026-06-06", "field": "大企業採用", "url": "https://www.thefuture3d.com/blog/state-of-gaussian-splatting-2026/"},
+    {"name": "Zillow SkyTour GS正式採用", "type": "ニュース", "first_posted": "2026-06-06", "field": "不動産・消費者向け", "url": "https://lidarnews.com/zillow-3d-tours-with-gaussian-splatting/"},
+    {"name": "Splatware エンドツーエンドGSプラットフォーム", "type": "ニュース", "first_posted": "2026-06-06", "field": "クラウドツール", "url": "https://radiancefields.com/splatware-launches-as-an-end-to-end-gaussian-splatting-platform"},
+    {"name": "HackerNews Gaussian Point Splatting 話題", "type": "コミュニティ", "first_posted": "2026-06-06", "field": "SNS・話題", "url": "https://news.ycombinator.com/item?id=48396792"},
+    {"name": "CVPR 2026 GS論文コード公開ラッシュ（本番後）", "type": "コミュニティ", "first_posted": "2026-06-06", "field": "カンファレンス・コード公開", "url": "https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/main/2026/CVPR.md"}
   ]
 }
