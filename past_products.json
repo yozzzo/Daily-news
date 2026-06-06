@@ -2260,6 +2260,66 @@
             "company": "Matricelf",
             "first_posted": "2026-06-05",
             "field": "技術×バイオ"
+        },
+        {
+            "name": "Neurable Licensing Platform",
+            "company": "Neurable",
+            "first_posted": "2026-06-06",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Science Corp PRIMA Retinal Implant",
+            "company": "Science Corporation",
+            "first_posted": "2026-06-06",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Precision Neuroscience Layer 7 (Medtronic Integration)",
+            "company": "Precision Neuroscience",
+            "first_posted": "2026-06-06",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "SkyPulse Technologies Israeli Drones",
+            "company": "SkyPulse Technologies",
+            "first_posted": "2026-06-06",
+            "field": "ドローン"
+        },
+        {
+            "name": "NUS Synthetic Biology Microbial Protein",
+            "company": "National University of Singapore (NUS)",
+            "first_posted": "2026-06-06",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Fermelanta Plant-derived Compound Platform",
+            "company": "Fermelanta",
+            "first_posted": "2026-06-06",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Swan Drones Swarm Intelligence",
+            "company": "Swan Drones",
+            "first_posted": "2026-06-06",
+            "field": "ドローン"
+        },
+        {
+            "name": "Axoft Fleuron™",
+            "company": "Axoft",
+            "first_posted": "2026-06-06",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Colossal Biosciences Creation Engine",
+            "company": "Colossal Biosciences",
+            "first_posted": "2026-06-06",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Bio-hybrid Muscle-driven Walker",
+            "company": "Harvard Wyss Institute / MIT",
+            "first_posted": "2026-06-06",
+            "field": "ロボティクス×バイオ"
         }
     ],
     "last_updated": "2026-06-05"
