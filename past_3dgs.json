@@ -345,6 +345,22 @@
     {"name": "Gaussian Splatting Unity VR Plugin", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "Unity VR対応GS", "url": "https://radiancefields.com/gaussian-splatting-unity-plugin-gets-vr-support"},
     {"name": "3DVista 2026.0 Total VR Mode", "type": "コ���ュニティ", "first_posted": "2026-05-30", "field": "バーチャルツアー・完全VR対応", "url": "https://www.3dvista.com/en/blog/update-2026-0-total-vr-mode/"},
     {"name": "Gaussian Splatting Morphing Tool", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "GS編集ツール・モーフィング", "url": "https://radiancefields.com/gaussian-splatting-morphing-tool-to-blend-between-3dgs-captures"},
-    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "HiGS (Hierarchically Tiled Gaussian Splatting)", "type": "論文", "first_posted": "2026-06-07", "field": "リアルタイムレンダリング・最適化", "url": "https://arxiv.org/abs/2606.00352"},
+    {"name": "SparseStreet", "type": "論文", "first_posted": "2026-06-07", "field": "自動運転・GS圧縮", "url": "https://arxiv.org/abs/2606.03909"},
+    {"name": "ODE-GS", "type": "論文", "first_posted": "2026-06-07", "field": "4DGS・動的シーン未来予測", "url": "https://arxiv.org/abs/2506.05480"},
+    {"name": "PhysIR-Splat", "type": "論文", "first_posted": "2026-06-07", "field": "熱赤外線GS・CVPR 2026", "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_PhysIR-Splat_Physically_Consistent_Thermal_Infrared_Radiative_Transfer_in_3D_Gaussian_CVPR_2026_paper.pdf"},
+    {"name": "BEAST3D", "type": "論文", "first_posted": "2026-06-07", "field": "生命科学・動物行動解析・GS", "url": "https://arxiv.org/abs/2606.02937"},
+    {"name": "AtlasGS", "type": "論文", "first_posted": "2026-06-07", "field": "医療・脳MRI・GS応用", "url": "https://arxiv.org/abs/2606.02961"},
+    {"name": "Unpaired RGB-Thermal GS", "type": "論文", "first_posted": "2026-06-07", "field": "マルチモーダル・赤外線・EPFL", "url": "https://arxiv.org/abs/2606.05491"},
+    {"name": "Point Cloud Upsampling for 3DGS", "type": "論文", "first_posted": "2026-06-07", "field": "3DGS最適化・点群初期化", "url": "https://arxiv.org/abs/2606.00450"},
+    {"name": "HAIF-GS", "type": "論文", "first_posted": "2026-06-07", "field": "4DGS・動的シーン・階層フロー", "url": "https://arxiv.org/abs/2506.09518"},
+    {"name": "MapTiler GeoSplats パブリックベータ公開", "type": "ニュース", "first_posted": "2026-06-07", "field": "都市デジタルツイン・WebGPU・GIS", "url": "https://www.maptiler.com/geosplats/"},
+    {"name": "CVPR 2026 Denver 開催（GS論文60件超発表）", "type": "ニュース", "first_posted": "2026-06-07", "field": "学会・CVPR・コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "KIRI Engine 3DGS Render v5.0 for Blender", "type": "ツール", "first_posted": "2026-06-07", "field": "Blenderプラグイン・リギング・4DGS", "url": "https://radiancefields.com/kiri-engine-ships-3dgs-render-5.0-for-blender"},
+    {"name": "SplatKing 1.0.2 メジャーアップデート", "type": "ツール", "first_posted": "2026-06-07", "field": "iOSキャプチャ・COLMAP連携", "url": "https://radiancefields.com/splatking"},
+    {"name": "Facepunch s&box GS Library", "type": "コミュニティ", "first_posted": "2026-06-07", "field": "ゲームエンジン・コミュニティ", "url": "https://radiancefields.com/facepunch-ships-gaussian-splat-library-for-s-box"},
+    {"name": "Pixel Lab 無料GS古代アセットパック", "type": "コミュニティ", "first_posted": "2026-06-07", "field": "素材・アセット・VFX", "url": "https://www.thepixellab.net/free-3d-gaussian-splat-model-pack-ancient"},
+    {"name": "note.com 3DGSを3DTilesに変換する方法（日本語）", "type": "コミュニティ", "first_posted": "2026-06-07", "field": "日本語コンテンツ・GIS・デジタルツイン", "url": "https://note.com/asamiakaya/n/na80da96025c8"}
   ]
 }
