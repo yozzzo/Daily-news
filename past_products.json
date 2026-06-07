@@ -2320,7 +2320,67 @@
             "company": "Harvard Wyss Institute / MIT",
             "first_posted": "2026-06-06",
             "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "NEO (侵襲型BCI)",
+            "company": "Neuracle Technology",
+            "first_posted": "2026-06-07",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Anthriq (非侵襲型BCIヘッドセット)",
+            "company": "Anthriq",
+            "first_posted": "2026-06-07",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Galbot G-1 (自律型コンビニロボット)",
+            "company": "Galbot",
+            "first_posted": "2026-06-07",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Qarbotech (光合成強化ナノ溶液)",
+            "company": "Qarbotech",
+            "first_posted": "2026-06-07",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "G-Beetle (水インフラ点検ロボット)",
+            "company": "Genrobotics",
+            "first_posted": "2026-06-07",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Step-V4-Pro (マルチモーダルAIモデル)",
+            "company": "StepFun",
+            "first_posted": "2026-06-07",
+            "field": "生物×IT"
+        },
+        {
+            "name": "NexCAR19 (国産CAR-T細胞療法)",
+            "company": "ImmunoACT",
+            "first_posted": "2026-06-07",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "自己修復する人間皮膚ロボット",
+            "company": "東京大学",
+            "first_posted": "2026-06-07",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "DJI Agras T100 (農業用ドローン)",
+            "company": "DJI",
+            "first_posted": "2026-06-07",
+            "field": "ドローン"
+        },
+        {
+            "name": "SkyDrive SD-05 (商用空飛ぶクルマ)",
+            "company": "SkyDrive",
+            "first_posted": "2026-06-07",
+            "field": "ドローン"
         }
     ],
-    "last_updated": "2026-06-05"
+    "last_updated": "2026-06-07"
 }
