@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-ipo-s1-sec-filing-2026-06-01",
+      "title": "Anthropic、機密S-1をSECに提出——評価額$965B・売上ランレート$47Bでついに上場申請",
+      "company": "Anthropic",
+      "date": "2026-06-01",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-pc-computex-2026-05-31",
+      "title": "NVIDIA「RTX Spark」発表——Blackwell GPU＋Grace CPUで1ペタフロップAI計算、128GB統合メモリをPC向けに",
+      "company": "NVIDIA",
+      "date": "2026-05-31",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "microsoft-build-2026-windows-agent-os-2026-06-02",
+      "title": "Microsoft Build 2026——WindowsがAIエージェントOSに変貌、Agent 365 SDK・自律エージェントモードを発表",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "google-gemini-35-flash-ga-spark-agent-2026-05-19",
+      "title": "Google Gemini 3.5 Flash GA＋Gemini Sparkエージェント——200万トークンContext・端末OFFでも24/7稼働",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "github-copilot-project-polaris-autonomous-agent-mode-2026-06-02",
+      "title": "GitHub Copilot「Project Polaris」＋自律エージェントモード——GPT-4を独自モデルで置き換え、ブランチ全体を自動開発",
+      "company": "GitHub / Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "anthropic-claude-opus-48-glasswing-150-orgs-2026-06-02",
+      "title": "Anthropic Claude Opus 4.8リリース＋Project Glasswing 150機関に拡大——サイバーAI最前線へ",
+      "company": "Anthropic",
+      "date": "2026-06-02",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "deepseek-v4-pro-release-open-source-2026-04-24",
+      "title": "DeepSeek V4-Pro公開——1.6兆パラメータMoE・SWE-bench 80.6%・$0.435/Mという破壊的低価格",
+      "company": "DeepSeek",
+      "date": "2026-04-24",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "openai-gpt-55-instant-default-chatgpt-2026-05-05",
+      "title": "OpenAI GPT-5.5 Instant——ChatGPT全ユーザーのデフォルトを刷新、幻覚52.5%削減・Gmail連携パーソナライズ",
+      "company": "OpenAI",
+      "date": "2026-05-05",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "xai-grok4-custom-skills-grok-build-01-2026-05",
+      "title": "xAI「Grok 4」＋Custom Skills——ツール使用・1Mコンテキスト・動画入力、エージェントコーディング専用「Grok Build 0.1」も",
+      "company": "xAI",
+      "date": "2026-05-04",
+      "delivered": "2026-06-08"
+    },
+    {
+      "id": "humanoid-robot-factory-figure-jal-nvidia-unitree-2026-06",
+      "title": "ヒューマノイドロボット、実工場に本格参入——Figure AI時速1台生産・JAL羽田でロボット稼働・NVIDIAがUnitreeを選定",
+      "company": "Figure AI / NVIDIA / JAL",
+      "date": "2026-06-01",
+      "delivered": "2026-06-08"
     }
   ]
 }
