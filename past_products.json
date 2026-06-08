@@ -2381,6 +2381,67 @@
             "first_posted": "2026-06-07",
             "field": "ドローン"
         }
+        },
+        {
+            "name": "Neuralace",
+            "company": "Blackrock Neurotech",
+            "first_posted": "2026-06-08",
+            "field": "脳波/BCI"
+        },
+        {
+            "name": "Vertiplane X3",
+            "company": "TechEagle",
+            "first_posted": "2026-06-08",
+            "field": "ドローン"
+        },
+        {
+            "name": "Aleph Cuts",
+            "company": "Aleph Farms",
+            "first_posted": "2026-06-08",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Biohybrid Jellyfish",
+            "company": "Caltech / MIT",
+            "first_posted": "2026-06-08",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Bio-based Nylon (Bio-PA)",
+            "company": "Cathay Biotech",
+            "first_posted": "2026-06-08",
+            "field": "合成生物学"
+        },
+        {
+            "name": "Wearable Ultrasound Patch",
+            "company": "MIT / NTU",
+            "first_posted": "2026-06-08",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Allozymes Platform",
+            "company": "Allozymes",
+            "first_posted": "2026-06-08",
+            "field": "生物×IT"
+        },
+        {
+            "name": "Lab-on-Skin Chip",
+            "company": "Xsensio",
+            "first_posted": "2026-06-08",
+            "field": "技術×バイオ"
+        },
+        {
+            "name": "Magnetic Microrobots",
+            "company": "ETH Zurich",
+            "first_posted": "2026-06-08",
+            "field": "ロボティクス×バイオ"
+        },
+        {
+            "name": "Layer 7 Cortical Interface",
+            "company": "Precision Neuroscience",
+            "first_posted": "2026-06-08",
+            "field": "脳波/BCI"
+        }
     ],
-    "last_updated": "2026-06-07"
+    "last_updated": "2026-06-08"
 }
