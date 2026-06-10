@@ -345,6 +345,22 @@
     {"name": "Gaussian Splatting Unity VR Plugin", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "Unity VR対応GS", "url": "https://radiancefields.com/gaussian-splatting-unity-plugin-gets-vr-support"},
     {"name": "3DVista 2026.0 Total VR Mode", "type": "コ���ュニティ", "first_posted": "2026-05-30", "field": "バーチャルツアー・完全VR対応", "url": "https://www.3dvista.com/en/blog/update-2026-0-total-vr-mode/"},
     {"name": "Gaussian Splatting Morphing Tool", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "GS編集ツール・モーフィング", "url": "https://radiancefields.com/gaussian-splatting-morphing-tool-to-blend-between-3dgs-captures"},
-    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "FastGS（100秒学習 CVPR 2026 Highlight）", "type": "論文", "first_posted": "2026-06-10", "field": "3DGS高速化・コード公開", "url": "https://arxiv.org/abs/2511.04283"},
+    {"name": "EvoGS", "type": "論文", "first_posted": "2026-06-10", "field": "ストリーミング・階層型GS", "url": "https://arxiv.org/abs/2606.07179"},
+    {"name": "HiGS", "type": "論文", "first_posted": "2026-06-10", "field": "リアルタイムGSレンダリング・階層型タイリング", "url": "https://arxiv.org/abs/2606.00352"},
+    {"name": "LEGS（Laplacian-Enhanced GS）", "type": "論文", "first_posted": "2026-06-10", "field": "画質改善・ラプラシアン", "url": "https://arxiv.org/abs/2606.07932"},
+    {"name": "SparseStreet", "type": "論文", "first_posted": "2026-06-10", "field": "自動運転・スパースGSシミュレーション", "url": "https://arxiv.org/html/2606.03909v1"},
+    {"name": "AtlasGS", "type": "論文", "first_posted": "2026-06-10", "field": "医療・脳MRI超解像", "url": "https://arxiv.org/abs/2606.02961"},
+    {"name": "PolarGuide-GSDR（CVPR 2026）", "type": "論文", "first_posted": "2026-06-10", "field": "鏡面反射・偏光プリオール", "url": "https://arxiv.org/abs/2512.02664"},
+    {"name": "Chorus（CVPR 2026）", "type": "論文", "first_posted": "2026-06-10", "field": "フィードフォワードGS・マルチ教師蒸留", "url": "https://cvpr.thecvf.com/virtual/2026/events/Highlights2026"},
+    {"name": "Apple Maps Flyover GS対応（WWDC 2026）", "type": "ニュース", "first_posted": "2026-06-10", "field": "主流化・iOS 27・地図サービス", "url": "https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade"},
+    {"name": "Houdini 22 GS Tools スニークピーク", "type": "ニュース", "first_posted": "2026-06-10", "field": "DCCツール・GS生成・リギング・アニメーション", "url": "https://www.cgchannel.com/2026/06/sneak-peek-houdini-22/"},
+    {"name": "ComfyUI v0.23.0 TripoSplat統合", "type": "ニュース", "first_posted": "2026-06-10", "field": "ノーコードGS生成・画像→3DGS", "url": "https://blog.comfy.org/p/bringing-native-support-for-3d-gaussian"},
+    {"name": "3DGS Render 5.0 for Blender（KIRI Engine）", "type": "ニュース", "first_posted": "2026-06-10", "field": "BlenderアドオンGSアニメーション対応", "url": "https://www.cgchannel.com/2026/06/3dgs-render-5-0-lets-you-animate-gaussian-splats-inside-blender/"},
+    {"name": "ArcGIS Enterprise 12.1 GS対応", "type": "ニュース", "first_posted": "2026-06-10", "field": "GIS・組織内インフラGS可視化", "url": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/whats-new-in-arcgis-enterprise-12-1"},
+    {"name": "Splatware エンドツーエンドGSプラットフォーム", "type": "ニュース", "first_posted": "2026-06-10", "field": "GS撮影→学習→販売プラットフォーム", "url": "https://radiancefields.com/splatware-launches-as-an-end-to-end-gaussian-splatting-platform"},
+    {"name": "Apple GS WWDC SNS旋風（TechRadar/Digg/X）", "type": "コミュニティ", "first_posted": "2026-06-10", "field": "一般メディア普及・GS認知度向上", "url": "https://x.com/RadianceFields/status/2064043440350888050"},
+    {"name": "CVPR 2026 Denver コード公開Week2（FastGS等）", "type": "コミュニティ", "first_posted": "2026-06-10", "field": "CVPR論文コード公開・開発者向け", "url": "https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/main/2026/CVPR.md"}
   ]
 }
