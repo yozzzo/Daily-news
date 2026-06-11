@@ -345,6 +345,18 @@
     {"name": "Gaussian Splatting Unity VR Plugin", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "Unity VR対応GS", "url": "https://radiancefields.com/gaussian-splatting-unity-plugin-gets-vr-support"},
     {"name": "3DVista 2026.0 Total VR Mode", "type": "コ���ュニティ", "first_posted": "2026-05-30", "field": "バーチャルツアー・完全VR対応", "url": "https://www.3dvista.com/en/blog/update-2026-0-total-vr-mode/"},
     {"name": "Gaussian Splatting Morphing Tool", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "GS編集ツール・モーフィング", "url": "https://radiancefields.com/gaussian-splatting-morphing-tool-to-blend-between-3dgs-captures"},
-    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"}
+    {"name": "CVPR 2026 Denver コード公開ラッシュ", "type": "コミュニティ", "first_posted": "2026-05-30", "field": "カンファレンス・論文コード公開", "url": "https://cvpr.thecvf.com/Conferences/2026"},
+    {"name": "Apple Maps Flyover Gaussian Splatting (WWDC 2026)", "type": "ニュース", "first_posted": "2026-06-11", "field": "Apple・地図・主流化", "url": "https://radiancefields.com/apple-maps-flyover-is-getting-a-gaussian-splatting-upgrade"},
+    {"name": "visionOS 27 RealityKit Gaussian Splatting API", "type": "ニュース", "first_posted": "2026-06-11", "field": "Apple Vision Pro・開発者API", "url": "https://developer.apple.com/documentation/visionos/gaussian-splats-on-visionos"},
+    {"name": "3DGS Render 5.0 for Blender (KIRI Engine)", "type": "ツール", "first_posted": "2026-06-11", "field": "Blender・アニメーション・4DGS", "url": "https://www.cgchannel.com/2026/06/3dgs-render-5-0-lets-you-animate-gaussian-splats-inside-blender/"},
+    {"name": "ComfyUI v0.23 + TripoSplat", "type": "ツール", "first_posted": "2026-06-11", "field": "AI生成ワークフロー・画像→3DGS", "url": "https://blog.comfy.org/p/bringing-native-support-for-3d-gaussian"},
+    {"name": "EvoGS", "type": "論文", "first_posted": "2026-06-11", "field": "大規模ストリーミング・3DGS配信効率化", "url": "https://arxiv.org/abs/2606.07179"},
+    {"name": "HiGS", "type": "論文", "first_posted": "2026-06-11", "field": "リアルタイムレンダリング・階層タイル", "url": "https://arxiv.org/abs/2606.00352"},
+    {"name": "BEAST3D", "type": "論文", "first_posted": "2026-06-11", "field": "動物行動解析・生物応用", "url": "https://arxiv.org/abs/2606.02937"},
+    {"name": "AtlasGS", "type": "論文", "first_posted": "2026-06-11", "field": "脳MRI・医療画像・解像度調和", "url": "https://arxiv.org/abs/2606.02961"},
+    {"name": "SparseStreet", "type": "論文", "first_posted": "2026-06-11", "field": "自動運転・ストリートシーン・スパース化", "url": "https://arxiv.org/abs/2606.03909"},
+    {"name": "LEGS (Laplacian-Enhanced GS)", "type": "論文", "first_posted": "2026-06-11", "field": "GS最適化・テクスチャ品質", "url": "https://arxiv.org/abs/2606.07932"},
+    {"name": "Gaussian Point Splatting (SIGGRAPH 2026)", "type": "論文", "first_posted": "2026-06-11", "field": "大規模シーンレンダリング・確率的サンプリング", "url": "https://momentsingraphics.de/Siggraph2026.html"},
+    {"name": "Apple Maps GS SNS反響", "type": "コミュニティ", "first_posted": "2026-06-11", "field": "SNS話題・主流化議論", "url": "https://x.com/RadianceFields/status/2064043440350888050"}
   ]
 }
