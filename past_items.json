@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-fable-5-mythos-5-ipo-2026-06-09",
+      "title": "Anthropic「Claude Fable 5 / Mythos 5」リリース＋IPO機密申請——評価額9,650億ドルで市場参入",
+      "company": "Anthropic",
+      "date": "2026-06-09",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-windows-ai-2026-05-31",
+      "title": "NVIDIA「RTX Spark」スーパーチップ——ノートPCで1ペタFLOPS・120BパラメータモデルをローカルAI実行",
+      "company": "NVIDIA / Microsoft",
+      "date": "2026-05-31",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "aws-bedrock-agentcore-payments-coinbase-stripe-2026-05-07",
+      "title": "Amazon Bedrock AgentCore Payments——AIエージェントがCoinbase×StripeでUSDC自律決済",
+      "company": "AWS / Coinbase / Stripe",
+      "date": "2026-05-07",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "microsoft-build-2026-mai-7models-2026-06-02",
+      "title": "Microsoft Build 2026 MAI 7モデルファミリー——MAI-Thinking-1・MAI-Code-1-Flash等でOpenAI依存脱却",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "google-gemini-35-flash-ga-pro-preview-2026-05-19",
+      "title": "Google「Gemini 3.5 Flash」GA＋「Pro」予告——旧Proを超える性能を4倍速・半額以下で提供",
+      "company": "Google DeepMind",
+      "date": "2026-05-19",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "deepseek-v4-pro-mit-license-2026-04-24",
+      "title": "DeepSeek「V4 Pro」MITライセンス正式リリース——1.6兆パラメータMoE・$0.14/1M input",
+      "company": "DeepSeek",
+      "date": "2026-04-24",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "figure-ai-botq-mass-production-figure03-2026-06",
+      "title": "Figure AI「BotQ」工場——ヒューマノイドFigure 03を年間12,000台量産・BMW30,000台生産支援",
+      "company": "Figure AI",
+      "date": "2026-06-01",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "aws-bedrock-openai-gpt55-codex-2026-05",
+      "title": "Amazon Bedrock × OpenAI——GPT-5.5・GPT-5.4・Codexが本番AWSインフラで直接利用可能に",
+      "company": "AWS / OpenAI",
+      "date": "2026-05-01",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "openai-gpt55-instant-personalization-56-2026-06-09",
+      "title": "OpenAI「GPT-5.5 Instant」パーソナライズ強化——Free/Goへ展開・GPT-5.6（1.5Mコンテキスト）リーク浮上",
+      "company": "OpenAI",
+      "date": "2026-06-09",
+      "delivered": "2026-06-12"
+    },
+    {
+      "id": "cursor-bugbot-90sec-composer25-2026-06-10",
+      "title": "Cursor「Bugbot」90秒化——Composer 2.5搭載で5分→90秒・バグ発見率10%向上・コスト22%削減",
+      "company": "Cursor / Anysphere",
+      "date": "2026-06-10",
+      "delivered": "2026-06-12"
     }
   ]
 }
