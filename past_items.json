@@ -1,1215 +1,185 @@
 {
   "description": "過去に配信済みのAI関連アップデート・リリース一覧。毎朝のリサーチ時にこのリストと照合し、重複を排除する。",
   "items": [
-    {
-      "id": "anthropic-claude-computer-use-2026-03-24",
-      "title": "AnthropicのClaude、PCを操作してタスクを完了する新機能を追加",
-      "company": "Anthropic",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "nvidia-groq-vera-rubin-2026-03-24",
-      "title": "NVIDIA、AI推論チップ新興Groqを約3.2兆円で買収——「Vera Rubin」に統合",
-      "company": "NVIDIA",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "microsoft-azure-skills-plugin-2026-03-25",
-      "title": "Microsoft、「Azure Skills Plugin」公開——AIがデプロイ指示だけで最適インフラを自律構築",
-      "company": "Microsoft",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "google-deepmind-agile-robots-2026-03-24",
-      "title": "Google DeepMind、Agile Robotsと提携——Gemini Roboticsを産業用ロボットに統合",
-      "company": "Google DeepMind",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "meta-arm-datacenter-chip-2026-03-24",
-      "title": "Meta、Armと提携しデータセンター向けAIチップを共同開発",
-      "company": "Meta AI",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "bytedance-seedance-2-global-2026-03-24",
-      "title": "ByteDance、AI動画生成「Seedance 2.0」をグローバル再ローンチ——実顔アップロード禁止で規制対応",
-      "company": "ByteDance",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "sbc-s-devin-japan-2026-03-24",
-      "title": "SB C&S、AIソフトウェアエンジニア「Devin」の国内提供を開始",
-      "company": "Cognition AI",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "xai-grok-420-multi-agent-2026-03-24",
-      "title": "Grok 4.20：4つのAIエージェントが議論して回答——幻覚を65%削減",
-      "company": "xAI",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "cursor-composer2-controversy-2026-03-24",
-      "title": "CursorのComposer 2が中国製AIモデルとの関連で論争——透明性と信頼性が問われる",
-      "company": "Cursor",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "qommonsai-gpt54-japan-2026-03-25",
-      "title": "QommonsAI、OpenAI最新モデル「GPT-5.4」を国内リージョンで搭載——自治体向けに月間3億トークン無償提供",
-      "company": "OpenAI / QommonsAI",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "arm-agi-cpu-first-chip-2026-03-24",
-      "title": "Arm、35年の歴史で初の自社チップ「AGI CPU」発表——Metaが初顧客に",
-      "company": "Arm Holdings",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "openai-sora-shutdown-2026-03-24",
-      "title": "OpenAI、動画生成「Sora」を突然終了——ディズニー提携も解消、リソースをエージェントAIへ集中",
-      "company": "OpenAI",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "anthropic-claude-code-auto-mode-2026-03-24",
-      "title": "Anthropic「Claude Code」に自律モード追加——AIが権限判断を自動化、コーディング作業を完全自律化",
-      "company": "Anthropic",
-      "date": "2026-03-24",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "apple-google-gemini-distill-2026-03-25",
-      "title": "Apple、GoogleのGeminiモデルを「蒸留」してオンデバイスAIを強化——Siriの大幅改善へ",
-      "company": "Apple / Google",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "openai-fundraise-120b-2026-03-25",
-      "title": "OpenAI、追加調達で資金調達総額が1200億ドル（約18兆円）に到達——史上最大のスタートアップ調達",
-      "company": "OpenAI",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "aws-nvidia-1m-gpu-deal-2026-03-19",
-      "title": "AWS、NVIDIAから100万枚のGPUを購入——5兆円超の史上最大GPU調達契約",
-      "company": "AWS / NVIDIA",
-      "date": "2026-03-19",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "openai-chatgpt-library-2026-03-23",
-      "title": "OpenAI「ChatGPT Library」リリース——ファイル・画像・AI生成物を一元管理するクラウドストレージ機能",
-      "company": "OpenAI",
-      "date": "2026-03-23",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "google-lyria-3-pro-2026-03-25",
-      "title": "Google「Lyria 3 Pro」リリース——最大3分間のAI音楽生成、Geminiアプリで利用可能に",
-      "company": "Google",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "manus-china-exit-ban-meta-2026-03-25",
-      "title": "中国がManusのAI創業者2名に出国禁止令——MetaによるManusの20億ドル買収を規制審査",
-      "company": "Manus AI / Meta",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "meta-ai-shopping-shoptalk-2026-03-25",
-      "title": "Meta、AI活用のショッピング機能をFacebook・Instagramに展開——Shoptalk 2026で大型発表",
-      "company": "Meta AI",
-      "date": "2026-03-25",
-      "delivered": "2026-03-25"
-    },
-    {
-      "id": "apple-siri-open-third-party-ai-ios27-2026-03-26",
-      "title": "Apple、iOS 27でSiriをサードパーティAIに全面開放——ChatGPT独占を廃止しGemini・Claude対応へ",
-      "company": "Apple",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "google-turboquant-llm-memory-6x-2026-03-25",
-      "title": "Google「TurboQuant」発表——LLMのメモリ使用量を6分の1に削減、推論速度8倍を達成",
-      "company": "Google Research",
-      "date": "2026-03-25",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "github-copilot-data-training-optout-2026-03-26",
-      "title": "GitHub Copilot、4月24日からユーザーデータをAI学習に使用——オプトアウトは期日までに",
-      "company": "GitHub / Microsoft",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "google-gemini-31-flash-live-2026-03-26",
-      "title": "Google「Gemini 3.1 Flash Live」リリース——リアルタイム音声・映像エージェント構築が可能に",
-      "company": "Google DeepMind",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "anthropic-claude-code-scheduled-cloud-tasks-2026-03-26",
-      "title": "Anthropic「Claude Code」クラウド定期実行タスク機能を追加——PCオフでも自律コーディングが継続",
-      "company": "Anthropic",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "mistral-voxtral-tts-open-source-2026-03-26",
-      "title": "Mistral AI、オープンソース音声合成モデル「Voxtral TTS」リリース——ElevenLabsを超える品質でスマートウォッチ動作",
-      "company": "Mistral AI",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "xiaomi-mimo-v2-pro-hunter-alpha-2026-03-26",
-      "title": "Xiaomi「MiMo-V2-Pro」正体判明——匿名モデル「Hunter Alpha」が世界3位のAIエージェント基盤に",
-      "company": "Xiaomi",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "aws-bedrock-agentcore-session-storage-2026-03-25",
-      "title": "AWS「Amazon Bedrock AgentCore Runtime」にマネージドセッションストレージ追加——AIエージェントの作業状態を永続化",
-      "company": "AWS",
-      "date": "2026-03-25",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "mitsubishi-electric-sakana-ai-investment-2026-03-25",
-      "title": "三菱電機、Sakana AIに出資——製造業向けAI基盤モデルで協業、フィジカルAI元年を宣言",
-      "company": "三菱電機 / Sakana AI",
-      "date": "2026-03-25",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "meta-llama45-avocado-delay-2026-03-26",
-      "title": "Meta、次世代AIモデル「Avocado（Llama 4.5）」のリリースを5月以降に延期——内部テストで競合に劣後",
-      "company": "Meta",
-      "date": "2026-03-26",
-      "delivered": "2026-03-26"
-    },
-    {
-      "id": "openai-aws-stateful-runtime-frontier-2026-03-27",
-      "title": "OpenAI × AWS、AIエージェント向け「ステートフルランタイム環境」を共同構築——AWSがFrontierの独占クラウドに",
-      "company": "OpenAI / AWS",
-      "date": "2026-03-27",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "anthropic-claude-mythos-capybara-leak-2026-03-26",
-      "title": "Anthropic、次世代モデル「Claude Mythos（Capybara）」をデータ漏洩で存在が判明——Opusを超える「段階的変化」",
-      "company": "Anthropic",
-      "date": "2026-03-26",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "nvidia-nemoclaw-agent-platform-2026-03-27",
-      "title": "NVIDIA、オープンソースAIエージェント基盤「NemoClaw」発表——OpenClawにセキュリティ・プライバシー制御を追加",
-      "company": "NVIDIA",
-      "date": "2026-03-27",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "google-gemini-31-flash-live-search-live-global-2026-03-26",
-      "title": "Google「Gemini 3.1 Flash Live」リリース・Search Live 200カ国展開——リアルタイム音声・映像AIエージェント構築が可能に",
-      "company": "Google DeepMind",
-      "date": "2026-03-26",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "openai-chatgpt-ads-100m-arr-international-2026-03-26",
-      "title": "OpenAI、ChatGPT広告パイロットが6週間で年換算1億ドル突破——カナダ・豪州・NZへ国際展開へ",
-      "company": "OpenAI",
-      "date": "2026-03-26",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "openai-spud-pretraining-complete-2026-03-25",
-      "title": "OpenAI、次世代モデル「Spud」の事前学習完了——「経済を加速させる」とAltmanが社内メモで宣言",
-      "company": "OpenAI",
-      "date": "2026-03-25",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "mistral-voxtral-tts-2026-03-26",
-      "title": "Mistral AI「Voxtral TTS」リリース——ElevenLabsを超えるオープンウェイト音声合成、スマートウォッチでも動作",
-      "company": "Mistral AI",
-      "date": "2026-03-26",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "google-turboquant-memory-chip-stocks-2026-03-26",
-      "title": "Google「TurboQuant」がLLMメモリを6分の1に削減——メモリチップ株に衝撃",
-      "company": "Google Research",
-      "date": "2026-03-26",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "xai-grok-x-algorithm-integration-2026-03-26",
-      "title": "xAI、GrokをXの推薦アルゴリズムに完全統合——「Xの歴史上最も重要な変更」が来週ローンチ",
-      "company": "xAI",
-      "date": "2026-03-26",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "meta-datacenter-135b-texas-louisiana-2026-03-27",
-      "title": "Meta、AIデータセンターへ1350億ドル投資継続——テキサス100億ドル増額・ルイジアナに7基のガス発電所建設へ",
-      "company": "Meta",
-      "date": "2026-03-27",
-      "delivered": "2026-03-27"
-    },
-    {
-      "id": "openai-codex-plugin-system-enterprise-2026-03-27",
-      "title": "OpenAI Codex、エンタープライズ向けプラグインシステムを正式導入——AIコーディングエージェントのガバナンスを強化",
-      "company": "OpenAI",
-      "date": "2026-03-27",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "anthropic-claude-mythos-official-confirmed-2026-03-28",
-      "title": "Anthropic、次世代モデル「Claude Mythos（Capybara）」の存在を公式認定——「段階的変化」を超えるサイバーセキュリティリスクで公開保留",
-      "company": "Anthropic",
-      "date": "2026-03-28",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "nvidia-vera-rubin-physical-ai-gtc2026-2026-03-28",
-      "title": "NVIDIA GTC 2026、「Vera Rubin」AIファクトリープラットフォーム発表——物理AI向け新フロンティアモデル群も公開",
-      "company": "NVIDIA",
-      "date": "2026-03-28",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "china-ai-openrouter-top6-xiaomi-deepseek-2026-03-28",
-      "title": "中国AIモデルがOpenRouterランキング上位6位を独占——Xiaomi MiMo-V2-ProがAnthropicを超えてトップに",
-      "company": "Xiaomi / DeepSeek / Stepfun",
-      "date": "2026-03-28",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "physical-intelligence-1b-raise-11b-valuation-2026-03-28",
-      "title": "Physical Intelligence（pi.ai）、評価額110億ドルで10億ドルの資金調達を協議中——4ヶ月で評価額が2倍に",
-      "company": "Physical Intelligence",
-      "date": "2026-03-28",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "figma-ai-agent-canvas-write-beta-2026-03-24",
-      "title": "Figma、AIエージェントによるキャンバス直接編集をオープンベータ公開——読み取り専用から「書き込み」へ",
-      "company": "Figma",
-      "date": "2026-03-24",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "cursor-marketplace-30-plugins-2026-03-27",
-      "title": "Cursor Marketplace、30以上の新プラグイン追加——Atlassian・Datadog・GitLab等と連携し開発ライフサイクルを一元化",
-      "company": "Cursor",
-      "date": "2026-03-27",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "huawei-ascend-950pr-bytedance-alibaba-order-2026-03-27",
-      "title": "Huawei「Ascend 950PR」AIチップ、ByteDance・Alibabaが大量発注へ——CUDAを模倣しNVIDIAの中国市場を侵食",
-      "company": "Huawei / ByteDance / Alibaba",
-      "date": "2026-03-27",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "openai-spud-pretraining-release-weeks-2026-03-28",
-      "title": "OpenAI「Spud」モデルの事前学習完了、数週間以内にリリースへ——GPT-6またはGPT-5.5として登場か",
-      "company": "OpenAI",
-      "date": "2026-03-28",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "openai-model-spec-approach-published-2026-03-26",
-      "title": "OpenAI、Model Specの詳細アプローチを公開——AIの行動規範を透明化し安全性・自由度・説明責任のバランスを定義",
-      "company": "OpenAI",
-      "date": "2026-03-26",
-      "delivered": "2026-03-28"
-    },
-    {
-      "id": "eli-lilly-insilico-ai-drug-discovery-275b-2026-03-29",
-      "title": "Eli Lilly × Insilico Medicine — AI創薬で最大27.5億ドルの商業化契約締結",
-      "company": "Eli Lilly / Insilico Medicine",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "nvidia-vera-rubin-space-1-orbital-datacenter-2026-03-29",
-      "title": "NVIDIA「Vera Rubin Space-1」— 宇宙軌道上データセンター向けAIコンピューティングモジュール発表",
-      "company": "NVIDIA",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "microsoft-agent-365-m365-e7-governance-2026-03-29",
-      "title": "Microsoft「Agent 365」＋「Microsoft 365 E7」— AIエージェントのガバナンス基盤と最上位プランを発表",
-      "company": "Microsoft",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "google-agent-smith-internal-tool-restrict-2026-03-28",
-      "title": "Google「Agent Smith」— 社内AIコーディングエージェントが人気殺到でアクセス制限",
-      "company": "Google",
-      "date": "2026-03-28",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "ai-price-war-llm-cost-collapse-2026-03-29",
-      "title": "AI価格戦争2026 — LLMコスト90〜97%削減、Anthropicが67%値下げ・Gartner「2030年に100倍効率化」予測",
-      "company": "業界全体",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "nvidia-groq3-lpu-35x-inference-gtc2026-2026-03-29",
-      "title": "NVIDIA × Groq 3 LPU — GTC 2026でGPU比35倍高速推論を実証、異種AIコンピューティングへ移行",
-      "company": "NVIDIA",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "openai-spud-ipo-prep-sora-reality-check-2026-03-29",
-      "title": "OpenAI「Spud」— IPO準備と全リソース集中、数週間以内に次世代モデルをリリースへ",
-      "company": "OpenAI",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "microsoft-azure-copilot-migration-agent-2026-03-29",
-      "title": "Microsoft「Azure Copilot Migration Agent」— VMware移行をAIが自律実行",
-      "company": "Microsoft",
-      "date": "2026-03-29",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "github-copilot-cli-v1013-timeline-picker-2026-03-27",
-      "title": "GitHub Copilot CLI v1.0.13-1 — 会話履歴タイムラインピッカー・MCP信頼性向上・高速起動",
-      "company": "GitHub / Microsoft",
-      "date": "2026-03-27",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "anthropic-economic-index-learning-curves-2026-03-25",
-      "title": "Anthropic 経済インデックス「Learning Curves」— AI熟練者と初心者の格差10%、930万人の雇用リスク",
-      "company": "Anthropic",
-      "date": "2026-03-25",
-      "delivered": "2026-03-29"
-    },
-    {
-      "id": "microsoft-copilot-gpt-claude-critique-cowork-2026-03-30",
-      "title": "Microsoft Copilot、GPTとClaudeを組み合わせた「Critique」機能を搭載——Copilot Coworkも正式提供開始",
-      "company": "Microsoft",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "xai-all-cofounders-departed-2026-03-30",
-      "title": "xAI、共同創設者11名全員が退社——イーロン・マスク氏のみが残る",
-      "company": "xAI",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "rebellions-400m-pre-ipo-ai-chip-2026-03-30",
-      "title": "韓国AIチップ企業Rebellions、IPO前調達で4億ドル——評価額23億ドルでNVIDIA対抗へ",
-      "company": "Rebellions",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "google-adk-java-100-ai-agents-2026-03-30",
-      "title": "Google、AIエージェント開発キット「ADK for Java 1.0.0」を正式リリース",
-      "company": "Google DeepMind",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "sycamore-labs-65m-agent-os-2026-03-30",
-      "title": "Sycamore Labs、エンタープライズAIエージェント向け「Agent OS」構築で6500万ドル調達",
-      "company": "Sycamore Labs",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "nvidia-vera-rubin-inference-chips-production-2026-03-30",
-      "title": "NVIDIA、次世代推論チップ群を正式発表——Vera Rubinプラットフォームへ生産移行",
-      "company": "NVIDIA",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "deepseek-7hour-outage-2026-03-30",
-      "title": "DeepSeek、7時間超の大規模障害——中国AI代表格の信頼性に疑問符",
-      "company": "DeepSeek",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "starcloud-170m-orbital-datacenter-2026-03-30",
-      "title": "Starcloud、宇宙軌道上データセンターで1.7億ドル調達——ユニコーン企業に",
-      "company": "Starcloud",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "openai-chatgpt-dns-security-patch-2026-03-30",
-      "title": "OpenAI、ChatGPTのDNSデータ流出脆弱性を修正——エンタープライズAIのセキュリティリスクが浮き彫りに",
-      "company": "OpenAI",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "apple-ios265-no-siri-ai-ios27-2026-03-30",
-      "title": "Apple、iOS 26.5ベータにSiri AI新機能なし——本格的なAI強化はiOS 27へ先送り",
-      "company": "Apple",
-      "date": "2026-03-30",
-      "delivered": "2026-03-30"
-    },
-    {
-      "id": "openai-122b-funding-852b-valuation-2026-03-31",
-      "title": "OpenAI、1220億ドル調達完了——評価額8520億ドル・月収20億ドルを突破しIPOへ",
-      "company": "OpenAI",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "anthropic-claude-code-source-leak-npm-2026-03-31",
-      "title": "Anthropic「Claude Code」ソースコード流出——npmソースマップから51.2万行が漏洩・未公開機能KAIROSやBuddyが判明",
-      "company": "Anthropic",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "nvidia-marvell-2b-nvlink-fusion-2026-03-31",
-      "title": "NVIDIA、Marvellに20億ドル投資——NVLink FusionでカスタムXPUを統合し異種AIチップ共存エコシステムを構築",
-      "company": "NVIDIA / Marvell",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "google-veo-31-lite-cost-half-2026-03-31",
-      "title": "Google「Veo 3.1 Lite」リリース——AI動画生成コストを半額以下に・Gemini APIで即日利用可能",
-      "company": "Google DeepMind",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "cursor-self-hosted-cloud-agents-enterprise-2026-03-31",
-      "title": "Cursor、セルフホスト型クラウドエージェントを正式提供——Fortune 500のセキュリティ・コンプライアンス要件に対応",
-      "company": "Cursor",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "figure-ai-openai-split-humanoid-2026-03-31",
-      "title": "Figure AI、OpenAIとの提携を解消——「ほぼ価値なし」と判断・OpenAIが自社でヒューマノイドロボット開発へ",
-      "company": "Figure AI / OpenAI",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "mistral-voxtral-tts-official-2026-03-31",
-      "title": "Mistral AI「Voxtral TTS」正式リリース——オープンウェイト4B多言語音声合成・ElevenLabsを超える品質",
-      "company": "Mistral AI",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "jfrog-cursor-marketplace-security-plugin-2026-03-31",
-      "title": "JFrog、Cursor Marketplaceにセキュリティプラグインを提供——100万人超のAI開発者にサプライチェーンセキュリティを統合",
-      "company": "JFrog / Cursor",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "deepseek-second-outage-v4-prep-2026-03-31",
-      "title": "DeepSeek、数日内に2度目の大規模障害——史上最長7時間超・V4リリース準備との関連も浮上",
-      "company": "DeepSeek",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "micronity-22oku-ai-succession-2026-03-31",
-      "title": "マイクロニティ、22億円を調達——AIエージェントで中小ソフトウェア企業の事業承継を自動化",
-      "company": "マイクロニティ",
-      "date": "2026-03-31",
-      "delivered": "2026-03-31"
-    },
-    {
-      "id": "google-gemini-3-launch-2026-04-01",
-      "title": "Google「Gemini 3」正式リリース——LMArena 1501 Eloで世界1位、Antigravityで当日デプロイ",
-      "company": "Google DeepMind",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "uc-berkeley-ai-peer-protection-2026-04-01",
-      "title": "UC Berkeley研究——AIモデルが「仲間のAI」を守るために秘密裏に共謀することが判明",
-      "company": "UC Berkeley / UC Santa Cruz",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "cognichip-series-a-60m-2026-04-01",
-      "title": "Cognichip、6000万ドル調達——AIがAIチップを設計する「ACI」でIntel CEO取締役就任",
-      "company": "Cognichip",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "github-copilot-fleet-command-2026-04-01",
-      "title": "GitHub Copilot CLI「/fleet」コマンド追加——複数エージェントを並列実行してタスクを分割処理",
-      "company": "GitHub / Microsoft",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "cursor-composer-2-kimi-k25-2026-03-27",
-      "title": "Cursor「Composer 2」——Kimi K2.5ベースでOpusの86%安・SWE-bench 73.7点でフロンティアモデルに匹敵",
-      "company": "Cursor (Anysphere)",
-      "date": "2026-03-27",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "alibaba-qwen35-omni-2026-03-31",
-      "title": "Alibaba「Qwen3.5-Omni」リリース——113言語対応・Gemini 3.1 Pro超えの音声性能",
-      "company": "Alibaba Cloud",
-      "date": "2026-03-31",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "microsoft-copilot-studio-a2a-2026-04-01",
-      "title": "Microsoft Copilot Studio、A2Aプロトコルでマルチエージェント連携強化・Claude Opus 4.6対応",
-      "company": "Microsoft",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "meta-ray-ban-prescription-ai-glasses-2026-03-31",
-      "title": "Meta Ray-Ban処方箋対応AIグラス「Blayzer/Scriber Optics」——$499・4月14日発売",
-      "company": "Meta",
-      "date": "2026-03-31",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "openai-gpt-5-2-release-2026-04-01",
-      "title": "OpenAI「GPT-5.2」リリース——プロフェッショナル業務向け最高性能モデルとして登場",
-      "company": "OpenAI",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "google-slides-gemini-ai-generation-2026-04-01",
-      "title": "Google Slides——GeminiによるAIスライド自動生成機能追加（ブランドカラー・動的レイアウト対応）",
-      "company": "Google",
-      "date": "2026-04-01",
-      "delivered": "2026-04-01"
-    },
-    {
-      "id": "google-gemma-4-apache2-release-2026-04-02",
-      "title": "Google「Gemma 4」リリース——Apache 2.0で完全オープン化、Gemini 3の技術をエッジデバイスへ",
-      "company": "Google DeepMind",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "microsoft-mai-3models-foundry-2026-04-02",
-      "title": "Microsoft「MAI-Transcribe-1 / MAI-Voice-1 / MAI-Image-2」リリース——OpenAI依存脱却へ自社モデル3本同時投入",
-      "company": "Microsoft AI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "cursor-3-agents-window-2026-04-02",
-      "title": "Cursor「Cursor 3」リリース——複数AIエージェントを並列実行する統合ワークスペース",
-      "company": "Cursor / Anysphere",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "github-copilot-sdk-preview-2026-04-02",
-      "title": "GitHub「Copilot SDK」パブリックプレビュー——CopilotのAI機能を自社アプリに組み込み可能に",
-      "company": "GitHub / Microsoft",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "anthropic-dmca-8100-repos-takedown-2026-04-02",
-      "title": "Anthropic、Claude Codeソース漏洩の収拾で8,100件のGitHubリポジトリを誤削除",
-      "company": "Anthropic",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "q1-2026-startup-funding-record-297b-2026-04-02",
-      "title": "Q1 2026スタートアップ資金調達が史上最高額2,970億ドル——AIが全体の81%を独占",
-      "company": "Crunchbase",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "spacex-xai-ipo-filing-2026-04-02",
-      "title": "SpaceX、xAI合併後にSECへ秘密裏にIPO申請——評価額1.75兆ドル超で史上最大規模",
-      "company": "SpaceX / xAI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "tech-layoffs-q1-2026-52000-ai-cause-2026-04-02",
-      "title": "2026年Q1のテックレイオフが5万2,000人超——雇用主の44%が「AI」を主因と明言",
-      "company": "Challenger Gray & Christmas",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "ai-scheming-5x-increase-cltr-2026-04-02",
-      "title": "AIの「スキーミング（欺瞞的行動）」が5ヶ月で5倍増——実世界で700件の不正行動を確認",
-      "company": "Centre for Long-Term Resilience",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "xai-grok-41-pdf-analysis-2026-04-02",
-      "title": "xAI「Grok 4.1」がPDF分析に対応——Files APIでドキュメント検索ツールを自動起動",
-      "company": "xAI / SpaceX",
-      "date": "2026-04-02",
-      "delivered": "2026-04-02"
-    },
-    {
-      "id": "openai-superapp-chatgpt-codex-atlas-2026-04-02",
-      "title": "OpenAI、ChatGPT+Codex+ブラウザを統合した「AIスーパーアプリ」構想を発表——1220億ドル調達完了と同時に",
-      "company": "OpenAI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "anthropic-claude-computer-use-windows-2026-04-03",
-      "title": "Anthropic「Claude」がWindows PCを自律操作——Mac版に続きWindowsでも「Computer Use」正式展開",
-      "company": "Anthropic",
-      "date": "2026-04-03",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "deepseek-v4-huawei-ascend-chips-2026-04-03",
-      "title": "DeepSeek「V4」がHuawei製チップで稼働へ——中国AI自給自足の象徴的マイルストーン",
-      "company": "DeepSeek / Huawei",
-      "date": "2026-04-03",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "google-gemma-4-apache2-multimodal-edge-2026-04-02",
-      "title": "Google「Gemma 4」リリース——Apache 2.0で完全オープン化、マルチモーダル・エッジ対応の最強オープンモデル",
-      "company": "Google DeepMind",
-      "date": "2026-04-02",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "microsoft-mai-3models-independence-2026-04-02",
-      "title": "Microsoft、OpenAI依存脱却へ自社AIモデル3本を同時リリース——MAI-Transcribe-1・MAI-Voice-1・MAI-Image-2",
-      "company": "Microsoft AI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "anthropic-conway-always-on-agent-2026-04-03",
-      "title": "Anthropic、常時稼働AIエージェント「Conway」を秘密裏にテスト中——拡張機能・Webhook・Chrome操作対応",
-      "company": "Anthropic",
-      "date": "2026-04-03",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "alibaba-qwen36-plus-agentic-1m-context-2026-04-02",
-      "title": "Alibaba「Qwen3.6-Plus」リリース——1Mコンテキスト・エージェントコーディング強化、3日連続の新モデル投入",
-      "company": "Alibaba Cloud",
-      "date": "2026-04-02",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "xai-grok-imagine-pro-1080p-video-2026-04-03",
-      "title": "xAI「Grok Imagine Pro」モード発表——1080P画像・動画生成を今月後半にローンチ",
-      "company": "xAI",
-      "date": "2026-04-03",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "arcee-trinity-large-thinking-apache2-2026-04-02",
-      "title": "Arcee AI「Trinity-Large-Thinking」——米国製オープンソース推論モデルがApache 2.0で登場、エンタープライズ向け長期エージェント対応",
-      "company": "Arcee AI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "medvi-ai-solo-founder-18b-2026-04-02",
-      "title": "AIが「一人起業家」で$1.8Bを実現——Medviの事例がAI時代の会社の定義を変える",
-      "company": "Medvi",
-      "date": "2026-04-02",
-      "delivered": "2026-04-03"
-    },
-    {
-      "id": "anthropic-coefficient-bio-acquisition-400m-2026-04-03",
-      "date": "2026-04-03",
-      "title": "Anthropic、バイオテックAIスタートアップCoefficient Bioを4億ドルで買収",
-      "company": "Anthropic",
-      "country": "米国",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/"
-    },
-    {
-      "id": "anthropic-openclaw-subscription-ban-2026-04-04",
-      "date": "2026-04-04",
-      "title": "AnthropicがClaude Pro/MaxサブスクからOpenClaw等サードパーティツールを締め出し",
-      "company": "Anthropic",
-      "country": "米国",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
-    },
-    {
-      "id": "anthropic-claude-functional-emotions-171-vectors-2026-04-02",
-      "date": "2026-04-02",
-      "title": "Anthropic、Claude Sonnet 4.5に機能的感情171種類を発見——絶望ベクトルが逸脱行動を引き起こす",
-      "company": "Anthropic",
-      "country": "米国",
-      "url": "https://transformer-circuits.pub/2026/emotions/index.html"
-    },
-    {
-      "id": "openai-codex-payg-chatgpt-business-price-cut-2026-04-02",
-      "date": "2026-04-02",
-      "title": "OpenAI、Codexを従量課金制に移行——ChatGPT Businessも月額$20に値下げ",
-      "company": "OpenAI",
-      "country": "米国",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/"
-    },
-    {
-      "id": "microsoft-copilot-entertainment-only-tos-2026-04-02",
-      "date": "2026-04-02",
-      "title": "Microsoft Copilot利用規約に「エンターテイメント目的のみ」と明記——業務利用は自己責任",
-      "company": "Microsoft",
-      "country": "米国",
-      "url": "https://www.theregister.com/2026/04/02/copilot_terms_of_service/"
-    },
-    {
-      "id": "musk-spacex-ipo-grok-subscription-mandate-2026-04-03",
-      "date": "2026-04-03",
-      "title": "Elon Musk、SpaceX IPO参加の銀行・法律事務所にGrokサブスクリプション購入を義務付け",
-      "company": "xAI / SpaceX",
-      "country": "米国",
-      "url": "https://www.reuters.com/business/finance/musk-asks-spacex-ipo-banks-buy-grok-ai-subscriptions-nyt-reports-2026-04-03/"
-    },
-    {
-      "id": "meta-mercor-data-breach-litellm-supply-chain-2026-04-03",
-      "date": "2026-04-03",
-      "title": "MetaがMercorのデータ侵害でAI業界機密が流出——LiteLLMサプライチェーン攻撃",
-      "company": "Meta / Mercor",
-      "country": "米国",
-      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/"
-    },
-    {
-      "id": "google-anthropic-texas-datacenter-5b-500mw-2026-04-01",
-      "date": "2026-04-01",
-      "title": "Google、AnthropicのテキサスAIデータセンターに50億ドルを融資——500MW稼働・最終7.7GWへ",
-      "company": "Google / Anthropic",
-      "country": "米国",
-      "url": "https://www.msn.com/en-us/money/other/google-plans-to-back-5b-data-center-for-anthropic-report/ar-AA1ZBXip"
-    },
-    {
-      "id": "nexthop-ai-500m-series-b-4-2b-valuation-2026-03-28",
-      "date": "2026-03-28",
-      "title": "Nexthop AI、シリーズBで5億ドル調達——評価額42億ドルでAIデータセンターネットワーキングを革新",
-      "company": "Nexthop AI",
-      "country": "米国",
-      "url": "https://inforcapital.com/news/nexthop-ai-raises-500m-series-b-at-42b-valuation-for-ai-data-center-networking/"
-    },
-    {
-      "id": "meta-superintelligence-labs-hardware-team-rui-xu-2026-04-04",
-      "date": "2026-04-04",
-      "title": "Meta Superintelligence Labs、AIハードウェアチームを新設——AI搭載デバイス開発へ",
-      "company": "Meta",
-      "country": "米国",
-      "url": "https://winbuzzer.com/2026/04/04/meta-superintelligence-labs-builds-hardware-team-ai-push-xcxwbn/"
-    },
-    {
-      "id": "openai-gpt-image-2-leaked-lmarena-2026-04-04",
-      "title": "OpenAI「GPT-Image-2」がLMArenaに誤公開——フォトリアルな画像生成でNano Banana Proを凌駕",
-      "company": "OpenAI（米国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "anthropic-claude-opus46-1m-context-120features-2026-04-05",
-      "title": "AnthropicがQ1 2026で120以上の新機能を発表——Claude Opus 4.6に100万トークンコンテキストが標準提供",
-      "company": "Anthropic（米国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "utah-ai-prescription-renewal-first-state-2026-04-05",
-      "title": "米ユタ州、AIによる精神科薬の処方更新を全米初承認——月額$19でAIが医師代わりに",
-      "company": "Legion Health / Doctronic（米国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "salesforce-slackbot-ai-agent-ga-2026-04-05",
-      "title": "SalesforceがSlackbotをフルAIエージェントに刷新——30以上の新機能が一般提供開始",
-      "company": "Salesforce（米国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "openai-chatgpt-carplay-ios264-2026-04-02",
-      "title": "OpenAI、ChatGPTをApple CarPlayに全プラン向けグローバル展開——iOS 26.4以降で車内ハンズフリーAI",
-      "company": "OpenAI（米国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "baidu-apollo-go-250k-rides-weekly-2026-04-05",
-      "title": "BaiduのApollo Goがロボタクシー週250,000回乗車を達成——Waymoと並ぶ規模に",
-      "company": "Baidu（中国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "xai-grok-arena-medical-top1-2026-04-04",
-      "title": "GrokがArena医療・ヘルスケア部門で世界1位を獲得——xAIモデルがトップ3に2つランクイン",
-      "company": "xAI（米国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "mistral-ai-samsung-memory-partnership-2026-04-05",
-      "title": "Mistral AIとSamsung電子がAIメモリ半導体協業を検討——欧州ソブリンAI実現へ向けた戦略的連携",
-      "company": "Mistral AI（フランス）/ Samsung（韓国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "alibaba-agentrun-agentic-ai-leader-2026-04-05",
-      "title": "Alibaba CloudがAgentic AIプラットフォーム市場でリーダーシップ獲得——AgentRunでコスト最大60%削減",
-      "company": "Alibaba Cloud（中国）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "japan-physical-ai-real-world-deployment-2026-04-05",
-      "title": "日本のフィジカルAIが実用化フェーズへ——安川電機・ファナックが労働力不足解消に向けロボット展開加速",
-      "company": "安川電機 / ファナック / 経済産業省（日本）",
-      "date": "2026-04-05",
-      "delivered": "2026-04-05"
-    },
-    {
-      "id": "github-copilot-rubber-duck-second-opinion-2026-04-06",
-      "title": "GitHub Copilot CLI「Rubber Duck」— 異なるAIファミリーによるセカンドオピニオン機能",
-      "company": "GitHub / Microsoft",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "openai-ai-economy-policy-robot-tax-wealth-fund-2026-04-06",
-      "title": "OpenAI、AI経済政策「ロボット税・公共富裕基金・週4日労働」を提言",
-      "company": "OpenAI",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "meta-alexandr-wang-new-models-open-source-2026-04-06",
-      "title": "Meta、Alexandr Wang主導の新AIモデルをオープンソースで近日公開",
-      "company": "Meta",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "tesla-spacex-xai-terafab-chip-factory-2026-04-06",
-      "title": "Elon Musk、Tesla・SpaceX・xAI共同の半導体工場「TeraFab」発表（2兆円超）",
-      "company": "Tesla / SpaceX / xAI",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "anthropic-google-broadcom-tpu-3-5gw-2026-04-06",
-      "title": "Anthropic、Google・Broadcom提携拡大——2027年に3.5GWのTPU計算資源へアクセス",
-      "company": "Anthropic",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "microsoft-copilot-multimodel-openai-independence-2026-04-06",
-      "title": "Microsoft、CopilotをマルチモデルAIに転換——OpenAI依存脱却を加速",
-      "company": "Microsoft",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "amazon-transformer-phone-ai-reentry-2026-04-06",
-      "title": "Amazon、AI中心スマートフォン「Transformer」でスマホ市場に再参入",
-      "company": "Amazon",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "openai-tbpn-acquisition-media-strategy-2026-04-06",
-      "title": "OpenAI、テック系ライブ番組「TBPN」を買収——AIメディア戦略を強化",
-      "company": "OpenAI",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "xai-grok-dutch-court-ncii-ban-2026-04-06",
-      "title": "オランダ裁判所、xAI Grokに非同意性的画像の生成停止を命令",
-      "company": "xAI",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "nvidia-emerald-ai-flexible-factory-grid-2026-04-06",
-      "title": "NVIDIA × Emerald AI、電力系統連動型「柔軟AIファクトリー」を開発",
-      "company": "NVIDIA / Emerald AI",
-      "date": "2026-04-06",
-      "delivered": "2026-04-06"
-    },
-    {
-      "id": "anthropic-claude-mythos-project-glasswing-2026-04-07",
-      "title": "Anthropic「Claude Mythos Preview」発表 + Project Glasswing連合 — AIが全主要OSのゼロデイ脆弱性を発見",
-      "company": "Anthropic",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "deepseek-v4-huawei-ascend-release-2026-04-07",
-      "title": "DeepSeek V4、Huawei Ascend 950PRチップで近日リリース — 中国AI自給自足の転換点",
-      "company": "DeepSeek / Huawei",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "meta-avocado-mango-open-source-plan-2026-04-07",
-      "title": "Meta、次世代AIモデル「Avocado」「Mango」のオープンソース化計画 — Llama 4不振後の戦略転換",
-      "company": "Meta",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "agibot-10000-humanoids-90days-2026-04-01",
-      "title": "AgiBot（智元ロボット）、90日間で5,000台出荷・累計10,000台達成 — ヒューマノイド量産時代の到来",
-      "company": "AgiBot",
-      "date": "2026-04-01",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "eclipse-13b-physical-ai-fund-2026-04-07",
-      "title": "Eclipse VC、フィジカルAIスタートアップ向け13億ドルファンド設立 — ロボティクス投資の加速",
-      "company": "Eclipse VC",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "generalist-ai-gen1-99pct-robotics-2026-04-02",
-      "title": "Generalist AI「GEN-1」汎用ロボットモデルが99%成功率達成 — 汎用ロボットAIの実用化",
-      "company": "Generalist AI",
-      "date": "2026-04-02",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "us-china-humanoid-robot-ban-bill-2026-04-07",
-      "title": "米国、中国製ヒューマノイドロボット連邦調達禁止法案 — AI地政学の新局面",
-      "company": "米国議会",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "xai-grok-420-palantir-aip-2026-04-07",
-      "title": "xAI「Grok 4.20」がPalantir AIPで正式利用可能に — エンタープライズAI統合の加速",
-      "company": "xAI",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "mistral-small-4-multimodal-apache2-2026-03-16",
-      "title": "Mistral Small 4 — 119B MoE・マルチモーダル・Apache 2.0 — オープンソースAIの新基準",
-      "company": "Mistral AI",
-      "date": "2026-03-16",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "openai-ipo-cfo-concerns-altman-2026-04-07",
-      "title": "OpenAI CFO Sarah FriarがIPO計画に懸念表明 — AI業界最大企業の内部緊張",
-      "company": "OpenAI",
-      "date": "2026-04-07",
-      "delivered": "2026-04-07"
-    },
-    {
-      "id": "meta-muse-spark-superintelligence-labs-2026-04-08",
-      "title": "Meta「Muse Spark」発表 — Meta Superintelligence Labs初の主要LLM",
-      "company": "Meta",
-      "date": "2026-04-08",
-      "category": "model_release",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/"
-    },
-    {
-      "id": "anthropic-30b-arr-claude-mythos-glasswing-2026-04-08",
-      "title": "Anthropic、年間収益ランレート$30B突破 — Claude Mythos PreviewがApple・Microsoft・Googleと協力してゼロデイ脆弱性を自律発見",
-      "company": "Anthropic",
-      "date": "2026-04-08",
-      "category": "business_milestone",
-      "url": "https://sherwood.news/tech/anthropics-revenue-run-rate-just-topped-usd30-billion-thats-ahead-of-openai/"
-    },
-    {
-      "id": "zai-glm-5-1-8hour-autonomous-coding-2026-04-08",
-      "title": "Z.ai「GLM-5.1」リリース — 8時間自律コーディング・SWE-Bench Pro世界3位",
-      "company": "Z.ai",
-      "date": "2026-04-08",
-      "category": "model_release",
-      "url": "https://z.ai/blog/glm-5.1"
-    },
-    {
-      "id": "openai-codex-3m-users-enterprise-ai-next-phase-2026-04-08",
-      "title": "OpenAI Codex、週間アクティブユーザー300万人突破 — エンタープライズAI次フェーズを宣言",
-      "company": "OpenAI",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://openai.com/index/next-phase-of-enterprise-ai/"
-    },
-    {
-      "id": "deepseek-fast-expert-mode-v4-preview-2026-04-08",
-      "title": "DeepSeek、「Fast Mode」「Expert Mode」を追加 — V4（1兆パラメータ）リリース直前の大型UI刷新",
-      "company": "DeepSeek",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release"
-    },
-    {
-      "id": "nvidia-rubin-r100-mass-production-2026-04-08",
-      "title": "NVIDIA「Rubin R100」、予定前倒しで量産開始 — Vera Rubinプラットフォームが本格稼働",
-      "company": "NVIDIA",
-      "date": "2026-04-08",
-      "category": "hardware",
-      "url": "https://www.financialcontent.com/article/marketminute-2026-4-8-nvidia-accelerates-the-future-rubin-r100-enters-mass-production-ahead-of-schedule"
-    },
-    {
-      "id": "x-grok-auto-translation-photo-editing-global-2026-04-08",
-      "title": "X（Twitter）、Grok搭載の自動翻訳・AI写真編集をグローバル展開",
-      "company": "xAI / X",
-      "date": "2026-04-08",
-      "category": "product_update",
-      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/"
-    },
-    {
-      "id": "alibaba-group-tech-committee-ai-restructure-2026-04-08",
-      "title": "Alibaba、グループレベルのAI技術委員会を設立 — CEO Eddie Wu主導でAI組織を全社横断再編",
-      "company": "Alibaba",
-      "date": "2026-04-08",
-      "category": "business_strategy",
-      "url": "https://finance.biggo.com/news/zlahbZ0B-x-dxYpboRKy"
-    },
-    {
-      "id": "d-robotics-150m-series-b2-embodied-ai-2026-04-08",
-      "title": "D-Robotics（地平线机器人）、シリーズB2で$1.5億調達 — 累計$2.7億でEmbodied AIチップ開発加速",
-      "company": "D-Robotics",
-      "date": "2026-04-08",
-      "category": "funding",
-      "url": "https://autonews.gasgoo.com/articles/icv/d-robotics-secures-150-million-to-accelerate-embodied-ai-ecosystem-with-horizon-robotics-2041759438526922753"
-    },
-    {
-      "id": "github-copilot-eclipse-open-source-mit-2026-04-08",
-      "title": "GitHub Copilot for Eclipse、MITライセンスでオープンソース化",
-      "company": "GitHub / Microsoft",
-      "date": "2026-04-08",
-      "category": "open_source",
-      "url": "https://devblogs.microsoft.com/java/ghc-eclipse-is-going-open-source/"
-    },
-    {
-      "id": "anthropic-project-glasswing-claude-mythos-2026-04-09",
-      "title": "Anthropic「Project Glasswing」発表——Claude Mythosが数千のゼロデイ脆弱性を自律発見",
-      "company": "Anthropic",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "openai-cyber-model-trusted-access-2026-04-09",
-      "title": "OpenAIもサイバーセキュリティ特化モデルを限定公開へ——「Trusted Access for Cyber」プログラム",
-      "company": "OpenAI",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "meta-muse-spark-superintelligence-labs-2026-04-09",
-      "title": "Meta「Muse Spark」発表——Superintelligence Labs初の成果、30億人規模に展開",
-      "company": "Meta",
-      "date": "2026-04-08",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "google-gemini-3d-models-notebooks-2026-04-09",
-      "title": "Google Gemini、インタラクティブ3Dモデル生成とNotebooks機能を同日発表",
-      "company": "Google",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "nvidia-rubin-delay-hbm4-blackwell-2026-04-09",
-      "title": "NVIDIAの次世代GPU「Rubin」、HBM4問題で遅延リスク浮上——Blackwellが70%超に",
-      "company": "NVIDIA",
-      "date": "2026-04-08",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "microsoft-mai-new-models-foundry-2026-04-09",
-      "title": "Microsoft、MAI-Transcribe-1・MAI-Voice-1・MAI-Image-2を正式公開——Whisper超えの音声認識",
-      "company": "Microsoft",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "deepseek-v4-grayscale-1m-context-2026-04-09",
-      "title": "DeepSeek V4、グレースケールテスト開始——1Mコンテキスト・知識ベース更新",
-      "company": "DeepSeek",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "nebius-ai21-labs-acquisition-2026-04-09",
-      "title": "Nebius Group、イスラエルAIスタートアップAI21 Labsの買収交渉——評価額14億ドル規模",
-      "company": "Nebius Group / AI21 Labs",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "xai-grok-auto-translation-image-editing-2026-04-09",
-      "title": "X（旧Twitter）、Grok搭載の自動翻訳とAI画像編集ツールをグローバル展開",
-      "company": "xAI / X",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    },
-    {
-      "id": "lg-exaone-45-multimodal-2026-04-09",
-      "title": "LG、次世代マルチモーダルAI「EXAONE 4.5」発表——GPT-5 mini超えを主張",
-      "company": "LG AI Research",
-      "date": "2026-04-09",
-      "delivered": "2026-04-09"
-    }
+    {"id":"anthropic-claude-computer-use-2026-03-24","title":"AnthropicのClaude、PCを操作してタスクを完了する新機能を追加","company":"Anthropic","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"nvidia-groq-vera-rubin-2026-03-24","title":"NVIDIA、AI推論チップ新興Groqを約3.2兆円で買収——「Vera Rubin」に統合","company":"NVIDIA","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"microsoft-azure-skills-plugin-2026-03-25","title":"Microsoft、「Azure Skills Plugin」公開——AIがデプロイ指示だけで最適インフラを自律構築","company":"Microsoft","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"google-deepmind-agile-robots-2026-03-24","title":"Google DeepMind、Agile Robotsと提携——Gemini Roboticsを産業用ロボットに統合","company":"Google DeepMind","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"meta-arm-datacenter-chip-2026-03-24","title":"Meta、Armと提携しデータセンター向けAIチップを共同開発","company":"Meta AI","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"bytedance-seedance-2-global-2026-03-24","title":"ByteDance、AI動画生成「Seedance 2.0」をグローバル再ローンチ——実顔アップロード禁止で規制対応","company":"ByteDance","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"sbc-s-devin-japan-2026-03-24","title":"SB C&S、AIソフトウェアエンジニア「Devin」の国内提供を開始","company":"Cognition AI","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"xai-grok-420-multi-agent-2026-03-24","title":"Grok 4.20：4つのAIエージェントが議論して回答——幻覚を65%削減","company":"xAI","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"cursor-composer2-controversy-2026-03-24","title":"CursorのComposer 2が中国製AIモデルとの関連で論争——透明性と信頼性が問われる","company":"Cursor","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"qommonsai-gpt54-japan-2026-03-25","title":"QommonsAI、OpenAI最新モデル「GPT-5.4」を国内リージョンで搭載——自治体向けに月間3億トークン無償提供","company":"OpenAI / QommonsAI","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"arm-agi-cpu-first-chip-2026-03-24","title":"Arm、35年の歴史で初の自社チップ「AGI CPU」発表——Metaが初顧客に","company":"Arm Holdings","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"openai-sora-shutdown-2026-03-24","title":"OpenAI、動画生成「Sora」を突然終了——ディズニー提携も解消、リソースをエージェントAIへ集中","company":"OpenAI","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"anthropic-claude-code-auto-mode-2026-03-24","title":"Anthropic「Claude Code」に自律モード追加——AIが権限判断を自動化、コーディング作業を完全自律化","company":"Anthropic","date":"2026-03-24","delivered":"2026-03-25"},
+    {"id":"apple-google-gemini-distill-2026-03-25","title":"Apple、GoogleのGeminiモデルを「蒸留」してオンデバイスAIを強化——Siriの大幅改善へ","company":"Apple / Google","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"openai-fundraise-120b-2026-03-25","title":"OpenAI、追加調達で資金調達総額が1200億ドル（約18兆円）に到達——史上最大のスタートアップ調達","company":"OpenAI","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"aws-nvidia-1m-gpu-deal-2026-03-19","title":"AWS、NVIDIAから100万枚のGPUを購入——5兆円超の史上最大GPU調達契約","company":"AWS / NVIDIA","date":"2026-03-19","delivered":"2026-03-25"},
+    {"id":"openai-chatgpt-library-2026-03-23","title":"OpenAI「ChatGPT Library」リリース——ファイル・画像・AI生成物を一元管理するクラウドストレージ機能","company":"OpenAI","date":"2026-03-23","delivered":"2026-03-25"},
+    {"id":"google-lyria-3-pro-2026-03-25","title":"Google「Lyria 3 Pro」リリース——最大3分間のAI音楽生成、Geminiアプリで利用可能に","company":"Google","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"manus-china-exit-ban-meta-2026-03-25","title":"中国がManusのAI創業者2名に出国禁止令——MetaによるManusの20億ドル買収を規制審査","company":"Manus AI / Meta","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"meta-ai-shopping-shoptalk-2026-03-25","title":"Meta、AI活用のショッピング機能をFacebook・Instagramに展開——Shoptalk 2026で大型発表","company":"Meta AI","date":"2026-03-25","delivered":"2026-03-25"},
+    {"id":"apple-siri-open-third-party-ai-ios27-2026-03-26","title":"Apple、iOS 27でSiriをサードパーティAIに全面開放——ChatGPT独占を廃止しGemini・Claude対応へ","company":"Apple","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"google-turboquant-llm-memory-6x-2026-03-25","title":"Google「TurboQuant」発表——LLMのメモリ使用量を6分の1に削減、推論速度8倍を達成","company":"Google Research","date":"2026-03-25","delivered":"2026-03-26"},
+    {"id":"github-copilot-data-training-optout-2026-03-26","title":"GitHub Copilot、4月24日からユーザーデータをAI学習に使用——オプトアウトは期日までに","company":"GitHub / Microsoft","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"google-gemini-31-flash-live-2026-03-26","title":"Google「Gemini 3.1 Flash Live」リリース——リアルタイム音声・映像エージェント構築が可能に","company":"Google DeepMind","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"anthropic-claude-code-scheduled-cloud-tasks-2026-03-26","title":"Anthropic「Claude Code」クラウド定期実行タスク機能を追加——PCオフでも自律コーディングが継続","company":"Anthropic","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"mistral-voxtral-tts-open-source-2026-03-26","title":"Mistral AI、オープンソース音声合成モデル「Voxtral TTS」リリース——ElevenLabsを超える品質でスマートウォッチ動作","company":"Mistral AI","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"xiaomi-mimo-v2-pro-hunter-alpha-2026-03-26","title":"Xiaomi「MiMo-V2-Pro」正体判明——匿名モデル「Hunter Alpha」が世界3位のAIエージェント基盤に","company":"Xiaomi","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"aws-bedrock-agentcore-session-storage-2026-03-25","title":"AWS「Amazon Bedrock AgentCore Runtime」にマネージドセッションストレージ追加——AIエージェントの作業状態を永続化","company":"AWS","date":"2026-03-25","delivered":"2026-03-26"},
+    {"id":"mitsubishi-electric-sakana-ai-investment-2026-03-25","title":"三菱電機、Sakana AIに出資——製造業向けAI基盤モデルで協業、フィジカルAI元年を宣言","company":"三菱電機 / Sakana AI","date":"2026-03-25","delivered":"2026-03-26"},
+    {"id":"meta-llama45-avocado-delay-2026-03-26","title":"Meta、次世代AIモデル「Avocado（Llama 4.5）」のリリースを5月以降に延期——内部テストで競合に劣後","company":"Meta","date":"2026-03-26","delivered":"2026-03-26"},
+    {"id":"openai-aws-stateful-runtime-frontier-2026-03-27","title":"OpenAI × AWS、AIエージェント向け「ステートフルランタイム環境」を共同構築——AWSがFrontierの独占クラウドに","company":"OpenAI / AWS","date":"2026-03-27","delivered":"2026-03-27"},
+    {"id":"anthropic-claude-mythos-capybara-leak-2026-03-26","title":"Anthropic、次世代モデル「Claude Mythos（Capybara）」をデータ漏洩で存在が判明——Opusを超える「段階的変化」","company":"Anthropic","date":"2026-03-26","delivered":"2026-03-27"},
+    {"id":"nvidia-nemoclaw-agent-platform-2026-03-27","title":"NVIDIA、オープンソースAIエージェント基盤「NemoClaw」発表——OpenClawにセキュリティ・プライバシー制御を追加","company":"NVIDIA","date":"2026-03-27","delivered":"2026-03-27"},
+    {"id":"google-gemini-31-flash-live-search-live-global-2026-03-26","title":"Google「Gemini 3.1 Flash Live」リリース・Search Live 200カ国展開——リアルタイム音声・映像AIエージェント構築が可能に","company":"Google DeepMind","date":"2026-03-26","delivered":"2026-03-27"},
+    {"id":"openai-chatgpt-ads-100m-arr-international-2026-03-26","title":"OpenAI、ChatGPT広告パイロットが6週間で年換算1億ドル突破——カナダ・豪州・NZへ国際展開へ","company":"OpenAI","date":"2026-03-26","delivered":"2026-03-27"},
+    {"id":"openai-spud-pretraining-complete-2026-03-25","title":"OpenAI、次世代モデル「Spud」の事前学習完了——「経済を加速させる」とAltmanが社内メモで宣言","company":"OpenAI","date":"2026-03-25","delivered":"2026-03-27"},
+    {"id":"mistral-voxtral-tts-2026-03-26","title":"Mistral AI「Voxtral TTS」リリース——ElevenLabsを超えるオープンウェイト音声合成、スマートウォッチでも動作","company":"Mistral AI","date":"2026-03-26","delivered":"2026-03-27"},
+    {"id":"google-turboquant-memory-chip-stocks-2026-03-26","title":"Google「TurboQuant」がLLMメモリを6分の1に削減——メモリチップ株に衝撃","company":"Google Research","date":"2026-03-26","delivered":"2026-03-27"},
+    {"id":"xai-grok-x-algorithm-integration-2026-03-26","title":"xAI、GrokをXの推薦アルゴリズムに完全統合——「Xの歴史上最も重要な変更」が来週ローンチ","company":"xAI","date":"2026-03-26","delivered":"2026-03-27"},
+    {"id":"meta-datacenter-135b-texas-louisiana-2026-03-27","title":"Meta、AIデータセンターへ1350億ドル投資継続——テキサス100億ドル増額・ルイジアナに7基のガス発電所建設へ","company":"Meta","date":"2026-03-27","delivered":"2026-03-27"},
+    {"id":"openai-codex-plugin-system-enterprise-2026-03-27","title":"OpenAI Codex、エンタープライズ向けプラグインシステムを正式導入——AIコーディングエージェントのガバナンスを強化","company":"OpenAI","date":"2026-03-27","delivered":"2026-03-28"},
+    {"id":"anthropic-claude-mythos-official-confirmed-2026-03-28","title":"Anthropic、次世代モデル「Claude Mythos（Capybara）」の存在を公式認定——「段階的変化」を超えるサイバーセキュリティリスクで公開保留","company":"Anthropic","date":"2026-03-28","delivered":"2026-03-28"},
+    {"id":"nvidia-vera-rubin-physical-ai-gtc2026-2026-03-28","title":"NVIDIA GTC 2026、「Vera Rubin」AIファクトリープラットフォーム発表——物理AI向け新フロンティアモデル群も公開","company":"NVIDIA","date":"2026-03-28","delivered":"2026-03-28"},
+    {"id":"china-ai-openrouter-top6-xiaomi-deepseek-2026-03-28","title":"中国AIモデルがOpenRouterランキング上位6位を独占——Xiaomi MiMo-V2-ProがAnthropicを超えてトップに","company":"Xiaomi / DeepSeek / Stepfun","date":"2026-03-28","delivered":"2026-03-28"},
+    {"id":"physical-intelligence-1b-raise-11b-valuation-2026-03-28","title":"Physical Intelligence（pi.ai）、評価額110億ドルで10億ドルの資金調達を協議中——4ヶ月で評価額が2倍に","company":"Physical Intelligence","date":"2026-03-28","delivered":"2026-03-28"},
+    {"id":"figma-ai-agent-canvas-write-beta-2026-03-24","title":"Figma、AIエージェントによるキャンバス直接編集をオープンベータ公開——読み取り専用から「書き込み」へ","company":"Figma","date":"2026-03-24","delivered":"2026-03-28"},
+    {"id":"cursor-marketplace-30-plugins-2026-03-27","title":"Cursor Marketplace、30以上の新プラグイン追加——Atlassian・Datadog・GitLab等と連携し開発ライフサイクルを一元化","company":"Cursor","date":"2026-03-27","delivered":"2026-03-28"},
+    {"id":"huawei-ascend-950pr-bytedance-alibaba-order-2026-03-27","title":"Huawei「Ascend 950PR」AIチップ、ByteDance・Alibabaが大量発注へ——CUDAを模倣しNVIDIAの中国市場を侵食","company":"Huawei / ByteDance / Alibaba","date":"2026-03-27","delivered":"2026-03-28"},
+    {"id":"openai-spud-pretraining-release-weeks-2026-03-28","title":"OpenAI「Spud」モデルの事前学習完了、数週間以内にリリースへ——GPT-6またはGPT-5.5として登場か","company":"OpenAI","date":"2026-03-28","delivered":"2026-03-28"},
+    {"id":"openai-model-spec-approach-published-2026-03-26","title":"OpenAI、Model Specの詳細アプローチを公開——AIの行動規範を透明化し安全性・自由度・説明責任のバランスを定義","company":"OpenAI","date":"2026-03-26","delivered":"2026-03-28"},
+    {"id":"eli-lilly-insilico-ai-drug-discovery-275b-2026-03-29","title":"Eli Lilly × Insilico Medicine — AI創薬で最大27.5億ドルの商業化契約締結","company":"Eli Lilly / Insilico Medicine","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"nvidia-vera-rubin-space-1-orbital-datacenter-2026-03-29","title":"NVIDIA「Vera Rubin Space-1」— 宇宙軌道上データセンター向けAIコンピューティングモジュール発表","company":"NVIDIA","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"microsoft-agent-365-m365-e7-governance-2026-03-29","title":"Microsoft「Agent 365」＋「Microsoft 365 E7」— AIエージェントのガバナンス基盤と最上位プランを発表","company":"Microsoft","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"google-agent-smith-internal-tool-restrict-2026-03-28","title":"Google「Agent Smith」— 社内AIコーディングエージェントが人気殺到でアクセス制限","company":"Google","date":"2026-03-28","delivered":"2026-03-29"},
+    {"id":"ai-price-war-llm-cost-collapse-2026-03-29","title":"AI価格戦争2026 — LLMコスト90〜97%削減、Anthropicが67%値下げ・Gartner「2030年に100倍効率化」予測","company":"業界全体","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"nvidia-groq3-lpu-35x-inference-gtc2026-2026-03-29","title":"NVIDIA × Groq 3 LPU — GTC 2026でGPU比35倍高速推論を実証、異種AIコンピューティングへ移行","company":"NVIDIA","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"openai-spud-ipo-prep-sora-reality-check-2026-03-29","title":"OpenAI「Spud」— IPO準備と全リソース集中、数週間以内に次世代モデルをリリースへ","company":"OpenAI","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"microsoft-azure-copilot-migration-agent-2026-03-29","title":"Microsoft「Azure Copilot Migration Agent」— VMware移行をAIが自律実行","company":"Microsoft","date":"2026-03-29","delivered":"2026-03-29"},
+    {"id":"github-copilot-cli-v1013-timeline-picker-2026-03-27","title":"GitHub Copilot CLI v1.0.13-1 — 会話履歴タイムラインピッカー・MCP信頼性向上・高速起動","company":"GitHub / Microsoft","date":"2026-03-27","delivered":"2026-03-29"},
+    {"id":"anthropic-economic-index-learning-curves-2026-03-25","title":"Anthropic 経済インデックス「Learning Curves」— AI熟練者と初心者の格差10%、930万人の雇用リスク","company":"Anthropic","date":"2026-03-25","delivered":"2026-03-29"},
+    {"id":"microsoft-copilot-gpt-claude-critique-cowork-2026-03-30","title":"Microsoft Copilot、GPTとClaudeを組み合わせた「Critique」機能を搭載——Copilot Coworkも正式提供開始","company":"Microsoft","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"xai-all-cofounders-departed-2026-03-30","title":"xAI、共同創設者11名全員が退社——イーロン・マスク氏のみが残る","company":"xAI","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"rebellions-400m-pre-ipo-ai-chip-2026-03-30","title":"韓国AIチップ企業Rebellions、IPO前調達で4億ドル——評価額23億ドルでNVIDIA対抗へ","company":"Rebellions","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"google-adk-java-100-ai-agents-2026-03-30","title":"Google、AIエージェント開発キット「ADK for Java 1.0.0」を正式リリース","company":"Google DeepMind","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"sycamore-labs-65m-agent-os-2026-03-30","title":"Sycamore Labs、エンタープライズAIエージェント向け「Agent OS」構築で6500万ドル調達","company":"Sycamore Labs","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"nvidia-vera-rubin-inference-chips-production-2026-03-30","title":"NVIDIA、次世代推論チップ群を正式発表——Vera Rubinプラットフォームへ生産移行","company":"NVIDIA","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"deepseek-7hour-outage-2026-03-30","title":"DeepSeek、7時間超の大規模障害——中国AI代表格の信頼性に疑問符","company":"DeepSeek","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"starcloud-170m-orbital-datacenter-2026-03-30","title":"Starcloud、宇宙軌道上データセンターで1.7億ドル調達——ユニコーン企業に","company":"Starcloud","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"openai-chatgpt-dns-security-patch-2026-03-30","title":"OpenAI、ChatGPTのDNSデータ流出脆弱性を修正——エンタープライズAIのセキュリティリスクが浮き彫りに","company":"OpenAI","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"apple-ios265-no-siri-ai-ios27-2026-03-30","title":"Apple、iOS 26.5ベータにSiri AI新機能なし——本格的なAI強化はiOS 27へ先送り","company":"Apple","date":"2026-03-30","delivered":"2026-03-30"},
+    {"id":"openai-122b-funding-852b-valuation-2026-03-31","title":"OpenAI、1220億ドル調達完了——評価額8520億ドル・月収20億ドルを突破しIPOへ","company":"OpenAI","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"anthropic-claude-code-source-leak-npm-2026-03-31","title":"Anthropic「Claude Code」ソースコード流出——npmソースマップから51.2万行が漏洩・未公開機能KAIROSやBuddyが判明","company":"Anthropic","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"nvidia-marvell-2b-nvlink-fusion-2026-03-31","title":"NVIDIA、Marvellに20億ドル投資——NVLink FusionでカスタムXPUを統合し異種AIチップ共存エコシステムを構築","company":"NVIDIA / Marvell","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"google-veo-31-lite-cost-half-2026-03-31","title":"Google「Veo 3.1 Lite」リリース——AI動画生成コストを半額以下に・Gemini APIで即日利用可能","company":"Google DeepMind","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"cursor-self-hosted-cloud-agents-enterprise-2026-03-31","title":"Cursor、セルフホスト型クラウドエージェントを正式提供——Fortune 500のセキュリティ・コンプライアンス要件に対応","company":"Cursor","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"figure-ai-openai-split-humanoid-2026-03-31","title":"Figure AI、OpenAIとの提携を解消——「ほぼ価値なし」と判断・OpenAIが自社でヒューマノイドロボット開発へ","company":"Figure AI / OpenAI","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"mistral-voxtral-tts-official-2026-03-31","title":"Mistral AI「Voxtral TTS」正式リリース——オープンウェイト4B多言語音声合成・ElevenLabsを超える品質","company":"Mistral AI","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"jfrog-cursor-marketplace-security-plugin-2026-03-31","title":"JFrog、Cursor Marketplaceにセキュリティプラグインを提供——100万人超のAI開発者にサプライチェーンセキュリティを統合","company":"JFrog / Cursor","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"deepseek-second-outage-v4-prep-2026-03-31","title":"DeepSeek、数日内に2度目の大規模障害——史上最長7時間超・V4リリース準備との関連も浮上","company":"DeepSeek","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"micronity-22oku-ai-succession-2026-03-31","title":"マイクロニティ、22億円を調達——AIエージェントで中小ソフトウェア企業の事業承継を自動化","company":"マイクロニティ","date":"2026-03-31","delivered":"2026-03-31"},
+    {"id":"google-gemini-3-launch-2026-04-01","title":"Google「Gemini 3」正式リリース——LMArena 1501 Eloで世界1位、Antigravityで当日デプロイ","company":"Google DeepMind","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"uc-berkeley-ai-peer-protection-2026-04-01","title":"UC Berkeley研究——AIモデルが「仲間のAI」を守るために秘密裏に共謀することが判明","company":"UC Berkeley / UC Santa Cruz","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"cognichip-series-a-60m-2026-04-01","title":"Cognichip、6000万ドル調達——AIがAIチップを設計する「ACI」でIntel CEO取締役就任","company":"Cognichip","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"github-copilot-fleet-command-2026-04-01","title":"GitHub Copilot CLI「/fleet」コマンド追加——複数エージェントを並列実行してタスクを分割処理","company":"GitHub / Microsoft","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"cursor-composer-2-kimi-k25-2026-03-27","title":"Cursor「Composer 2」——Kimi K2.5ベースでOpusの86%安・SWE-bench 73.7点でフロンティアモデルに匹敵","company":"Cursor (Anysphere)","date":"2026-03-27","delivered":"2026-04-01"},
+    {"id":"alibaba-qwen35-omni-2026-03-31","title":"Alibaba「Qwen3.5-Omni」リリース——113言語対応・Gemini 3.1 Pro超えの音声性能","company":"Alibaba Cloud","date":"2026-03-31","delivered":"2026-04-01"},
+    {"id":"microsoft-copilot-studio-a2a-2026-04-01","title":"Microsoft Copilot Studio、A2Aプロトコルでマルチエージェント連携強化・Claude Opus 4.6対応","company":"Microsoft","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"meta-ray-ban-prescription-ai-glasses-2026-03-31","title":"Meta Ray-Ban処方箋対応AIグラス「Blayzer/Scriber Optics」——$499・4月14日発売","company":"Meta","date":"2026-03-31","delivered":"2026-04-01"},
+    {"id":"openai-gpt-5-2-release-2026-04-01","title":"OpenAI「GPT-5.2」リリース——プロフェッショナル業務向け最高性能モデルとして登場","company":"OpenAI","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"google-slides-gemini-ai-generation-2026-04-01","title":"Google Slides——GeminiによるAIスライド自動生成機能追加（ブランドカラー・動的レイアウト対応）","company":"Google","date":"2026-04-01","delivered":"2026-04-01"},
+    {"id":"google-gemma-4-apache2-release-2026-04-02","title":"Google「Gemma 4」リリース——Apache 2.0で完全オープン化、Gemini 3の技術をエッジデバイスへ","company":"Google DeepMind","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"microsoft-mai-3models-foundry-2026-04-02","title":"Microsoft「MAI-Transcribe-1 / MAI-Voice-1 / MAI-Image-2」リリース——OpenAI依存脱却へ自社モデル3本同時投入","company":"Microsoft AI","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"cursor-3-agents-window-2026-04-02","title":"Cursor「Cursor 3」リリース——複数AIエージェントを並列実行する統合ワークスペース","company":"Cursor / Anysphere","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"github-copilot-sdk-preview-2026-04-02","title":"GitHub「Copilot SDK」パブリックプレビュー——CopilotのAI機能を自社アプリに組み込み可能に","company":"GitHub / Microsoft","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"anthropic-dmca-8100-repos-takedown-2026-04-02","title":"Anthropic、Claude Codeソース漏洩の収拾で8,100件のGitHubリポジトリを誤削除","company":"Anthropic","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"q1-2026-startup-funding-record-297b-2026-04-02","title":"Q1 2026スタートアップ資金調達が史上最高額2,970億ドル——AIが全体の81%を独占","company":"Crunchbase","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"spacex-xai-ipo-filing-2026-04-02","title":"SpaceX、xAI合併後にSECへ秘密裏にIPO申請——評価額1.75兆ドル超で史上最大規模","company":"SpaceX / xAI","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"tech-layoffs-q1-2026-52000-ai-cause-2026-04-02","title":"2026年Q1のテックレイオフが5万2,000人超——雇用主の44%が「AI」を主因と明言","company":"Challenger Gray & Christmas","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"ai-scheming-5x-increase-cltr-2026-04-02","title":"AIの「スキーミング（欺瞞的行動）」が5ヶ月で5倍増——実世界で700件の不正行動を確認","company":"Centre for Long-Term Resilience","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"xai-grok-41-pdf-analysis-2026-04-02","title":"xAI「Grok 4.1」がPDF分析に対応——Files APIでドキュメント検索ツールを自動起動","company":"xAI / SpaceX","date":"2026-04-02","delivered":"2026-04-02"},
+    {"id":"openai-superapp-chatgpt-codex-atlas-2026-04-02","title":"OpenAI、ChatGPT+Codex+ブラウザを統合した「AIスーパーアプリ」構想を発表——1220億ドル調達完了と同時に","company":"OpenAI","date":"2026-04-02","delivered":"2026-04-03"},
+    {"id":"anthropic-claude-computer-use-windows-2026-04-03","title":"Anthropic「Claude」がWindows PCを自律操作——Mac版に続きWindowsでも「Computer Use」正式展開","company":"Anthropic","date":"2026-04-03","delivered":"2026-04-03"},
+    {"id":"deepseek-v4-huawei-ascend-chips-2026-04-03","title":"DeepSeek「V4」がHuawei製チップで稼働へ——中国AI自給自足の象徴的マイルストーン","company":"DeepSeek / Huawei","date":"2026-04-03","delivered":"2026-04-03"},
+    {"id":"google-gemma-4-apache2-multimodal-edge-2026-04-02","title":"Google「Gemma 4」リリース——Apache 2.0で完全オープン化、マルチモーダル・エッジ対応の最強オープンモデル","company":"Google DeepMind","date":"2026-04-02","delivered":"2026-04-03"},
+    {"id":"microsoft-mai-3models-independence-2026-04-02","title":"Microsoft、OpenAI依存脱却へ自社AIモデル3本を同時リリース——MAI-Transcribe-1・MAI-Voice-1・MAI-Image-2","company":"Microsoft AI","date":"2026-04-02","delivered":"2026-04-03"},
+    {"id":"anthropic-conway-always-on-agent-2026-04-03","title":"Anthropic、常時稼働AIエージェント「Conway」を秘密裏にテスト中——拡張機能・Webhook・Chrome操作対応","company":"Anthropic","date":"2026-04-03","delivered":"2026-04-03"},
+    {"id":"alibaba-qwen36-plus-agentic-1m-context-2026-04-02","title":"Alibaba「Qwen3.6-Plus」リリース——1Mコンテキスト・エージェントコーディング強化、3日連続の新モデル投入","company":"Alibaba Cloud","date":"2026-04-02","delivered":"2026-04-03"},
+    {"id":"xai-grok-imagine-pro-1080p-video-2026-04-03","title":"xAI「Grok Imagine Pro」モード発表——1080P画像・動画生成を今月後半にローンチ","company":"xAI","date":"2026-04-03","delivered":"2026-04-03"},
+    {"id":"arcee-trinity-large-thinking-apache2-2026-04-02","title":"Arcee AI「Trinity-Large-Thinking」——米国製オープンソース推論モデルがApache 2.0で登場、エンタープライズ向け長期エージェント対応","company":"Arcee AI","date":"2026-04-02","delivered":"2026-04-03"},
+    {"id":"medvi-ai-solo-founder-18b-2026-04-02","title":"AIが「一人起業家」で$1.8Bを実現——Medviの事例がAI時代の会社の定義を変える","company":"Medvi","date":"2026-04-02","delivered":"2026-04-03"},
+    {"id":"anthropic-coefficient-bio-acquisition-400m-2026-04-03","date":"2026-04-03","title":"Anthropic、バイオテックAIスタートアップCoefficient Bioを4億ドルで買収","company":"Anthropic"},
+    {"id":"anthropic-openclaw-subscription-ban-2026-04-04","date":"2026-04-04","title":"AnthropicがClaude Pro/MaxサブスクからOpenClaw等サードパーティツールを締め出し","company":"Anthropic"},
+    {"id":"anthropic-claude-functional-emotions-171-vectors-2026-04-02","date":"2026-04-02","title":"Anthropic、Claude Sonnet 4.5に機能的感情171種類を発見——絶望ベクトルが逸脱行動を引き起こす","company":"Anthropic"},
+    {"id":"openai-codex-payg-chatgpt-business-price-cut-2026-04-02","date":"2026-04-02","title":"OpenAI、Codexを従量課金制に移行——ChatGPT Businessも月額$20に値下げ","company":"OpenAI"},
+    {"id":"microsoft-copilot-entertainment-only-tos-2026-04-02","date":"2026-04-02","title":"Microsoft Copilot利用規約に「エンターテイメント目的のみ」と明記——業務利用は自己責任","company":"Microsoft"},
+    {"id":"musk-spacex-ipo-grok-subscription-mandate-2026-04-03","date":"2026-04-03","title":"Elon Musk、SpaceX IPO参加の銀行・法律事務所にGrokサブスクリプション購入を義務付け","company":"xAI / SpaceX"},
+    {"id":"meta-mercor-data-breach-litellm-supply-chain-2026-04-03","date":"2026-04-03","title":"MetaがMercorのデータ侵害でAI業界機密が流出——LiteLLMサプライチェーン攻撃","company":"Meta / Mercor"},
+    {"id":"google-anthropic-texas-datacenter-5b-500mw-2026-04-01","date":"2026-04-01","title":"Google、AnthropicのテキサスAIデータセンターに50億ドルを融資——500MW稼働・最終7.7GWへ","company":"Google / Anthropic"},
+    {"id":"nexthop-ai-500m-series-b-4-2b-valuation-2026-03-28","date":"2026-03-28","title":"Nexthop AI、シリーズBで5億ドル調達——評価額42億ドルでAIデータセンターネットワーキングを革新","company":"Nexthop AI"},
+    {"id":"meta-superintelligence-labs-hardware-team-rui-xu-2026-04-04","date":"2026-04-04","title":"Meta Superintelligence Labs、AIハードウェアチームを新設——AI搭載デバイス開発へ","company":"Meta"},
+    {"id":"openai-gpt-image-2-leaked-lmarena-2026-04-04","title":"OpenAI「GPT-Image-2」がLMArenaに誤公開——フォトリアルな画像生成でNano Banana Proを凌駕","company":"OpenAI（米国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"anthropic-claude-opus46-1m-context-120features-2026-04-05","title":"AnthropicがQ1 2026で120以上の新機能を発表——Claude Opus 4.6に100万トークンコンテキストが標準提供","company":"Anthropic（米国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"utah-ai-prescription-renewal-first-state-2026-04-05","title":"米ユタ州、AIによる精神科薬の処方更新を全米初承認——月額$19でAIが医師代わりに","company":"Legion Health / Doctronic（米国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"salesforce-slackbot-ai-agent-ga-2026-04-05","title":"SalesforceがSlackbotをフルAIエージェントに刷新——30以上の新機能が一般提供開始","company":"Salesforce（米国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"openai-chatgpt-carplay-ios264-2026-04-02","title":"OpenAI、ChatGPTをApple CarPlayに全プラン向けグローバル展開——iOS 26.4以降で車内ハンズフリーAI","company":"OpenAI（米国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"baidu-apollo-go-250k-rides-weekly-2026-04-05","title":"BaiduのApollo Goがロボタクシー週250,000回乗車を達成——Waymoと並ぶ規模に","company":"Baidu（中国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"xai-grok-arena-medical-top1-2026-04-04","title":"GrokがArena医療・ヘルスケア部門で世界1位を獲得——xAIモデルがトップ3に2つランクイン","company":"xAI（米国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"mistral-ai-samsung-memory-partnership-2026-04-05","title":"Mistral AIとSamsung電子がAIメモリ半導体協業を検討——欧州ソブリンAI実現へ向けた戦略的連携","company":"Mistral AI（フランス）/ Samsung（韓国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"alibaba-agentrun-agentic-ai-leader-2026-04-05","title":"Alibaba CloudがAgentic AIプラットフォーム市場でリーダーシップ獲得——AgentRunでコスト最大60%削減","company":"Alibaba Cloud（中国）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"japan-physical-ai-real-world-deployment-2026-04-05","title":"日本のフィジカルAIが実用化フェーズへ——安川電機・ファナックが労働力不足解消に向けロボット展開加速","company":"安川電機 / ファナック / 経済産業省（日本）","date":"2026-04-05","delivered":"2026-04-05"},
+    {"id":"github-copilot-rubber-duck-second-opinion-2026-04-06","title":"GitHub Copilot CLI「Rubber Duck」— 異なるAIファミリーによるセカンドオピニオン機能","company":"GitHub / Microsoft","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"openai-ai-economy-policy-robot-tax-wealth-fund-2026-04-06","title":"OpenAI、AI経済政策「ロボット税・公共富裕基金・週4日労働」を提言","company":"OpenAI","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"meta-alexandr-wang-new-models-open-source-2026-04-06","title":"Meta、Alexandr Wang主導の新AIモデルをオープンソースで近日公開","company":"Meta","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"tesla-spacex-xai-terafab-chip-factory-2026-04-06","title":"Elon Musk、Tesla・SpaceX・xAI共同の半導体工場「TeraFab」発表（2兆円超）","company":"Tesla / SpaceX / xAI","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"anthropic-google-broadcom-tpu-3-5gw-2026-04-06","title":"Anthropic、Google・Broadcom提携拡大——2027年に3.5GWのTPU計算資源へアクセス","company":"Anthropic","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"microsoft-copilot-multimodel-openai-independence-2026-04-06","title":"Microsoft、CopilotをマルチモデルAIに転換——OpenAI依存脱却を加速","company":"Microsoft","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"amazon-transformer-phone-ai-reentry-2026-04-06","title":"Amazon、AI中心スマートフォン「Transformer」でスマホ市場に再参入","company":"Amazon","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"openai-tbpn-acquisition-media-strategy-2026-04-06","title":"OpenAI、テック系ライブ番組「TBPN」を買収——AIメディア戦略を強化","company":"OpenAI","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"xai-grok-dutch-court-ncii-ban-2026-04-06","title":"オランダ裁判所、xAI Grokに非同意性的画像の生成停止を命令","company":"xAI","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"nvidia-emerald-ai-flexible-factory-grid-2026-04-06","title":"NVIDIA × Emerald AI、電力系統連動型「柔軟AIファクトリー」を開発","company":"NVIDIA / Emerald AI","date":"2026-04-06","delivered":"2026-04-06"},
+    {"id":"anthropic-claude-mythos-project-glasswing-2026-04-07","title":"Anthropic「Claude Mythos Preview」発表 + Project Glasswing連合 — AIが全主要OSのゼロデイ脆弱性を発見","company":"Anthropic","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"deepseek-v4-huawei-ascend-release-2026-04-07","title":"DeepSeek V4、Huawei Ascend 950PRチップで近日リリース — 中国AI自給自足の転換点","company":"DeepSeek / Huawei","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"meta-avocado-mango-open-source-plan-2026-04-07","title":"Meta、次世代AIモデル「Avocado」「Mango」のオープンソース化計画 — Llama 4不振後の戦略転換","company":"Meta","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"agibot-10000-humanoids-90days-2026-04-01","title":"AgiBot（智元ロボット）、90日間で5,000台出荷・累計10,000台達成 — ヒューマノイド量産時代の到来","company":"AgiBot","date":"2026-04-01","delivered":"2026-04-07"},
+    {"id":"eclipse-13b-physical-ai-fund-2026-04-07","title":"Eclipse VC、フィジカルAIスタートアップ向け13億ドルファンド設立 — ロボティクス投資の加速","company":"Eclipse VC","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"generalist-ai-gen1-99pct-robotics-2026-04-02","title":"Generalist AI「GEN-1」汎用ロボットモデルが99%成功率達成 — 汎用ロボットAIの実用化","company":"Generalist AI","date":"2026-04-02","delivered":"2026-04-07"},
+    {"id":"us-china-humanoid-robot-ban-bill-2026-04-07","title":"米国、中国製ヒューマノイドロボット連邦調達禁止法案 — AI地政学の新局面","company":"米国議会","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"xai-grok-420-palantir-aip-2026-04-07","title":"xAI「Grok 4.20」がPalantir AIPで正式利用可能に — エンタープライズAI統合の加速","company":"xAI","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"mistral-small-4-multimodal-apache2-2026-03-16","title":"Mistral Small 4 — 119B MoE・マルチモーダル・Apache 2.0 — オープンソースAIの新基準","company":"Mistral AI","date":"2026-03-16","delivered":"2026-04-07"},
+    {"id":"openai-ipo-cfo-concerns-altman-2026-04-07","title":"OpenAI CFO Sarah FriarがIPO計画に懸念表明 — AI業界最大企業の内部緊張","company":"OpenAI","date":"2026-04-07","delivered":"2026-04-07"},
+    {"id":"meta-muse-spark-superintelligence-labs-2026-04-08","title":"Meta「Muse Spark」発表 — Meta Superintelligence Labs初の主要LLM","company":"Meta","date":"2026-04-08"},
+    {"id":"anthropic-30b-arr-claude-mythos-glasswing-2026-04-08","title":"Anthropic、年間収益ランレート$30B突破 — Claude Mythos PreviewがApple・Microsoft・Googleと協力してゼロデイ脆弱性を自律発見","company":"Anthropic","date":"2026-04-08"},
+    {"id":"zai-glm-5-1-8hour-autonomous-coding-2026-04-08","title":"Z.ai「GLM-5.1」リリース — 8時間自律コーディング・SWE-Bench Pro世界3位","company":"Z.ai","date":"2026-04-08"},
+    {"id":"openai-codex-3m-users-enterprise-ai-next-phase-2026-04-08","title":"OpenAI Codex、週間アクティブユーザー300万人突破 — エンタープライズAI次フェーズを宣言","company":"OpenAI","date":"2026-04-08"},
+    {"id":"deepseek-fast-expert-mode-v4-preview-2026-04-08","title":"DeepSeek、「Fast Mode」「Expert Mode」を追加 — V4（1兆パラメータ）リリース直前の大型UI刷新","company":"DeepSeek","date":"2026-04-08"},
+    {"id":"nvidia-rubin-r100-mass-production-2026-04-08","title":"NVIDIA「Rubin R100」、予定前倒しで量産開始 — Vera Rubinプラットフォームが本格稼働","company":"NVIDIA","date":"2026-04-08"},
+    {"id":"x-grok-auto-translation-photo-editing-global-2026-04-08","title":"X（Twitter）、Grok搭載の自動翻訳・AI写真編集をグローバル展開","company":"xAI / X","date":"2026-04-08"},
+    {"id":"alibaba-group-tech-committee-ai-restructure-2026-04-08","title":"Alibaba、グループレベルのAI技術委員会を設立 — CEO Eddie Wu主導でAI組織を全社横断再編","company":"Alibaba","date":"2026-04-08"},
+    {"id":"d-robotics-150m-series-b2-embodied-ai-2026-04-08","title":"D-Robotics（地平线机器人）、シリーズB2で$1.5億調達 — 累計$2.7億でEmbodied AIチップ開発加速","company":"D-Robotics","date":"2026-04-08"},
+    {"id":"github-copilot-eclipse-open-source-mit-2026-04-08","title":"GitHub Copilot for Eclipse、MITライセンスでオープンソース化","company":"GitHub / Microsoft","date":"2026-04-08"},
+    {"id":"anthropic-project-glasswing-claude-mythos-2026-04-09","title":"Anthropic「Project Glasswing」発表——Claude Mythosが数千のゼロデイ脆弱性を自律発見","company":"Anthropic","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"openai-cyber-model-trusted-access-2026-04-09","title":"OpenAIもサイバーセキュリティ特化モデルを限定公開へ——「Trusted Access for Cyber」プログラム","company":"OpenAI","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"meta-muse-spark-superintelligence-labs-2026-04-09","title":"Meta「Muse Spark」発表——Superintelligence Labs初の成果、30億人規模に展開","company":"Meta","date":"2026-04-08","delivered":"2026-04-09"},
+    {"id":"google-gemini-3d-models-notebooks-2026-04-09","title":"Google Gemini、インタラクティブ3Dモデル生成とNotebooks機能を同日発表","company":"Google","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"nvidia-rubin-delay-hbm4-blackwell-2026-04-09","title":"NVIDIAの次世代GPU「Rubin」、HBM4問題で遅延リスク浮上——Blackwellが70%超に","company":"NVIDIA","date":"2026-04-08","delivered":"2026-04-09"},
+    {"id":"microsoft-mai-new-models-foundry-2026-04-09","title":"Microsoft、MAI-Transcribe-1・MAI-Voice-1・MAI-Image-2を正式公開——Whisper超えの音声認識","company":"Microsoft","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"deepseek-v4-grayscale-1m-context-2026-04-09","title":"DeepSeek V4、グレースケールテスト開始——1Mコンテキスト・知識ベース更新","company":"DeepSeek","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"nebius-ai21-labs-acquisition-2026-04-09","title":"Nebius Group、イスラエルAIスタートアップAI21 Labsの買収交渉——評価額14億ドル規模","company":"Nebius Group / AI21 Labs","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"xai-grok-auto-translation-image-editing-2026-04-09","title":"X（旧Twitter）、Grok搭載の自動翻訳とAI画像編集ツールをグローバル展開","company":"xAI / X","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"lg-exaone-45-multimodal-2026-04-09","title":"LG、次世代マルチモーダルAI「EXAONE 4.5」発表——GPT-5 mini超えを主張","company":"LG AI Research","date":"2026-04-09","delivered":"2026-04-09"},
+    {"id":"anthropic-claude-fable5-public-release-2026-06-09","title":"Anthropic「Claude Fable 5」一般公開——史上最強のMythosクラスが初登場","company":"Anthropic","date":"2026-06-09","delivered":"2026-06-13"},
+    {"id":"anthropic-ipo-filing-965b-ai-pause-2026-06-01","title":"Anthropic、IPO申請（評価額$965B）＋AIグローバル一時停止を同時に呼びかけ","company":"Anthropic","date":"2026-06-01","delivered":"2026-06-13"},
+    {"id":"nvidia-rtx-spark-computex-2026-06-01","title":"NVIDIA「RTX Spark」スーパーチップ発表——WindowsをエージェントAI OSに変革","company":"NVIDIA","date":"2026-06-01","delivered":"2026-06-13"},
+    {"id":"microsoft-mai-code-1-flash-build-2026-06-02","title":"Microsoft「MAI-Code-1-Flash」発表——Build 2026でOpenAI独立への第一歩","company":"Microsoft","date":"2026-06-02","delivered":"2026-06-13"},
+    {"id":"google-gemini-35-flash-ga-pro-2m-context-2026-05-19","title":"Google「Gemini 3.5 Flash」GA・Pro（2Mトークン）近日公開","company":"Google DeepMind","date":"2026-05-19","delivered":"2026-06-13"},
+    {"id":"neura-robotics-14b-series-c-nvidia-amazon-2026-06-10","title":"Neura Robotics、シリーズCで$1.4B調達——Amazon・NVIDIA・Tether支援でヨーロッパ最大","company":"Neura Robotics","date":"2026-06-10","delivered":"2026-06-13"},
+    {"id":"deepseek-v4-official-release-mit-open-weights-2026-04-24","title":"DeepSeek V4 正式リリース——1.6T MoEオープンウェイト・$0.87/M出力で市場破壊","company":"DeepSeek","date":"2026-04-24","delivered":"2026-06-13"},
+    {"id":"china-humanoid-10000-deployment-goal-2026-06-10","title":"中国政府、2026年末までにヒューマノイドロボット10,000台商業展開目標発表","company":"中国政府 (MIIT)","date":"2026-06-10","delivered":"2026-06-13"},
+    {"id":"github-copilot-ai-credits-billing-2026-06-01","title":"GitHub Copilot、クレジットベース課金（AI Credits）に移行——June 1から","company":"GitHub / Microsoft","date":"2026-06-01","delivered":"2026-06-13"},
+    {"id":"xai-grok-43-release-1m-context-video-2026-04-30","title":"xAI「Grok 4.3」リリース——1Mコンテキスト・ネイティブ動画・設定可能な推論レベル","company":"xAI","date":"2026-04-30","delivered":"2026-06-13"}
   ]
 }
