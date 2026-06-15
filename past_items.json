@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "claude-fable5-us-export-ban-2026-06-12",
+      "title": "Claude Fable 5 リリース → 米政府が外国籍者全員のアクセスを禁止",
+      "company": "Anthropic",
+      "date": "2026-06-12",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "anthropic-ipo-filing-965b-2026-06-01",
+      "title": "Anthropic、評価額$965Bで秘密裏にIPO申請——OpenAIより先にレースをリード",
+      "company": "Anthropic",
+      "date": "2026-06-01",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "nvidia-rtx-spark-windows-ai-pc-2026-06-01",
+      "title": "NVIDIA「RTX Spark」発表——AI PC時代のスーパーチップでIntel・AMD株急落",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "microsoft-build-2026-windows-agent-os-2026-06-02",
+      "title": "Microsoft Build 2026——WindowsがAIエージェントOSに変身、Project Solara・7つのMAIモデル発表",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "google-antigravity-cli-gemini-cli-deprecated-2026-06-18",
+      "title": "Google Gemini CLI、6月18日廃止——「Antigravity CLI」へ全開発者が移行必須",
+      "company": "Google DeepMind",
+      "date": "2026-06-18",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "china-295b-ai-datacenter-plan-2026-06-09",
+      "title": "中国、$2,950億の国家AIデータセンター計画——Huawei製チップ80%でNVIDIAを排除",
+      "company": "中国政府",
+      "date": "2026-06-09",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "cursor-bugbot-90sec-auto-review-2026-06-10",
+      "title": "Cursor「Bugbot」レビュー時間90秒化——Auto-reviewで安全性とスピードを両立",
+      "company": "Cursor / Anysphere",
+      "date": "2026-06-10",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "xai-grok41-fast-enterprise-skills-2026-06-11",
+      "title": "xAI「Grok 4.1 Fast」エンタープライズAPI公開 + Skills機能ライブ",
+      "company": "xAI",
+      "date": "2026-06-11",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "google-gemini35-pro-2m-context-deepthink-2026-06",
+      "title": "Google「Gemini 3.5 Pro」6月GA予定——200万トークン + Deep Think推論モード",
+      "company": "Google DeepMind",
+      "date": "2026-06-15",
+      "delivered": "2026-06-15"
+    },
+    {
+      "id": "openai-gpt56-upcoming-2026-06",
+      "title": "OpenAI「GPT-5.6」近日リリース——高度推論・エージェント強化で次のフェーズへ",
+      "company": "OpenAI",
+      "date": "2026-06-15",
+      "delivered": "2026-06-15"
     }
   ]
 }
