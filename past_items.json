@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-fable5-mythos5-us-export-ban-2026-06-09",
+      "title": "Claude Fable 5 & Mythos 5——史上最強モデルが公開3日で米政府命令により全停止",
+      "company": "Anthropic",
+      "date": "2026-06-09",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "apple-wwdc2026-siri-gemini-ios27-extensions-2026-06-09",
+      "title": "Apple WWDC 2026——SiriをGoogle Gemini基盤で全面再構築、ClaudeとChatGPTも「Extensions」として搭載",
+      "company": "Apple / Google / Anthropic",
+      "date": "2026-06-09",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "nvidia-rtx-spark-superchip-computex2026-2026-06-01",
+      "title": "NVIDIA RTX Sparkスーパーチップ——ARM+Blackwell+CUDA全スタックをWindowsノートに初搭載",
+      "company": "NVIDIA / Microsoft",
+      "date": "2026-06-01",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "neura-robotics-1-4b-series-c-amazon-nvidia-2026-06-10",
+      "title": "Neura Roboticsシリーズ C 14億ドル調達——Amazon・NVIDIA・Tetherが欧州最大ヒューマノイドメーカーへ出資",
+      "company": "Neura Robotics / Amazon / NVIDIA",
+      "date": "2026-06-10",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "github-copilot-token-billing-june2026-2026-06-01",
+      "title": "GitHub Copilot、6月1日からトークン従量課金に移行——パワーユーザーのコストが最大100倍超",
+      "company": "GitHub / Microsoft",
+      "date": "2026-06-01",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "google-antigravity-2-gemini-cli-shutdown-2026-06-18",
+      "title": "Google Antigravity 2.0——Gemini CLI廃止・エージェントファーストのオールインワン開発プラットフォームへ統合",
+      "company": "Google",
+      "date": "2026-05-19",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "aws-kiro-agentic-ide-summit-ny-2026-06-16",
+      "title": "AWS Kiro——Amazon Q Developer後継のエージェントIDE、本日AWS Summit NYで本格発表",
+      "company": "Amazon Web Services",
+      "date": "2026-06-16",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "openai-gpt55-instant-default-chatgpt-2026-05-05",
+      "title": "OpenAI GPT-5.5 Instant——ハルシネーション52.5%削減・過去会話参照でデフォルトChatGPTが大幅進化",
+      "company": "OpenAI",
+      "date": "2026-05-05",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "openai-codex-background-computer-use-2026-04-16",
+      "title": "OpenAI Codex「バックグラウンドコンピュータユース」——AIが並列でMacを自律操作・ブラウザ内蔵",
+      "company": "OpenAI",
+      "date": "2026-04-16",
+      "delivered": "2026-06-16"
+    },
+    {
+      "id": "microsoft-build2026-mai-models-7models-2026-05",
+      "title": "Microsoft Build 2026——MAI-Thinking-1ほか7モデルを投入しOpenAI依存からの自立を加速",
+      "company": "Microsoft",
+      "date": "2026-05-01",
+      "delivered": "2026-06-16"
     }
   ]
 }
