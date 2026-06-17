@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-fable5-mythos5-export-control-2026-06-12",
+      "title": "Anthropic「Claude Fable 5 / Mythos 5」発表直後に米政府が輸出規制で強制停止",
+      "company": "Anthropic",
+      "date": "2026-06-12",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "apple-siri-gemini-wwdc2026-2026-06-08",
+      "title": "Apple、WWDC 2026でSiri AI刷新——裏側はGoogle Geminiが支える異色提携",
+      "company": "Apple / Google",
+      "date": "2026-06-08",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "spacex-cursor-acquisition-60b-2026-06-16",
+      "title": "SpaceXがAIコーディング企業Cursorを6兆円超で買収",
+      "company": "SpaceX / Cursor",
+      "date": "2026-06-16",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "nvidia-vera-rubin-platform-production-2026-06-01",
+      "title": "NVIDIA「Vera Rubin」プラットフォーム本格量産開始——7種の新チップ",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "microsoft-build2026-autopilot-scout-2026-06-03",
+      "title": "Microsoft、Build 2026で新エージェント概念「Autopilot」発表——常時稼働のScout",
+      "company": "Microsoft",
+      "date": "2026-06-03",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "cognition-devin-1b-raise-26b-valuation-2026-06-08",
+      "title": "Cognition（Devin）、$10億調達・評価額$260億——自社コードの89%をDevinが書く",
+      "company": "Cognition AI",
+      "date": "2026-06-08",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "mistral-vibe-funding-talks-20b-2026-06-12",
+      "title": "Mistral AI「Vibe」エージェント発表＋約3,000億円規模の追加調達協議",
+      "company": "Mistral AI",
+      "date": "2026-06-12",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "nvidia-rtx-spark-ai-pc-chip-2026-06-01",
+      "title": "NVIDIA「RTX Spark」発表——AI PC向け新チップ、MediaTekと共同開発",
+      "company": "NVIDIA / MediaTek",
+      "date": "2026-06-01",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "xai-grok-build-01-coding-agent-2026-06-02",
+      "title": "xAI、コーディング特化モデル「Grok Build 0.1」公開",
+      "company": "xAI",
+      "date": "2026-06-02",
+      "delivered": "2026-06-17"
+    },
+    {
+      "id": "robotics-humanoid-surge-neura-figure-china-2026-06-10",
+      "title": "ヒューマノイドロボット量産競争が加速——年間調達額5.8兆円超",
+      "company": "Figure AI / Neura Robotics / 中国政府",
+      "date": "2026-06-10",
+      "delivered": "2026-06-17"
     }
   ]
 }
