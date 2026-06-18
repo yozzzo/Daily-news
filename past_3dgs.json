@@ -364,6 +364,22 @@
     {"name": "CVPR 2026 Denver 3DGS論文コード公開", "type": "ニュース", "first_posted": "2026-06-15", "field": "カンファレンス・コード公開・FastGS", "url": "https://cvpr.thecvf.com/Conferences/2026"},
     {"name": "ComfyUI v0.23.0 TripoSplat (GAUSSIAN型)", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "AIワークフロー・1枚→GS生成", "url": "https://radiancefields.com/comfyui-adds-native-3d-gaussian-splat-generation-with-triposplat"},
     {"name": "Irrealix After Effects/Nuke プラグイン アップデート（June 2026）", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "VFXプラグイン・4DGS対応", "url": "https://radiancefields.com/irrealix-updates-after-effects-and-nuke-plugin-for-gaussian-splatting"},
-    {"name": "Splatworld オープンソース MIT公開", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "GS世界自律生成・MITライセンス", "url": "https://radiancefields.com/splatworld-explores-autonomous-generation-of-gaussian-splat-environments"}
+    {"name": "Splatworld オープンソース MIT公開", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "GS世界自律生成・MITライセンス", "url": "https://radiancefields.com/splatworld-explores-autonomous-generation-of-gaussian-splat-environments"},
+    {"name": "GS活用の人物ボリュメトリックビデオ統合フレームワーク（Springer）", "type": "論文", "first_posted": "2026-06-18", "field": "ボリュメトリックビデオ・統一フレームワーク", "url": "https://link.springer.com/article/10.1007/s44267-026-00111-7"},
+    {"name": "4C4D 公式コード公開", "type": "論文", "first_posted": "2026-06-18", "field": "4DGS・スパースビュー撮影", "url": "https://github.com/yangzf-1023/4C4D"},
+    {"name": "3DGS応用サーベイ v5（セグメンテーション・編集・生成）", "type": "論文", "first_posted": "2026-06-18", "field": "サーベイ・応用まとめ", "url": "https://arxiv.org/abs/2508.09977"},
+    {"name": "Gracia 4DGS Viewer Apple Vision Pro/Quest 3対応", "type": "ニュース", "first_posted": "2026-06-18", "field": "4DGS・VRストリーミング", "url": "https://apps.apple.com/us/app/gracia-4dgs-viewer/id6773024890"},
+    {"name": "SideFX Houdini 22 GSネイティブツール予告", "type": "ニュース", "first_posted": "2026-06-18", "field": "VFXパイプライン・Houdini", "url": "https://www.cgchannel.com/2026/06/sneak-peek-houdini-22/"},
+    {"name": "heise.de ボリュメトリック動画主流化報道", "type": "ニュース", "first_posted": "2026-06-18", "field": "メディア報道・欧州", "url": "https://www.heise.de/en/background/Volumetric-videos-overcome-a-major-hurdle-on-the-path-to-the-mainstream-11244208.html"},
+    {"name": "4Dviews HOLOSYS Splat Unityプラグイン（AWE USA 2026）", "type": "ニュース", "first_posted": "2026-06-18", "field": "ボリュメトリックビデオ・Unity", "url": "https://www.cgw.com/Press-Center/News/2026/4Dviews-unveils-Unity-plug-in-for-volumetric-Gau.aspx"},
+    {"name": "Insight Enterprises 数分デジタルツインサービス（AWE USA 2026）", "type": "ニュース", "first_posted": "2026-06-18", "field": "デジタルツイン・企業向け", "url": "https://www.awexr.com/blog/digital-twins-and-reality-capture-at-AWE-USA-2026"},
+    {"name": "OwnXR等 AI生成3D+マルチユーザーVR SDK（AWE USA 2026）", "type": "ニュース", "first_posted": "2026-06-18", "field": "生成AI・VR SDK", "url": "https://techedgeai.com/awe-2026-unveils-a-wave-of-ai-enhanced-xr-tools-from-multi-user-vr-sdks-to-generative-3d-content/"},
+    {"name": "Geo Week 2026 3DGS測量建設業界パネル", "type": "ニュース", "first_posted": "2026-06-18", "field": "測量・建設業界", "url": "https://www.geo-week.com/session/ai-gaussian-splatting-and-what-comes-next/"},
+    {"name": "アリババ Happy Oyster 対話型3D世界生成", "type": "ニュース", "first_posted": "2026-06-18", "field": "3D世界生成AI・中国", "url": "https://www.jiemian.com/article/14260554.html"},
+    {"name": "Note.com One More Vision Apple SHARP×4DGS実践記事", "type": "コミュニティ", "first_posted": "2026-06-18", "field": "日本語解説", "url": "https://note.com/onemorevision/n/na10d67125a3c"},
+    {"name": "Note.com IZUTSUYA SOGフォーマット解説", "type": "コミュニティ", "first_posted": "2026-06-18", "field": "日本語解説・圧縮フォーマット", "url": "https://note.com/izutsuya/n/n8d82ce17b5f5"},
+    {"name": "GaussianNexus UISTテレプレゼンスデモ再注目", "type": "コミュニティ", "first_posted": "2026-06-18", "field": "テレプレゼンス・AR/VR", "url": "https://dl.acm.org/doi/10.1145/3746059.3747693"},
+    {"name": "Zhihu CVPR2026世界モデル特集", "type": "コミュニティ", "first_posted": "2026-06-18", "field": "中国語まとめ・世界モデル", "url": "https://zhuanlan.zhihu.com/p/2019535725746467316"},
+    {"name": "GSOPs Houdiniコミュニティプラグイン", "type": "ツール", "first_posted": "2026-06-18", "field": "Houdini・GS編集", "url": "https://github.com/cgnomads/GSOPs"}
   ]
 }
