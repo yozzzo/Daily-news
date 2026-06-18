@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-fable5-mythos5-export-control-suspend-2026-06-12",
+      "title": "米政府の輸出規制でClaude Fable 5 / Mythos 5のアクセスを全面停止",
+      "company": "Anthropic",
+      "date": "2026-06-12",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "openai-confidential-s1-ipo-filing-2026-06-08",
+      "title": "SECに非公開でS-1提出、IPO準備が本格化——評価額最大1兆ドル",
+      "company": "OpenAI",
+      "date": "2026-06-08",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "nvidia-vera-rubin-mass-production-groq3-2026-06-01",
+      "title": "「Vera Rubin」プラットフォーム量産開始、Groq 3 LPUを統合",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "cognition-devin-1b-raise-26b-valuation-2026-05-27",
+      "title": "1000億円超を調達し評価額2.6兆円、ARRが1年で13倍に成長",
+      "company": "Cognition AI",
+      "date": "2026-05-27",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "apple-siri-ai-wwdc-2026-06-08",
+      "title": "WWDC 2026で「Siri AI」発表、Apple Intelligenceを刷新",
+      "company": "Apple",
+      "date": "2026-06-08",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "microsoft-scout-autopilots-copilot-ga-2026-06-02",
+      "title": "新カテゴリ「Autopilots」第1弾「Scout」発表、GitHub Copilot DesktopとCopilot Cowork GA",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "meta-capex-135b-superintelligence-labs-2026-04-29",
+      "title": "2026年AI投資を最大1350億ドルに拡大、Superintelligence Labsが本格稼働",
+      "company": "Meta",
+      "date": "2026-04-29",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "mistral-vibe-20b-valuation-funding-2026-06-12",
+      "title": "約3000億円規模の新規調達を検討、Le ChatをAIエージェント「Vibe」に統合再編",
+      "company": "Mistral AI",
+      "date": "2026-06-12",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "deepseek-v4-huawei-ascend-nvidia-dual-verify-2026-06-16",
+      "title": "「V4」でHuawei AscendとNVIDIA双方のハードウェア検証を初めて並列記載",
+      "company": "DeepSeek",
+      "date": "2026-06-16",
+      "delivered": "2026-06-18"
+    },
+    {
+      "id": "figure-ai-figure03-production-bmw-jal-2026-06-15",
+      "title": "ヒューマノイドの量産速度が24倍に向上、BMW独工場へ展開／JALも羽田で実証実験",
+      "company": "Figure AI / JAL",
+      "date": "2026-06-15",
+      "delivered": "2026-06-18"
     }
   ]
 }
