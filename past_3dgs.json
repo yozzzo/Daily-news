@@ -364,6 +364,19 @@
     {"name": "CVPR 2026 Denver 3DGS論文コード公開", "type": "ニュース", "first_posted": "2026-06-15", "field": "カンファレンス・コード公開・FastGS", "url": "https://cvpr.thecvf.com/Conferences/2026"},
     {"name": "ComfyUI v0.23.0 TripoSplat (GAUSSIAN型)", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "AIワークフロー・1枚→GS生成", "url": "https://radiancefields.com/comfyui-adds-native-3d-gaussian-splat-generation-with-triposplat"},
     {"name": "Irrealix After Effects/Nuke プラグイン アップデート（June 2026）", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "VFXプラグイン・4DGS対応", "url": "https://radiancefields.com/irrealix-updates-after-effects-and-nuke-plugin-for-gaussian-splatting"},
-    {"name": "Splatworld オープンソース MIT公開", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "GS世界自律生成・MITライセンス", "url": "https://radiancefields.com/splatworld-explores-autonomous-generation-of-gaussian-splat-environments"}
+    {"name": "Splatworld オープンソース MIT公開", "type": "コミュニティ", "first_posted": "2026-06-15", "field": "GS世界自律生成・MITライセンス", "url": "https://radiancefields.com/splatworld-explores-autonomous-generation-of-gaussian-splat-environments"},
+    {"name": "GASE", "type": "論文", "first_posted": "2026-06-19", "field": "Embodied AI・シミュレーション環境自動構築", "url": "https://arxiv.org/abs/2606.17520"},
+    {"name": "Hand-4DGS", "type": "論文", "first_posted": "2026-06-19", "field": "4DGS・手の再構成・エゴセントリック", "url": "https://arxiv.org/abs/2606.19156"},
+    {"name": "Intrinsic 4D Gaussian Segmentation from Scene Cues", "type": "論文", "first_posted": "2026-06-19", "field": "4DGS・セグメンテーション", "url": "https://arxiv.org/abs/2606.18623"},
+    {"name": "Dehaze-GaussianImage", "type": "論文", "first_posted": "2026-06-19", "field": "悪条件対応・霧除去・2DGS", "url": "https://arxiv.org/abs/2606.16163"},
+    {"name": "Unpaired RGB-Thermal Gaussian-Splatting", "type": "論文", "first_posted": "2026-06-19", "field": "サーマルカメラ融合・ロバスト3DGS", "url": "https://arxiv.org/abs/2606.05491"},
+    {"name": "ReefMapGS", "type": "論文", "first_posted": "2026-06-19", "field": "水中ロボット・SLAM・大規模3D地図", "url": "https://arxiv.org/abs/2604.11992"},
+    {"name": "映画『スーパーマン』4DGS本編VFX採用（Framestore）", "type": "ニュース", "first_posted": "2026-06-19", "field": "映画・VFX・ボリュメトリック演技キャプチャ", "url": "https://radiancefields.com/gaussian-splatting-in-superman"},
+    {"name": "アクティブリテック×福井コンピュータ 3DGS・XGRIDS Lixel K2活用体験会", "type": "ニュース", "first_posted": "2026-06-19", "field": "日本・測量・体験会", "url": "https://www.excite.co.jp/news/article/Prtimes_2026-06-18-93846-17/"},
+    {"name": "Apartments.com Matterport 3D Exteriors GS対応", "type": "ニュース", "first_posted": "2026-06-19", "field": "不動産・外観3Dツアー", "url": "https://radiancefields.com/apartments-com-unveils-matterport-3d-exterior"},
+    {"name": "4DViews Unity向け4DGSプラグイン（AWE USA 2026）", "type": "ニュース", "first_posted": "2026-06-19", "field": "ボリュメトリックキャプチャ・Unity連携", "url": "https://www.cgw.com/Press-Center/News/2026/4Dviews-unveils-Unity-plug-in-for-volumetric-Gau.aspx"},
+    {"name": "スタジオダックビル 3DGS Meetup vol.2 ブラウザ3DGS発表", "type": "コミュニティ", "first_posted": "2026-06-19", "field": "日本・コミュニティ・ブラウザ実装", "url": "https://cgworld.jp/flashnews/01-202606-3dgsmeetup.html"},
+    {"name": "awesome-gaussians GitHub日次自動更新トラッカー", "type": "コミュニティ", "first_posted": "2026-06-19", "field": "開発者ツール・論文ウォッチ", "url": "https://github.com/longxiang-ai/awesome-gaussians"},
+    {"name": "note.com Fujito氏 3DGS活用事例解説", "type": "コミュニティ", "first_posted": "2026-06-19", "field": "日本語解説・活用事例", "url": "https://note.com/fujito88/n/nb96a5285dc82"}
   ]
 }
