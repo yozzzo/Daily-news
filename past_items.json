@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "spacex-cursor-anysphere-60b-acquisition-2026-06-16",
+      "title": "SpaceX、Cursor運営元Anysphereを600億ドルで買収",
+      "company": "SpaceX / xAI",
+      "date": "2026-06-16",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "anthropic-claude-fable5-mythos5-release-2026-06-09",
+      "title": "Anthropic「Claude Fable 5 / Mythos 5」一般公開",
+      "company": "Anthropic",
+      "date": "2026-06-09",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "deepseek-74b-first-external-funding-2026-06-16",
+      "title": "DeepSeek、初の外部資金調達で74億ドル確保——国家統制型エクイティ構造",
+      "company": "DeepSeek",
+      "date": "2026-06-16",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "openai-ona-gitpod-acquisition-codex-2026-06-11",
+      "title": "OpenAI、クラウド実行スタートアップOna（旧Gitpod）を買収",
+      "company": "OpenAI",
+      "date": "2026-06-11",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "apple-siri-ai-wwdc2026-2026-06-08",
+      "title": "Apple、WWDC 2026で新世代「Siri AI」発表",
+      "company": "Apple",
+      "date": "2026-06-08",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "cognition-devin-1b-funding-26b-valuation-2026-05-27",
+      "title": "Cognition（Devin）、10億ドル超を調達——評価額260億ドルに",
+      "company": "Cognition AI",
+      "date": "2026-05-27",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "aws-trainium-external-sales-2026-06",
+      "title": "AWS、Trainium AIチップの外販を検討——NVIDIA独占への挑戦",
+      "company": "AWS / Amazon",
+      "date": "2026-06-16",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "mistral-vibe-agent-20b-eur-funding-2026-06-12",
+      "title": "Mistral AI、統合エージェント「Vibe」発表＋200億ユーロ資金調達協議",
+      "company": "Mistral AI",
+      "date": "2026-06-12",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "alibaba-qwen-robot-suite-2026-06",
+      "title": "Alibaba、身体性AIへ初参入「Qwen Robot Suite」発表",
+      "company": "Alibaba",
+      "date": "2026-06-16",
+      "delivered": "2026-06-21"
+    },
+    {
+      "id": "sakana-ai-marlin-commercial-launch-2026-06-15",
+      "title": "Sakana AI、日本発の自律ディープリサーチ商用製品「Marlin」提供開始",
+      "company": "Sakana AI",
+      "date": "2026-06-15",
+      "delivered": "2026-06-21"
     }
   ]
 }
