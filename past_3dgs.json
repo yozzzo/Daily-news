@@ -386,6 +386,22 @@
     {"name": "note.com 日本語3DGS解説記事拡散", "type": "コミュニティ", "field": "教育コンテンツ・日本語コミュニティ", "url": "https://note.com/onemorevision/n/nf73fe74fb41e", "date": "2026-06-20"},
     {"name": "NVIDIA Vulkan Gaussian Splatting 2026.1", "type": "ツール", "field": "開発ツール・レンダリングSDK", "url": "https://radiancefields.com/nvidia-releases-vulkan-gaussian-splatting-2026.1", "date": "2026-06-20"},
     {"name": "PlayCanvas Engine 2.19.0 (WebGPUレンダラー+Streamed SOG)", "type": "ツール", "field": "Web技術・配信最適化", "url": "https://blog.playcanvas.com/new-in-supersplat-webgpu-and-streaming-bring-huge-performance-wins/", "date": "2026-06-20"},
-    {"name": "Facepunch s&box向けGaussian Splatライブラリ", "type": "ツール", "field": "ゲーム開発・実験的機能", "url": "https://radiancefields.com/facepunch-ships-gaussian-splat-library-for-s-box", "date": "2026-06-20"}
+    {"name": "Facepunch s&box向けGaussian Splatライブラリ", "type": "ツール", "field": "ゲーム開発・実験的機能", "url": "https://radiancefields.com/facepunch-ships-gaussian-splat-library-for-s-box", "date": "2026-06-20"},
+    {"name": "Splaxel：数億個のGaussianを複数GPUで高速分散学習", "type": "論文", "field": "大規模シーン再構成・分散学習", "url": "https://arxiv.org/abs/2606.18588", "date": "2026-06-17"},
+    {"name": "ZipSplat：Gaussian数を最大33分の1に削減するフィードフォワード3DGS", "type": "論文", "field": "フィードフォワード3DGS", "url": "https://arxiv.org/abs/2606.05102", "date": "2026-06-05"},
+    {"name": "VisDom：スパースビューでのフローティングアーティファクト抑制手法", "type": "論文", "field": "スパースビュー新規視点合成", "url": "https://arxiv.org/abs/2606.20531", "date": "2026-06-18"},
+    {"name": "LIT-GS：サーマル+LiDARによるロボット用3D地図生成", "type": "論文", "field": "マッピング・マルチモーダルセンシング", "url": "https://arxiv.org/abs/2606.20424", "date": "2026-06-20"},
+    {"name": "ターゲット不要のLiDAR・カメラ位置合わせ手法（ECCV 2026）", "type": "論文", "field": "センサーキャリブレーション", "url": "https://arxiv.org/abs/2606.20103", "date": "2026-06-19"},
+    {"name": "MMD-SLAM：マンハッタン世界仮定によるSLAM精度向上", "type": "論文", "field": "SLAM", "url": "https://arxiv.org/abs/2606.19874", "date": "2026-06-19"},
+    {"name": "TriSplat：三角形ベースのシミュレーション対応3D生成", "type": "論文", "field": "フィードフォワード3D再構成・三角形プリミティブ", "url": "https://arxiv.org/abs/2605.26115", "date": "2026-05"},
+    {"name": "Houdini 22、Gaussian Splatのリギング・アニメーション機能搭載", "type": "業界ニュース", "field": "CGツール統合", "url": "https://www.cgchannel.com/2026/06/sneak-peek-houdini-22/", "date": "2026-06-22"},
+    {"name": "NVIDIA Isaac Sim 6.0正式リリース、NuRec（Gaussian Splatting）標準搭載", "type": "業界ニュース", "field": "ロボティクスシミュレーション", "url": "https://radiancefields.com/nvidia-s-isaac-sim-6.0-ships-with-nurec-gaussian-splatting", "date": "2026-06-04"},
+    {"name": "SketchUp、Gaussian Splat機能をLabs公式機能へ昇格", "type": "業界ニュース", "field": "建築・デザインツール統合", "url": "https://forums.sketchup.com/t/gaussian-splats-have-arrived-in-sketchup-labs/347799", "date": "2026-06"},
+    {"name": "Houdini向けプラグイン「GSOPs 2.8」リリース", "type": "業界ニュース", "field": "VFXツール", "url": "https://github.com/cgnomads/GSOPs", "date": "2026-06-19"},
+    {"name": "GeoLibre 0.5.0がGaussian Splattingを地図レイヤーとして正式対応", "type": "業界ニュース", "field": "GIS", "url": "https://radiancefields.com/geolibre-0.5.0-adds-a-gaussian-splatting-layer-to-its-open-source-desktop-gis", "date": "2026-06"},
+    {"name": "Niantic Spatial、Scaniverse年間プラン購入者にボーナスクレジット施策", "type": "業界ニュース", "field": "モバイル3Dキャプチャ", "url": "https://www.nianticspatial.com/en/blog/scaniverse-annual", "date": "2026-06"},
+    {"name": "ANNX Studio、Mac向け統合型Gaussian Splattingソフト", "type": "コミュニティ", "field": "VFXツール", "url": "https://radiancefields.com/annx-studio-gaussian-splatting-on-mac", "date": "2026-06"},
+    {"name": "Gaussian Splatting Decimator、形状保持型軽量化ツール", "type": "コミュニティ", "field": "ツール", "url": "https://radiancefields.com/gaussian-splatting-decimator", "date": "2026-06"},
+    {"name": "TriSplat/FTSplatの三角形ベース3D生成が研究コミュニティで話題", "type": "コミュニティ", "field": "フィードフォワード3D再構成", "url": "https://arxiv.org/abs/2605.26115", "date": "2026-06"}
   ]
 }
