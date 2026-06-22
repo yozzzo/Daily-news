@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-fable5-export-control-suspension-2026-06-12",
+      "title": "米政府の輸出規制命令でClaude Fable 5・Mythos 5を全面停止",
+      "company": "Anthropic",
+      "date": "2026-06-12",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "openai-confidential-ipo-filing-2026-06-08",
+      "title": "OpenAI、機密IPO申請を提出——評価額8520億ドル規模",
+      "company": "OpenAI",
+      "date": "2026-06-08",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "nvidia-vera-rubin-full-production-2026-06",
+      "title": "「Vera Rubin」プラットフォームが量産フル生産入り——7チップ構成",
+      "company": "NVIDIA",
+      "date": "2026-06",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "apple-siri-ai-google-gemini-wwdc26-2026-06-08",
+      "title": "新Siri AI発表——裏側はGoogleのGeminiが支える複数年契約",
+      "company": "Apple / Google",
+      "date": "2026-06-08",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "google-gemini-35-flash-2026-05-20",
+      "title": "Gemini 3.5 Flash発表——エージェント/コーディング性能向上＋値下げ",
+      "company": "Google",
+      "date": "2026-05-20",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "nvidia-rtx-spark-ai-pc-chip-2026-06-01",
+      "title": "AI PC向け「RTX Spark」チップ発表——MediaTekと共同開発",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "cognition-devin-desktop-rebrand-2026-06-02",
+      "title": "WindsurfをAIエージェントIDE「Devin Desktop」にリブランド——ACP対応",
+      "company": "Cognition AI",
+      "date": "2026-06-02",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "deepseek-7-4b-external-funding-agi-2026-06-03",
+      "title": "創業以来初の外部資金74億ドルを調達——評価額500億ドル超・AGI研究へシフト",
+      "company": "DeepSeek",
+      "date": "2026-06-03",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "mistral-20b-valuation-funding-vibe-2026-06-12",
+      "title": "評価額200億ユーロでの調達協議——統合AIエージェント「Vibe」も発表",
+      "company": "Mistral AI",
+      "date": "2026-06-12",
+      "delivered": "2026-06-22"
+    },
+    {
+      "id": "softbank-openai-patching-as-a-service-2026-06-16",
+      "title": "「Patching as a Service」開始——OpenAI技術で日本の重要インフラを防衛",
+      "company": "SoftBank / OpenAI",
+      "date": "2026-06-16",
+      "delivered": "2026-06-22"
     }
   ]
 }
