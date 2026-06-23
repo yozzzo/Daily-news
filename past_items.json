@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-claude-fable5-mythos5-2026-06-23",
+      "title": "Claude Fable 5 / Mythos 5を発表——史上最高性能モデル、政府向けMythos 5も同時投入",
+      "company": "Anthropic",
+      "date": "2026-06",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "spacex-xai-cursor-acquisition-2026-06-23",
+      "title": "SpaceX、AIコーディングのCursorを600億ドルで買収——xAI傘下に統合",
+      "company": "SpaceX / xAI / Cursor",
+      "date": "2026-06-16",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "nvidia-rtx-spark-vera-2026-06-23",
+      "title": "「RTX Spark」でAI PC市場に参入、データセンター向けVera CPUも量産開始",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "openai-gpt53-codex-2026-06-23",
+      "title": "GPT-5.3-Codexを発表——CodexとGPT-5を融合した汎用コーディングエージェント",
+      "company": "OpenAI",
+      "date": "2026-06",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "deepseek-external-funding-2026-06-23",
+      "title": "中国AI企業史上初の外部資金調達——74億ドルを調達、評価額500〜590億ドル",
+      "company": "DeepSeek",
+      "date": "2026-06-16",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "cognition-devin-funding-desktop-2026-06-23",
+      "title": "Devinが10億ドル調達・評価額260億ドルに——「Devin Desktop」も新発表",
+      "company": "Cognition AI",
+      "date": "2026-05-27",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "google-gemini-35-flash-2026-06-23",
+      "title": "Gemini 3.5 Flashを発表・料金改定——Contextual AIから20名超の研究者を獲得",
+      "company": "Google DeepMind",
+      "date": "2026-06",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "apple-siri-ai-wwdc26-2026-06-23",
+      "title": "WWDC26で「Siri AI」発表——パーソナルコンテキスト理解を備えた新アシスタント",
+      "company": "Apple",
+      "date": "2026-06-08",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "mistral-ocr4-funding-2026-06-23",
+      "title": "「Mistral OCR 4」公開、欧州AI基盤構築へ35億ドル規模の資金調達も検討",
+      "company": "Mistral AI",
+      "date": "2026-06-23",
+      "delivered": "2026-06-23"
+    },
+    {
+      "id": "tesla-optimus-gen3-production-2026-06-23",
+      "title": "Optimus Gen 3量産がFremontで開始——Model S/X生産終了し工場転換",
+      "company": "Tesla",
+      "date": "2026-06",
+      "delivered": "2026-06-23"
     }
   ]
 }
