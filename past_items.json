@@ -1210,6 +1210,86 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "spacex-cursor-anysphere-60b-acquisition-2026-06-16",
+      "date": "2026-06-16",
+      "title": "SpaceXがAIコーディング企業Cursorを600億ドルで買収",
+      "company": "SpaceX / Cursor (Anysphere)",
+      "country": "米国",
+      "url": "https://devops.com/spacex-to-acquire-ai-coding-leader-cursor-in-60-billion-blockbuster-deal/"
+    },
+    {
+      "id": "apple-siri-ai-google-gemini-wwdc2026-2026-06-08",
+      "date": "2026-06-08",
+      "title": "Apple「Siri AI」発表——裏側はGoogle Geminiが支える年間10億ドル契約",
+      "company": "Apple / Google",
+      "country": "米国",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+    },
+    {
+      "id": "nvidia-rtx-spark-agentic-windows-2026-06-01",
+      "date": "2026-06-01",
+      "title": "NVIDIA「RTX Spark」発表——WindowsをエージェントAI OSへ刷新",
+      "company": "NVIDIA / MediaTek / Microsoft",
+      "country": "米国/台湾",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark"
+    },
+    {
+      "id": "anthropic-fable5-mythos5-export-control-2026-06-12",
+      "date": "2026-06-12",
+      "title": "米政府の輸出規制でAnthropicがFable5/Mythos5への外国籍アクセスを強制停止",
+      "company": "Anthropic",
+      "country": "米国",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/"
+    },
+    {
+      "id": "figure-ai-botq-24x-production-scale-2026-06",
+      "date": "2026-06-15",
+      "title": "Figure AI、BotQ工場で生産を24倍に加速——1時間に1台のヒューマノイド量産",
+      "company": "Figure AI",
+      "country": "米国",
+      "url": "https://www.figure.ai/news/botq"
+    },
+    {
+      "id": "deepseek-first-external-funding-7-4b-2026-06-03",
+      "date": "2026-06-03",
+      "title": "DeepSeek、初の外部資金調達で74億ドル——Tencent・CATLが主導",
+      "company": "DeepSeek",
+      "country": "中国",
+      "url": "https://www.cnbc.com/2026/06/03/deepseek-slated-to-draw-7-billion-in-maiden-fundraising-sources-say.html"
+    },
+    {
+      "id": "cognition-devin-1b-raise-26b-valuation-2026-05-27",
+      "date": "2026-05-27",
+      "title": "Cognition（Devin）、10億ドル調達で評価額260億ドルに——自社コードの89%をDevinが生成",
+      "company": "Cognition AI",
+      "country": "米国",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/"
+    },
+    {
+      "id": "huawei-ascend-950dt-nvidia-china-share-zero-2026-06",
+      "date": "2026-06-10",
+      "title": "Huawei「Ascend 950DT」発表——NVIDIAの中国シェアが事実上ゼロに",
+      "company": "Huawei",
+      "country": "中国",
+      "url": "https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero"
+    },
+    {
+      "id": "mistral-ai-3b-euro-funding-talks-20b-valuation-2026-06-12",
+      "date": "2026-06-12",
+      "title": "Mistral AI、30億ユーロ規模の資金調達交渉——欧州AIチャンピオンの本気度",
+      "company": "Mistral AI",
+      "country": "フランス/欧州",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation"
+    },
+    {
+      "id": "noam-shazeer-google-to-openai-move-2026-06-18",
+      "date": "2026-06-18",
+      "title": "Transformer生みの親Noam Shazeer氏、GoogleからOpenAIへ移籍",
+      "company": "Google DeepMind / OpenAI",
+      "country": "米国",
+      "url": "https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html"
     }
   ]
 }
