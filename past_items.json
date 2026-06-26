@@ -1210,6 +1210,86 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "spacex-cursor-anysphere-60b-xai-2026-06-26",
+      "date": "2026-06-16",
+      "title": "SpaceXがAIコーディングツールCursorを600億ドルで買収——xAI傘下に",
+      "company": "Cursor (Anysphere) / SpaceX / xAI",
+      "country": "米国",
+      "url": "https://techfundingnews.com/spacex-buys-anysphere-cursor-60b-all-stock-xai-enterprise-ai/"
+    },
+    {
+      "id": "anthropic-fable5-mythos5-export-control-2026-06-26",
+      "date": "2026-06-12",
+      "title": "米政府の輸出規制命令、Claude Fable5/Mythos5へのアクセスを停止",
+      "company": "Anthropic",
+      "country": "米国",
+      "url": "https://www.anthropic.com/news/fable-mythos-access"
+    },
+    {
+      "id": "anthropic-alibaba-qwen-distillation-accusation-2026-06-26",
+      "date": "2026-06-24",
+      "title": "AnthropicがAlibaba(Qwen)によるClaude不正アクセス・蒸留を非難",
+      "company": "Anthropic / Alibaba・Qwen",
+      "country": "米国・中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models"
+    },
+    {
+      "id": "openai-broadcom-jalapeno-chip-2026-06-26",
+      "date": "2026-06-24",
+      "title": "OpenAI×Broadcom、自社推論専用チップ「Jalapeño」を発表",
+      "company": "OpenAI / Broadcom",
+      "country": "米国",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
+    },
+    {
+      "id": "openai-confidential-s1-ipo-filing-2026-06-26",
+      "date": "2026-06-08",
+      "title": "OpenAI、SECに非公開でIPO申請——評価額最大1兆ドル視野",
+      "company": "OpenAI",
+      "country": "米国",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/"
+    },
+    {
+      "id": "deepseek-7-4b-funding-v4pro-pricecut-2026-06-26",
+      "date": "2026-06-25",
+      "title": "DeepSeek、74億ドルの大型資金調達——V4 Proの永久75%値下げで急成長",
+      "company": "DeepSeek",
+      "country": "中国",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76"
+    },
+    {
+      "id": "bytedance-doubao-seed-21-pro-paid-2026-06-26",
+      "date": "2026-06-23",
+      "title": "ByteDance「Doubao-Seed-2.1 Pro」発表——中国初の有料サブスクモデルも開始",
+      "company": "ByteDance",
+      "country": "中国",
+      "url": "https://dataconomy.com/2026/06/24/bytedance-launches-doubao-2-1-pro-language-model/"
+    },
+    {
+      "id": "mistral-ocr4-35b-funding-2026-06-26",
+      "date": "2026-06-23",
+      "title": "Mistral AI「OCR 4」リリース＋35億ドル追加調達交渉——欧州主権AIを強化",
+      "company": "Mistral AI",
+      "country": "フランス",
+      "url": "https://mistral.ai/news/ocr-4/"
+    },
+    {
+      "id": "nvidia-nemotron-3-ultra-2026-06-26",
+      "date": "2026-06-20",
+      "title": "NVIDIA「Nemotron 3 Ultra」発表——米国製オープンウェイトの最高性能モデル",
+      "company": "NVIDIA",
+      "country": "米国",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models"
+    },
+    {
+      "id": "huawei-ascend-950dt-annual-double-2026-06-26",
+      "date": "2026-06-05",
+      "title": "Huawei「Ascend 950DT」発表——AIチップ性能を毎年倍増する公約",
+      "company": "Huawei",
+      "country": "中国",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-could-seize-chinas-ai-chip-crown-in-2026-as-nvidias-h200-shipments-stall-in-regulatory-limbo-beijing-pushes-homegrown-ai-hardware-dominance-in-a-market-projected-to-hit-usd67-billion-by-2030"
     }
   ]
 }
