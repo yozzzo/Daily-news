@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "anthropic-fable5-export-suspension-2026-06-12",
+      "title": "Claude Fable 5を米政府の輸出管理指令で緊急停止——リリース1週間で公開停止",
+      "company": "Anthropic",
+      "date": "2026-06-12",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "spacex-cursor-anysphere-acquisition-2026-06-16",
+      "title": "SpaceXがCursor運営元Anysphereを6兆円規模で買収——史上最大のスタートアップM&A",
+      "company": "SpaceX / Anysphere (Cursor)",
+      "date": "2026-06-16",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "openai-broadcom-jalapeno-chip-gpt56-2026-06-24",
+      "title": "自社製推論チップ「Jalapeño」発表——GPT-5.6は米政府要請で限定パートナー公開",
+      "company": "OpenAI / Broadcom",
+      "date": "2026-06-24",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "cognition-devin-funding-arr-2026-05-27",
+      "title": "Devin運営元Cognitionが1,000億円超を調達——ARRは1年で12倍の約740億円に",
+      "company": "Cognition",
+      "date": "2026-05-27",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "apple-wwdc26-siri-gemini-2026-06-08",
+      "title": "WWDC26でSiri全面刷新——裏側はGoogle Geminiを採用",
+      "company": "Apple",
+      "date": "2026-06-08",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "google-gemini3-deepthink-cli-antigravity-2026-06-18",
+      "title": "Gemini 3 Deep Think公開、Gemini CLIは6/18で終了しAntigravity CLIへ移行",
+      "company": "Google",
+      "date": "2026-06-18",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "nvidia-rtx-spark-mediatek-computex-2026-06-01",
+      "title": "AI PC向け新チップ「RTX Spark」をMediaTekと共同発表（Computex 2026）",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "microsoft-scout-autopilot-claude-copilot-2026-06-02",
+      "title": "Build 2026で常時稼働エージェント「Microsoft Scout」発表、Copilot ChatにClaudeも追加",
+      "company": "Microsoft",
+      "date": "2026-06-02",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "neura-robotics-figureai-humanoid-funding-2026-06-10",
+      "title": "ヒューマノイドロボット投資が加速——NeuraがNVIDIA・Amazon等から最大2,100億円調達",
+      "company": "Neura Robotics / Figure AI",
+      "date": "2026-06-10",
+      "delivered": "2026-06-26"
+    },
+    {
+      "id": "mistral-ocr4-funding-2026-06-23",
+      "title": "文書AI「OCR 4」発表、評価額3兆円規模の追加調達も交渉中",
+      "company": "Mistral AI",
+      "date": "2026-06-23",
+      "delivered": "2026-06-26"
     }
   ]
 }
