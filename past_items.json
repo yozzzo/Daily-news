@@ -1210,6 +1210,76 @@
       "company": "LG AI Research",
       "date": "2026-04-09",
       "delivered": "2026-04-09"
+    },
+    {
+      "id": "spacex-cursor-acquisition-2026-06-16",
+      "title": "SpaceXがAIコーディング企業Cursorを600億ドルで買収",
+      "company": "Anysphere(Cursor) / SpaceX / xAI",
+      "date": "2026-06-16",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "openai-gpt-5-6-sol-terra-luna-gov-restriction-2026-06-25",
+      "title": "GPT-5.6「Sol/Terra/Luna」、米政府が事前に提供範囲を制限",
+      "company": "OpenAI",
+      "date": "2026-06-25",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "anthropic-claude-fable-5-mythos-5-2026-06-09",
+      "title": "Claude Fable 5公開＋Claude Mythos 5を政府連携限定提供",
+      "company": "Anthropic",
+      "date": "2026-06-09",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "google-io-2026-gemini-3-5-omni-antigravity-2026-05-19",
+      "title": "Google I/O 2026：Gemini 3.5・Gemini Omni・Antigravity 2.0発表",
+      "company": "Google",
+      "date": "2026-05-19",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "aws-trainium-external-sales-2026-06-18",
+      "title": "AWS、自社AIチップTrainiumの外販検討——NVIDIAに挑戦",
+      "company": "Amazon / AWS",
+      "date": "2026-06-18",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "nvidia-vera-rubin-full-production-2026-06-01",
+      "title": "Vera Rubinプラットフォームが量産移行完了",
+      "company": "NVIDIA",
+      "date": "2026-06-01",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "cognition-devin-1b-raise-2026-05-27",
+      "title": "自律コーディングAI「Devin」のCognition、10億ドル超を調達——評価額250〜260億ドル",
+      "company": "Cognition AI",
+      "date": "2026-05-27",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "deepseek-v4-pro-permanent-price-cut-2026-05-31",
+      "title": "DeepSeek V4 Pro、75%値下げを恒久化——コスト破壊戦略を継続",
+      "company": "DeepSeek",
+      "date": "2026-05-31",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "mistral-ai-3b-euro-funding-2026-06-12",
+      "title": "Mistral AI、約30億ユーロ・評価額200億ユーロでの調達交渉",
+      "company": "Mistral AI",
+      "date": "2026-06-12",
+      "delivered": "2026-06-28"
+    },
+    {
+      "id": "figure-ai-robots-outnumber-humans-bmw-2026-06-20",
+      "title": "人型ロボットの台数が従業員数を超過、BMW工場導入も完了",
+      "company": "Figure AI",
+      "date": "2026-06-20",
+      "delivered": "2026-06-28"
     }
   ]
 }
